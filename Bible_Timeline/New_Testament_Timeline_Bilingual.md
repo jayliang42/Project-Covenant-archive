@@ -5,7 +5,7 @@
 <a id="in-three-sentences"></a>
 > **In Three Sentences | 三句话读懂本篇**
 >
-> The New Testament centers on Jesus and the early communities that follow him. The Gospels, Acts, letters, and Revelation serve different purposes. Use the timeline and maps to locate a passage, then read it in context.
+> The New Testament centers on Jesus and the early communities that follow him. The Gospels, Acts, letters, and Revelation serve different purposes. Use the timeline and maps to locate a passage, then read it in context.<br>
 > 新约以耶稣和早期跟随祂的群体为中心。福音书、使徒行传、书信和启示录各有不同用途。先用时间线和地图定位，再回到上下文阅读。
 
 新约时间线双语版。

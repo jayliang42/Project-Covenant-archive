@@ -2,6 +2,12 @@
 
 > Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
 
+<a id="in-three-sentences"></a>
+> **In Three Sentences | 三句话读懂本篇**
+>
+> Giving, prayer, and fasting reveal what kind of approval people seek. Matthew 6 directs these practices toward the Father. These notes connect that freedom with the welcome Christ gives.<br>
+> 施舍、祷告和禁食会显明人想得到怎样的认可。马太福音六章把这些操练引向天父。本篇把这样的自由与基督所赐的接纳相连。
+
 ## Basic Info | 基本信息
 
 - Date: 2026-05-10 (Sunday)

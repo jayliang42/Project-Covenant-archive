@@ -2,6 +2,12 @@
 
 > Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
 
+<a id="in-three-sentences"></a>
+> **In Three Sentences | 三句话读懂本篇**
+>
+> The Lord’s Prayer offers a pattern for relationship with the Father. Praise, repentance, daily dependence, and trust in trial belong together. These notes connect that approach with reconciliation through Jesus.<br>
+> 主祷文提供与天父相交的模式。赞美、悔改、每日倚靠和试炼中的信靠彼此相连。本篇把这种祷告建立在耶稣所带来的和好中。
+
 ## Basic Info | 基本信息
 
 - Date: 2026-05-17 (Sunday)

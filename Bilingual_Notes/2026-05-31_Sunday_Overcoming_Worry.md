@@ -2,6 +2,12 @@
 
 > Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
 
+<a id="in-three-sentences"></a>
+> **In Three Sentences | 三句话读懂本篇**
+>
+> Matthew 6 directs worried disciples toward the Father’s care. Seeking his kingdom gives daily needs a different setting. Trust is learned amid real suffering and uncertainty.<br>
+> 马太福音六章把担忧的门徒引向天父的看顾。先求祂的国，为日常需要提供新的位置。人可以在真实的受苦与未知中学习信靠。
+
 ## Basic Info | 基本信息
 
 - Date: 2026-05-31 (Sunday)

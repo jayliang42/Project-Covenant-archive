@@ -2,6 +2,12 @@
 
 > Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
 
+<a id="in-three-sentences"></a>
+> **In Three Sentences | 三句话读懂本篇**
+>
+> God’s glory is the disclosure of his goodness. These notes focus on the incarnate, crucified, and risen Christ. Glorifying God means recognizing and declaring the goodness already his.<br>
+> 神的荣耀是祂美善的显明。本篇把焦点放在道成肉身、被钉又复活的基督。荣耀神意味着承认并宣告祂已有的美善。
+
 ## Basic Info | 基本信息
 
 - Date: 2026-02-25 (Wednesday)

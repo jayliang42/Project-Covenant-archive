@@ -769,6 +769,12 @@
 
 ### T2.4 Micah Numbering and Fragment Limits | 弥迦编号与残片限制
 
-- 做了什么：对照[希伯来版本](https://mechon-mamre.org/p/pt/pt1805.htm)、[KJV](https://www.biblegateway.com/passage/?search=Micah%205%3A1-3&version=KJV)、[所引2024转录](https://lexicon.qumran-digital.org/transcriptions/4Q81/2024-07-30/index.html)及2025转录版本，修正A12编号。阅读[JHS论文](https://jhsonline.org/index.php/jhs/article/download/5642/4695/12674)第3页后，明确第5号残片有少量实存文字、大量编辑复原及卷属争议，修正该链接作者，保留待核实。相关六份导读及历史日志增设限制说明入口，不把局部残片说成两节完整经文。
+- 做了什么：对照[希伯来版本](https://mechon-mamre.org/p/pt/pt1805.htm)、[KJV](https://www.biblegateway.com/passage/?search=Micah%205%3A1-3&version=KJV)、[所引2024转录](https://lexicon.qumran-digital.org/transcriptions/4Q81/2024-07-30/index.html)及2025转录版本，修正A12编号。阅读[JHS论文](https://jhsonline.org/index.php/jhs/article/download/5642/4695/12674)第3页后，明确第5号残片有少量实存文字、大量编辑复原及卷属争议，修正该链接作者，保留待核实。五份相关导读及历史日志增设限制说明入口，不把局部残片说成两节完整经文。
 - 计数：本项a类0组、b类0个英文单元；公开缺口0→0。累计纯a类1,085组、b类12,199个英文单元。
 - 检查：124项完整测试通过；未改动经文引语或擅自裁决残片争议。
+
+### T3.1 Summaries and Reading Times for Every Core Study | 全部核心页概述与阅读时间
+
+- 做了什么：为54个缺少概述的核心页新增双语三句话小框，统一12个既有小框的中英换行；66个核心页在静态站均显示按一种语言估算的阅读时间，短篇也有1–2分钟提示，指定经文阅读与思考另计。新增内容均为Draft。
+- 计数：本项a类0组、b类0个英文单元；公开缺口0→0。累计纯a类1,085组、b类12,199个英文单元。
+- 检查：125项完整测试通过；新增短篇研读／短导航区别的回归，并在真实全站构建测试中核对66个核心页均有小框及阅读时间。准备时发现52周页有多个一级分部标题，已改按首个总标题定位，未改动原文或经文。

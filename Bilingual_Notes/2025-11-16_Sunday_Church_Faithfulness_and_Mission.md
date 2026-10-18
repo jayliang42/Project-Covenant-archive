@@ -2,6 +2,12 @@
 
 > Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
 
+<a id="in-three-sentences"></a>
+> **In Three Sentences | 三句话读懂本篇**
+>
+> This page summarizes a service marking a congregation’s transition. It presents the church as people sharing witness and service. Buildings and programs serve the work of introducing Jesus and caring for people.<br>
+> 本篇整理一场教会历史节点聚会的重点。教会是共同见证与服事的人。建筑和项目用于帮助人认识耶稣并得到关怀。
+
 ## Basic Info | 基本信息
 
 - Date: 2025-11-16 (Sunday)

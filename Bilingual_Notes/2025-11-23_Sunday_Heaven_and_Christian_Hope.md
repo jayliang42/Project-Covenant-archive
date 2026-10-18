@@ -2,6 +2,12 @@
 
 > Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
 
+<a id="in-three-sentences"></a>
+> **In Three Sentences | 三句话读懂本篇**
+>
+> Christian hope centers on life with the risen Christ in renewed creation. Revelation pictures a people from many nations worshiping together. This hope shapes present faithfulness and care.<br>
+> 基督徒的盼望以复活的基督和更新的创造为中心。启示录描绘多族群一同敬拜的群体。这盼望会影响今天的忠心与关怀。
+
 ## Basic Info | 基本信息
 
 - Date: 2025-11-23 (Sunday)

@@ -2,6 +2,12 @@
 
 > Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
 
+<a id="in-three-sentences"></a>
+> **In Three Sentences | 三句话读懂本篇**
+>
+> Christian labels can describe a church body, a wider tradition, a movement, or an approach to theology. These levels should not be treated as interchangeable. Check a group’s own descriptions before drawing conclusions about its members.<br>
+> 基督教标签可能指教会组织、大传统、运动或神学取向。这些层次不能互相替代。判断成员之前，请先核对群体如何描述自己。
+
 > A vocabulary map for distinguishing church bodies, cross-denominational movements, theological approaches, and political labels.
 > 这是一张术语地图，用来区分教会组织、跨宗派运动、神学取向与政治标签。
 

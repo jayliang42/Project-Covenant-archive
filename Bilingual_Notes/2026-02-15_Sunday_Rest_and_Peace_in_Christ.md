@@ -2,6 +2,12 @@
 
 > Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
 
+<a id="in-three-sentences"></a>
+> **In Three Sentences | 三句话读懂本篇**
+>
+> Jesus invites weary people to share his yoke. Rest grows through trust in the Father and Christ’s gentle presence. This learning happens within ordinary responsibilities.<br>
+> 耶稣邀请疲惫的人与祂同负一轭。安息在信靠父并领受基督温柔的同在中展开。人可以在日常责任中学习这份安息。
+
 ## Basic Info | 基本信息
 
 - Date: 2026-02-15 (Sunday)

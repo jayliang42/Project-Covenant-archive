@@ -2,6 +2,12 @@
 
 > Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
 
+<a id="in-three-sentences"></a>
+> **In Three Sentences | 三句话读懂本篇**
+>
+> Hunger for righteousness, mercy, and purity belong to a heart being renewed. These notes begin with acceptance through Christ. They then follow how grace becomes action toward God and neighbor.<br>
+> 饥渴慕义、怜悯与清心，属于一颗正在被更新的心。本篇从人在基督里蒙接纳开始。随后看恩典怎样成为对神和邻舍的行动。
+
 ## Basic Info | 基本信息
 
 - Date: 2026-03-15 (Sunday)

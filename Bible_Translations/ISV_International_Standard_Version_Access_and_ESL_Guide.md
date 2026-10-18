@@ -5,7 +5,7 @@
 <a id="in-three-sentences"></a>
 > **In Three Sentences | 三句话读懂本篇**
 >
-> This page helps you reach an authorized ISV edition. It suggests a manageable way to read biblical English as a second language. The complete translation is not stored or redistributed here.
+> This page helps you reach an authorized ISV edition. It suggests a manageable way to read biblical English as a second language. The complete translation is not stored or redistributed here.<br>
 > 本页帮助你找到获授权的 ISV 版本。它也提供把英语作为第二语言读经的小步骤。本库不存放或分发整部译本。
 
 > **Library status | 图书馆状态：** Access guide only; the full ISV text is not stored in this public repository.

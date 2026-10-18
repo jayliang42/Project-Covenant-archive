@@ -2,6 +2,12 @@
 
 > Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
 
+<a id="in-three-sentences"></a>
+> **In Three Sentences | 三句话读懂本篇**
+>
+> Matthew 5–7 describes life under Jesus’ reign. His words address the heart and the foundations of daily life. Reading leads toward hearing and doing.<br>
+> 马太福音五至七章描述在耶稣掌权下的生活。祂的话触及人的内心和生活根基。阅读要落实为听见并遵行。
+
 ## Basic Info | 基本信息
 
 - Date: 2026-02-22 (Sunday)

@@ -2,6 +2,12 @@
 
 > Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
 
+<a id="in-three-sentences"></a>
+> **In Three Sentences | 三句话读懂本篇**
+>
+> Matthew 5 blesses people who recognize need, mourn brokenness, and yield their strength to God. The kingdom, comfort, and inheritance are received as gifts. These notes connect those promises with life in Christ.<br>
+> 马太福音五章称那些承认需要、为破碎哀伤、把力量交给神的人有福。天国、安慰和产业都是领受的礼物。本篇把这些应许与在基督里的生活相连。
+
 ## Basic Info | 基本信息
 
 - Date: 2026-03-08 (Sunday)

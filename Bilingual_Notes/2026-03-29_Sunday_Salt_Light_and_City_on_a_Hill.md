@@ -2,6 +2,12 @@
 
 > Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
 
+<a id="in-three-sentences"></a>
+> **In Three Sentences | 三句话读懂本篇**
+>
+> Jesus calls his people salt and light in Matthew 5. Their identity and mission come from him. Good works make the Father’s goodness visible.<br>
+> 耶稣在马太福音五章称祂的子民为盐和光。他们的身份与使命从祂而来。善行使父的美善被人看见。
+
 ## Basic Info | 基本信息
 
 - Date: 2026-03-29 (Sunday)

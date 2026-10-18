@@ -5,7 +5,7 @@
 <a id="in-three-sentences"></a>
 > **In Three Sentences | 三句话读懂本篇**
 >
-> This guide connects the Bible’s main story stages. It separates the story’s order from uncertain historical dates. Use it as a map before reading a whole book.
+> This guide connects the Bible’s main story stages. It separates the story’s order from uncertain historical dates. Use it as a map before reading a whole book.<br>
 > 本篇连接圣经故事的主要阶段。故事顺序与仍有争议的历史定年要分开看。读整卷书前，可以先用它找方向。
 
 ## Purpose | 目的

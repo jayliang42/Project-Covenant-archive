@@ -2,6 +2,12 @@
 
 > Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
 
+<a id="in-three-sentences"></a>
+> **In Three Sentences | 三句话读懂本篇**
+>
+> God’s love is complete before creation. Creation freely flows from the love of Father, Son, and Spirit. These notes present created life as a gift to receive and reflect.<br>
+> 神的爱在创造以前已经完全。创造自由地流出父、子、圣灵的爱。本篇把受造生命理解为可以领受并回应的礼物。
+
 ## Basic Info | 基本信息
 
 - Date: 2026-01-28 (Wednesday)

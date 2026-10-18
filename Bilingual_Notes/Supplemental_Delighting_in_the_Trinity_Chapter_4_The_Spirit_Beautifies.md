@@ -5,7 +5,7 @@
 <a id="in-three-sentences"></a>
 > **In Three Sentences | 三句话读懂本篇**
 >
-> This study asks how the Holy Spirit shapes everyday Christian life. Read its Bible passages before the explanations. It supplements the stored notes and does not reconstruct a missing class.
+> This study asks how the Holy Spirit shapes everyday Christian life. Read its Bible passages before the explanations. It supplements the stored notes and does not reconstruct a missing class.<br>
 > 本篇探讨圣灵怎样塑造基督徒的日常生命。请先读所列经文，再读解释。它补充已有笔记，不重建未留存的课程。
 
 > **Type | 类型：** Supplemental discipleship study {补充门徒训练材料}

@@ -195,17 +195,30 @@ def _home_intro(output: str, page_map: dict[str, str]) -> str:
             + start + '</div><nav class="collection-grid" aria-label="Choose a collection | 选择栏目">' + "\n".join(cards) + '</nav>')
 
 
-def reading_time(body: str) -> str:
+def is_core_study(source: str) -> bool:
+    """Identify study pages, keeping navigation and maintenance pages separate."""
+    path = PurePosixPath(source)
+    return path.parent.as_posix() in {
+        "Bible_Timeline", "Bible_Translations", "Bilingual_Notes",
+        "Book_Studies", "Christian_Traditions",
+    } and path.name not in {
+        "README.md", "INDEX_Chronological.md", "研究维护日志.md",
+        "00_研究总索引与路线图.md",
+    }
+
+
+def reading_time(body: str, *, include_short: bool = False) -> str:
     """A declared reading aid, estimating one language rather than adding both."""
     text = html.unescape(re.sub(r"<[^>]*>", " ", body))
     english_words = len(re.findall(r"[A-Za-z]+(?:['’][A-Za-z]+)*", text))
     chinese_characters = len(re.findall(r"[\u3400-\u9fff]", text))
     minutes = max(english_words / 200, chinese_characters / 350)
-    if minutes < 3:
+    if minutes < 3 and not include_short:
         return ""
-    low, high = math.ceil(minutes), math.ceil(minutes * 1.35)
-    return (f"Reading: about {low}–{high} min in one language; excludes Bible passages and reflection. "
-            f"| 阅读约 {low}–{high} 分钟（按一种语言，不含经文与思考）。")
+    low = max(1, math.ceil(minutes))
+    high = max(low + 1, math.ceil(minutes * 1.35))
+    return (f"Reading: about {low}–{high} min in one language; excludes assigned Bible reading and reflection. "
+            f"| 阅读约 {low}–{high} 分钟（按一种语言，指定经文阅读与思考另计）。")
 
 
 def render_page(source: str, output: str, title: str, body: str,
@@ -221,7 +234,7 @@ def render_page(source: str, output: str, title: str, body: str,
     position = f'{ordered.index(source) + 1:02d} / {len(ordered):02d}' if source in ordered else ""
     collection_label = next((label for folder, label, _ in COLLECTIONS if PurePosixPath(source).parent.as_posix() == folder), "Reading library | 阅读资料库")
     metadata = f'<div class="reading-meta"><span class="reading-collection">{html.escape(collection_label)}</span><span class="reading-position">{position}</span></div>'
-    estimate = reading_time(body)
+    estimate = reading_time(body, include_short=is_core_study(source))
     if estimate:
         metadata += '<p class="reading-time">' + html.escape(estimate) + '</p>'
     intro = _home_intro(output, page_map) if source == "README.md" else ""

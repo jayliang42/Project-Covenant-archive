@@ -2,6 +2,12 @@
 
 > Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
 
+<a id="in-three-sentences"></a>
+> **In Three Sentences | 三句话读懂本篇**
+>
+> Romans 12 connects God’s mercy with offering our whole lives to him. Worship takes shape in daily choices and renewed thinking. These sermon notes should be read alongside the passage.<br>
+> 罗马书十二章把神的怜悯与献上整个人生连在一起。敬拜会影响日常选择和心思的更新。这是讲道整理笔记，请对照经文阅读。
+
 ## Basic Info | 基本信息
 
 - Title: Worship and Sacrifice Sermon

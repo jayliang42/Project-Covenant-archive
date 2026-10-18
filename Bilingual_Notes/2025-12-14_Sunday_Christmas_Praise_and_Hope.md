@@ -2,6 +2,12 @@
 
 > Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
 
+<a id="in-three-sentences"></a>
+> **In Three Sentences | 三句话读懂本篇**
+>
+> Christmas praise responds to God’s gift of his Son. Singing helps a community remember incarnation, peace, and joy together. Christ’s presence also speaks into loneliness and grief.<br>
+> 圣诞的赞美回应神赐下爱子的礼物。唱诗帮助群体一同记念道成肉身、平安与喜乐。基督的同在也面对人的孤单与哀伤。
+
 ## Basic Info | 基本信息
 
 - Date: 2025-12-14 (Sunday)

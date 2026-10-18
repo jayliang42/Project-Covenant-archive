@@ -5,7 +5,7 @@
 <a id="in-three-sentences"></a>
 > **In Three Sentences | 三句话读懂本篇**
 >
-> This guide links the stored notes about the Father, Son, and Holy Spirit. It offers a route for reading Delighting in the Trinity alongside Scripture. The suggested session-to-chapter matches still need checking against an authorized teaching source.
+> This guide links the stored notes about the Father, Son, and Holy Spirit. It offers a route for reading Delighting in the Trinity alongside Scripture. The suggested session-to-chapter matches still need checking against an authorized teaching source.<br>
 > 本篇串联有关父、子、圣灵的已有笔记。它提供一条配合经文阅读《喜乐于三一神》的路线。聚会与章节的对应仍须对照获准使用的教学来源核实。
 
 > **Training window | 训练时段：** 2026-01-21 to 2026-02-25

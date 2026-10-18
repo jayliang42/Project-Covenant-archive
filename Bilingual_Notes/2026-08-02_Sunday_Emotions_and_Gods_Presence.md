@@ -2,6 +2,12 @@
 
 > Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
 
+<a id="in-three-sentences"></a>
+> **In Three Sentences | 三句话读懂本篇**
+>
+> Jonah’s story includes fear, prayer, anger, and God’s patient care. Difficult emotions can be brought honestly before God. These notes ask how his word can guide the response.<br>
+> 约拿的故事包括惧怕、祷告、愤怒和神耐心的看顾。艰难情绪可以诚实地带到神面前。本篇追问祂的话怎样引导人的回应。
+
 ## Basic Info | 基本信息
 
 - Date: 2026-08-02 (Sunday)

@@ -2,6 +2,12 @@
 
 > Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
 
+<a id="in-three-sentences"></a>
+> **In Three Sentences | 三句话读懂本篇**
+>
+> These notes approach God’s love through Father, Son, and Spirit. The Father’s love exists before creation. Salvation brings people into that love.<br>
+> 本篇从父、子、圣灵的关系理解神的爱。父的爱在创造以前已存在。救恩把人带入这份爱中。
+
 ## Basic Info | 基本信息
 
 - Date: 2026-01-21 (Wednesday)

@@ -2,6 +2,12 @@
 
 > Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
 
+<a id="in-three-sentences"></a>
+> **In Three Sentences | 三句话读懂本篇**
+>
+> A later community can name, quote, explain, publicly read, or translate a biblical book. These are different kinds of evidence about its reception. This audit records what each source actually shows and where deeper research is still needed.<br>
+> 后来的群体可能列出、引用、解释、公开宣读或翻译某卷圣经。这些是不同层次的接收史证据。本审计记录来源实际显示什么，以及哪里仍需深入研究。
+
 > Language coverage: paired English/Chinese Draft; translation does not constitute new source verification.<br>
 > 语言覆盖：中英逐段对照Draft；补译不代表来源已经重新核实。
 

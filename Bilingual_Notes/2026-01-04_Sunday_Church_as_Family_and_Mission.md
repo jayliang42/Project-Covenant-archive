@@ -2,6 +2,12 @@
 
 > Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
 
+<a id="in-three-sentences"></a>
+> **In Three Sentences | 三句话读懂本篇**
+>
+> The church is a community gathered around Jesus for worship, care, and mission. Matthew 28 and Acts 2 connect discipleship with shared daily practices. Commitment means taking responsibility for this common life.<br>
+> 教会是围绕耶稣敬拜、关怀并承担使命的群体。马太福音二十八章和使徒行传二章把门徒训练与共同生活相连。委身意味着为这份生活承担责任。
+
 ## Basic Info | 基本信息
 
 - Date: 2026-01-04 (Sunday)

@@ -2,6 +2,12 @@
 
 > Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
 
+<a id="in-three-sentences"></a>
+> **In Three Sentences | 三句话读懂本篇**
+>
+> Matthew 5 brings the command against murder into the heart’s anger and contempt. Jesus calls people to take reconciliation seriously. These notes ground that response in his forgiving love.<br>
+> 马太福音五章把不可杀人的诫命带到内心的愤怒与轻看。耶稣呼召人认真面对和好。本篇把这样的回应建立在祂赦免的爱中。
+
 ## Basic Info | 基本信息
 
 - Title: Sermon on Anger and Reconciliation

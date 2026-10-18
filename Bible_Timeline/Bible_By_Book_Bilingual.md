@@ -5,7 +5,7 @@
 <a id="in-three-sentences"></a>
 > **In Three Sentences | 三句话读懂本篇**
 >
-> Find a book in the index and see where it belongs in the larger story. Notice its main question and its connection to nearby books. Some entries share a profile instead of having a separate detailed study.
+> Find a book in the index and see where it belongs in the larger story. Notice its main question and its connection to nearby books. Some entries share a profile instead of having a separate detailed study.<br>
 > 先在索引中找到书卷，再看它属于故事的哪一部分。留意它的主要问题，以及和前后书卷的联系。有些书卷目前共用一份简介，并没有独立的详细研究。
 
 按书卷梳理圣经，并把每卷书挂到整条时间线上。

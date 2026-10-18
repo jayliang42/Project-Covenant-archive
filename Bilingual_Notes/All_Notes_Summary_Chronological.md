@@ -2,6 +2,12 @@
 
 > Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
 
+<a id="in-three-sentences"></a>
+> **In Three Sentences | 三句话读懂本篇**
+>
+> This page gathers teaching themes by source-session date. The summaries retain uncertainty and source limits. Use the [chronological index](./INDEX_Chronological.md) to reach individual notes.<br>
+> 本页按来源聚会日期归纳教学主题。总结保留不确定性与来源限制。可以通过[时间索引](./INDEX_Chronological.md)进入各篇笔记。
+
 This master summary arranges the public teaching notes by source-session date.
 本总览按来源聚会日期整理公开讲道笔记。
 

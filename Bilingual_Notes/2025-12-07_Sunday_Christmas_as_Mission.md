@@ -2,6 +2,12 @@
 
 > Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
 
+<a id="in-three-sentences"></a>
+> **In Three Sentences | 三句话读懂本篇**
+>
+> These notes connect Christmas with sharing Jesus’ good news. Invitation grows through prayer, listening, welcome, and friendship. The goal is helping people take an honest step toward Christ.<br>
+> 本篇把圣诞与分享耶稣的福音连在一起。邀请需要祷告、倾听、接待和持续的友谊。目标是帮助人诚实地向基督迈出一步。
+
 ## Basic Info | 基本信息
 
 - Date: 2025-12-07 (Sunday)

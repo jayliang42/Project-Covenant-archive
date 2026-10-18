@@ -2,6 +2,12 @@
 
 > Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
 
+<a id="in-three-sentences"></a>
+> **In Three Sentences | 三句话读懂本篇**
+>
+> Acts 8 shows Philip listening, opening Scripture, and explaining Jesus. These notes connect that pattern with prayerful, loving invitation. Human witnesses leave the response to God.<br>
+> 使徒行传八章记述腓利倾听、打开经文并解释耶稣。本篇把这个模式与带着祷告和爱心的邀请相连。见证的人把回应交给神。
+
 ## Basic Info | 基本信息
 
 - Date: 2025-12-21 (Sunday)

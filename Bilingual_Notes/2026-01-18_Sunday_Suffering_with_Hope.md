@@ -2,6 +2,12 @@
 
 > Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
 
+<a id="in-three-sentences"></a>
+> **In Three Sentences | 三句话读懂本篇**
+>
+> First Peter 4 calls suffering believers to entrust themselves to the faithful Creator. Sharing Christ’s path gives hope while pain remains real. The continuing call is to do good.<br>
+> 彼得前书四章呼召受苦的信徒把自己交托给信实的创造主。与基督同行带来盼望，痛苦仍是真实的。持续的呼召是继续行善。
+
 ## Basic Info | 基本信息
 
 - Date: 2026-01-18 (Sunday)

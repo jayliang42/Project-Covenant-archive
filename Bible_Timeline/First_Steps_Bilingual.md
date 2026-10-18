@@ -6,7 +6,7 @@
 <a id="in-three-sentences"></a>
 > **In Three Sentences | 三句话读懂本篇**
 >
-> Start with ten short stops that connect the Bible’s story. Read a few passages before trying to solve every question. Use the glossary when a word is new.
+> Start with ten short stops that connect the Bible’s story. Read a few passages before trying to solve every question. Use the glossary when a word is new.<br>
 > 先用十个短站点连起圣经故事。先读几段经文，不必一次解决所有问题。遇到陌生词，可以点开词汇表。
 
 > **Language status | 语言状态:** Fully bilingual, paragraph by paragraph.

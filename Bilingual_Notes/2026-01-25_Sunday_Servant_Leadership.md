@@ -2,6 +2,12 @@
 
 > Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
 
+<a id="in-three-sentences"></a>
+> **In Three Sentences | 三句话读懂本篇**
+>
+> First Peter 5 describes leaders as shepherds accountable to Jesus. Willing care and a humble example shape their service. Humility and mutual care belong to the whole church.<br>
+> 彼得前书五章把带领者描述为向耶稣负责的牧者。甘心的关怀和谦卑的榜样塑造他们的服事。谦卑与彼此关怀属于整个教会。
+
 ## Basic Info | 基本信息
 
 - Date: 2026-01-25 (Sunday)

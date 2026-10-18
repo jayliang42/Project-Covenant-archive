@@ -698,6 +698,24 @@ class CurrentPublicationCorpusTests(unittest.TestCase):
                     )
                     self.assertIn("Status: Draft (AI draft; not human reviewed)", rendered_page)
 
+            core_sources = [
+                path for path in manifest_paths
+                if path.endswith(".md") and Path(path).parent.as_posix() in {
+                    "Bible_Timeline", "Bible_Translations", "Bilingual_Notes",
+                    "Book_Studies", "Christian_Traditions",
+                } and Path(path).name not in {
+                    "README.md", "INDEX_Chronological.md", "研究维护日志.md",
+                    "00_研究总索引与路线图.md",
+                }
+            ]
+            self.assertEqual(66, len(core_sources))
+            for source_path in core_sources:
+                page = (output / source_path_to_output(source_path)).read_text(encoding="utf-8")
+                with self.subTest(core_page=source_path):
+                    self.assertIn('id="in-three-sentences"', page)
+                    self.assertIn("In Three Sentences | 三句话读懂本篇", page)
+                    self.assertIn('class="reading-time"', page)
+
             media_paths = {path for path in file_paths if path.endswith((".jpg", ".svg"))}
             self.assertEqual(20, len(media_paths))
             for media_path in media_paths:

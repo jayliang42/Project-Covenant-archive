@@ -2,6 +2,12 @@
 
 > Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
 
+<a id="in-three-sentences"></a>
+> **In Three Sentences | 三句话读懂本篇**
+>
+> These notes understand holiness as the purity of God’s love. Wrath expresses that love’s just opposition to evil. The cross joins judgment of sin with mercy toward sinners.<br>
+> 本篇把圣洁理解为神之爱的纯全。忿怒表达这爱对邪恶的公义反对。十字架把对罪的审判与向罪人的怜悯连在一起。
+
 ## Basic Info | 基本信息
 
 - Date: 2026-02-25 (Wednesday)

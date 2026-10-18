@@ -2,6 +2,12 @@
 
 > Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
 
+<a id="in-three-sentences"></a>
+> **In Three Sentences | 三句话读懂本篇**
+>
+> This study connects creation’s beauty with God’s generosity. It describes evil as a distortion of goodness. Questions about creaturely freedom are part of that discussion.<br>
+> 本篇把受造世界的美与神的慷慨相连。邪恶被描述为对良善的扭曲。受造者的自由也是讨论的一部分。
+
 ## Basic Info | 基本信息
 
 - Date: 2026-01-28 (Wednesday)

@@ -2,6 +2,12 @@
 
 > Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
 
+<a id="in-three-sentences"></a>
+> **In Three Sentences | 三句话读懂本篇**
+>
+> Jesus shares human life and weakness. He offers himself and intercedes for his people. Hebrews and John 17 help explain how he brings them before the Father.<br>
+> 耶稣与人同有人性的生活与软弱。祂献上自己，并为祂的子民代求。希伯来书和约翰福音十七章帮助理解祂怎样把人带到父面前。
+
 ## Basic Info | 基本信息
 
 - Date: 2026-02-04 (Wednesday)

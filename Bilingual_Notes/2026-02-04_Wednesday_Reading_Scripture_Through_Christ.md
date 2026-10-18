@@ -2,6 +2,12 @@
 
 > Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
 
+<a id="in-three-sentences"></a>
+> **In Three Sentences | 三句话读懂本篇**
+>
+> These notes place the Bible’s books within a story centered on Christ. Genres, histories, and commands belong within that relationship. The Spirit leads reading toward worship, trust, and a changed life.<br>
+> 本篇把圣经的各卷放回以基督为中心的故事中。文体、历史和命令都在这个关系中被阅读。圣灵使阅读引向敬拜、信靠和生活更新。
+
 ## Basic Info | 基本信息
 
 - Date: 2026-02-04 (Wednesday)

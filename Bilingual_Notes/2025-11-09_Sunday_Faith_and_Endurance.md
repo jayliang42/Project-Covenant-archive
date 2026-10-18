@@ -2,6 +2,12 @@
 
 > Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
 
+<a id="in-three-sentences"></a>
+> **In Three Sentences | 三句话读懂本篇**
+>
+> Hebrews 12 pictures faith as a race sustained by Jesus. Encouragement and setting aside hindrances help believers endure. Grace gives this race its starting point.<br>
+> 希伯来书十二章把信心生活比作靠耶稣奔跑的赛程。彼此鼓励、放下拦阻，帮助信徒继续前行。这场赛跑从神的恩典开始。
+
 ## Basic Info | 基本信息
 
 - Title: Faith and Endurance Sermon
