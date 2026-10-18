@@ -46,8 +46,8 @@ These files use a consistent distinction between historical events (EV), backgro
 
 ## Chinese Research Dossiers | 中文研究专题
 
-Most of the following long-form dossiers remain Chinese research texts; the Pentateuch dossier now has paired English/Chinese Draft text. Their titles are translated here so English readers can choose the right topic before using a browser translation tool or a future full translation.<br>
-以下长篇专题大多仍以中文研究正文为主；五经专题现已配对为中英Draft正文；此处提供英文说明，方便英文读者先定位主题，再使用浏览器翻译或等待完整英译。
+Most of the following long-form dossiers remain Chinese research texts; the Pentateuch and Wisdom/Poetry dossiers now have paired English/Chinese Draft text. Their titles are translated here so English readers can choose the right topic before using a browser translation tool or a future full translation.<br>
+以下长篇专题大多仍以中文研究正文为主；五经及智慧／诗歌专题现已配对为中英Draft正文；此处提供英文说明，方便英文读者先定位主题，再使用浏览器翻译或等待完整英译。
 
 | Chinese research dossier | English guide |
 | --- | --- |
