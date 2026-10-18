@@ -49,7 +49,8 @@ The book is a cross-denominational introduction to the Trinity, not a complete c
 
 ## Course Map | 课程地图
 
-> **Pending verification / 待核实（A9）：** Session-to-chapter assignments are editorial inferences. Verify them against an authorized syllabus or teaching source before citing them as the course's official sequence. / 聚会与章节的对应属于编辑推论；作为官方课程顺序引用前，需对照获准使用的课纲或讲道来源。
+> **Pending verification / 待核实（A9），2026-10-18：** The [publisher’s contents](https://ivpress.com/delighting-in-the-trinity) confirm five numbered book chapters in the 2012 edition. They do not confirm this congregation’s session dates or chapter assignments. No authorized course-specific syllabus was obtained; the mapping below remains an editorial inference, not an official course sequence.<br>
+> [出版社目录](https://ivpress.com/delighting-in-the-trinity)确认2012年版有五个编号章节，却不能确认本课程的聚会日期或章节安排。本轮未取得获准使用的课程专用课纲；下表仍是编辑推论，不能作为官方课程顺序。
 
 | Module | Book chapter | Existing notes | Main thread |
 | --- | --- | --- | --- |

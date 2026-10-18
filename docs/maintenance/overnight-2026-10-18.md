@@ -754,3 +754,9 @@
 - 做了什么：A1新增[博物馆纪年](https://www.globalegyptianmuseum.org/record.aspx?id=15349&lan=E)和[约1208年史料版本](https://www.posenlibrary.com/entry/stela-merneptah)。A2重读[官方借展页](https://thejewishmuseum.org/exhibitions/tel-dan-stele/)，将2024–2025年旧展期与当前展陈分开，保留待核实；馆方检索未取得当前对象陈列页。SBL摘录全文与BASOR DOI本轮无法取回，未假称已阅读全文。
 - 计数：本项a类0组、b类0个英文单元；公开缺口0→0。累计纯a类1,085组、b类12,199个英文单元。
 - 检查：33项相关测试通过；Markdown与含历史内容的隐私审计随后通过。
+
+### T2.2 Edition and Teaching Source Boundaries | 版本与教学来源边界
+
+- 做了什么：逐条处理A7–A10：[作者前言](https://cmchurch.org/2016/12/09/%E5%89%8D%E8%A8%80/)支持《游子吟》历次修订，但所链PDF和WorldCat仍无法取得；[书介](https://ccbooktw.cyberbiz.co/zh-TW/products/m66357816)支持46课、400页和ISBN，和[国家图书馆书目](https://isbn.ncl.edu.tw/FCKEDITOR_UploadFiles/1573549713.pdf)的日期有差异；[IVP目录](https://ivpress.com/delighting-in-the-trinity)只能确认原书五章，不能确认课程对应；[Billy Graham Library决志卡](https://billygrahamlibrary.org/decision-card/)支持1934年聚会回应，未支持McMakin邀请细节。四项均保留待核实；未下载或提交受版权保护全书，也未联系第三方。
+- 计数：本项a类0组、b类0个英文单元；公开缺口0→0。累计纯a类1,085组、b类12,199个英文单元。
+- 检查：33项相关测试通过；保留讲道例证与全部经文及直接引语原文。

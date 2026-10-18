@@ -15,7 +15,8 @@
 
 ## Big Idea | 核心信息
 
-> **Pending verification / 待核实（A10）：** The historical invitation illustration below lacks a source citation or page reference in this note. It remains a reported sermon illustration awaiting source verification. / 下段历史邀请例证在本笔记中缺少出处及页码；目前保留为讲道使用的例证，等待核实来源。
+> **Pending verification / 待核实（A10），2026-10-18：** The [Billy Graham Library’s decision-card record](https://billygrahamlibrary.org/decision-card/) confirms Graham’s response at a Mordecai Ham meeting on November 1, 1934. It does not name McMakin or establish the invitation details below. Searches of the Library and BGEA did not locate a directly supporting source for that detail; the invitation remains a reported sermon illustration needing a traceable source and page.<br>
+> [Billy Graham Library的决志卡记录](https://billygrahamlibrary.org/decision-card/)确认Graham于1934年11月1日在Mordecai Ham的聚会中回应，却没有提到McMakin，也不能确认下段的邀请细节。本轮在该馆与BGEA检索仍未找到直接支持这一细节的来源；它继续作为讲道使用的例证，等待可追查的出处与页码。
 
 The sermon treats invitation as ordinary but potentially life-changing faithfulness. Albert McMakin's invitation to Billy Graham illustrates how God may use a small act beyond what the inviter can see. Philip and the Ethiopian official provide the biblical pattern: listen, notice spiritual openness, explain Scripture around Jesus, and leave the response to God.<br>
 讲道把邀请看作平凡却可能改变生命的忠心。Albert McMakin 对 Billy Graham 的邀请说明，神能使用邀请者看不见其后果的一小步。腓利与埃塞俄比亚太监提供圣经模式：倾听、留意属灵的开放、围绕耶稣解释经文，并把回应交给神。
