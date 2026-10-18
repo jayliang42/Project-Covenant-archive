@@ -1,5 +1,7 @@
 # Poor in Spirit, Mourning, and Meekness | 虚心、哀恸与温柔
 
+> Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
+
 ## Basic Info | 基本信息
 
 - Date: 2026-03-08 (Sunday)

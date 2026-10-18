@@ -1,4 +1,6 @@
 <a id="first-steps-overview"></a>
+
+> Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
 # First Steps in the Bible Story | 圣经故事线第一步
 
 > **Language status | 语言状态:** Fully bilingual, paragraph by paragraph.

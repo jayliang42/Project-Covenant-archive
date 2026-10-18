@@ -32,7 +32,7 @@ STORY_ROUTE = (
 )
 COLLECTIONS = (
     ("Bible_Timeline", "Storyline | 圣经故事线", "Follow the story, then explore its context. | 先读故事线，再深入背景。"),
-    ("Bilingual_Notes", "Notes | 讲道与团契笔记", "Return to reviewed study notes. | 回顾整理后的学习笔记。"),
+    ("Bilingual_Notes", "Notes | 讲道与团契笔记", "Read draft sermon and fellowship notes. | 阅读讲道与团契笔记草稿。"),
     ("Book_Studies", "Book studies | 书籍研读", "Read with guides and source boundaries. | 带着导读和来源边界阅读。"),
     ("Christian_Traditions", "Traditions | 基督教传统", "Explore historical traditions and their differences. | 了解历史传统及其差异。"),
     ("Bible_Translations", "Translations | 圣经译本", "Find access guides and reading notes. | 查找获取指南与阅读说明。"),

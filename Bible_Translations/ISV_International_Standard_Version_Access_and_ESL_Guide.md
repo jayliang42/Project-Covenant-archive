@@ -1,5 +1,7 @@
 # International Standard Version (ISV) | ISV 获取与 ESL 阅读指南
 
+> Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
+
 > **Library status | 图书馆状态：** Access guide only; the full ISV text is not stored in this public repository.
 >
 > **Version | 版本：** *The Holy Bible: International Standard Version* (ISV), a modern English translation published by The ISV Foundation.

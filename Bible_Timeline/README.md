@@ -1,5 +1,7 @@
 # Bible Timeline Research Hub | 圣经时间线研究导航
 
+> Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
+
 > Follow the Bible as one story, then move from overview to weekly study, individual books, historical evidence, and deeper research.
 > 先把圣经读成一条故事线，再从总览进入每周研读、逐卷阅读、史料旁证与专题研究。
 

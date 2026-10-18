@@ -1,5 +1,7 @@
 # All Teaching Notes Summary | 全部讲道笔记总结
 
+> Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
+
 This master summary arranges the public teaching notes by source-session date.
 本总览按来源聚会日期整理公开讲道笔记。
 

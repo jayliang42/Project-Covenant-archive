@@ -1,5 +1,7 @@
 # Spiritual Growth Through Prayer | 借祷告属灵成长
 
+> Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
+
 ## Basic Info | 基本信息
 
 - Date: 2026-05-17 (Sunday)

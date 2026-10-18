@@ -1,5 +1,7 @@
 # How to Name Christian Groups | 怎样给基督教群体命名
 
+> Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
+
 > A vocabulary map for distinguishing church bodies, cross-denominational movements, theological approaches, and political labels.
 > 这是一张术语地图，用来区分教会组织、跨宗派运动、神学取向与政治标签。
 

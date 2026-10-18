@@ -1,5 +1,7 @@
 # Delighting in the Trinity Discipleship Guide | 《喜乐于三一神》门徒训练指南
 
+> Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
+
 > **Training window | 训练时段：** 2026-01-21 to 2026-02-25
 >
 > **Primary book | 主教材：** Michael Reeves, *Delighting in the Trinity: An Introduction to the Christian Faith*
@@ -44,6 +46,8 @@ The book is a cross-denominational introduction to the Trinity, not a complete c
 这本书是跨宗派使用的三一论入门书，不是完整的教会治理手册。它本身并不能替人定下洗礼、教会治理、属灵恩赐、男女在事工中的角色或末世论等问题。遇到这些问题时，要区分：书本本身的论证、教会正式立场，以及某一位讲员实际所教导的内容。
 
 ## Course Map | 课程地图
+
+> **Pending verification / 待核实（A9）：** Session-to-chapter assignments are editorial inferences. Verify them against an authorized syllabus or teaching source before citing them as the course's official sequence. / 聚会与章节的对应属于编辑推论；作为官方课程顺序引用前，需对照获准使用的课纲或讲道来源。
 
 | Module | Book chapter | Existing notes | Main thread |
 | --- | --- | --- | --- |

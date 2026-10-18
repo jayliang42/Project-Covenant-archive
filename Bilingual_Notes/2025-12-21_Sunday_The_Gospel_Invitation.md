@@ -1,5 +1,7 @@
 # The Gospel Invitation | 福音的邀请
 
+> Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
+
 ## Basic Info | 基本信息
 
 - Date: 2025-12-21 (Sunday)
@@ -13,6 +15,8 @@
 - 核心信息：福音既借着他人临到我们，我们也能带着祷告和爱心，邀请人认识耶稣。
 
 ## Big Idea | 核心信息
+
+> **Pending verification / 待核实（A10）：** The historical invitation illustration below lacks a source citation or page reference in this note. It remains a reported sermon illustration awaiting source verification. / 下段历史邀请例证在本笔记中缺少出处及页码；目前保留为讲道使用的例证，等待核实来源。
 
 The sermon treats invitation as ordinary but potentially life-changing faithfulness. Albert McMakin's invitation to Billy Graham illustrates how God may use a small act beyond what the inviter can see. Philip and the Ethiopian official provide the biblical pattern: listen, notice spiritual openness, explain Scripture around Jesus, and leave the response to God.
 

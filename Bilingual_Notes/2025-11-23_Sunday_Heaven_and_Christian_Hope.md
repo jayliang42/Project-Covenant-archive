@@ -1,5 +1,7 @@
 # Heaven and Christian Hope | 天堂与基督徒盼望
 
+> Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
+
 ## Basic Info | 基本信息
 
 - Date: 2025-11-23 (Sunday)

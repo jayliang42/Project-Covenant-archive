@@ -1,5 +1,7 @@
 # Anger and Reconciliation | 愤怒与和好
 
+> Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
+
 ## Basic Info | 基本信息
 
 - Title: Sermon on Anger and Reconciliation

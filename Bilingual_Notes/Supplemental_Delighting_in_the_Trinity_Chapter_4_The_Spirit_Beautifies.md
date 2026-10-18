@@ -1,5 +1,7 @@
 # Supplemental Study: The Christian Life—The Spirit Beautifies | 补充学习：基督徒生命——圣灵使人得荣美
 
+> Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
+
 > **Type | 类型：** Supplemental discipleship study {补充门徒训练材料}
 >
 > **Book connection | 对应教材：** Michael Reeves, *Delighting in the Trinity*, ch. 4, “The Christian Life: The Spirit Beautifies”

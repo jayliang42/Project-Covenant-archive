@@ -1,5 +1,7 @@
 # Notes Hub | 讲道与团契笔记中心
 
+> Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
+
 > Sermon and fellowship notes, arranged by source-session date.
 > 按来源讲道／团契日期整理的笔记。
 
@@ -12,9 +14,9 @@
 
 ## Reading Status | 阅读状态
 
-Completed notes use bilingual titles and paired English/Chinese summaries or sections. The index records the source date and the language/status boundary; a source transcript is not presented as a fully bilingual polished note until that boundary is clear.
+Notes use bilingual titles and paired English/Chinese summaries or sections. The index records the source date and language coverage. Language completion does not establish human review: the Draft label at the top of each major page records that review is still pending.
 
-已完成笔记使用双语标题，并提供成对的英文／中文总结或章节。索引会标注来源日期和语言／整理边界；在边界清楚之前，逐字稿不会被标成完整双语精修笔记。
+笔记使用双语标题，并提供成对的英文／中文总结或章节。索引记录来源日期与语言覆盖。语言整理完成不代表已经人工审阅；主要页面开头的 Draft 标注说明人工审阅仍待完成。
 
 ## Privacy Boundary | 隐私边界
 

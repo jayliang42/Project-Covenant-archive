@@ -1,5 +1,7 @@
 # Where Christian Traditions Disagree | 基督教传统在哪里有分歧
 
+> Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
+
 > A comparison of the questions behind Christian disagreements, with representative positions rather than a winner-and-loser chart.
 > 本页比较基督教分歧背后的问题，并列出代表性立场，而不是制作胜负排行榜。
 
@@ -165,4 +167,4 @@
 **English:** Policy-sensitive links were reviewed on 2026-09-04. Recheck the current edition and adoption date before quoting them as a church body’s present rule.<br>
 **中文：** 涉及政策变化的链接已于 2026-09-04 复核。若要引用为宗派当前规则，仍须再次确认现行版本与通过日期。
 
-[Back to the column index | 返回专栏索引](./README.md#column-index)
+[Back to the column index | 返回专栏索引](../README.md#archive-index)

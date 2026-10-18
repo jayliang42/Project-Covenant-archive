@@ -1,5 +1,7 @@
 # Christmas Praise and Hope | 圣诞的赞美与盼望
 
+> Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
+
 ## Basic Info | 基本信息
 
 - Date: 2025-12-14 (Sunday)

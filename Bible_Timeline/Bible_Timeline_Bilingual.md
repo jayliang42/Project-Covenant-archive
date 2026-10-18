@@ -1,5 +1,7 @@
 # Bible Timeline | 圣经时间线
 
+> Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
+
 ## Purpose | 目的
 
 This timeline is meant to help connect the whole Bible as one story: creation, covenant, kingdom, exile, redemption, church, and new creation.

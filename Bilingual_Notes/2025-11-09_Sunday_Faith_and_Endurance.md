@@ -1,5 +1,7 @@
 # Faith and Endurance | 信心与忍耐
 
+> Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
+
 ## Basic Info | 基本信息
 
 - Title: Faith and Endurance Sermon
