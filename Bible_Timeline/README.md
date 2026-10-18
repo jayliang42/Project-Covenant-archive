@@ -57,7 +57,7 @@ The table states each dossier’s current language coverage. The English descrip
 | [分裂王国至归回：帝国史料与逐事件对照](./分裂王国至归回_帝国史料与逐事件对照.md) | Divided kingdom to return: Assyrian, Babylonian, Persian records, prophets, and textual history | Paired English/Chinese Draft / 中英对照Draft |
 | [两约之间至四福音：第二圣殿与罗马背景](./两约之间至四福音_第二圣殿与罗马背景.md) | Second Temple and Roman context for the Gospels | Paired English/Chinese Draft / 中英对照Draft |
 | [复活与早期见证：文本史与历史研究边界](./复活与早期见证_文本史与历史研究边界.md) | Resurrection and early witnesses: textual history, burial context, and historical-method boundaries | Paired English/Chinese Draft / 中英对照Draft |
-| [使徒行传与保罗书信：旅程年代与城市史料对照](./使徒行传与保罗书信_旅程年代与城市史料对照.md) | Acts and Paul: journeys, chronology, cities, inscriptions, and manuscript evidence | Chinese body; full English pending / 中文正文；英文全文待补 |
+| [使徒行传与保罗书信：旅程年代与城市史料对照](./使徒行传与保罗书信_旅程年代与城市史料对照.md) | Acts and Paul: journeys, chronology, cities, inscriptions, and manuscript evidence | Paired English/Chinese Draft / 中英对照Draft |
 | [希伯来书至启示录：晚期新约与七教会背景](./希伯来书至启示录_晚期新约与七教会背景.md) | Hebrews to Revelation: later NT, general letters, and the seven churches | Chinese body; full English pending / 中文正文；英文全文待补 |
 
 ## How to Read Responsibly | 怎样负责任地使用资料
