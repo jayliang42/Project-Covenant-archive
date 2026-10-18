@@ -30,52 +30,50 @@ For the one-year study sequence, see the [52-Week Bible Storyline Plan](./52周�
 ## Big Story | 大故事
 
 - Creation: God made a good world.
+  创造：神创造了美好的世界。
 - Fall: sin and death entered.
+  堕落：罪和死亡进入历史。
 - Covenant: God chose a people and made promises.
+  立约：神拣选子民并赐下应许。
 - Kingdom: Israel received land, kings, temple, and law.
+  国度：以色列得地、得王、得殿、得律法。
 - Exile: judgment came because of covenant breaking.
+  被掳：背约带来审判。
 - Promise: prophets announced return, Messiah, Spirit, and new covenant.
+  应许：先知宣告归回、弥赛亚、圣灵和新约。
 - Jesus: the promised Messiah fulfilled the story.
+  耶稣：应许中的弥赛亚成全故事。
 - Church: the gospel spread to the nations.
+  教会：福音向万国扩展。
 - New Creation: God will fully restore all things.
-
-- 创造：神创造了美好的世界。
-- 堕落：罪和死亡进入历史。
-- 立约：神拣选子民并赐下应许。
-- 国度：以色列得地、得王、得殿、得律法。
-- 被掳：背约带来审判。
-- 应许：先知宣告归回、弥赛亚、圣灵和新约。
-- 耶稣：应许中的弥赛亚成全故事。
-- 教会：福音向万国扩展。
-- 新创造：神最终完全恢复万有。
+  新创造：神最终完全恢复万有。
 
 <a id="fast-timeline"></a>
 
 ## Fast Timeline | 快速时间线
 
 1. Genesis 1-11: creation, fall, flood, Babel
+   创世记 1-11：创造、堕落、洪水、巴别
 2. Genesis 12-50: Abraham, Isaac, Jacob, Joseph
+   创世记 12-50：亚伯拉罕、以撒、雅各、约瑟
 3. Exodus-Deuteronomy: Moses, exodus, Sinai, wilderness
+   出埃及记到申命记：摩西、出埃及、西奈、旷野
 4. Joshua-Judges-Ruth: land, instability, need for a king
+   约书亚记-士师记-路得记：得地、混乱、需要君王
 5. 1-2 Samuel; 1 Kings 1-11: Saul, David, Solomon
+   撒母耳记上下；列王纪上 1-11：扫罗、大卫、所罗门
 6. 1 Kings 12-2 Kings 25: divided kingdom to exile
+   列王纪上 12 到列王纪下 25：分裂王国直到被掳
 7. Ezra-Nehemiah-Esther: return and rebuilding
+   以斯拉记-尼希米记-以斯帖记：归回与重建
 8. Intertestamental / Second Temple period: Hellenistic kingdoms, Maccabees, Hasmoneans, Rome, Herod
+   两约之间／第二圣殿时期：希腊化王国、马加比、哈斯摩尼、罗马与希律
 9. Gospels: Jesus
+   四福音：耶稣
 10. Acts-Letters: church and mission
+    使徒行传-书信：教会与宣教
 11. Revelation: final judgment and new creation
-
-1. 创世记 1-11：创造、堕落、洪水、巴别
-2. 创世记 12-50：亚伯拉罕、以撒、雅各、约瑟
-3. 出埃及记到申命记：摩西、出埃及、西奈、旷野
-4. 约书亚记-士师记-路得记：得地、混乱、需要君王
-5. 撒母耳记上下；列王纪上 1-11：扫罗、大卫、所罗门
-6. 列王纪上 12 到列王纪下 25：分裂王国直到被掳
-7. 以斯拉记-尼希米记-以斯帖记：归回与重建
-8. 两约之间／第二圣殿时期：希腊化王国、马加比、哈斯摩尼、罗马与希律
-9. 四福音：耶稣
-10. 使徒行传-书信：教会与宣教
-11. 启示录：最终审判与新创造
+    启示录：最终审判与新创造
 
 详见[《两约之间至四福音：第二圣殿、希腊化与罗马世界》](./两约之间至四福音_第二圣殿与罗马背景.md)。
 
@@ -84,77 +82,73 @@ For the one-year study sequence, see the [52-Week Bible Storyline Plan](./52周�
 ## Main Covenants | 主要圣约
 
 - Adam / creation themes: life, rule, blessing
+  亚当 / 创造主题：生命、治理、祝福
 - Noah: preservation of the world
+  挪亚：世界被保守
 - Abraham: offspring, land, blessing to nations
+  亚伯拉罕：后裔、土地、万国得福
 - Moses: law and covenant people
+  摩西：律法与立约子民
 - David: eternal kingly line
+  大卫：永远的君王血脉
 - New Covenant: forgiveness, Spirit, new heart, final restoration
-
-- 亚当 / 创造主题：生命、治理、祝福
-- 挪亚：世界被保守
-- 亚伯拉罕：后裔、土地、万国得福
-- 摩西：律法与立约子民
-- 大卫：永远的君王血脉
-- 新约：赦罪、圣灵、新心、最终恢复
+  新约：赦罪、圣灵、新心、最终恢复
 
 <a id="main-people"></a>
 
 ## Main People | 主要人物
 
 - Adam and Eve
+  亚当和夏娃
 - Noah
+  挪亚
 - Abraham
+  亚伯拉罕
 - Isaac
+  以撒
 - Jacob
+  雅各
 - Joseph
+  约瑟
 - Moses
+  摩西
 - Joshua
+  约书亚
 - Samuel
+  撒母耳
 - Saul
+  扫罗
 - David
+  大卫
 - Solomon
+  所罗门
 - Elijah / Elisha
+  以利亚 / 以利沙
 - Major and Minor Prophets
+  大小先知
 - John the Baptist
+  施洗约翰
 - Jesus
+  耶稣
 - Peter
+  彼得
 - Paul
-
-- 亚当和夏娃
-- 挪亚
-- 亚伯拉罕
-- 以撒
-- 雅各
-- 约瑟
-- 摩西
-- 约书亚
-- 撒母耳
-- 扫罗
-- 大卫
-- 所罗门
-- 以利亚 / 以利沙
-- 大小先知
-- 施洗约翰
-- 耶稣
-- 彼得
-- 保罗
+  保罗
 
 ## Where People Get Confused | 最常混乱的地方
 
 - Kings and Chronicles overlap.
+  列王纪和历代志有大量重叠。
 - Prophets often belong inside Kings-era history.
+  先知书常常要放回列王时代去理解。
 - Psalms come from many periods.
+  诗篇来自不同年代。
 - The four Gospels overlap in time.
+  四福音在时间上是重叠的。
 - Jesus is the center, not just one section near the end.
-
-- 列王纪和历代志有大量重叠。
-- 先知书常常要放回列王时代去理解。
-- 诗篇来自不同年代。
-- 四福音在时间上是重叠的。
-- 耶稣是整本圣经的中心，不只是快到结尾才出现的人物。
+  耶稣是整本圣经的中心，不只是快到结尾才出现的人物。
 
 ## One-Sentence Connection | 一句话连接
 
-The Bible is one story of God creating, promising, rescuing, dwelling, judging, restoring, and finally bringing his people into full life through Jesus Christ.
-
+The Bible is one story of God creating, promising, rescuing, dwelling, judging, restoring, and finally bringing his people into full life through Jesus Christ.<br>
 圣经是一个完整故事：神创造、应许、拯救、同住、审判、恢复，并最终借着耶稣基督把祂的子民带入完全的生命。
