@@ -52,7 +52,7 @@ The table states each dossier’s current language coverage. The English descrip
 | Chinese research dossier | English guide | Language coverage / 语言覆盖 |
 | --- | --- | --- |
 | [摩西五经：历史背景与证据边界](./摩西五经_历史背景与证据边界.md) | Pentateuch: historical background, comparative texts, Exodus debates, manuscripts, and evidence boundaries | Paired English/Chinese Draft / 中英对照Draft |
-| [约书亚至王国形成：考古模型与证据边界](./约书亚至王国形成_考古模型与证据边界.md) | Joshua to kingdom formation: conquest models, settlements, Philistines, Davidic evidence, and archaeology | Chinese body; full English pending / 中文正文；英文全文待补 |
+| [约书亚至王国形成：考古模型与证据边界](./约书亚至王国形成_考古模型与证据边界.md) | Joshua to kingdom formation: conquest models, settlements, Philistines, Davidic evidence, and archaeology | Paired English/Chinese Draft / 中英对照Draft |
 | [智慧与诗歌书：古代文本与敬拜背景](./智慧与诗歌书_古代文本与敬拜背景.md) | Wisdom and poetry: Job, Psalms, Proverbs, Ecclesiastes, Song of Songs, and comparative literature | Paired English/Chinese Draft / 中英对照Draft |
 | [分裂王国至归回：帝国史料与逐事件对照](./分裂王国至归回_帝国史料与逐事件对照.md) | Divided kingdom to return: Assyrian, Babylonian, Persian records, prophets, and textual history | Chinese body; full English pending / 中文正文；英文全文待补 |
 | [两约之间至四福音：第二圣殿与罗马背景](./两约之间至四福音_第二圣殿与罗马背景.md) | Second Temple and Roman context for the Gospels | Chinese body; full English pending / 中文正文；英文全文待补 |
