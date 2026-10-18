@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import unittest
+from pathlib import Path
 
 from scripts.audit_publication import (
     RAW_SITE_RESOURCE,
@@ -109,6 +110,22 @@ class ContentRuleTests(unittest.TestCase):
             "Reference: ISBN 978-1-4028-9462-6; session date 2026-01-21."
         )
         self.assertEqual(set(), rules)
+
+
+class PublicationWordingTests(unittest.TestCase):
+    def test_entry_and_governance_files_agree_on_page_content_scope(self) -> None:
+        root = Path(__file__).resolve().parents[1]
+        english = (
+            "Page content does not include the maintainer's personal experiences, "
+            "testimony, church attendance records, or contact information."
+        )
+        chinese = "页面内容不包含维护者的个人经历、见证、聚会出席记录和联系方式。"
+        for name in ("PUBLICATION_POLICY.md", "README.md", "CONTRIBUTING.md", "AGENTS.md"):
+            with self.subTest(file=name):
+                text = (root / name).read_text(encoding="utf-8")
+                self.assertIn(english, text)
+                self.assertIn(chinese, text)
+                self.assertEqual([], scan_text(name, text))
 
 
 class ManifestPathTests(unittest.TestCase):

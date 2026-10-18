@@ -144,9 +144,9 @@ Historical and archaeological materials can illuminate people, places, instituti
 
 ## Privacy and Publication | 隐私与发布
 
-Public pages must not contain the maintainer's personal profile, contact route, private experience, immigration or asylum information, or identifiable participation history. Church names may remain when relevant, but they must not be combined with private personal details. Raw transcripts and private downloads are not public reading material.
+Page content does not include the maintainer's personal experiences, testimony, church attendance records, or contact information. The other privacy restrictions, including sensitive personal records and identifiable private anecdotes, still apply. Church names may remain when relevant, but they must not be combined with private personal details. Raw transcripts and private downloads are not public reading material.
 
-公开页面不得包含维护者的个人简介、联系入口、私人经历、移民或庇护信息，或可识别的参与记录。教会名称在有关时可以保留，但不得与私人个人细节组合出现。原始逐字稿和私人下载文件不属于公开阅读内容。
+页面内容不包含维护者的个人经历、见证、聚会出席记录和联系方式。其他隐私限制仍然适用，包括敏感个人记录及可识别的私人轶事。教会名称在有关时可以保留，但不得与私人个人细节组合出现。原始逐字稿和私人下载文件不属于公开阅读内容。
 
 See [Privacy and Publication Policy | 隐私与发布政策](./PUBLICATION_POLICY.md) for the review rules and the future website boundary.
 

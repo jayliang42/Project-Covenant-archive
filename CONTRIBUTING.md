@@ -29,7 +29,7 @@
 ### Privacy and publication
 
 - These instructions apply to the full maintenance checkout. The exported neutral repository is a generated, read-only reading mirror and intentionally contains no scripts, tests, or CI workflow.
-- Follow [PUBLICATION_POLICY.md](./PUBLICATION_POLICY.md). Do not add a maintainer's or private participant's identity, contact route, personal history, immigration or asylum information, medical history, testimony, attendance history, or identifiable anecdote.
+- Follow [PUBLICATION_POLICY.md](./PUBLICATION_POLICY.md). Page content does not include the maintainer's personal experiences, testimony, church attendance records, or contact information. Do not publish private participants' identities or anyone's immigration or asylum information, medical history, or identifiable private anecdotes.
 - A church name may remain when relevant, but never pair it with a private person's role, address, contact details, care information, or participation history.
 - Treat transcripts, recordings, downloads, meeting links, and attachments as private source material. Publish only a reviewed, non-identifying summary.
 - A future website may publish only files explicitly listed in `publication/site-content.txt`.
@@ -79,7 +79,7 @@
 ### 隐私与发布
 
 - 本说明适用于完整维护工作区。导出后的中性仓库是生成的只读阅读镜像，会有意不包含脚本、测试或 CI workflow。
-- 遵守 [PUBLICATION_POLICY.md](./PUBLICATION_POLICY.md)。不得加入维护者或私人参与者的身份、联系入口、个人经历、移民或庇护信息、医疗经历、见证、出席记录或可识别轶事。
+- 遵守 [PUBLICATION_POLICY.md](./PUBLICATION_POLICY.md)。页面内容不包含维护者的个人经历、见证、聚会出席记录和联系方式。不得发布私人参与者的身份，或任何人的移民或庇护信息、医疗经历及可识别的私人轶事。
 - 教会名称与资料有关时可以保留，但不得与私人个人的职分、地址、联系方式、关怀信息或参与经历组合出现。
 - 逐字稿、录音录像、下载文件、会议链接和附件都视为私人来源；公开内容只能是经过复核、无法识别个人的总结。
 - 未来网站只能发布 `publication/site-content.txt` 明确列出的文件。
