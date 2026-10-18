@@ -5,13 +5,13 @@
 <a id="in-three-sentences"></a>
 > **In Three Sentences | 三句话读懂本篇**
 >
-> This guide connects the Bible’s main story stages. It separates the story’s order from uncertain historical dates. Use it as a map before reading a whole book.<br>
-> 本篇连接圣经故事的主要阶段。故事顺序与仍有争议的历史定年要分开看。读整卷书前，可以先用它找方向。
+> This guide connects the [Bible](../Glossary/README.md#bible)’s main story stages. It separates the story’s order from uncertain historical dates. Use it as a map before reading a whole book.<br>
+> 本篇连接[圣经](../Glossary/README.md#bible)故事的主要阶段。故事顺序与仍有争议的历史定年要分开看。读整卷书前，可以先用它找方向。
 
 ## Purpose | 目的
 
-This timeline is meant to help connect the whole Bible as one story: creation, covenant, kingdom, exile, redemption, church, and new creation.<br>
-这份时间线的目的是帮助把整本圣经看成一个完整故事：创造、立约、国度、被掳、救赎、教会、以及新创造。
+This timeline is meant to help connect the whole Bible as one story: [creation](../Glossary/README.md#creation), [covenant](../Glossary/README.md#covenant), kingdom, [exile](../Glossary/README.md#exile), [redemption](../Glossary/README.md#redemption), [church](../Glossary/README.md#church), and [new creation](../Glossary/README.md#new-creation).<br>
+这份时间线的目的是帮助把整本圣经看成一个完整故事：[创造](../Glossary/README.md#creation)、[立约](../Glossary/README.md#covenant)、国度、[被掳](../Glossary/README.md#exile)、[救赎](../Glossary/README.md#redemption)、[教会](../Glossary/README.md#church)、以及[新创造](../Glossary/README.md#new-creation)。
 
 For a guided one-year sequence covering all 66 books, see the [52-Week Bible Storyline Plan](./52周圣经故事线_查经与史料阅读计划.md).<br>
 若希望用一年把 66 卷连起来，并同步阅读史料、考古边界和释经注释，见[《52 周圣经故事线》](./52周圣经故事线_查经与史料阅读计划.md)。
@@ -29,8 +29,8 @@ For a guided one-year sequence covering all 66 books, see the [52-Week Bible Sto
 
 ## The Big Story In One Line | 一句话总览
 
-The Bible tells how God creates a good world, humanity falls into sin, God forms a covenant people, sends the promised Messiah, and through Jesus begins the restoration that will be completed in the new creation.<br>
-圣经讲的是：神创造了美好的世界，人类陷入罪中，神拣选并塑造一个立约的子民，差来应许中的弥赛亚，并借着耶稣开启最终将在新天新地完成的恢复工作。
+The Bible tells how God creates a good world, humanity falls into sin, God forms a covenant people, sends the promised [Messiah](../Glossary/README.md#messiah), and through Jesus begins the restoration that will be completed in the new creation.<br>
+圣经讲的是：神创造了美好的世界，人类陷入罪中，神拣选并塑造一个立约的子民，差来[应许](../Glossary/README.md#promise)中的[弥赛亚](../Glossary/README.md#messiah)，并借着耶稣开启最终将在新天新地完成的恢复工作。
 
 <a id="quick-map"></a>
 
@@ -42,18 +42,18 @@ If you feel that “the Bible is made of many books but I cannot see how they fi
 
 1. Genesis: God creates, humanity falls, and God begins the promise line.
    创世记：神创造世界，人堕落，神开始推动应许的血脉。
-2. Exodus to Deuteronomy: God rescues Israel and gives covenant law.
-   出埃及记到申命记：神拯救以色列，并赐下立约的律法。
+2. [Exodus](../Glossary/README.md#exodus) to Deuteronomy: God rescues [Israel](../Glossary/README.md#israel) and gives covenant law.
+   出埃及记到申命记：神拯救[以色列](../Glossary/README.md#israel)，并赐下立约的律法。
 3. Joshua to Esther: Israel enters the land, becomes a kingdom, falls, is exiled, and partially returns.
    约书亚记到以斯帖记：以色列进地、立国、败坏、被掳、再归回。
-4. Job to Song of Songs: wisdom, worship, suffering, love, and life before God.
-   约伯记到雅歌：关于智慧、敬拜、苦难、爱情和人在神面前的生活。
-5. Isaiah to Malachi: prophets interpret Israel's history and announce judgment plus future hope.
-   以赛亚书到玛拉基书：先知解释以色列的历史，并宣告审判与将来的盼望。
+4. Job to Song of Songs: [wisdom](../Glossary/README.md#wisdom), worship, suffering, love, and life before God.
+   约伯记到雅歌：关于[智慧](../Glossary/README.md#wisdom)、敬拜、苦难、爱情和人在神面前的生活。
+5. Isaiah to Malachi: [prophets](../Glossary/README.md#prophet) interpret Israel's history and announce judgment plus future hope.
+   以赛亚书到玛拉基书：[先知](../Glossary/README.md#prophet)解释以色列的历史，并宣告审判与将来的盼望。
 6. Gospels: Jesus is the promised Messiah and the center of the whole story.
-   四福音：耶稣就是应许中的弥赛亚，也是整本故事的中心。
-7. Acts to Jude: the risen Christ forms and sends the church.
-   使徒行传到犹大书：复活的基督建立并差遣教会。
+   四[福音](../Glossary/README.md#gospel)：耶稣就是应许中的弥赛亚，也是整本故事的中心。
+7. Acts to Jude: the risen [Christ](../Glossary/README.md#christ) forms and sends the church.
+   [使徒](../Glossary/README.md#apostle)行传到犹大书：[复活](../Glossary/README.md#resurrection)的[基督](../Glossary/README.md#christ)建立并差遣教会。
 8. Revelation: God completes judgment, redemption, and new creation.
    启示录：神完成最终的审判、救赎与新创造。
 
@@ -67,15 +67,15 @@ If you feel that “the Bible is made of many books but I cannot see how they fi
   堕落：罪、死亡和流离进入人类历史。
 - Covenant: God binds himself to a people and to a promise.
   立约：神把自己与一群子民和一个应许绑定起来。
-- Kingdom: Israel receives land, king, temple, and law.
+- Kingdom: Israel receives land, king, [temple](../Glossary/README.md#temple), and law.
   国度：以色列得地、得王、得殿、得律法。
 - Exile: covenant breaking brings judgment.
   被掳：背约带来审判。
 - Promise: prophets speak of return, new covenant, Spirit, and Messiah.
-  应许：先知宣告归回、新约、圣灵和弥赛亚。
-- Fulfillment: Jesus fulfills Israel's story and opens salvation to the nations.
-  成全：耶稣成全以色列的故事，并把救恩向万国打开。
-- Church: the gospel goes outward by the Spirit.
+  应许：先知宣告归回、新约、[圣灵](../Glossary/README.md#holy-spirit)和弥赛亚。
+- Fulfillment: Jesus fulfills Israel's story and opens [salvation](../Glossary/README.md#salvation) to the nations.
+  成全：耶稣成全以色列的故事，并把[救恩](../Glossary/README.md#salvation)向万国打开。
+- Church: the [gospel](../Glossary/README.md#gospel) goes outward by the Spirit.
   教会：福音借着圣灵向外扩展。
 - New Creation: God's dwelling with his people is fully restored.
   新创造：神与祂子民同住被完全恢复。
@@ -116,13 +116,13 @@ Judgment and mercy appear together. God judges sin but preserves a line through 
   大致阶段：约主前第二个千年早期
 - Main books: Genesis 12-50
   主要书卷：创世记 12-50
-- Key events: Abraham called, covenant promises, Isaac, Jacob, Joseph, family moves to Egypt
+- Key events: Abraham called, covenant [promises](../Glossary/README.md#promise), Isaac, Jacob, Joseph, family moves to Egypt
   关键事件：亚伯拉罕蒙召、立约应许、以撒、雅各、约瑟、全家下埃及
 
 #### Connection | 连接意义
 
-God promises land, offspring, and blessing, including blessing for all nations. This covenant becomes a major backbone of the rest of Scripture.<br>
-神应许土地、后裔与赐福，而且这祝福要临到万国。这个亚伯拉罕之约成为整本圣经后续发展的重要骨架。
+God promises land, offspring, and [blessing](../Glossary/README.md#blessing), including blessing for all nations. This covenant becomes a major backbone of the rest of Scripture.<br>
+神应许土地、后裔与赐福，而且这[祝福](../Glossary/README.md#blessing)要临到万国。这个亚伯拉罕之约成为整本圣经后续发展的重要骨架。
 
 ### 4. Exodus and Sinai
 
@@ -130,12 +130,12 @@ God promises land, offspring, and blessing, including blessing for all nations. 
   大致阶段：通常放在主前第二个千年；确切年代有不同看法
 - Main books: Exodus, Leviticus, Numbers, Deuteronomy
   主要书卷：出埃及记、利未记、民数记、申命记
-- Key events: Deliverance from Egypt, Passover, Red Sea, law at Sinai, tabernacle, wilderness wandering
-  关键事件：出埃及、逾越节、过红海、西奈颁律法、会幕、旷野漂流
+- Key events: Deliverance from Egypt, [Passover](../Glossary/README.md#passover), Red Sea, law at Sinai, [tabernacle](../Glossary/README.md#tabernacle), wilderness wandering
+  关键事件：[出埃及](../Glossary/README.md#exodus)、[逾越节](../Glossary/README.md#passover)、过红海、西奈颁律法、[会幕](../Glossary/README.md#tabernacle)、旷野漂流
 
 #### Connection | 连接意义
 
-Here God forms Israel into a covenant nation. Exodus becomes the central Old Testament picture of redemption, later echoed in the gospel.<br>
+Here God forms Israel into a covenant nation. Exodus becomes the central [Old Testament](../Glossary/README.md#old-testament) picture of redemption, later echoed in the gospel.<br>
 在这里，神把以色列塑造成一个立约民族。出埃及也成为旧约中最核心的救赎图像，后来不断在福音里被回应。
 
 ### 5. Conquest and Judges
@@ -154,8 +154,8 @@ This era shows that external deliverance is not enough. God's people need inward
 
 - Approximate setting: Around 1050-930 BC
   大致阶段：约主前 1050-930 年
-- Main books: 1 Samuel, 2 Samuel, 1 Kings 1-11, 1 Chronicles, 2 Chronicles 1-9, many Psalms
-  主要书卷：撒母耳记上、撒母耳记下、列王纪上 1-11、历代志上、历代志下 1-9、许多诗篇
+- Main books: 1 Samuel, 2 Samuel, 1 Kings 1-11, 1 Chronicles, 2 Chronicles 1-9, many [Psalms](../Glossary/README.md#psalm)
+  主要书卷：撒母耳记上、撒母耳记下、列王纪上 1-11、历代志上、历代志下 1-9、许多[诗篇](../Glossary/README.md#psalm)
 - Key figures: Saul, David, Solomon
   关键人物：扫罗、大卫、所罗门
 
@@ -170,8 +170,8 @@ David is especially important because God promises a lasting royal line. This be
   大致阶段：约主前 930-722 年，尤其是北国阶段
 - Main books: 1 Kings 12-22, 2 Kings 1-17, 2 Chronicles 10-28, prophetic books
   主要书卷：列王纪上 12-22、列王纪下 1-17、历代志下 10-28、先知书
-- Key events: Kingdom splits into Israel and Judah, idolatry increases, prophets call for repentance
-  关键事件：王国分裂为以色列与犹大、偶像崇拜加深、先知不断呼召悔改
+- Key events: Kingdom splits into Israel and [Judah](../Glossary/README.md#judah), idolatry increases, prophets call for [repentance](../Glossary/README.md#repentance)
+  关键事件：王国分裂为以色列与犹大、偶像崇拜加深、先知不断呼召[悔改](../Glossary/README.md#repentance)
 
 #### Connection | 连接意义
 
@@ -181,7 +181,7 @@ The prophets interpret history theologically. Political collapse is not random; 
 ### 8. Exile
 
 - Approximate setting: 722 BC for Israel; 586 BC for Judah and Jerusalem
-  大致阶段：北国以色列于主前 722 年；南国犹大和耶路撒冷于主前 586 年
+  大致阶段：北国以色列于主前 722 年；南国[犹大](../Glossary/README.md#judah)和耶路撒冷于主前 586 年
 - Main books: 2 Kings, 2 Chronicles, Ezekiel, Daniel, parts of Jeremiah and Lamentations
   主要书卷：列王纪、历代志、以西结书、但以理书、耶利米书部分内容、耶利米哀歌
 - Key events: Assyrian conquest of Israel, Babylonian destruction of Jerusalem, exile
@@ -198,8 +198,8 @@ Exile is one of the great turning points of the Bible. It looks like covenant fa
   大致阶段：从主前 538 年开始
 - Main books: Ezra, Nehemiah, Esther, Haggai, Zechariah, Malachi
   主要书卷：以斯拉记、尼希米记、以斯帖记、哈该书、撒迦利亚书、玛拉基书
-- Key events: Return from exile, temple rebuilt, walls rebuilt, ongoing weakness and expectation
-  关键事件：从被掳中归回、圣殿重建、城墙重建、百姓仍在软弱中等待
+- Key events: [Return from exile](../Glossary/README.md#return), temple rebuilt, walls rebuilt, ongoing weakness and expectation
+  关键事件：从被掳中归回、[圣殿](../Glossary/README.md#temple)重建、城墙重建、百姓仍在软弱中等待
 
 #### Connection | 连接意义
 
@@ -214,25 +214,25 @@ The people return physically, but the larger promises still await fulfillment. T
   大致阶段：主后一世纪初
 - Main books: Matthew, Mark, Luke, John
   主要书卷：马太福音、马可福音、路加福音、约翰福音
-- Key events: Incarnation, kingdom proclamation, miracles, cross, resurrection, ascension
-  关键事件：道成肉身、宣讲天国、神迹、十字架、复活、升天
+- Key events: [Incarnation](../Glossary/README.md#incarnation), kingdom proclamation, miracles, cross, [resurrection](../Glossary/README.md#resurrection), ascension
+  关键事件：[道成肉身](../Glossary/README.md#incarnation)、宣讲[天国](../Glossary/README.md#kingdom)、神迹、十字架、复活、升天
 
 #### Connection | 连接意义
 
 Jesus is the center of the Bible's storyline. He fulfills the law, the prophets, the sacrificial system, the Davidic kingship, and the hope of redemption for Israel and the nations.<br>
-耶稣是整本圣经故事线的中心。祂成全律法、先知、献祭体系、大卫之王权，以及以色列和万国得救赎的盼望。
+耶稣是整本圣经故事线的中心。祂成全律法、先知、[献祭](../Glossary/README.md#sacrifice)体系、大卫之王权，以及以色列和万国得救赎的盼望。
 
-For the earliest resurrection tradition, the manuscript endings of Mark, burial archaeology, and the limits of Roman evidence, see [Resurrection And Early Witnesses: Textual History And Historical Boundaries](./复活与早期见证_文本史与历史研究边界.md).<br>
-林前 15 的早期复活传统、马可结尾抄本、墓葬考古和罗马材料的证据边界，见[《复活与早期见证：文本史、墓葬背景与历史研究边界》](./复活与早期见证_文本史与历史研究边界.md)。
+For the earliest resurrection tradition, the [manuscript](../Glossary/README.md#manuscript) endings of Mark, burial archaeology, and the limits of Roman evidence, see [Resurrection And Early Witnesses: Textual History And Historical Boundaries](./复活与早期见证_文本史与历史研究边界.md).<br>
+林前 15 的早期复活传统、马可结尾[抄本](../Glossary/README.md#manuscript)、墓葬考古和罗马材料的证据边界，见[《复活与早期见证：文本史、墓葬背景与历史研究边界》](./复活与早期见证_文本史与历史研究边界.md)。
 
 ### 11. Church and Mission
 
 - Approximate setting: From Acts onward
   大致阶段：从使徒行传开始直到新约书信时期
-- Main books: Acts, New Testament letters
+- Main books: Acts, [New Testament](../Glossary/README.md#new-testament) letters
   主要书卷：使徒行传、新约书信
-- Key events: Pentecost, spread of the gospel, formation of churches, mission to Jews and Gentiles
-  关键事件：五旬节、福音广传、教会建立、向犹太人与外邦人宣教
+- Key events: [Pentecost](../Glossary/README.md#pentecost), spread of the gospel, formation of churches, mission to Jews and [Gentiles](../Glossary/README.md#gentile)
+  关键事件：[五旬节](../Glossary/README.md#pentecost)、福音广传、教会建立、向犹太人与[外邦人](../Glossary/README.md#gentile)宣教
 
 #### Connection | 连接意义
 
@@ -329,7 +329,7 @@ For the later New Testament setting—Hebrews, the General Epistles, Patmos, the
     施洗约翰：弥赛亚的先锋。
 13. Jesus: the center and fulfillment.
     耶稣：中心与成全者。
-14. Peter, Paul, and the apostles: gospel witness to the church and the nations.
+14. Peter, Paul, and the [apostles](../Glossary/README.md#apostle): gospel witness to the church and the nations.
     彼得、保罗和众使徒：把福音见证带给教会与万国。
 
 ## How The Bible Connects | 圣经是怎样连起来的
@@ -429,7 +429,7 @@ A helpful beginner flow could be:<br>
    摩西之约：以色列在神律法下的生活。
 5. Davidic covenant: the promised king.
    大卫之约：应许中的王。
-6. New covenant: forgiveness, new heart, Spirit, final restoration in Christ.
+6. New covenant: [forgiveness](../Glossary/README.md#forgiveness), new heart, Spirit, final restoration in Christ.
    新约：赦罪、新心、圣灵，以及在基督里展开的最终恢复。
 
 ## Notes | 注释

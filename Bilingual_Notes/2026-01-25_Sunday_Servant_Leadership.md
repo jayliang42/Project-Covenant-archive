@@ -5,8 +5,8 @@
 <a id="in-three-sentences"></a>
 > **In Three Sentences | 三句话读懂本篇**
 >
-> First Peter 5 describes leaders as shepherds accountable to Jesus. Willing care and a humble example shape their service. Humility and mutual care belong to the whole church.<br>
-> 彼得前书五章把带领者描述为向耶稣负责的牧者。甘心的关怀和谦卑的榜样塑造他们的服事。谦卑与彼此关怀属于整个教会。
+> First Peter 5 describes leaders as shepherds accountable to Jesus. Willing care and a humble example shape their service. Humility and mutual care belong to the whole [church](../Glossary/README.md#church).<br>
+> 彼得前书五章把带领者描述为向耶稣负责的牧者。甘心的关怀和谦卑的榜样塑造他们的服事。谦卑与彼此关怀属于整个[教会](../Glossary/README.md#church)。
 
 ## Basic Info | 基本信息
 
@@ -28,25 +28,25 @@ Peter first addresses elders, then expands the call to humility across the whole
 
 ### 1. Elders are under-shepherds | 长老是副牧者
 
-The church is God's flock, never a leader's possession. Elders are to shepherd as accountable servants who point people to Christ rather than gathering control around themselves.<br>
-教会是神的羊群，绝不是带领者的私有物。长老要作将来交账的仆人牧养人，把人指向基督，而不是把控制权聚在自己身上。
+The church is God's flock, never a leader's possession. Elders are to shepherd as accountable servants who point people to [Christ](../Glossary/README.md#christ) rather than gathering control around themselves.<br>
+教会是神的羊群，绝不是带领者的私有物。长老要作将来交账的仆人牧养人，把人指向[基督](../Glossary/README.md#christ)，而不是把控制权聚在自己身上。
 
 ### 2. Lead willingly, eagerly, and by example | 甘心、热心、以身作则地带领
 
-Peter rejects leadership driven by compulsion, shameful gain, or lording it over others. The sermon connects this to Jesus washing feet and laying down his life: grace received becomes grace given.<br>
-彼得拒绝出于勉强、贪图不义之财或辖制他人的带领。讲道把这连到耶稣洗脚与舍命：领受的恩典会变成给出去的恩典。
+Peter rejects leadership driven by compulsion, shameful gain, or lording it over others. The sermon connects this to Jesus washing feet and laying down his life: [grace](../Glossary/README.md#grace) received becomes grace given.<br>
+彼得拒绝出于勉强、贪图不义之财或辖制他人的带领。讲道把这连到耶稣洗脚与舍命：领受的[恩典](../Glossary/README.md#grace)会变成给出去的恩典。
 
 ### 3. Humility belongs to everyone | 谦卑属于每一个人
 
-Those who lead and those who follow need humility, prayer, teachability, and mutual care. Submission is not blind obedience to sin or abuse; it is a gospel-shaped posture that takes godly oversight seriously while holding every human leader under Christ.<br>
-带领的人和跟随的人都需要谦卑、祷告、受教与彼此关怀。顺服不是对罪或虐待的盲从，而是一种福音塑造的姿态：认真看待敬虔的监督，同时承认每一位人类领袖都在基督之下。
+Those who lead and those who follow need humility, prayer, teachability, and mutual care. Submission is not blind obedience to sin or abuse; it is a [gospel](../Glossary/README.md#gospel)-shaped posture that takes godly oversight seriously while holding every human leader under Christ.<br>
+带领的人和跟随的人都需要谦卑、祷告、受教与彼此关怀。顺服不是对罪或虐待的盲从，而是一种[福音](../Glossary/README.md#gospel)塑造的姿态：认真看待敬虔的监督，同时承认每一位人类领袖都在基督之下。
 
 ## Notes | 注释
 
 ### Leadership is not control | 带领不是控制
 
-The transcript's application is important: a leader can be tempted to manufacture outcomes through pressure. Biblical shepherding instead teaches, serves, models repentance, protects the vulnerable, and trusts God to work.<br>
-逐字稿的应用很重要：带领者可能会试图借压力制造结果。圣经的牧养则是教导、服事、活出悔改、保护脆弱者，并信靠神自己工作。
+The transcript's application is important: a leader can be tempted to manufacture outcomes through pressure. Biblical shepherding instead teaches, serves, models [repentance](../Glossary/README.md#repentance), protects the vulnerable, and trusts God to work.<br>
+逐字稿的应用很重要：带领者可能会试图借压力制造结果。[圣经](../Glossary/README.md#bible)的牧养则是教导、服事、活出[悔改](../Glossary/README.md#repentance)、保护脆弱者，并信靠神自己工作。
 
 ### Authority has limits | 权柄有边界
 

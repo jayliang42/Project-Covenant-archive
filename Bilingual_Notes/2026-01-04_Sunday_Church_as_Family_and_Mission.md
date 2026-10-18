@@ -5,8 +5,8 @@
 <a id="in-three-sentences"></a>
 > **In Three Sentences | 三句话读懂本篇**
 >
-> The church is a community gathered around Jesus for worship, care, and mission. Matthew 28 and Acts 2 connect discipleship with shared daily practices. Commitment means taking responsibility for this common life.<br>
-> 教会是围绕耶稣敬拜、关怀并承担使命的群体。马太福音二十八章和使徒行传二章把门徒训练与共同生活相连。委身意味着为这份生活承担责任。
+> The [church](../Glossary/README.md#church) is a community gathered around Jesus for worship, care, and mission. Matthew 28 and Acts 2 connect discipleship with shared daily practices. Commitment means taking responsibility for this common life.<br>
+> [教会](../Glossary/README.md#church)是围绕耶稣敬拜、关怀并承担使命的群体。马太[福音](../Glossary/README.md#gospel)二十八章和[使徒](../Glossary/README.md#apostle)行传二章把[门徒](../Glossary/README.md#disciple)训练与共同生活相连。委身意味着为这份生活承担责任。
 
 ## Basic Info | 基本信息
 
@@ -18,25 +18,25 @@
   教会：Mission House Church
 - Main passages: Matthew 28:18-20; Acts 2:42-47
   主要经文：马太福音 28:18-20；使徒行传 2:42-47
-- Big idea: The local church is a Christ-centered family formed for worship, discipleship, care, and shared mission.
-  核心信息：地方教会是以基督为中心的家，为敬拜、门徒训练、关怀和共同使命而被塑造。
+- Big idea: The local church is a [Christ](../Glossary/README.md#christ)-centered family formed for worship, discipleship, care, and shared mission.
+  核心信息：地方教会是以[基督](../Glossary/README.md#christ)为中心的家，为敬拜、门徒训练、关怀和共同使命而被塑造。
 
 ## Big Idea | 核心信息
 
-This vision session defines church as more than a gathering or a personal resource. A church is a people gathered around Jesus, his word, baptism, the Lord's Supper, prayer, confession, mutual care, and mission. Membership or covenant is presented as a meaningful, revisable commitment to take responsibility for this shared life.<br>
+This vision session defines church as more than a gathering or a personal resource. A church is a people gathered around Jesus, his word, baptism, the Lord's Supper, prayer, confession, mutual care, and mission. Membership or [covenant](../Glossary/README.md#covenant) is presented as a meaningful, revisable commitment to take responsibility for this shared life.<br>
 这场异象聚会把教会定义为不只是一次聚集或个人资源。教会是一群围绕耶稣、祂的话、洗礼、圣餐、祷告、认罪、彼此关怀和使命聚集的人。成员制或群体承诺被理解为一种有意义、也可在处境改变时调整的委身：为共同生活承担责任。
 
 ## Outline | 讲道结构
 
 ### 1. Jesus creates and sends his church | 耶稣建立并差派祂的教会
 
-The Great Commission gives the church both authority and direction: make disciples, baptize, and teach obedience to Christ. Mission is therefore not an optional department; it belongs to the church's identity.<br>
+The Great Commission gives the church both authority and direction: make [disciples](../Glossary/README.md#disciple), baptize, and teach obedience to Christ. Mission is therefore not an optional department; it belongs to the church's identity.<br>
 大使命赐给教会权柄与方向：使人作门徒、施洗、教导人遵守基督的吩咐。因此使命不是可有可无的部门，而是教会身份的一部分。
 
 ### 2. Church life is shared devotion | 教会生活是共同的专注
 
 Acts 2 provides the pattern of devotion to teaching, fellowship, breaking bread, prayer, generosity, and care. The session applies this through habits of worship, Scripture, confession, encouragement, hospitality, serving, giving, and peacemaking.<br>
-使徒行传 2 章提供了一个模式：委身于教训、团契、擘饼、祷告、慷慨和关怀。聚会把它应用为敬拜、圣经、认罪、劝勉、接待、服事、奉献与和睦的生活习惯。
+使徒行传 2 章提供了一个模式：委身于教训、团契、擘饼、祷告、慷慨和关怀。聚会把它应用为敬拜、[圣经](../Glossary/README.md#bible)、认罪、劝勉、接待、服事、奉献与和睦的生活习惯。
 
 ### 3. Covenant belongs to family life | 承诺属于家庭生活
 
@@ -47,7 +47,7 @@ The commitments are not claims of perfection. They name a direction of willing p
 
 ### Local commitment and Christ's universal church | 地方委身与基督普世教会
 
-Every believer belongs to Christ's universal church. The New Testament also assumes concrete local communities where believers are known, taught, cared for, and held accountable. Local commitment should serve the gospel rather than become tribalism.<br>
+Every believer belongs to Christ's universal church. The [New Testament](../Glossary/README.md#new-testament) also assumes concrete local communities where believers are known, taught, cared for, and held accountable. Local commitment should serve the [gospel](../Glossary/README.md#gospel) rather than become tribalism.<br>
 每一位信徒都属于基督的普世教会；新约也预设具体的地方群体，使信徒被认识、被教导、被关怀、也彼此守望。地方委身应服事福音，而不能变成狭隘的群体主义。
 
 ## Reflection Questions | 反思问题

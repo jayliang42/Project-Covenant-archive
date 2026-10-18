@@ -14,6 +14,8 @@ First-use links follow the recommended beginner route and point to the page that
 - People and worship | 群体与敬拜: [Disciple / 门徒](#disciple) · [Apostle / 使徒](#apostle) · [Church / 教会](#church) · [Gentile / 外邦人](#gentile) · [Israel / 以色列](#israel) · [Judah / 犹大](#judah) · [Prophet / 先知](#prophet) · [Priest / 祭司](#priest) · [Law or Torah / 律法](#law) · [Tabernacle / 会幕](#tabernacle) · [Temple / 圣殿](#temple) · [Sacrifice / 献祭](#sacrifice) · [Passover / 逾越节](#passover)
 - Journey and hope | 旅程与盼望: [Exodus / 出埃及](#exodus) · [Exile / 被掳](#exile) · [Return / 归回](#return) · [Resurrection / 复活](#resurrection) · [Parable / 比喻](#parable) · [Psalm / 诗篇](#psalm) · [Wisdom / 智慧](#wisdom) · [Canon / 正典](#canon) · [Pentecost / 五旬节](#pentecost) · [New creation / 新创造](#new-creation)
 
+- Further study | 继续研读: [Trinity / 三一／三位一体](#trinity) · [Incarnation / 道成肉身](#incarnation) · [Atonement / 赎罪](#atonement) · [Justification / 称义](#justification) · [Manuscript / 抄本](#manuscript) · [Reception history / 接收史](#reception-history) · [Septuagint / 七十士译本](#septuagint)
+
 <a id="terms-0"></a>
 ## Bible and the Story | 圣经与故事
 
@@ -369,5 +371,68 @@ God’s final renewal, with evil and death overcome and God dwelling with his pe
 神最终更新万有，胜过罪恶与死亡，与子民同住；这份盼望不是让人推算日期。
 
 [First use in First Steps | 入门路线首次使用](../Bible_Timeline/First_Steps_Bilingual.md#stop-new-creation)
+
+
+<a id="further-study-terms"></a>
+## Further Study | 继续研读
+
+These terms occur in the deeper study route; their links point to the relevant introduction, rather than a claim about the library’s earliest word occurrence.<br>
+这些词出现在深入研读路线中；链接指向对应介绍，不主张它是全库最早的用词位置。
+
+<a id="trinity"></a>
+### Trinity | 三一／三位一体
+
+Christians confess one God as Father, Son, and Holy Spirit. The three are distinct persons, not three gods or one person wearing different masks.<br>
+基督徒承认一位神，就是父、子、圣灵。三个位格彼此有别，不是三位神，也不是一个位格轮流换角色。
+
+[Use in the study route | 在研读路线中查看](../Bilingual_Notes/2026-01-21_to_02-25_Delighting_in_the_Trinity_Discipleship_Guide.md)
+
+<a id="incarnation"></a>
+### Incarnation | 道成肉身
+
+The Son of God becomes human in Jesus without ceasing to be God. Christians use this word when reading about Jesus’ birth and life.<br>
+神的儿子在耶稣里成为人，仍然是神。基督徒用这个词谈耶稣的降生与生命。
+
+[Use in the study route | 在研读路线中查看](../Bible_Timeline/Bible_Timeline_Bilingual.md)
+
+<a id="atonement"></a>
+### Atonement | 赎罪
+
+God deals with sin and opens the way to restored relationship. Read the passage to distinguish Israel’s sacrifices from the Christian explanation of Jesus’ death.<br>
+神处理罪，使关系能够恢复。请按上下文分清以色列的献祭，与基督徒对耶稣之死的解释。
+
+[Use in the study route | 在研读路线中查看](../Bilingual_Notes/2026-02-04_Wednesday_Christ_Our_Great_High_Priest.md)
+
+<a id="justification"></a>
+### Justification | 称义
+
+God’s declaration that people are right with him through Christ, received by faith. These notes distinguish this acceptance from the changed life that follows.<br>
+神借着基督接纳人，宣告人与祂的关系归正，人凭信领受。本库笔记把这份接纳，与随后生命的改变分开说明。
+
+[Use in the study route | 在研读路线中查看](../Bilingual_Notes/2026-03-15_Sunday_Hunger_Mercy_and_Purity.md)
+
+<a id="manuscript"></a>
+### Manuscript | 抄本
+
+A handwritten copy of a text, complete or fragmentary. The date of a surviving copy is not automatically the date of the original writing or the events it describes.<br>
+用手抄写的文本，可以是整卷，也可以只剩残片。现存副本的年代，不自动等于原作或所叙事件的年代。
+
+[Use in the study route | 在研读路线中查看](../Bible_Timeline/52卷主读_逐卷四时钟年代画像.md)
+
+<a id="reception-history"></a>
+### Reception history | 接收史
+
+The study of how later readers use, explain, collect, translate, or publicly read a work. Such evidence shows later reading practices without by itself proving the events in the work.<br>
+研究后来的读者怎样使用、解释、收集、翻译或公开宣读一部作品。这些材料显示后来的阅读实践，本身不能证明作品中的事件。
+
+[Use in the study route | 在研读路线中查看](../Bible_Timeline/66卷接收史深度审计_CAT_USE_COM_LEC_VER.md)
+
+<a id="septuagint"></a>
+### Septuagint | 七十士译本
+
+A name for ancient Greek translations of Jewish scriptures. Different books were translated and revised at different times.<br>
+对犹太经典古希腊文译本的通称。不同书卷的翻译和修订发生在不同时间。
+
+[Use in the study route | 在研读路线中查看](../Bible_Timeline/两约之间至四福音_第二圣殿与罗马背景.md)
 
 [Back to First Steps | 返回第一步](../Bible_Timeline/First_Steps_Bilingual.md) · [Home | 首页](../README.md)

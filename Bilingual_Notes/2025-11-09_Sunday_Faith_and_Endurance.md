@@ -5,8 +5,8 @@
 <a id="in-three-sentences"></a>
 > **In Three Sentences | 三句话读懂本篇**
 >
-> Hebrews 12 pictures faith as a race sustained by Jesus. Encouragement and setting aside hindrances help believers endure. Grace gives this race its starting point.<br>
-> 希伯来书十二章把信心生活比作靠耶稣奔跑的赛程。彼此鼓励、放下拦阻，帮助信徒继续前行。这场赛跑从神的恩典开始。
+> Hebrews 12 pictures [faith](../Glossary/README.md#faith) as a race sustained by Jesus. Encouragement and setting aside hindrances help believers endure. [Grace](../Glossary/README.md#grace) gives this race its starting point.<br>
+> 希伯来书十二章把[信心](../Glossary/README.md#faith)生活比作靠耶稣奔跑的赛程。彼此鼓励、放下拦阻，帮助信徒继续前行。这场赛跑从神的[恩典](../Glossary/README.md#grace)开始。
 
 ## Basic Info | 基本信息
 
@@ -26,15 +26,15 @@
 ## Big Idea | 核心信息
 
 The Christian life is not a random struggle but a race prepared by God for his people. Believers run this race as citizens of heaven, strengthened by the witness of those who have gone before them, freed from hindrances, and sustained by Jesus, who both begins and completes faith.<br>
-基督徒的人生不是一场毫无方向的挣扎，而是一条神为祂子民预备好的赛道。信徒以天国公民的身份奔跑这条路，前面有信心前辈的见证，身上要放下拦阻，里面靠着耶稣得着力量，因为祂是信心的创始成终者。
+基督徒的人生不是一场毫无方向的挣扎，而是一条神为祂子民预备好的赛道。信徒以[天国](../Glossary/README.md#kingdom)公民的身份奔跑这条路，前面有信心前辈的见证，身上要放下拦阻，里面靠着耶稣得着力量，因为祂是信心的创始成终者。
 
 ## Outline | 讲道结构
 
 ### 1. The race belongs to those who belong to Christ
 
 
-The sermon distinguishes ordinary human striving from the race described in Hebrews 12. This race belongs to those who have entered by grace. It is not earned by performance. Christ has paid the cost and brought believers into a new citizenship. Therefore the Christian race is not about proving worth, but about responding to grace.<br>
-讲道把一般人生竞争与希伯来书 12 章所讲的“赛跑”区分开来。这场赛跑属于那些已经因恩典进入基督里的人。它不是靠表现换来的资格。基督已经付上代价，使信徒得以进入一个新的国度身份。所以，基督徒奔跑不是为了证明自己有价值，而是为了回应恩典。
+The sermon distinguishes ordinary human striving from the race described in Hebrews 12. This race belongs to those who have entered by grace. It is not earned by performance. [Christ](../Glossary/README.md#christ) has paid the cost and brought believers into a new citizenship. Therefore the Christian race is not about proving worth, but about responding to grace.<br>
+讲道把一般人生竞争与希伯来书 12 章所讲的“赛跑”区分开来。这场赛跑属于那些已经因恩典进入[基督](../Glossary/README.md#christ)里的人。它不是靠表现换来的资格。基督已经付上代价，使信徒得以进入一个新的国度身份。所以，基督徒奔跑不是为了证明自己有价值，而是为了回应恩典。
 
 ### 2. The cloud of witnesses gives encouragement
 
@@ -52,7 +52,7 @@ The sermon stresses that there is a difference between general encumbrances and 
 
 
 The Christian life demands endurance, not quick excitement. The sermon uses marathon imagery to show that many people either never start, stop too early, or stall out along the way. Endurance is not self-generated toughness. It is patient, Spirit-enabled continuation in the direction of Christ.<br>
-基督徒的人生需要 endurance {恒忍、持续的忍耐}，而不是短暂热情。讲道借着马拉松的图像说明，很多人要么从未真正起跑，要么太早停下，要么跑到中间就失速。真正的忍耐不是靠自己硬撑，而是靠圣灵持续地朝着基督的方向往前走。
+基督徒的人生需要 endurance {恒忍、持续的忍耐}，而不是短暂热情。讲道借着马拉松的图像说明，很多人要么从未真正起跑，要么太早停下，要么跑到中间就失速。真正的忍耐不是靠自己硬撑，而是靠[圣灵](../Glossary/README.md#holy-spirit)持续地朝着基督的方向往前走。
 
 ### 5. Jesus is the focus and the strength of the race
 
@@ -63,8 +63,8 @@ The central instruction is to fix our eyes on Jesus. He is the author and perfec
 ### 6. The race has a missional end
 
 
-Near the end, the sermon highlights reward in relational terms: bringing others toward Christ. The race is not private self-improvement. Faithful running helps others enter life. To endure well is also to keep gospel urgency alive.<br>
-在结尾部分，讲道把奖赏理解为一种与人有关的结果，就是把别人带到基督面前。属灵赛跑不是私人的自我提升项目；一个人忠心奔跑，也会帮助别人进入生命。因此，忍耐到底也意味着继续带着福音的迫切感生活。
+Near the end, the sermon highlights reward in relational terms: bringing others toward Christ. The race is not private self-improvement. Faithful running helps others enter life. To endure well is also to keep [gospel](../Glossary/README.md#gospel) urgency alive.<br>
+在结尾部分，讲道把奖赏理解为一种与人有关的结果，就是把别人带到基督面前。属灵赛跑不是私人的自我提升项目；一个人忠心奔跑，也会帮助别人进入生命。因此，忍耐到底也意味着继续带着[福音](../Glossary/README.md#gospel)的迫切感生活。
 
 ## Key Observations | 关键观察
 
@@ -90,8 +90,8 @@ The “great cloud of witnesses” is best understood in connection with Hebrews
 ### Note 2. Endurance is a major New Testament theme
 
 
-The New Testament repeatedly links endurance with maturity, hope, and final faithfulness. Endurance is not glamorous, but it is one of the clearest signs of genuine discipleship.<br>
-新约一再把忍耐与成熟、盼望和最终的忠心连接在一起。忍耐看起来不一定耀眼，却是门徒真实性很清楚的记号之一。
+The [New Testament](../Glossary/README.md#new-testament) repeatedly links endurance with maturity, hope, and final faithfulness. Endurance is not glamorous, but it is one of the clearest signs of genuine discipleship.<br>
+新约一再把忍耐与成熟、盼望和最终的忠心连接在一起。忍耐看起来不一定耀眼，却是[门徒](../Glossary/README.md#disciple)真实性很清楚的记号之一。
 
 ### Note 3. Looking to Jesus reorders comparison
 

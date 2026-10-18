@@ -5,15 +5,15 @@
 <a id="in-three-sentences"></a>
 > **In Three Sentences | 三句话读懂本篇**
 >
-> The New Testament centers on Jesus and the early communities that follow him. The Gospels, Acts, letters, and Revelation serve different purposes. Use the timeline and maps to locate a passage, then read it in context.<br>
-> 新约以耶稣和早期跟随祂的群体为中心。福音书、使徒行传、书信和启示录各有不同用途。先用时间线和地图定位，再回到上下文阅读。
+> The [New Testament](../Glossary/README.md#new-testament) centers on Jesus and the early communities that follow him. The Gospels, Acts, letters, and Revelation serve different purposes. Use the timeline and maps to locate a passage, then read it in context.<br>
+> 新约以耶稣和早期跟随祂的群体为中心。[福音](../Glossary/README.md#gospel)书、[使徒](../Glossary/README.md#apostle)行传、书信和启示录各有不同用途。先用时间线和地图定位，再回到上下文阅读。
 
 新约时间线双语版。
 Bilingual New Testament timeline.
 
 四福音开始前的希腊化、马加比、哈斯摩尼、希律家族和罗马行政背景，见[《两约之间至四福音：第二圣殿、希腊化与罗马世界》](./两约之间至四福音_第二圣殿与罗马背景.md)。
 
-四福音复活叙事关系、妇女见证语境、空墓研究模型、林前 15 的早期传统、马可福音结尾抄本、墓葬遗存和罗马材料的证据边界，见[《复活与早期见证：文本史、墓葬背景与历史研究边界》](./复活与早期见证_文本史与历史研究边界.md)。
+四福音[复活](../Glossary/README.md#resurrection)叙事关系、妇女见证语境、空墓研究模型、林前 15 的早期传统、马可福音结尾[抄本](../Glossary/README.md#manuscript)、墓葬遗存和罗马材料的证据边界，见[《复活与早期见证：文本史、墓葬背景与历史研究边界》](./复活与早期见证_文本史与历史研究边界.md)。
 
 《使徒行传》三次宣教旅程、保罗书信写作阶段、迦流年代锚点及各城市史料，见[《使徒行传与保罗书信：旅程、年代与城市史料对照》](./使徒行传与保罗书信_旅程年代与城市史料对照.md)。
 
@@ -25,14 +25,14 @@ Bilingual New Testament timeline.
 
 | Section / 章节 | Link / 跳转 |
 | --- | --- |
-| Gospel map / 福音书地图 | [Open / 打开](#gospel-map) |
+| [Gospel](../Glossary/README.md#gospel) map / 福音书地图 | [Open / 打开](#gospel-map) |
 | Big picture / 总览 | [Jump](#big-picture) |
 | Main flow / 主线流程 | [Jump](#main-flow) |
 | Timeline / 时间线 | [Jump](#timeline) |
-| New Testament book groups / 新约书卷分组 | [Jump](#new-testament-book-groups) |
+| New Testament book groups / [新约](../Glossary/README.md#new-testament)书卷分组 | [Jump](#new-testament-book-groups) |
 | Rough letter placement / 书信大致位置 | [Jump](#rough-letter-placement) |
 | What the New Testament is doing / 新约到底在做什么 | [Jump](#what-the-new-testament-is-doing) |
-| Relationship to the Old Testament / 与旧约的关系 | [Jump](#relationship-to-the-old-testament) |
+| Relationship to the [Old Testament](../Glossary/README.md#old-testament) / 与旧约的关系 | [Jump](#relationship-to-the-old-testament) |
 | Simple reading logic / 简单阅读逻辑 | [Jump](#simple-reading-logic) |
 
 <a id="gospel-map"></a>
@@ -49,23 +49,23 @@ Bilingual New Testament timeline.
 ## Big Picture | 总览
 
 
-The New Testament begins with Jesus and then shows what happens because Jesus came, died, rose, ascended, and poured out the Holy Spirit.<br>
-新约从耶稣开始，然后展开一个问题：因为耶稣来了、死了、复活了、升天了、并赐下圣灵，接下来世界发生了什么？
+The New Testament begins with Jesus and then shows what happens because Jesus came, died, rose, ascended, and poured out the [Holy Spirit](../Glossary/README.md#holy-spirit).<br>
+新约从耶稣开始，然后展开一个问题：因为耶稣来了、死了、复活了、升天了、并赐下[圣灵](../Glossary/README.md#holy-spirit)，接下来世界发生了什么？
 
 <a id="main-flow"></a>
 
 ## Main Flow | 主线流程
 
-1. Arrival of the Messiah
-   弥赛亚来到
+1. Arrival of the [Messiah](../Glossary/README.md#messiah)
+   [弥赛亚](../Glossary/README.md#messiah)来到
 2. Jesus' public ministry
    耶稣公开事工
-3. Cross and Resurrection
+3. Cross and [Resurrection](../Glossary/README.md#resurrection)
    十字架与复活
-4. Ascension and Pentecost
-   升天与五旬节
-5. Early Church
-   初代教会
+4. Ascension and [Pentecost](../Glossary/README.md#pentecost)
+   升天与[五旬节](../Glossary/README.md#pentecost)
+5. Early [Church](../Glossary/README.md#church)
+   初代[教会](../Glossary/README.md#church)
 6. Mission to the Nations
    向万国宣教
 7. Apostolic Teaching
@@ -85,8 +85,8 @@ The New Testament begins with Jesus and then shows what happens because Jesus ca
   历史背景：大希律统治晚期；路加福音 2 章与居里扭人口登记的年代衔接仍有争议
 - Main people: Jesus, Mary, Joseph, John the Baptist
   主要人物：耶稣、马利亚、约瑟、施洗约翰
-- Key themes: incarnation, fulfillment, promise, kingdom near
-  关键词：道成肉身、应验、应许、天国临近
+- Key themes: [incarnation](../Glossary/README.md#incarnation), fulfillment, promise, kingdom near
+  关键词：[道成肉身](../Glossary/README.md#incarnation)、应验、[应许](../Glossary/README.md#promise)、[天国](../Glossary/README.md#kingdom)临近
 
 #### Why it matters | 为什么重要
 
@@ -98,8 +98,8 @@ The Messiah does not appear as an isolated new idea. He arrives as the fulfillme
 
 - Main books: Matthew, Mark, Luke, John
   主要书卷：马太福音、马可福音、路加福音、约翰福音
-- Main people: Jesus, disciples, Pharisees, crowds
-  主要人物：耶稣、门徒、法利赛人、群众
+- Main people: Jesus, [disciples](../Glossary/README.md#disciple), Pharisees, crowds
+  主要人物：耶稣、[门徒](../Glossary/README.md#disciple)、法利赛人、群众
 - Key themes: kingdom, teaching, miracles, discipleship, authority
   关键词：天国、教导、神迹、门徒训练、权柄
 
@@ -115,20 +115,20 @@ Jesus reveals who God is, what the kingdom is, and what true humanity looks like
   主要书卷：四福音
 - Main people: Jesus, disciples, Roman and Jewish authorities
   主要人物：耶稣、门徒、罗马与犹太领袖
-- Key themes: atonement, sacrifice, victory, forgiveness, new life
-  关键词：赎罪、献祭、得胜、赦免、新生命
+- Key themes: [atonement](../Glossary/README.md#atonement), [sacrifice](../Glossary/README.md#sacrifice), victory, [forgiveness](../Glossary/README.md#forgiveness), new life
+  关键词：[赎罪](../Glossary/README.md#atonement)、[献祭](../Glossary/README.md#sacrifice)、得胜、[赦免](../Glossary/README.md#forgiveness)、新生命
 
 #### Why it matters | 为什么重要
 
 
-The cross is the center of redemption, and the resurrection is God's vindication of the Son and the beginning of new creation life.<br>
-十字架是救赎中心，复活则是父神对圣子的印证，也是新创造生命的开端。
+The cross is the center of [redemption](../Glossary/README.md#redemption), and the resurrection is God's vindication of the Son and the beginning of [new creation](../Glossary/README.md#new-creation) life.<br>
+十字架是[救赎](../Glossary/README.md#redemption)中心，复活则是父神对圣子的印证，也是[新创造](../Glossary/README.md#new-creation)生命的开端。
 
 ### 4. Ascension and Pentecost
 
 - Main books: Luke 24, Acts 1-2
   主要书卷：路加福音 24、使徒行传 1-2
-- Main people: Jesus, apostles, early disciples
+- Main people: Jesus, [apostles](../Glossary/README.md#apostle), early disciples
   主要人物：耶稣、使徒、早期门徒
 - Key themes: exaltation, Spirit, witness, church begins
   关键词：高升、圣灵、见证、教会开始
@@ -151,8 +151,8 @@ Jesus is not absent after ascension. He reigns and continues his work through th
 #### Why it matters | 为什么重要
 
 
-The church is shown not as a side project but as the Spirit-formed people of the risen Christ.<br>
-这里显明，教会不是附带项目，而是复活基督借圣灵所塑造的群体。
+The church is shown not as a side project but as the Spirit-formed people of the risen [Christ](../Glossary/README.md#christ).<br>
+这里显明，教会不是附带项目，而是复活[基督](../Glossary/README.md#christ)借圣灵所塑造的群体。
 
 ### 6. Mission to the Nations
 
@@ -160,8 +160,8 @@ The church is shown not as a side project but as the Spirit-formed people of the
   主要书卷：使徒行传 8-28
 - Main people: Philip, Peter, Paul, Barnabas, many churches
   主要人物：腓利、彼得、保罗、巴拿巴、许多地方教会
-- Key themes: gospel expansion, Gentiles included, suffering, mission
-  关键词：福音扩展、外邦人被接纳、受苦、宣教
+- Key themes: gospel expansion, [Gentiles](../Glossary/README.md#gentile) included, suffering, mission
+  关键词：福音扩展、[外邦人](../Glossary/README.md#gentile)被接纳、受苦、宣教
 
 #### Why it matters | 为什么重要
 
@@ -190,7 +190,7 @@ The letters explain what Jesus' work means for the church's belief, worship, eth
   主要书卷：启示录
 - Main people: John, the churches, the victorious Christ
   主要人物：约翰、众教会、得胜的基督
-- Key themes: judgment, victory, worship, perseverance, new creation
+- Key themes: judgment, victory, worship, perseverance, new [creation](../Glossary/README.md#creation)
   关键词：审判、得胜、敬拜、忍耐、新创造
 
 #### Why it matters | 为什么重要

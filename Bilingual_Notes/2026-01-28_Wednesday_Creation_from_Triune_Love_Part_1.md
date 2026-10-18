@@ -5,8 +5,8 @@
 <a id="in-three-sentences"></a>
 > **In Three Sentences | 三句话读懂本篇**
 >
-> God’s love is complete before creation. Creation freely flows from the love of Father, Son, and Spirit. These notes present created life as a gift to receive and reflect.<br>
-> 神的爱在创造以前已经完全。创造自由地流出父、子、圣灵的爱。本篇把受造生命理解为可以领受并回应的礼物。
+> God’s love is complete before [creation](../Glossary/README.md#creation). Creation freely flows from the love of Father, Son, and Spirit. These notes present created life as a gift to receive and reflect.<br>
+> 神的爱在[创造](../Glossary/README.md#creation)以前已经完全。创造自由地流出父、子、[圣灵](../Glossary/README.md#holy-spirit)的爱。本篇把受造生命理解为可以领受并回应的礼物。
 
 ## Basic Info | 基本信息
 
@@ -14,8 +14,8 @@
   日期：2026-01-28（周三）
 - Type: Wednesday Fellowship
   类型：周三团契
-- Topic: Triune God and creation
-  主题：三一神与创造
+- Topic: [Triune](../Glossary/README.md#trinity) God and creation
+  主题：[三一](../Glossary/README.md#trinity)神与创造
 - Big idea: The Father, Son, and Spirit eternally live in self-giving love; creation is a free overflow of that love, not something God needed in order to become loving.
   核心信息：父、子、圣灵在永恒中活在舍己的爱里；创造是这爱自由的涌流，不是神为了成为有爱而必须拥有的对象。
 
@@ -29,7 +29,7 @@ See the [course guide | 课程总览](./2026-01-21_to_02-25_Delighting_in_the_Tr
 
 ## Big Idea | 核心信息
 
-The discussion contrasts the triune God with an imagined solitary deity who would need creation in order to have someone to love. Christian faith confesses instead that God is eternally Father, Son, and Spirit. His creation is therefore gift: it springs from abundance, not lack, and calls creatures to receive and reflect his generous love.<br>
+The discussion contrasts the triune God with an imagined solitary deity who would need creation in order to have someone to love. Christian [faith](../Glossary/README.md#faith) confesses instead that God is eternally Father, Son, and Spirit. His creation is therefore gift: it springs from abundance, not lack, and calls creatures to receive and reflect his generous love.<br>
 讨论把三一神与一种假想的孤立神观作对比：若神必须先创造对象才能去爱，祂的爱就像依赖受造物。基督教信仰则宣认神永恒是父、子、圣灵。因此创造是礼物：它出于丰盛而非缺乏，并呼召受造者领受、反映祂慷慨的爱。
 
 ## Outline | 讲道结构
@@ -54,7 +54,7 @@ Being made in God's image includes a call away from self-enclosed consumption to
 ### A theological inference, not a proof | 神学推论，不是形式证明
 
 The claim that triune love illuminates creation is a classic Christian theological inference. It should be held together with Scripture's direct witness to God as Creator and Redeemer, not used as a philosophical shortcut that settles every question about other religions or every problem of evil.<br>
-“三一之爱照亮创造意义”是经典的基督教神学推论。它应与圣经对神作为创造主、救赎主的直接见证一同持守，而不能被当作哲学捷径，去解决所有其他宗教问题或所有邪恶问题。
+“三一之爱照亮创造意义”是经典的基督教神学推论。它应与[圣经](../Glossary/README.md#bible)对神作为创造主、[救赎](../Glossary/README.md#redemption)主的直接见证一同持守，而不能被当作哲学捷径，去解决所有其他宗教问题或所有邪恶问题。
 
 ## Reflection Questions | 反思问题
 

@@ -29,7 +29,7 @@ The order is narrative, not a proportional timescale. Early date ranges are deba
 | [Before you begin](#before-you-begin) | [开始前](#before-you-begin) |
 | [30-minute first reading](#thirty-minute-route) | [30 分钟第一次阅读](#thirty-minute-route) |
 | [Four-week first steps](#four-week-route) | [前四周](#four-week-route) |
-| [Glossary: 43 words](../Glossary/README.md) | [43词词汇表](../Glossary/README.md) |
+| [Glossary: 50 words](../Glossary/README.md) | [50词词汇表](../Glossary/README.md) |
 | [Small glossary](#glossary) | [术语小表](#glossary) |
 | [What to read next](#next-steps) | [下一步读什么](#next-steps) |
 

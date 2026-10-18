@@ -10,8 +10,8 @@
 
 ## Basic Info | 基本信息
 
-- Title: Worship and Sacrifice Sermon
-  标题：敬拜与献祭
+- Title: Worship and [Sacrifice](../Glossary/README.md#sacrifice) Sermon
+  标题：敬拜与[献祭](../Glossary/README.md#sacrifice)
 - Date: 2025-11-02
   日期：2025-11-02
 - Day: Sunday
@@ -25,8 +25,8 @@
 
 ## Big Idea | 核心信息
 
-Christian worship is not limited to singing or attending church services. Real worship is the daily presentation of one's whole self to God. Because of God's mercy shown in Christ, believers are called to live as living sacrifices, refusing the mold of the world and allowing God to renew the mind.<br>
-基督徒的敬拜不只是唱诗或参加聚会。真正的敬拜，是每天把整个人献给神。因着神在基督里所显出的怜悯，信徒被呼召活成“活祭”，不再被世界塑造，而是让神更新自己的心思意念。
+Christian worship is not limited to singing or attending [church](../Glossary/README.md#church) services. Real worship is the daily presentation of one's whole self to God. Because of God's mercy shown in [Christ](../Glossary/README.md#christ), believers are called to live as living sacrifices, refusing the mold of the world and allowing God to renew the mind.<br>
+基督徒的敬拜不只是唱诗或参加聚会。真正的敬拜，是每天把整个人献给神。因着神在[基督](../Glossary/README.md#christ)里所显出的怜悯，信徒被呼召活成“活祭”，不再被世界塑造，而是让神更新自己的心思意念。
 
 ## Outline | 讲道结构
 
@@ -39,14 +39,14 @@ The sermon begins with Paul's logic in Romans 12:1: “in view of God's mercies.
 ### 2. Believers are called to be living sacrifices
 
 
-Paul's phrase “living sacrifice” sounds paradoxical, but it makes sense in light of the Old Testament sacrificial system and the cross of Christ. Animal sacrifices pointed forward to Jesus, the final sacrifice. Now believers do not climb on the altar to die for sin; Christ has already done that. Instead, believers climb on the altar daily in surrender, devotion, and obedience.<br>
-保罗所说的“活祭”听起来像悖论，但放在旧约献祭制度和基督十字架里就能明白。旧约的祭牲都在预表耶稣这位终极祭物。如今，信徒不是靠自己上祭坛来赎罪，因为基督已经完成了赎罪；信徒所做的，是每天以降服、委身和顺服的态度，把自己摆在神面前。
+Paul's phrase “living sacrifice” sounds paradoxical, but it makes sense in light of the [Old Testament](../Glossary/README.md#old-testament) sacrificial system and the cross of Christ. Animal sacrifices pointed forward to Jesus, the final sacrifice. Now believers do not climb on the altar to die for sin; Christ has already done that. Instead, believers climb on the altar daily in surrender, devotion, and obedience.<br>
+保罗所说的“活祭”听起来像悖论，但放在旧约献祭制度和基督十字架里就能明白。旧约的祭牲都在预表耶稣这位终极祭物。如今，信徒不是靠自己上祭坛来[赎罪](../Glossary/README.md#atonement)，因为基督已经完成了赎罪；信徒所做的，是每天以降服、委身和顺服的态度，把自己摆在神面前。
 
 ### 3. Worship includes the whole body and daily life
 
 
 The sermon emphasizes that “offer your bodies” means all of life belongs to God. Worship includes speech, sexuality, relationships, habits, thought patterns, and daily choices. Corporate worship is important, but it is incomplete if the rest of life remains untouched. A person can sing loudly in church and still refuse God in ordinary behavior.<br>
-讲道特别强调，“献上身体”表示整个人生都属于神。敬拜包含言语、性方面的圣洁、人际关系、生活习惯、思维模式和每天的决定。群体敬拜固然重要，但如果生活其他部分没有被神触摸，那敬拜就是不完整的。一个人可以在教会里唱得很投入，却在日常行为上拒绝神。
+讲道特别强调，“献上身体”表示整个人生都属于神。敬拜包含言语、性方面的圣洁、人际关系、生活习惯、思维模式和每天的决定。群体敬拜固然重要，但如果生活其他部分没有被神触摸，那敬拜就是不完整的。一个人可以在[教会](../Glossary/README.md#church)里唱得很投入，却在日常行为上拒绝神。
 
 ### 4. The mind must be renewed instead of conformed
 
@@ -58,7 +58,7 @@ Romans 12:2 warns against being conformed to the world's pattern. The sermon app
 
 
 One practical thrust of the sermon is that God's will is not generic. It is specific and good. The speaker argues that even the most attractive self-designed life cannot compare with God's design. Many people want the “best version of themselves,” but biblical transformation is deeper: dying to self and being reshaped by God.<br>
-这篇讲道一个很实际的推动点是：神的旨意不是空泛的，而是具体而美善的。讲员指出，一个人自己设计得再吸引人的人生，也比不上神为他预备的道路。很多人想追求“最好的自己”，但圣经里的改变更深，它不是自我升级，而是向己死，并被神重新塑造。
+这篇讲道一个很实际的推动点是：神的旨意不是空泛的，而是具体而美善的。讲员指出，一个人自己设计得再吸引人的人生，也比不上神为他预备的道路。很多人想追求“最好的自己”，但[圣经](../Glossary/README.md#bible)里的改变更深，它不是自我升级，而是向己死，并被神重新塑造。
 
 ## Key Observations | 关键观察
 
@@ -78,14 +78,14 @@ One practical thrust of the sermon is that God's will is not generic. It is spec
 ### Note 1. Romans 12 follows Romans 1-11
 
 
-Romans 12 is powerful partly because it comes after eleven chapters of gospel theology. The command to present oneself to God rests on God's saving action, not on human effort alone.<br>
-罗马书 12 章之所以有力量，一个原因是它建立在前面十一章的福音神学之上。信徒把自己献给神，不是孤立的道德要求，而是建立在神已经施行拯救这件事上。
+Romans 12 is powerful partly because it comes after eleven chapters of [gospel](../Glossary/README.md#gospel) theology. The command to present oneself to God rests on God's saving action, not on human effort alone.<br>
+罗马书 12 章之所以有力量，一个原因是它建立在前面十一章的[福音](../Glossary/README.md#gospel)神学之上。信徒把自己献给神，不是孤立的道德要求，而是建立在神已经施行拯救这件事上。
 
 ### Note 2. “Living sacrifice” is covenant language
 
 
-The phrase is rooted in sacrificial imagery, but in the New Testament it becomes covenant life language. Believers belong to God because they were bought by Christ, and their lives now become thankful offerings.<br>
-“活祭”这个说法根植于献祭图像，但到了新约，它也成了立约生命的语言。信徒因着基督的救赎归给神，所以整个人生变成感恩的献上。
+The phrase is rooted in sacrificial imagery, but in the [New Testament](../Glossary/README.md#new-testament) it becomes [covenant](../Glossary/README.md#covenant) life language. Believers belong to God because they were bought by Christ, and their lives now become thankful offerings.<br>
+“活祭”这个说法根植于献祭图像，但到了新约，它也成了[立约](../Glossary/README.md#covenant)生命的语言。信徒因着基督的[救赎](../Glossary/README.md#redemption)归给神，所以整个人生变成感恩的献上。
 
 ### Note 3. Discernment requires formation
 

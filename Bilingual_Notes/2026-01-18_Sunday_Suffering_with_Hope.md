@@ -5,8 +5,8 @@
 <a id="in-three-sentences"></a>
 > **In Three Sentences | 三句话读懂本篇**
 >
-> First Peter 4 calls suffering believers to entrust themselves to the faithful Creator. Sharing Christ’s path gives hope while pain remains real. The continuing call is to do good.<br>
-> 彼得前书四章呼召受苦的信徒把自己交托给信实的创造主。与基督同行带来盼望，痛苦仍是真实的。持续的呼召是继续行善。
+> First Peter 4 calls suffering believers to entrust themselves to the faithful Creator. Sharing [Christ](../Glossary/README.md#christ)’s path gives hope while pain remains real. The continuing call is to do good.<br>
+> 彼得前书四章呼召受苦的信徒把自己交托给信实的创造主。与[基督](../Glossary/README.md#christ)同行带来盼望，痛苦仍是真实的。持续的呼召是继续行善。
 
 ## Basic Info | 基本信息
 
@@ -21,8 +21,8 @@
 
 ## Big Idea | 核心信息
 
-Peter tells believers not to be surprised by fiery trial. Suffering for Christ does not prove that God has abandoned his people; it can reveal and refine faith, identify believers with Christ, and become an occasion for the Spirit's sustaining presence. The enduring call is neither passivity nor denial: entrust yourself to God and keep doing good.<br>
-彼得告诉信徒，不要以火炼般的试验为奇怪。为基督受苦并不证明神离弃祂的子民；它能显明并炼净信心，使信徒与基督认同，也成为圣灵扶持同在的处境。持续的呼召既不是消极，也不是否认痛苦：把自己交托给神，并继续行善。
+Peter tells believers not to be surprised by fiery trial. Suffering for Christ does not prove that God has abandoned his people; it can reveal and refine [faith](../Glossary/README.md#faith), identify believers with Christ, and become an occasion for the Spirit's sustaining presence. The enduring call is neither passivity nor denial: entrust yourself to God and keep doing good.<br>
+彼得告诉信徒，不要以火炼般的试验为奇怪。为基督受苦并不证明神离弃祂的子民；它能显明并炼净[信心](../Glossary/README.md#faith)，使信徒与基督认同，也成为[圣灵](../Glossary/README.md#holy-spirit)扶持同在的处境。持续的呼召既不是消极，也不是否认痛苦：把自己交托给神，并继续行善。
 
 ## Outline | 讲道结构
 

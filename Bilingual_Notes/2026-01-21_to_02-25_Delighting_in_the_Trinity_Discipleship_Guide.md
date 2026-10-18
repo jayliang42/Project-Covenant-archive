@@ -5,20 +5,20 @@
 <a id="in-three-sentences"></a>
 > **In Three Sentences | 三句话读懂本篇**
 >
-> This guide links the stored notes about the Father, Son, and Holy Spirit. It offers a route for reading Delighting in the Trinity alongside Scripture. The suggested session-to-chapter matches still need checking against an authorized teaching source.<br>
-> 本篇串联有关父、子、圣灵的已有笔记。它提供一条配合经文阅读《喜乐于三一神》的路线。聚会与章节的对应仍须对照获准使用的教学来源核实。
+> This guide links the stored notes about the Father, Son, and [Holy Spirit](../Glossary/README.md#holy-spirit). It offers a route for reading Delighting in the [Trinity](../Glossary/README.md#trinity) alongside Scripture. The suggested session-to-chapter matches still need checking against an authorized teaching source.<br>
+> 本篇串联有关父、子、[圣灵](../Glossary/README.md#holy-spirit)的已有笔记。它提供一条配合经文阅读《喜乐于[三一](../Glossary/README.md#trinity)神》的路线。聚会与章节的对应仍须对照获准使用的教学来源核实。
 
 > **Training window | 训练时段：** 2026-01-21 to 2026-02-25
 >
-> **Primary book | 主教材：** Michael Reeves, *Delighting in the Trinity: An Introduction to the Christian Faith*
+> **Primary book | 主教材：** Michael Reeves, *Delighting in the Trinity: An Introduction to the Christian [Faith](../Glossary/README.md#faith)*
 >
 > **How to use this guide | 使用方式：** Read this alongside the seven dated fellowship notes listed below. This guide connects the sessions, clarifies the theological tradition, and adds a careful reading path; it does not replace the original teaching notes.<br>
 > 请把本页与下列七篇按日期整理的团契笔记一起阅读。本页负责串联课程、说明神学传统，并补充谨慎的阅读路线；它不取代原有笔记。
 
 ## What This Training Is | 这套训练是什么
 
-This appears to be a **discipleship training {门徒训练}** built around Reeves's five-chapter introduction to the Trinity. Its purpose is not merely to make “Trinity” easier to diagram. It traces how the Father, Son, and Spirit shape creation, salvation, prayer, Scripture reading, holiness, church life, and hope.<br>
-这看起来是一套以 Reeves 五章《喜乐于三一神》为主线的门徒训练。它的目标不只是把“三一”画成一个容易理解的图表，而是追问父、子、圣灵如何塑造创造、救恩、祷告、读经、圣洁、教会生活与盼望。
+This appears to be a **discipleship training {[门徒](../Glossary/README.md#disciple)训练}** built around Reeves's five-chapter introduction to the Trinity. Its purpose is not merely to make “Trinity” easier to diagram. It traces how the Father, Son, and Spirit shape [creation](../Glossary/README.md#creation), [salvation](../Glossary/README.md#salvation), prayer, Scripture reading, holiness, [church](../Glossary/README.md#church) life, and hope.<br>
+这看起来是一套以 Reeves 五章《喜乐于三一神》为主线的门徒训练。它的目标不只是把“三一”画成一个容易理解的图表，而是追问父、子、圣灵如何塑造[创造](../Glossary/README.md#creation)、[救恩](../Glossary/README.md#salvation)、祷告、读经、圣洁、[教会](../Glossary/README.md#church)生活与盼望。
 
 The IVP edition is a 135-page introduction first published in 2012. Its chapter sequence supplies a strong match for the January–February notes in this library. [Publisher page | 出版社页面](https://ivpress.com/delighting-in-the-trinity)
 
@@ -28,13 +28,13 @@ IVP 版本共 135 页，初版于 2012 年。它的章节顺序与资料库中�
 
 ### A careful description | 谨慎的定位
 
-This course is **not a separate denomination {宗派}**. It is best read within the family of **historic, Nicene, evangelical Protestant Christianity**, with a public theological alignment that is **Reformed-evangelical / gospel-centered**. That wording describes a theological framework, not a claim about a formal denominational membership.<br>
-这套课程**不是一个独立的宗派**。较准确的理解是：它位于**历史上、尼西亚正统、福音派新教**的范围内；其公开神学取向可描述为**改革宗福音派／以福音为中心**。这描述的是神学框架，并不等于断言教会属于某一个正式宗派。
+This course is **not a separate denomination {宗派}**. It is best read within the family of **historic, Nicene, evangelical Protestant Christianity**, with a public theological alignment that is **Reformed-evangelical / [gospel](../Glossary/README.md#gospel)-centered**. That wording describes a theological framework, not a claim about a formal denominational membership.<br>
+这套课程**不是一个独立的宗派**。较准确的理解是：它位于**历史上、尼西亚正统、福音派新教**的范围内；其公开神学取向可描述为**改革宗福音派／以[福音](../Glossary/README.md#gospel)为中心**。这描述的是神学框架，并不等于断言教会属于某一个正式宗派。
 
 | Question | What can be said responsibly | 阅读边界 |
 | --- | --- | --- |
 | **What does “historic/Nicene” mean?** | One God eternally exists as Father, Son, and Holy Spirit: three distinct persons, each fully and equally God. | This rules out three gods, a created Son, and the idea that one person merely changes masks. |
-| **Why “evangelical Protestant”?** | The surrounding church context publicly presents salvation through Christ's life, substitutionary death, and resurrection, and emphasizes Scripture, conversion, discipleship, and mission. | “Evangelical” is a broad family name, not a complete statement of every doctrine. |
+| **Why “evangelical Protestant”?** | The surrounding church context publicly presents salvation through [Christ](../Glossary/README.md#christ)'s life, substitutionary death, and [resurrection](../Glossary/README.md#resurrection), and emphasizes Scripture, conversion, discipleship, and mission. | “Evangelical” is a broad family name, not a complete statement of every doctrine. |
 | **Why “Reformed-evangelical / gospel-centered”?** | Mission House Church says it holds the historic Christian doctrines reflected in The Gospel Coalition's statement; TGC describes itself as a fellowship of evangelical churches in the Reformed tradition. | This shows public doctrinal alignment. It does **not** by itself prove a formal denominational affiliation. |
 | **What is the local practice?** | The church describes Sunday house gatherings, Wednesday servant-leader fellowship, Christ-centered reading of Scripture, and reliance on the Spirit's presence and power. | A practice or emphasis should not be inflated into a detailed confession on every disputed issue. |
 
@@ -75,12 +75,12 @@ The Christian confession is not “three gods working together,” nor “one di
 ### 2. The Son is eternally Son, and the Spirit is personal | 子永远为子，圣灵是位格
 
 “Father” and “Son” name eternal relations in God; they do not mean that the Son was made later or is less divine. Christian tradition speaks of the Father eternally begetting the Son. Likewise, the Holy Spirit is not an impersonal force, mood, or technique, but the divine person who makes Christ's life present to his people.<br>
-“父”与“子”指向神里面永恒的关系；它们不表示子后来才被造，或比父较低。历史教会常说父永恒地生子。照样，圣灵不是一种非人格的力量、情绪或方法，而是使基督的生命临到其子民的神圣位格。
+“父”与“子”指向神里面永恒的关系；它们不表示子后来才被造，或比父较低。历史教会常说父永恒地生子。照样，圣灵不是一种非人格的力量、情绪或方法，而是使[基督](../Glossary/README.md#christ)的生命临到其子民的神圣位格。
 
 ### 3. Creation and salvation are the work of the triune God | 创造与救恩是三一神的工作
 
-The Father sends, the Son becomes incarnate and redeems, and the Spirit applies and indwells. These are real distinctions in the persons' missions; they are not three disconnected projects. The whole triune God acts in creation and redemption. A needed safeguard: the Son alone assumed human flesh and suffered and died in that human nature. The Father did not become incarnate or die on the cross.<br>
-父差遣，子道成肉身并施行救赎，圣灵把救恩施行在信徒身上并住在其中。这些是位格使命上真实的分别，却不是三个互不相干的项目。创造与救赎都是整位三一神的工作。一个必要的界线是：只有子取了人性，并在人性中受苦、受死；父并没有道成肉身或死在十字架上。
+The Father sends, the Son becomes incarnate and redeems, and the Spirit applies and indwells. These are real distinctions in the persons' missions; they are not three disconnected projects. The whole triune God acts in creation and [redemption](../Glossary/README.md#redemption). A needed safeguard: the Son alone assumed human flesh and suffered and died in that human nature. The Father did not become incarnate or die on the cross.<br>
+父差遣，子[道成肉身](../Glossary/README.md#incarnation)并施行[救赎](../Glossary/README.md#redemption)，圣灵把救恩施行在信徒身上并住在其中。这些是位格使命上真实的分别，却不是三个互不相干的项目。创造与救赎都是整位三一神的工作。一个必要的界线是：只有子取了人性，并在人性中受苦、受死；父并没有道成肉身或死在十字架上。
 
 ### 4. Divine love is holy love | 神的爱是圣洁的爱
 
@@ -94,7 +94,7 @@ Read these passages slowly, observing first what each says before importing a co
 
 | Focus | Suggested passages | 观察方向 |
 | --- | --- | --- |
-| Father, Son, Spirit revealed | Matthew 3:13–17; Matthew 28:18–20; 2 Corinthians 13:14 | 三个位格如何同在、差遣并祝福？ |
+| Father, Son, Spirit revealed | Matthew 3:13–17; Matthew 28:18–20; 2 Corinthians 13:14 | 三个位格如何同在、差遣并[祝福](../Glossary/README.md#blessing)？ |
 | The Son and the Father | John 1:1–18; John 17:1–26; Colossians 1:15–20 | 子是谁？祂如何显明父？ |
 | Adoption and the Spirit | Romans 8:9–17; Galatians 4:4–7; Ephesians 1:3–14 | 救恩如何使我们成为儿女，并借圣灵属于基督？ |
 | Christ's priesthood and saving work | Hebrews 4:14–16; Hebrews 7:23–28; Hebrews 9:11–15 | 为什么中保必须是真神也是真人？ |

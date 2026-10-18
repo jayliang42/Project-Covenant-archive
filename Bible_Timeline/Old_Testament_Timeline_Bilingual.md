@@ -5,8 +5,8 @@
 <a id="in-three-sentences"></a>
 > **In Three Sentences | 三句话读懂本篇**
 >
-> The Old Testament moves from creation through promise, rescue, kingdom, and exile. Return brings a new beginning but does not resolve every problem. The dates here are approximate, and several early periods remain disputed.<br>
-> 旧约从创造走向应许、拯救、王国与被掳。归回带来新开始，但并非所有问题都已解决。这里的年代是大致估计，部分早期阶段仍有争议。
+> The [Old Testament](../Glossary/README.md#old-testament) moves from [creation](../Glossary/README.md#creation) through promise, rescue, kingdom, and [exile](../Glossary/README.md#exile). Return brings a new beginning but does not resolve every problem. The dates here are approximate, and several early periods remain disputed.<br>
+> 旧约从[创造](../Glossary/README.md#creation)走向[应许](../Glossary/README.md#promise)、拯救、王国与[被掳](../Glossary/README.md#exile)。归回带来新开始，但并非所有问题都已解决。这里的年代是大致估计，部分早期阶段仍有争议。
 
 旧约时间线双语版。
 Bilingual Old Testament timeline.
@@ -18,9 +18,9 @@ Bilingual Old Testament timeline.
 | Big picture / 总览 | [Jump](#big-picture) |
 | Main flow / 主线流程 | [Jump](#main-flow) |
 | Timeline / 时间线 | [Jump](#timeline) |
-| Old Testament book groups / 旧约书卷分组 | [Jump](#old-testament-book-groups) |
+| Old Testament book groups / [旧约](../Glossary/README.md#old-testament)书卷分组 | [Jump](#old-testament-book-groups) |
 | What the Old Testament is doing / 旧约到底在做什么 | [Jump](#what-the-old-testament-is-doing) |
-| Bridge to the New Testament / 走向新约的桥 | [Jump](#bridge-to-the-new-testament) |
+| Bridge to the [New Testament](../Glossary/README.md#new-testament) / 走向新约的桥 | [Jump](#bridge-to-the-new-testament) |
 
 <a id="big-picture"></a>
 
@@ -40,8 +40,8 @@ The Old Testament moves from creation to exile and partial return. Its central q
    洪水与挪亚
 3. Abraham and the Patriarchs
    亚伯拉罕与列祖
-4. Exodus and Sinai
-   出埃及与西奈
+4. [Exodus](../Glossary/README.md#exodus) and Sinai
+   [出埃及](../Glossary/README.md#exodus)与西奈
 5. Wilderness
    旷野时期
 6. Conquest and Judges
@@ -71,8 +71,8 @@ The Old Testament moves from creation to exile and partial return. Its central q
 #### Why it matters | 为什么重要
 
 
-Everything begins here: human dignity, human rebellion, and the need for redemption.<br>
-一切都从这里开始：人的尊严、人的悖逆，以及救赎的必要。
+Everything begins here: human dignity, human rebellion, and the need for [redemption](../Glossary/README.md#redemption).<br>
+一切都从这里开始：人的尊严、人的悖逆，以及[救赎](../Glossary/README.md#redemption)的必要。
 
 ### 2. Flood and Noah
 
@@ -80,8 +80,8 @@ Everything begins here: human dignity, human rebellion, and the need for redempt
   主要书卷：创世记 6-9
 - Main people: Noah
   主要人物：挪亚
-- Key themes: judgment, mercy, preservation, covenant
-  关键词：审判、怜悯、保守、立约
+- Key themes: judgment, mercy, preservation, [covenant](../Glossary/README.md#covenant)
+  关键词：审判、怜悯、保守、[立约](../Glossary/README.md#covenant)
 
 #### Why it matters | 为什么重要
 
@@ -95,14 +95,14 @@ God judges evil, but he does not abandon his world. He preserves history for the
   主要书卷：创世记 12-50
 - Main people: Abraham, Isaac, Jacob, Joseph
   主要人物：亚伯拉罕、以撒、雅各、约瑟
-- Key themes: promise, covenant, offspring, land, blessing to nations
+- Key themes: promise, covenant, offspring, land, [blessing](../Glossary/README.md#blessing) to nations
   关键词：应许、立约、后裔、土地、万国得福
 
 #### Why it matters | 为什么重要
 
 
 God narrows the story line into one family, not to exclude the nations forever, but to bless them through that family.<br>
-神把故事线收束到一个家族中，并不是永远排除万国，而是要借这个家族祝福万国。
+神把故事线收束到一个家族中，并不是永远排除万国，而是要借这个家族[祝福](../Glossary/README.md#blessing)万国。
 
 ### 4. Exodus and Sinai
 
@@ -110,8 +110,8 @@ God narrows the story line into one family, not to exclude the nations forever, 
   主要书卷：出埃及记、利未记、民数记、申命记
 - Main people: Moses, Aaron
   主要人物：摩西、亚伦
-- Key themes: redemption, law, holiness, tabernacle, covenant people
-  关键词：救赎、律法、圣洁、会幕、约民
+- Key themes: redemption, law, holiness, [tabernacle](../Glossary/README.md#tabernacle), covenant people
+  关键词：救赎、律法、圣洁、[会幕](../Glossary/README.md#tabernacle)、约民
 
 #### Why it matters | 为什么重要
 
@@ -123,8 +123,8 @@ God not only saves a people from slavery; he forms them into a people who belong
 
 - Main books: Numbers, Deuteronomy
   主要书卷：民数记、申命记
-- Main people: Moses, Joshua, Israel
-  主要人物：摩西、约书亚、以色列民
+- Main people: Moses, Joshua, [Israel](../Glossary/README.md#israel)
+  主要人物：摩西、约书亚、[以色列](../Glossary/README.md#israel)民
 - Key themes: testing, unbelief, discipline, preparation
   关键词：试炼、不信、管教、预备
 
@@ -151,12 +151,12 @@ Israel receives the land, but life in the land shows that external settlement do
 
 ### 7. United Kingdom
 
-- Main books: 1-2 Samuel, 1 Kings 1-11, 1 Chronicles, parts of Psalms and Proverbs
-  主要书卷：撒母耳记上下、列王纪上 1-11、历代志上、部分诗篇和箴言
+- Main books: 1-2 Samuel, 1 Kings 1-11, 1 Chronicles, parts of [Psalms](../Glossary/README.md#psalm) and Proverbs
+  主要书卷：撒母耳记上下、列王纪上 1-11、历代志上、部分[诗篇](../Glossary/README.md#psalm)和箴言
 - Main people: Samuel, Saul, David, Solomon
   主要人物：撒母耳、扫罗、大卫、所罗门
-- Key themes: kingship, covenant, temple, wisdom, glory, decline
-  关键词：王权、圣约、圣殿、智慧、荣耀、衰退
+- Key themes: kingship, covenant, [temple](../Glossary/README.md#temple), [wisdom](../Glossary/README.md#wisdom), glory, decline
+  关键词：王权、圣约、[圣殿](../Glossary/README.md#temple)、[智慧](../Glossary/README.md#wisdom)、荣耀、衰退
 
 #### Why it matters | 为什么重要
 
@@ -166,10 +166,10 @@ This is the high point of Old Testament national life, yet even here sin already
 
 ### 8. Divided Kingdom
 
-- Main books: 1 Kings 12-22, 2 Kings, 2 Chronicles, many prophets
-  主要书卷：列王纪上 12-22、列王纪下、历代志下、许多先知书
-- Main people: kings of Israel and Judah, Elijah, Elisha, Isaiah, Jeremiah, others
-  主要人物：以色列与犹大的诸王、以利亚、以利沙、以赛亚、耶利米等
+- Main books: 1 Kings 12-22, 2 Kings, 2 Chronicles, many [prophets](../Glossary/README.md#prophet)
+  主要书卷：列王纪上 12-22、列王纪下、历代志下、许多[先知](../Glossary/README.md#prophet)书
+- Main people: kings of Israel and [Judah](../Glossary/README.md#judah), Elijah, Elisha, Isaiah, Jeremiah, others
+  主要人物：以色列与[犹大](../Glossary/README.md#judah)的诸王、以利亚、以利沙、以赛亚、耶利米等
 - Key themes: idolatry, prophetic warning, reform, decline, judgment
   关键词：偶像崇拜、先知警告、改革、衰败、审判
 
@@ -200,14 +200,14 @@ Exile looks like the collapse of everything, but it becomes the place where God 
   主要书卷：以斯拉记、尼希米记、以斯帖记、哈该书、撒迦利亚书、玛拉基书
 - Main people: Zerubbabel, Ezra, Nehemiah, Esther
   主要人物：所罗巴伯、以斯拉、尼希米、以斯帖
-- Key themes: rebuilding, repentance, weakness, unfinished hope
-  关键词：重建、悔改、软弱、未完成的盼望
+- Key themes: rebuilding, [repentance](../Glossary/README.md#repentance), weakness, unfinished hope
+  关键词：重建、[悔改](../Glossary/README.md#repentance)、软弱、未完成的盼望
 
 #### Why it matters | 为什么重要
 
 
-The people come back, but the story still feels incomplete. This creates deep expectation for the Messiah.<br>
-百姓虽然回来了，但故事仍然显得没有完成，这就带来对弥赛亚更深的等待。
+The people come back, but the story still feels incomplete. This creates deep expectation for the [Messiah](../Glossary/README.md#messiah).<br>
+百姓虽然回来了，但故事仍然显得没有完成，这就带来对[弥赛亚](../Glossary/README.md#messiah)更深的等待。
 
 <a id="old-testament-book-groups"></a>
 
@@ -264,13 +264,13 @@ By the end of the Old Testament, readers are still waiting:<br>
 
 - for a true king,
   等待真正的王，
-- for deeper forgiveness,
-  等待更深的赦免，
+- for deeper [forgiveness](../Glossary/README.md#forgiveness),
+  等待更深的[赦免](../Glossary/README.md#forgiveness)，
 - for a faithful people,
   等待真正忠心的子民，
 - for a better temple,
   等待更好的圣殿，
 - for the Spirit,
-  等待圣灵，
+  等待[圣灵](../Glossary/README.md#holy-spirit)，
 - for the Messiah.
   等待弥赛亚。

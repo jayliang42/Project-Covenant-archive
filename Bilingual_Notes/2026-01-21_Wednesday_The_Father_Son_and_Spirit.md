@@ -5,8 +5,8 @@
 <a id="in-three-sentences"></a>
 > **In Three Sentences | 三句话读懂本篇**
 >
-> These notes approach God’s love through Father, Son, and Spirit. The Father’s love exists before creation. Salvation brings people into that love.<br>
-> 本篇从父、子、圣灵的关系理解神的爱。父的爱在创造以前已存在。救恩把人带入这份爱中。
+> These notes approach God’s love through Father, Son, and Spirit. The Father’s love exists before [creation](../Glossary/README.md#creation). [Salvation](../Glossary/README.md#salvation) brings people into that love.<br>
+> 本篇从父、子、[圣灵](../Glossary/README.md#holy-spirit)的关系理解神的爱。父的爱在[创造](../Glossary/README.md#creation)以前已存在。[救恩](../Glossary/README.md#salvation)把人带入这份爱中。
 
 ## Basic Info | 基本信息
 
@@ -17,14 +17,14 @@
 - Topic: Understanding God's Fatherhood
   主题：理解神的父性
 - Main texts considered: Scripture's Father-Son-Spirit language, especially Jesus' baptism and adoption themes
-  所思考的主要经文：圣经中的父、子、圣灵语言，特别是耶稣受洗与收纳的主题
+  所思考的主要经文：[圣经](../Glossary/README.md#bible)中的父、子、圣灵语言，特别是耶稣受洗与收纳的主题
 - Big idea: God is eternally Father, Son, and Spirit; his fatherhood is life-giving love, not cold distance.
   核心信息：神永恒是父、子、圣灵；祂的父性是赐生命的爱，不是冷漠的距离。
 
 ## Training Context | 训练脉络
 
-This note is catalogued as **Module 1** of the *Delighting in the Trinity* discipleship training, corresponding closely to chapter 1, “What Was God Doing Before Creation?” The mapping is based on the date, the teaching's Father–Son–Spirit focus, and the book's chapter sequence; it is a careful study aid, not an official course syllabus.<br>
-本篇归入《喜乐于三一神》门徒训练的**第一单元**，与第一章“创造以前，神在做什么？”高度对应。这个对应依据日期、信息中父—子—圣灵的重点和全书章节顺序而建立；它是谨慎的学习索引，不是官方课程大纲。
+This note is catalogued as **Module 1** of the *Delighting in the [Trinity](../Glossary/README.md#trinity)* discipleship training, corresponding closely to chapter 1, “What Was God Doing Before Creation?” The mapping is based on the date, the teaching's Father–Son–Spirit focus, and the book's chapter sequence; it is a careful study aid, not an official course syllabus.<br>
+本篇归入《喜乐于[三一](../Glossary/README.md#trinity)神》[门徒](../Glossary/README.md#disciple)训练的**第一单元**，与第一章“创造以前，神在做什么？”高度对应。这个对应依据日期、信息中父—子—圣灵的重点和全书章节顺序而建立；它是谨慎的学习索引，不是官方课程大纲。
 
 See the [course guide | 课程总览](./2026-01-21_to_02-25_Delighting_in_the_Trinity_Discipleship_Guide.md) for the full book map, theological guardrails, and reading plan.<br>
 完整的书籍对应、神学界线与阅读计划，请见[课程总览](./2026-01-21_to_02-25_Delighting_in_the_Trinity_Discipleship_Guide.md)。
@@ -32,7 +32,7 @@ See the [course guide | 课程总览](./2026-01-21_to_02-25_Delighting_in_the_Tr
 ## Big Idea | 核心信息
 
 This theological discussion begins with God's identity as Father rather than treating “Father” as merely a human metaphor added after creation. The Father eternally loves the Son, the Son delights in the Father, and the Spirit makes that love known. Salvation is therefore not admission to an impersonal system, but the Son bringing people into the Father's love by the Spirit.<br>
-这场神学讨论从神作为父的身份开始，而不是把“父”仅当作创造之后借用的人类比喻。父永恒爱子，子以父为喜乐，圣灵使这爱被显明。救恩因此不是进入一个非人格的体系，而是圣子借着圣灵把人带进父的爱中。
+这场神学讨论从神作为父的身份开始，而不是把“父”仅当作创造之后借用的人类[比喻](../Glossary/README.md#parable)。父永恒爱子，子以父为喜乐，圣灵使这爱被显明。救恩因此不是进入一个非人格的体系，而是圣子借着圣灵把人带进父的爱中。
 
 ## Outline | 讲道结构
 
@@ -43,8 +43,8 @@ The discussion stresses that the Father did not become loving after creating the
 
 ### 2. The Spirit makes divine love known | 圣灵使神圣之爱被显明
 
-At Jesus' baptism, Father, Son, and Spirit are distinctly present. The Spirit is not an impersonal force; he is given to unite believers to Christ and move them toward the Father's love.<br>
-在耶稣受洗时，父、子、圣灵各自清楚同在。圣灵不是非人格的力量；祂被赐下，使信徒与基督联合，并被带向父的爱。
+At Jesus' baptism, Father, Son, and Spirit are distinctly present. The Spirit is not an impersonal force; he is given to unite believers to [Christ](../Glossary/README.md#christ) and move them toward the Father's love.<br>
+在耶稣受洗时，父、子、圣灵各自清楚同在。圣灵不是非人格的力量；祂被赐下，使信徒与[基督](../Glossary/README.md#christ)联合，并被带向父的爱。
 
 ### 3. Fatherhood reshapes prayer and identity | 父性重塑祷告与身份
 

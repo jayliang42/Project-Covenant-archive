@@ -5,8 +5,8 @@
 <a id="in-three-sentences"></a>
 > **In Three Sentences | 三句话读懂本篇**
 >
-> Giving, prayer, and fasting reveal what kind of approval people seek. Matthew 6 directs these practices toward the Father. These notes connect that freedom with the welcome Christ gives.<br>
-> 施舍、祷告和禁食会显明人想得到怎样的认可。马太福音六章把这些操练引向天父。本篇把这样的自由与基督所赐的接纳相连。
+> Giving, prayer, and fasting reveal what kind of approval people seek. Matthew 6 directs these practices toward the Father. These notes connect that freedom with the welcome [Christ](../Glossary/README.md#christ) gives.<br>
+> 施舍、祷告和禁食会显明人想得到怎样的认可。马太[福音](../Glossary/README.md#gospel)六章把这些操练引向天父。本篇把这样的自由与[基督](../Glossary/README.md#christ)所赐的接纳相连。
 
 ## Basic Info | 基本信息
 
@@ -45,8 +45,8 @@ Fasting makes inner hunger visible only if we choose to display it. Jesus theref
 
 ### 4. The Father himself is the reward | 天父自己就是赏赐
 
-The sermon connects the passage to the cross and resurrection. Jesus' self-giving appeared unsuccessful to many, but the Father saw and raised him. In Christ, believers are not performers trying to earn approval; they are welcomed sons and daughters. This changes spiritual practices from transactions into fellowship.<br>
-讲道把经文连到十字架与复活。耶稣的舍己在许多人眼中像失败，但父看见并叫祂复活。在基督里，信徒不再是努力赚取认可的表演者，而是被接纳的儿女；属灵操练也因此从交易变成与神相交。
+The sermon connects the passage to the cross and [resurrection](../Glossary/README.md#resurrection). Jesus' self-giving appeared unsuccessful to many, but the Father saw and raised him. In Christ, believers are not performers trying to earn approval; they are welcomed sons and daughters. This changes spiritual practices from transactions into fellowship.<br>
+讲道把经文连到十字架与[复活](../Glossary/README.md#resurrection)。耶稣的舍己在许多人眼中像失败，但父看见并叫祂复活。在基督里，信徒不再是努力赚取认可的表演者，而是被接纳的儿女；属灵操练也因此从交易变成与神相交。
 
 ## Notes | 注释
 
@@ -57,8 +57,8 @@ The Greek term can refer to an actor or stage performer. That background fits th
 
 ### Secret practice is not a technique for earning reward | 隐秘不是赚取赏赐的技巧
 
-Matthew 6 does not teach that secrecy automatically earns a better spiritual score. It confronts divided motives and directs disciples to the Father who sees. The gospel emphasis in this sermon is a helpful guard against treating hidden practice as a new performance.<br>
-马太福音 6 章不是说，只要隐秘就能获得更高的属灵分数。它揭露分裂的动机，并把门徒带向那位看见的父。讲道所强调的福音，有助于防止我们把“隐秘”本身变成另一种表演。
+Matthew 6 does not teach that secrecy automatically earns a better spiritual score. It confronts divided motives and directs [disciples](../Glossary/README.md#disciple) to the Father who sees. The [gospel](../Glossary/README.md#gospel) emphasis in this sermon is a helpful guard against treating hidden practice as a new performance.<br>
+马太福音 6 章不是说，只要隐秘就能获得更高的属灵分数。它揭露分裂的动机，并把[门徒](../Glossary/README.md#disciple)带向那位看见的父。讲道所强调的福音，有助于防止我们把“隐秘”本身变成另一种表演。
 
 ## Reflection Questions | 反思问题
 

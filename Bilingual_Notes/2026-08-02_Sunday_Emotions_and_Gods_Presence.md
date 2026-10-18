@@ -21,15 +21,15 @@
 
 ## Big Idea | 核心信息
 
-Using Jonah's flight, prayer, anger, and encounter with God's compassion, the sermon rejects the idea that faith eliminates difficult emotions. God meets people in grief, fear, shame, and disappointment. Emotions are real signals, but they are not reliable rulers; believers are invited to bring them to God and be guided by his word.<br>
+Using Jonah's flight, prayer, anger, and encounter with God's compassion, the sermon rejects the idea that [faith](../Glossary/README.md#faith) eliminates difficult emotions. God meets people in grief, fear, shame, and disappointment. Emotions are real signals, but they are not reliable rulers; believers are invited to bring them to God and be guided by his word.<br>
 讲道借着约拿的逃避、祷告、愤怒和与神怜悯的相遇，拒绝“有信心就不会有艰难情绪”的想法。神在人经历哀伤、惧怕、羞耻和失望时与人相遇。情绪是真实的信号，却不是可靠的主人；信徒受邀把情绪带到神面前，并让祂的话来引导。
 
 ## Outline | 讲道结构
 
 ### 1. Even God's strong servants struggle | 神刚强的仆人也会挣扎
 
-Jonah is a prophet, yet he flees God's call, prays from the fish, sees Nineveh respond, and still becomes angry and despondent. The sermon uses this story to show that fear, sadness, or overwhelm do not automatically prove weak faith. The question is whether we will let God into what we feel.<br>
-约拿是先知，却逃避神的呼召；他在鱼腹中祷告，看见尼尼微悔改后，仍然愤怒、沮丧。讲道借此说明：惧怕、忧伤或不堪重负，并不会自动证明信心软弱；关键是我们是否让神进入我们所感受的一切。
+Jonah is a [prophet](../Glossary/README.md#prophet), yet he flees God's call, prays from the fish, sees Nineveh respond, and still becomes angry and despondent. The sermon uses this story to show that fear, sadness, or overwhelm do not automatically prove weak faith. The question is whether we will let God into what we feel.<br>
+约拿是[先知](../Glossary/README.md#prophet)，却逃避神的呼召；他在鱼腹中祷告，看见尼尼微[悔改](../Glossary/README.md#repentance)后，仍然愤怒、沮丧。讲道借此说明：惧怕、忧伤或不堪重负，并不会自动证明[信心](../Glossary/README.md#faith)软弱；关键是我们是否让神进入我们所感受的一切。
 
 ### 2. God cares before he corrects | 神先看顾，也施行纠正
 
@@ -43,14 +43,14 @@ Jonah's prayer comes from the fish's belly, not from a place of strength or succ
 
 ### 4. Let truth lead feelings | 让真理引导情绪
 
-The sermon does not deny emotions. It distinguishes between acknowledging a feeling and obeying it as final truth. Scripture, honest prayer, and the repeated action of “casting” cares on God help believers answer fear, shame, and anxiety with God's promises.<br>
-讲道不否认情绪，而是区分“承认一个感受”与“把它当作最终真理来顺从”。圣经、诚实的祷告，以及持续把忧虑“卸给神”的行动，帮助信徒用神的应许回应惧怕、羞耻和焦虑。
+The sermon does not deny emotions. It distinguishes between acknowledging a feeling and obeying it as final truth. Scripture, honest prayer, and the repeated action of “casting” cares on God help believers answer fear, shame, and anxiety with God's [promises](../Glossary/README.md#promise).<br>
+讲道不否认情绪，而是区分“承认一个感受”与“把它当作最终真理来顺从”。[圣经](../Glossary/README.md#bible)、诚实的祷告，以及持续把忧虑“卸给神”的行动，帮助信徒用神的[应许](../Glossary/README.md#promise)回应惧怕、羞耻和焦虑。
 
 ## Notes | 注释
 
 ### Jonah and emotional complexity | 约拿与复杂情绪
 
-Jonah's anger is morally entangled with his resistance to God's mercy for Nineveh. The narrative therefore does more than validate every feeling; it reveals a God who hears distressed prayer while also exposing distorted desire. Both honesty and repentance belong in faithful emotional life.<br>
+Jonah's anger is morally entangled with his resistance to God's mercy for Nineveh. The narrative therefore does more than validate every feeling; it reveals a God who hears distressed prayer while also exposing distorted desire. Both honesty and [repentance](../Glossary/README.md#repentance) belong in faithful emotional life.<br>
 约拿的愤怒与他抗拒神向尼尼微施怜悯纠缠在一起。因此，这叙事不只是肯定每一种感觉；它显明神既听见受苦者的祷告，也揭露扭曲的欲望。诚实与悔改都属于忠心的情绪生活。
 
 ### A necessary care note | 必要的关怀说明

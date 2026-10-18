@@ -5,8 +5,8 @@
 <a id="in-three-sentences"></a>
 > **In Three Sentences | 三句话读懂本篇**
 >
-> This page summarizes a service marking a congregation’s transition. It presents the church as people sharing witness and service. Buildings and programs serve the work of introducing Jesus and caring for people.<br>
-> 本篇整理一场教会历史节点聚会的重点。教会是共同见证与服事的人。建筑和项目用于帮助人认识耶稣并得到关怀。
+> This page summarizes a service marking a congregation’s transition. It presents the [church](../Glossary/README.md#church) as people sharing witness and service. Buildings and programs serve the work of introducing Jesus and caring for people.<br>
+> 本篇整理一场[教会](../Glossary/README.md#church)历史节点聚会的重点。教会是共同见证与服事的人。建筑和项目用于帮助人认识耶稣并得到关怀。
 
 ## Basic Info | 基本信息
 
@@ -45,13 +45,13 @@ The move and expansion are framed as a stewardship question: how can present mem
 
 ### Jesus builds his church | 耶稣建立祂的教会
 
-The language echoes Matthew 16:18. Human planning, generosity, and service matter, but they cannot replace Christ as the church's foundation and Lord. This keeps gratitude from becoming institutional self-congratulation.<br>
-这里呼应马太福音 16:18。人的规划、奉献和服事都重要，但不能取代基督作为教会的根基与主；这也使感恩不至于变成对机构的自我夸耀。
+The language echoes Matthew 16:18. Human planning, generosity, and service matter, but they cannot replace [Christ](../Glossary/README.md#christ) as the church's foundation and Lord. This keeps gratitude from becoming institutional self-congratulation.<br>
+这里呼应马太[福音](../Glossary/README.md#gospel) 16:18。人的规划、奉献和服事都重要，但不能取代[基督](../Glossary/README.md#christ)作为教会的根基与主；这也使感恩不至于变成对机构的自我夸耀。
 
 ### Buildings are gifts, not the church itself | 建筑是礼物，不是教会本身
 
-Scripture calls believers God's household and temple. A building may greatly serve worship and mission, but church health is measured by faithful discipleship, love, truth, and witness rather than facilities alone.<br>
-圣经称信徒为神的家和圣殿。建筑可以很好地服务于敬拜与使命，但教会健康应看忠心的门徒训练、爱、真理与见证，而不只看设施。
+Scripture calls believers God's household and [temple](../Glossary/README.md#temple). A building may greatly serve worship and mission, but church health is measured by faithful discipleship, love, truth, and witness rather than facilities alone.<br>
+[圣经](../Glossary/README.md#bible)称信徒为神的家和[圣殿](../Glossary/README.md#temple)。建筑可以很好地服务于敬拜与使命，但教会健康应看忠心的[门徒](../Glossary/README.md#disciple)训练、爱、真理与见证，而不只看设施。
 
 ## Reflection Questions | 反思问题
 

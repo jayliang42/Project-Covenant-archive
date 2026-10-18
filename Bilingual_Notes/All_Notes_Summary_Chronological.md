@@ -16,8 +16,8 @@ Editorial note: source quality varies. The summaries retain verifiable teaching 
 
 ## 2025-11-02 Sunday | Worship and Sacrifice | Sunday Teaching
 
-The teaching centers on Romans 12:1-2 and argues that worship is not mainly a Sunday activity but a whole-life response to God's mercy. The speaker keeps returning to the phrase “in view of God's mercies,” insisting that obedience grows from grace rather than from guilt or self-improvement. He explains the paradox of a “living sacrifice” by linking it to the Old Testament sacrificial system and to Christ as the final sacrifice. From there, the message moves into daily surrender, mind renewal, nonconformity to the world, and the goodness of God's will, stressing that God's path is both better and more personal than any self-designed life plan.<br>
-这篇信息以罗马书 12:1-2 为中心，强调敬拜不只是主日的某个时段，而是整个人生对神怜悯的回应。讲员不断回到 “in view of God's mercies” 这个起点，意思是顺服不是从内疚或自我提升开始，而是从恩典开始。他把“活祭”放在旧约献祭制度和基督终极献祭的背景下解释，使这个看似矛盾的词有了清楚含义。随后整篇信息推进到每日降服、心意更新、不要效法世界，以及神旨意的美善，强调神为人预备的道路既比自我规划更好，也更贴合个人真实的生命呼召。
+The teaching centers on Romans 12:1-2 and argues that worship is not mainly a Sunday activity but a whole-life response to God's mercy. The speaker keeps returning to the phrase “in view of God's mercies,” insisting that obedience grows from [grace](../Glossary/README.md#grace) rather than from guilt or self-improvement. He explains the paradox of a “living sacrifice” by linking it to the [Old Testament](../Glossary/README.md#old-testament) sacrificial system and to [Christ](../Glossary/README.md#christ) as the final [sacrifice](../Glossary/README.md#sacrifice). From there, the message moves into daily surrender, mind renewal, nonconformity to the world, and the goodness of God's will, stressing that God's path is both better and more personal than any self-designed life plan.<br>
+这篇信息以罗马书 12:1-2 为中心，强调敬拜不只是主日的某个时段，而是整个人生对神怜悯的回应。讲员不断回到 “in view of God's mercies” 这个起点，意思是顺服不是从内疚或自我提升开始，而是从[恩典](../Glossary/README.md#grace)开始。他把“活祭”放在旧约[献祭](../Glossary/README.md#sacrifice)制度和[基督](../Glossary/README.md#christ)终极献祭的背景下解释，使这个看似矛盾的词有了清楚含义。随后整篇信息推进到每日降服、心意更新、不要效法世界，以及神旨意的美善，强调神为人预备的道路既比自我规划更好，也更贴合个人真实的生命呼召。
 
 ## 2025-11-09 Sunday | Faith and Endurance | Sunday Teaching
 
@@ -26,18 +26,18 @@ This sermon uses Hebrews 12:1-2 and marathon imagery to describe the Christian l
 
 ## 2025-11-16 Sunday | Fellowship Church | Sunday Teaching
 
-This transcript appears to come from a church milestone service focused on God's faithfulness in the life of the congregation, especially around moving into a new building. The main emphasis is that what the church is seeing is a “God thing,” not merely the result of organizational effort. The message seems to combine gratitude for past provision, remembrance of sacrificial giving and answered prayer, and an invitation for people to respond to Jesus or connect more deeply with the church. It functions less like an expository sermon and more like a testimony-filled vision moment about God's work through a local church family.<br>
-这份记录看起来来自一个教会历史节点的聚会，重点是回顾神在教会发展中的信实，尤其与新堂搬迁有关。主线不是复杂的经文讲解，而是强调眼前所看见的是“神的作为”，不只是组织能力或人的努力。信息里大概结合了过去的奉献、祷告蒙应允、建堂过程中的信心，以及呼召人更深回应耶稣、与教会连接。它比较像一个带见证和异象色彩的聚会信息，而不是一篇严格按经文逐节展开的讲道。
+This transcript appears to come from a [church](../Glossary/README.md#church) milestone service focused on God's faithfulness in the life of the congregation, especially around moving into a new building. The main emphasis is that what the church is seeing is a “God thing,” not merely the result of organizational effort. The message seems to combine gratitude for past provision, remembrance of sacrificial giving and answered prayer, and an invitation for people to respond to Jesus or connect more deeply with the church. It functions less like an expository sermon and more like a testimony-filled vision moment about God's work through a local church family.<br>
+这份记录看起来来自一个[教会](../Glossary/README.md#church)历史节点的聚会，重点是回顾神在教会发展中的信实，尤其与新堂搬迁有关。主线不是复杂的经文讲解，而是强调眼前所看见的是“神的作为”，不只是组织能力或人的努力。信息里大概结合了过去的奉献、祷告蒙应允、建堂过程中的[信心](../Glossary/README.md#faith)，以及呼召人更深回应耶稣、与教会连接。它比较像一个带见证和异象色彩的聚会信息，而不是一篇严格按经文逐节展开的讲道。
 
 ## 2025-11-23 Sunday | Heaven Tour Sermon | Sunday Teaching
 
-This message clearly draws from Revelation 21 and presents heaven through the imagery of a guided tour led by an angel to the apostle John. The speaker wants to correct vague folklore about heaven by grounding the congregation in biblical images of paradise, holiness, and future identity. He seems especially interested in what remains true about believers in heaven, what changes, and what can no longer happen there, such as sin. The sermon also has a practical edge: thinking about heaven should stabilize identity and reshape how Christians live now.<br>
-这篇信息明显以启示录 21 章为中心，用“天使带约翰参观天堂”的方式来展开，像一场属天导览。讲员试图纠正人们对天堂很多模糊、民间化的想象，把焦点重新拉回圣经本身对荣耀、圣洁、乐园和将来身份的描绘。他似乎特别关心几个问题：信徒在天堂里会怎样、哪些事仍然成立、哪些事将不再发生，比如罪。整篇信息也不只是满足好奇心，而是要让人因着对天堂的盼望，重新整理今天在地上的生活与身份。
+This message clearly draws from Revelation 21 and presents heaven through the imagery of a guided tour led by an angel to the [apostle](../Glossary/README.md#apostle) John. The speaker wants to correct vague folklore about heaven by grounding the congregation in biblical images of paradise, holiness, and future identity. He seems especially interested in what remains true about believers in heaven, what changes, and what can no longer happen there, such as sin. The sermon also has a practical edge: thinking about heaven should stabilize identity and reshape how Christians live now.<br>
+这篇信息明显以启示录 21 章为中心，用“天使带约翰参观天堂”的方式来展开，像一场属天导览。讲员试图纠正人们对天堂很多模糊、民间化的想象，把焦点重新拉回[圣经](../Glossary/README.md#bible)本身对荣耀、圣洁、乐园和将来身份的描绘。他似乎特别关心几个问题：信徒在天堂里会怎样、哪些事仍然成立、哪些事将不再发生，比如罪。整篇信息也不只是满足好奇心，而是要让人因着对天堂的盼望，重新整理今天在地上的生活与身份。
 
 ## 2025-12-07 Sunday | Christmas Service and Invitation | Sunday Teaching
 
-This service focuses on Christians being the church rather than merely attending church, especially during the Christmas season. The main burden is evangelistic: believers are urged to be a light, to pray intentionally, and to invite others who may be spiritually open during the holidays. The transcript suggests that Fellowship Church is presented as a place ready to receive people at many stages of life, while also calling attendees to take next steps such as receiving Christ, getting a Bible, or joining the church community more fully. The message frames Christmas not only as celebration but as opportunity.<br>
-这场圣诞聚会的重点，是提醒信徒不要只是“来教会”，而要真正“活出教会”，尤其在圣诞季更应如此。整篇负担明显带着福音邀请性，呼吁信徒成为光、认真祷告，并主动邀请那些在节期里心门可能较敞开的人。记录里也能看出，教会被描绘成一个能够接住不同年龄、不同生命阶段之人的地方，同时也邀请现场的人做出回应，例如接受基督、领取圣经、或更正式地连接教会生活。圣诞在这里不仅是庆祝，更是一个属灵机会窗口。
+This service focuses on Christians being the church rather than merely attending church, especially during the Christmas season. The main burden is evangelistic: believers are urged to be a light, to pray intentionally, and to invite others who may be spiritually open during the holidays. The transcript suggests that Fellowship Church is presented as a place ready to receive people at many stages of life, while also calling attendees to take next steps such as receiving Christ, getting a [Bible](../Glossary/README.md#bible), or joining the church community more fully. The message frames Christmas not only as celebration but as opportunity.<br>
+这场圣诞聚会的重点，是提醒信徒不要只是“来教会”，而要真正“活出教会”，尤其在圣诞季更应如此。整篇负担明显带着[福音](../Glossary/README.md#gospel)邀请性，呼吁信徒成为光、认真祷告，并主动邀请那些在节期里心门可能较敞开的人。记录里也能看出，教会被描绘成一个能够接住不同年龄、不同生命阶段之人的地方，同时也邀请现场的人做出回应，例如接受基督、领取圣经、或更正式地连接教会生活。圣诞在这里不仅是庆祝，更是一个属灵机会窗口。
 
 ## 2025-12-14 Sunday | Christmas Carol Singing Event | Sunday Fellowship
 
@@ -46,12 +46,12 @@ This transcript is more event-like than sermon-like. It begins with an explanati
 
 ## 2025-12-21 Sunday | Christmas Invitation Sermon | Sunday Teaching
 
-This sermon is built around the idea of invitation, beginning with the familiar image of a wedding invitation list and then moving toward the gospel invitation of Christmas. A key illustration is Albert McMakin inviting Billy Graham to hear the gospel, which becomes the model for how one ordinary invitation can alter many lives. The preacher asks listeners to consider who in their circle has not yet heard the message of Christ. Christmas is presented not mainly as family routine or sentiment, but as a moment to extend the invitation to relationship with Jesus.<br>
+This sermon is built around the idea of invitation, beginning with the familiar image of a wedding invitation list and then moving toward the [gospel](../Glossary/README.md#gospel) invitation of Christmas. A key illustration is Albert McMakin inviting Billy Graham to hear the gospel, which becomes the model for how one ordinary invitation can alter many lives. The preacher asks listeners to consider who in their circle has not yet heard the message of Christ. Christmas is presented not mainly as family routine or sentiment, but as a moment to extend the invitation to relationship with Jesus.<br>
 这篇讲道围绕“邀请”展开，先从婚礼邀请名单这个常见画面切入，再把焦点转到圣诞和福音所发出的邀请。一个重要例子是 Albert McMakin 邀请 Billy Graham 去听福音，这被用来说明，一个看似普通的邀请，可能改变极多人的生命。讲员邀请听众思考：自己的生活圈里还有谁尚未听见基督的信息。圣诞因此不再只是家人团聚或节日仪式，也成为向人发出“与耶稣建立关系”之邀请的时刻。
 
 ## 2026-01-04 Sunday | Church Community Vision Session | Sunday Fellowship
 
-This session appears to define what a church is and what Mission House Church aims to be. The church is described not merely as a gathering but as a people ordered around Jesus, worship, baptism, the Lord's Supper, confession, prayer, and shared mission. The transcript suggests that MHC sees itself as a community of ordinary people centering their lives on Christ so that neighbors and nations may encounter him as supreme joy. The latter portion includes some form of covenant or membership commitment, indicating that belonging to church family is treated as a meaningful and concrete step rather than vague association.<br>
+This session appears to define what a church is and what Mission House Church aims to be. The church is described not merely as a gathering but as a people ordered around Jesus, worship, baptism, the Lord's Supper, confession, prayer, and shared mission. The transcript suggests that MHC sees itself as a community of ordinary people centering their lives on Christ so that neighbors and nations may encounter him as supreme joy. The latter portion includes some form of [covenant](../Glossary/README.md#covenant) or membership commitment, indicating that belonging to church family is treated as a meaningful and concrete step rather than vague association.<br>
 这场聚会主要在定义“教会是什么”，以及 Mission House Church 想成为怎样的群体。这里的教会不是一个松散聚会，而是一群围绕耶稣、敬拜、洗礼、圣餐、认罪、祷告与共同使命而被塑造的人。记录显示，MHC 把自己理解为一群平凡人一起以基督为中心，好让邻舍与万民也能把他认识为最大的喜乐。后半部分还涉及某种 membership {成员委身} 或 covenant {群体承诺} 的签署，说明这里对“属于教会家庭”看得很具体，不是模糊认同而已。
 
 ## 2026-01-11 Sunday | Sermon on Christian Living | Sunday Teaching
@@ -61,13 +61,13 @@ The recoverable text points strongly to 1 Peter 4:1-11, with its call to stop li
 
 ## 2026-01-18 Sunday | Christian Life and Suffering | Sunday Teaching
 
-This is one of the clearer and stronger transcripts in the collection, based on 1 Peter 4:12-19. The main argument is that suffering for Christ should not be treated as strange, because fiery trial reveals and refines faith rather than proving that God has abandoned his people. The preacher repeatedly emphasizes that believers may rejoice because they share in Christ's sufferings, because the Spirit of glory rests on them, and because hardship is held inside God's redemptive will. The message climaxes with the call to entrust one's soul to a faithful Creator while continuing to do good, echoing both Daniel's three friends and Jesus entrusting himself to the Father at the cross.<br>
-这是目前这些记录里相当清楚、也相当成熟的一篇，主要根据彼得前书 4:12-19。核心论点是：为基督受苦不该被视为“奇怪的事”，因为火炼并不是神离弃了祂的子民，而是在显明并炼净人的信心。讲员一再强调，信徒之所以能喜乐，是因为他们分享基督的 suffering {受苦轨迹}，因为荣耀的灵停留在他们身上，也因为一切苦难都落在神 redeeming will {救赎性旨意} 的范围之内。整篇最后收束到一个命令：把自己的灵魂交托给那位 faithful Creator {信实的创造主}，并继续行善，这同时呼应了但以理书中火窑里的朋友，也呼应了耶稣在十字架上把自己交托给父神。
+This is one of the clearer and stronger transcripts in the collection, based on 1 Peter 4:12-19. The main argument is that suffering for Christ should not be treated as strange, because fiery trial reveals and refines [faith](../Glossary/README.md#faith) rather than proving that God has abandoned his people. The preacher repeatedly emphasizes that believers may rejoice because they share in Christ's sufferings, because the Spirit of glory rests on them, and because hardship is held inside God's redemptive will. The message climaxes with the call to entrust one's soul to a faithful Creator while continuing to do good, echoing both Daniel's three friends and Jesus entrusting himself to the Father at the cross.<br>
+这是目前这些记录里相当清楚、也相当成熟的一篇，主要根据彼得前书 4:12-19。核心论点是：为基督受苦不该被视为“奇怪的事”，因为火炼并不是神离弃了祂的子民，而是在显明并炼净人的信心。讲员一再强调，信徒之所以能喜乐，是因为他们分享基督的 suffering {受苦轨迹}，因为荣耀的灵停留在他们身上，也因为一切苦难都落在神 redeeming will {[救赎](../Glossary/README.md#redemption)性旨意} 的范围之内。整篇最后收束到一个命令：把自己的灵魂交托给那位 faithful Creator {信实的创造主}，并继续行善，这同时呼应了但以理书中火窑里的朋友，也呼应了耶稣在十字架上把自己交托给父神。
 
 ## 2026-01-21 Wednesday | Understanding God's Fatherhood | Wednesday Fellowship
 
-This study appears to be part of a theological reading group reflecting on how God's identity as Father precedes and shapes his works as creator and ruler. A recurring claim is that God is not fundamentally defined by impersonal power but by the Father-Son relation. The discussion draws from both Old and New Testament images of fatherhood and seems to connect human relationships, especially male-female distinction and one-flesh union, to the triune life of God in an analogical way. The takeaway is that divine fatherhood is not harsh distance but life-giving love.<br>
-这场学习似乎属于一系列神学读书讨论，重点是在理解“神作为父”这个身份，如何先于并塑造祂作为创造主和统治者的作为。一个不断出现的核心论断是：神最根本的身份不是抽象权能，而是父与子的关系。讨论既用了旧约和新约里关于父亲身份的图像，也把男女有别、二人成为一体这些人类关系，类比性地连接到三一神生命的某些侧面。整场给人的主要感受是：神的父性不是冷酷距离，而是生命涌流式的爱。
+This study appears to be part of a theological reading group reflecting on how God's identity as Father precedes and shapes his works as creator and ruler. A recurring claim is that God is not fundamentally defined by impersonal power but by the Father-Son relation. The discussion draws from both Old and [New Testament](../Glossary/README.md#new-testament) images of fatherhood and seems to connect human relationships, especially male-female distinction and one-flesh union, to the [triune](../Glossary/README.md#trinity) life of God in an analogical way. The takeaway is that divine fatherhood is not harsh distance but life-giving love.<br>
+这场学习似乎属于一系列神学读书讨论，重点是在理解“神作为父”这个身份，如何先于并塑造祂作为创造主和统治者的作为。一个不断出现的核心论断是：神最根本的身份不是抽象权能，而是父与子的关系。讨论既用了旧约和新约里关于父亲身份的图像，也把男女有别、二人成为一体这些人类关系，类比性地连接到[三一](../Glossary/README.md#trinity)神生命的某些侧面。整场给人的主要感受是：神的父性不是冷酷距离，而是生命涌流式的爱。
 
 ## 2026-01-25 Sunday | Servant Leadership Sermon | Sunday Teaching
 
@@ -76,8 +76,8 @@ This sermon draws from 1 Peter 5, beginning with exhortations to elders and then
 
 ## 2026-01-28 Wednesday | Triune God Creation Study Part 1 | Wednesday Fellowship
 
-This discussion appears to compare the Christian doctrine of the Trinity with non-triune conceptions of God, arguing that only a triune God can be eternally loving without depending on creation in order to become loving. References to Aristotle and philosophical concerns suggest that the group is thinking through why God's goodness and love cannot be adequately grounded in a solitary deity. The conversation also moves into implications for human relationships, marriage, and the dignity of women, suggesting that trinitarian theology is not abstract but socially consequential. Creation here is understood as the overflow of already-existing divine love.<br>
-这场讨论大概在比较基督教的三一神观，与各种非三一的神观，核心论点是：只有三一神才能在永恒里就是爱的，而不需要先创造世界、再靠受造物来“成为有爱”。提到亚里士多德和哲学问题，说明讨论是在认真思考：如果神只是一个孤立单体，那祂的良善和爱到底如何成立。谈话后面还延伸到婚姻、男女关系和女性尊严，说明三一神学不是抽象概念，而会真实影响人怎么看待人与关系。这里对创造的理解，也不是“神需要点什么才创造”，而是神已经存在的爱的 overflowing {涌流}。
+This discussion appears to compare the Christian doctrine of the Trinity with non-triune conceptions of God, arguing that only a triune God can be eternally loving without depending on [creation](../Glossary/README.md#creation) in order to become loving. References to Aristotle and philosophical concerns suggest that the group is thinking through why God's goodness and love cannot be adequately grounded in a solitary deity. The conversation also moves into implications for human relationships, marriage, and the dignity of women, suggesting that trinitarian theology is not abstract but socially consequential. Creation here is understood as the overflow of already-existing divine love.<br>
+这场讨论大概在比较基督教的三一神观，与各种非三一的神观，核心论点是：只有三一神才能在永恒里就是爱的，而不需要先[创造](../Glossary/README.md#creation)世界、再靠受造物来“成为有爱”。提到亚里士多德和哲学问题，说明讨论是在认真思考：如果神只是一个孤立单体，那祂的良善和爱到底如何成立。谈话后面还延伸到婚姻、男女关系和女性尊严，说明三一神学不是抽象概念，而会真实影响人怎么看待人与关系。这里对创造的理解，也不是“神需要点什么才创造”，而是神已经存在的爱的 overflowing {涌流}。
 
 ## 2026-01-28 Wednesday | Triune God Creation Study Part 2 | Wednesday Fellowship
 
@@ -86,8 +86,8 @@ Part 2 continues by exploring creation, beauty, and the distinction between good
 
 ## 2026-02-04 Wednesday | Trinity Study Session Part 1 | Wednesday Fellowship
 
-This session seems to focus heavily on Christ as the true High Priest, likely drawing on Hebrews and John 17. The participants discuss how Old Testament high priest imagery is fulfilled in Jesus, who shares our flesh, offers himself as sacrifice, and continually intercedes for his people. A key emotional center of the study is that Christ carries his people on his heart before the Father. The trinitarian angle remains present because salvation is portrayed as the Son bringing us into the Father's love through the Spirit.<br>
-这一场很明显把重点放在基督作为 true High Priest {真正大祭司} 的身份上，很可能主要取材于希伯来书和约翰福音 17 章。讨论不断回到旧约大祭司图像如何在耶稣里被成全：祂取了我们的 flesh {血肉真实人性}，献上自己作祭，并持续为祂的子民代求。整场一个很强的情感中心是：基督把祂的百姓放在心上，带到父面前。三一主题也仍然贯穿其中，因为救恩被描述为圣子借着圣灵把我们带入父的爱。
+This session seems to focus heavily on Christ as the true High [Priest](../Glossary/README.md#priest), likely drawing on Hebrews and John 17. The participants discuss how Old Testament high priest imagery is fulfilled in Jesus, who shares our flesh, offers himself as sacrifice, and continually intercedes for his people. A key emotional center of the study is that Christ carries his people on his heart before the Father. The trinitarian angle remains present because [salvation](../Glossary/README.md#salvation) is portrayed as the Son bringing us into the Father's love through the Spirit.<br>
+这一场很明显把重点放在基督作为 true High Priest {真正大[祭司](../Glossary/README.md#priest)} 的身份上，很可能主要取材于希伯来书和约翰福音 17 章。讨论不断回到旧约大祭司图像如何在耶稣里被成全：祂取了我们的 flesh {血肉真实人性}，献上自己作祭，并持续为祂的子民代求。整场一个很强的情感中心是：基督把祂的百姓放在心上，带到父面前。三一主题也仍然贯穿其中，因为[救恩](../Glossary/README.md#salvation)被描述为圣子借着[圣灵](../Glossary/README.md#holy-spirit)把我们带入父的爱。
 
 ## 2026-02-04 Wednesday | Trinity Study Session Part 2 | Wednesday Fellowship
 
@@ -101,8 +101,8 @@ This teaching is framed around Chinese New Year and uses the cultural atmosphere
 
 ## 2026-02-22 Sunday | Sermon on the Mount Study | Sunday Teaching
 
-This study seems to introduce the Sermon on the Mount by contrasting Jesus' way of life with other competing “life systems” promising wisdom, success, efficiency, or early security. The transcript uses a modern financial/lifestyle example to show how persuasive alternative gospels can feel. It then appears to move toward Jesus' warning that hearing his words without doing them ends in collapse, likely drawing on Matthew 7 and the image of the wise and foolish builders. The overall point is that Jesus does not merely offer advice but authoritative reality.<br>
-这场学习很像在为《登山宝训》作引入，通过对比耶稣的生活方式与其他 competing life systems {彼此竞争的人生方案} 来推进。记录里用一个现代财务/生活方式例子，说明这个世界有许多很有说服力的“另类福音”，它们承诺智慧、成功、效率、提早安全感。之后内容似乎转向马太福音 7 章，尤其是“听见主的话就去行”与“把房子建在磐石上”的图像。整场的结论很可能是：耶稣不是再给一种建议，而是在宣告一种带着权柄的真实。
+This study seems to introduce the Sermon on the Mount by contrasting Jesus' way of life with other competing “life systems” promising [wisdom](../Glossary/README.md#wisdom), success, efficiency, or early security. The transcript uses a modern financial/lifestyle example to show how persuasive alternative gospels can feel. It then appears to move toward Jesus' warning that hearing his words without doing them ends in collapse, likely drawing on Matthew 7 and the image of the wise and foolish builders. The overall point is that Jesus does not merely offer advice but authoritative reality.<br>
+这场学习很像在为《登山宝训》作引入，通过对比耶稣的生活方式与其他 competing life systems {彼此竞争的人生方案} 来推进。记录里用一个现代财务/生活方式例子，说明这个世界有许多很有说服力的“另类福音”，它们承诺[智慧](../Glossary/README.md#wisdom)、成功、效率、提早安全感。之后内容似乎转向马太福音 7 章，尤其是“听见主的话就去行”与“把房子建在磐石上”的图像。整场的结论很可能是：耶稣不是再给一种建议，而是在宣告一种带着权柄的真实。
 
 ## 2026-02-25 Wednesday | Understanding God's Nature Part 1 | Wednesday Fellowship
 
@@ -117,11 +117,11 @@ Part 2 develops the theme of glory, especially how God's glory is radiant, outgo
 ## 2026-03-08 Sunday | Sermon on the Mount Insights | Sunday Teaching
 
 This sermon appears to focus on the Beatitude “Blessed are the poor in spirit,” and perhaps the opening movement of the Beatitudes as a whole. The preacher highlights the contrast between cultural admiration for competence, self-sufficiency, and visible success, versus Jesus' startling declaration that the kingdom belongs to the spiritually poor. The message likely presses listeners to see that spiritual poverty is not self-hatred but honest dependence on God. The “good life,” according to Jesus, begins not in self-possession but in empty-handed need.<br>
-这篇信息看起来主要聚焦在八福中的“虚心的人有福了”，也可能兼顾了八福开头整体的走向。讲员特别对比文化所推崇的能力、自给自足、可见的成功，与耶稣那句令人震惊的话：天国属于灵里贫穷的人。整篇信息大概是在推动听众明白，spiritual poverty {属灵贫穷} 不是自我厌弃，而是诚实地承认自己需要神。按照耶稣的定义，“好生命”的起点不是我掌控得很好，而是我空手来到神面前。
+这篇信息看起来主要聚焦在八福中的“虚心的人有福了”，也可能兼顾了八福开头整体的走向。讲员特别对比文化所推崇的能力、自给自足、可见的成功，与耶稣那句令人震惊的话：[天国](../Glossary/README.md#kingdom)属于灵里贫穷的人。整篇信息大概是在推动听众明白，spiritual poverty {属灵贫穷} 不是自我厌弃，而是诚实地承认自己需要神。按照耶稣的定义，“好生命”的起点不是我掌控得很好，而是我空手来到神面前。
 
 ## 2026-03-15 Sunday | Sermon on the Mount Insights | Sunday Teaching
 
-This transcript seems to continue through the Beatitudes, stressing that they are not a checklist for earning the kingdom but a portrait of those already being shaped by it. Themes visible in the closing prayer include mercy, forgiveness, hunger and thirst for righteousness, purity of heart, meaningful relationships, and the longing to see God. The sermon likely shows how kingdom life transforms desire before it transforms social outcomes. The Beatitudes are thus not superficial moral slogans but descriptions of Spirit-shaped people.<br>
+This transcript seems to continue through the Beatitudes, stressing that they are not a checklist for earning the kingdom but a portrait of those already being shaped by it. Themes visible in the closing prayer include mercy, [forgiveness](../Glossary/README.md#forgiveness), hunger and thirst for righteousness, purity of heart, meaningful relationships, and the longing to see God. The sermon likely shows how kingdom life transforms desire before it transforms social outcomes. The Beatitudes are thus not superficial moral slogans but descriptions of Spirit-shaped people.<br>
 这份记录大概是继续讲八福，并特别强调八福不是用来“换取天国”的 checklist {检查表}，而是已经活在天国里的人会逐渐呈现出的样子。结尾祷告里出现了 mercy {怜悯}、forgiveness {饶恕}、渴慕公义、清心、真实关系、以及渴望见神这些主题，因此可以看出讲道很可能在说明：天国生命先改变人的 desire {欲望与渴望结构}，再改变外在生活效果。八福因此不是一些表面道德口号，而是被圣灵塑造之人的画像。
 
 ## 2026-03-29 Sunday | Jesus' Kingdom Sermon | Sunday Teaching
@@ -132,17 +132,17 @@ This sermon clearly works through Matthew 5:13-16, especially the images of salt
 ## 2026-04-12 Sunday | Sermon on Anger and Reconciliation | Sunday Teaching
 
 This message on Matthew 5:21-26 argues that Jesus is not abolishing the law but uncovering its true depth. Murder is shown to begin in the heart through anger, contempt, insult, and refusal to reconcile. The sermon carefully moves from Old Testament law to the dignity of the image of God, then to practical urgency in restoring broken relationships. The gospel turn is crucial: because Jesus loved and forgave his enemies, his people are freed from clinging to anger and are enabled to pursue peace.<br>
-这篇关于马太福音 5:21-26 的信息强调，耶稣不是在废掉律法，而是在显明律法真正的深度。杀人不是只从外在行为开始，而是先从人的内心开始，表现为愤怒、轻蔑、辱骂，以及拒绝和好。讲道很有层次地从旧约律法推进到“神形象”的尊严，再落到现实人际关系中的 urgent reconciliation {迫切和好}。最关键的转折是福音：因为耶稣先爱了祂的仇敌、赦免了祂的仇敌，所以祂的百姓也能不再紧抓愤怒，而真正走向和平。
+这篇关于马太福音 5:21-26 的信息强调，耶稣不是在废掉律法，而是在显明律法真正的深度。杀人不是只从外在行为开始，而是先从人的内心开始，表现为愤怒、轻蔑、辱骂，以及拒绝和好。讲道很有层次地从旧约律法推进到“神形象”的尊严，再落到现实人际关系中的 urgent reconciliation {迫切和好}。最关键的转折是福音：因为耶稣先爱了祂的仇敌、[赦免](../Glossary/README.md#forgiveness)了祂的仇敌，所以祂的百姓也能不再紧抓愤怒，而真正走向和平。
 
 ## 2026-05-10 Sunday | Spiritual Practices and the Father | Sunday Teaching
 
 This sermon on Matthew 6:1-18 asks whether giving, prayer, and fasting have become religious performances. It identifies the desire to be seen as the shared danger beneath all three practices, including the subtler temptation to congratulate oneself for hidden devotion. The gospel answer is that Jesus gave himself without human applause, was seen and raised by the Father, and brings believers into the Father's welcome. The aim of spiritual practice is therefore not reputation or leverage, but communion with God himself.<br>
-这篇马太福音 6:1-18 的信息追问：施舍、祷告和禁食会不会已经变成宗教表演。它指出，三种操练底下共同的危险是想被人看见，也包括为自己“隐秘的敬虔”暗自喝彩的更细微试探。福音的答案是：耶稣没有寻求人间掌声地献上自己，被父看见并叫祂复活，又把信徒带进父的接纳。因此属灵操练的目标不是名声或与神交易，而是与神自己相交。
+这篇马太福音 6:1-18 的信息追问：施舍、祷告和禁食会不会已经变成宗教表演。它指出，三种操练底下共同的危险是想被人看见，也包括为自己“隐秘的敬虔”暗自喝彩的更细微试探。福音的答案是：耶稣没有寻求人间掌声地献上自己，被父看见并叫祂[复活](../Glossary/README.md#resurrection)，又把信徒带进父的接纳。因此属灵操练的目标不是名声或与神交易，而是与神自己相交。
 
 ## 2026-05-17 Sunday | Spiritual Growth Through Prayer | Sunday Teaching
 
-This teaching uses the Lord's Prayer as a pattern of relationship rather than a technique for controlling outcomes. Beginning with “our Father,” it moves through praise, repentance and forgiveness, daily dependence, and yielded trust in trial. The speaker's P-R-A-Y structure keeps the emphasis on adoption: believers approach God not as employees or performers, but as children received through Jesus. The practical invitation is simple and concrete—make unhurried space to come before the Father.<br>
-这篇信息把主祷文看作关系的模式，而非控制结果的技巧。从“我们在天上的父”开始，它依次讲到赞美、悔改与饶恕、每日的倚靠，以及在试炼中降服的信任。讲员用 P-R-A-Y 的结构不断强调“被收纳”：信徒不是以雇员或表演者身分来到神面前，而是借耶稣被接纳的儿女。实际邀请很朴素：留出不匆忙的时间，来到父面前。
+This teaching uses the Lord's Prayer as a pattern of relationship rather than a technique for controlling outcomes. Beginning with “our Father,” it moves through praise, [repentance](../Glossary/README.md#repentance) and forgiveness, daily dependence, and yielded trust in trial. The speaker's P-R-A-Y structure keeps the emphasis on adoption: believers approach God not as employees or performers, but as children received through Jesus. The practical invitation is simple and concrete—make unhurried space to come before the Father.<br>
+这篇信息把主祷文看作关系的模式，而非控制结果的技巧。从“我们在天上的父”开始，它依次讲到赞美、[悔改](../Glossary/README.md#repentance)与饶恕、每日的倚靠，以及在试炼中降服的信任。讲员用 P-R-A-Y 的结构不断强调“被收纳”：信徒不是以雇员或表演者身分来到神面前，而是借耶稣被接纳的儿女。实际邀请很朴素：留出不匆忙的时间，来到父面前。
 
 ## 2026-05-24 Sunday | Treasuring Jesus | Sunday Teaching
 
@@ -151,8 +151,8 @@ Working through Matthew 6:19-24, this sermon contrasts earthly treasure with Chr
 
 ## 2026-05-31 Sunday | Overcoming Worry | Sunday Teaching
 
-On Matthew 6:25-34, the speaker explains worry as an attempt to control what only a good and sovereign Father can finally hold. Jesus' care for anxious disciples is not careless optimism: he directs them to the Father who feeds birds, clothes flowers, and knows their needs. The sermon calls the church to seek the kingdom first through gospel meditation, prayer, Scripture-shaped inner speech, and honest community.<br>
-这篇马太福音 6:25-34 的信息把忧虑解释为：人试图掌控那些最终只能由良善、掌权的父来承担的事。耶稣对焦虑门徒的关怀并非轻率乐观；祂把他们带向那位喂养飞鸟、装饰百合、并知道他们需要的父。讲道呼召教会借着默想福音、祷告、用经文重塑内在对话，以及诚实的群体生活，先求神的国。
+On Matthew 6:25-34, the speaker explains worry as an attempt to control what only a good and sovereign Father can finally hold. Jesus' care for anxious [disciples](../Glossary/README.md#disciple) is not careless optimism: he directs them to the Father who feeds birds, clothes flowers, and knows their needs. The sermon calls the church to seek the kingdom first through gospel meditation, prayer, Scripture-shaped inner speech, and honest community.<br>
+这篇马太福音 6:25-34 的信息把忧虑解释为：人试图掌控那些最终只能由良善、掌权的父来承担的事。耶稣对焦虑[门徒](../Glossary/README.md#disciple)的关怀并非轻率乐观；祂把他们带向那位喂养飞鸟、装饰百合、并知道他们需要的父。讲道呼召教会借着默想福音、祷告、用经文重塑内在对话，以及诚实的群体生活，先求神的国。
 
 ## 2026-08-02 Sunday | Emotions and God's Presence | Sunday Teaching
 
@@ -164,5 +164,5 @@ Using Jonah 1-4 and 1 Peter 5:7, this sermon treats emotions as real but not fin
 Across these notes, several themes recur with unusual consistency. First, Jesus is not presented merely as teacher but as the center in whom the whole Bible, church, and Christian life cohere. Second, the Christian life is repeatedly described as responsive rather than self-generated: mercy leads to worship, grace leads to endurance, Christ's suffering reframes our suffering, and divine love grounds ethics. Third, community matters throughout: church is a real family, leadership is servant-shaped, reconciliation matters, invitation matters, and mission is shared rather than private.<br>
 这些笔记里有几条反复出现、而且非常一致的主线。第一，耶稣不是只被当成一位老师，而是整本圣经、教会生活和基督徒人生真正连成一体的中心。第二，基督徒生活不断被描述为“回应型”而不是“自我发动型”：怜悯引向敬拜，恩典引向忍耐，基督的受苦重新解释我们的受苦，神的爱成为伦理的根基。第三，群体性非常突出：教会是真实的家，带领必须是仆人式的，和好是必要的，邀请别人是必要的，使命也不是私人项目。
 
-Another recurring theme is the contrast between worldly definitions of the good life and Jesus' counterintuitive kingdom vision. Whether the topic is success, rest, holiness, endurance, or blessing, the transcripts repeatedly challenge self-sufficiency, image management, and comfort-driven living. Finally, the trinitarian studies add an important theological depth to the project: God is not merely powerful, but eternally Father, Son, and Spirit, and that reality changes how love, glory, holiness, creation, cross, church, and salvation are understood.<br>
+Another recurring theme is the contrast between worldly definitions of the good life and Jesus' counterintuitive kingdom vision. Whether the topic is success, rest, holiness, endurance, or [blessing](../Glossary/README.md#blessing), the transcripts repeatedly challenge self-sufficiency, image management, and comfort-driven living. Finally, the trinitarian studies add an important theological depth to the project: God is not merely powerful, but eternally Father, Son, and Spirit, and that reality changes how love, glory, holiness, creation, cross, church, and salvation are understood.<br>
 另一条不断出现的主线，是“世界定义的好人生”与“耶稣反直觉的天国图像”之间的对比。无论讲成功、安息、圣洁、忍耐还是福，几乎每篇都在挑战 self-sufficiency {自足幻觉}、image management {形象经营} 和 comfort-driven living {以舒适为导向的生活方式}。最后，几场关于三一神的学习又为整个项目加上了很重要的神学深度：神不只是有能力的神，而是永恒里就是父、子、圣灵；而这一点会彻底改变人对爱、荣耀、圣洁、创造、十字架、教会与救恩的理解。

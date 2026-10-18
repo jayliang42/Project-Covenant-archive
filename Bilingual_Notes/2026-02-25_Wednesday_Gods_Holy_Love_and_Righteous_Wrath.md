@@ -16,8 +16,8 @@
   类型：周三团契
 - Topic: Understanding God's nature, part 1
   主题：理解神的属性（一）
-- Big idea: God's holiness is the beautiful purity of his triune love, and his wrath is that holy love's righteous opposition to evil.
-  核心信息：神的圣洁是祂三一之爱美丽而纯全的样式；祂的忿怒是这圣洁之爱对邪恶公义的反对。
+- Big idea: God's holiness is the beautiful purity of his [triune](../Glossary/README.md#trinity) love, and his wrath is that holy love's righteous opposition to evil.
+  核心信息：神的圣洁是祂[三一](../Glossary/README.md#trinity)之爱美丽而纯全的样式；祂的忿怒是这圣洁之爱对邪恶公义的反对。
 
 ## Training Context | 训练脉络
 
@@ -30,7 +30,7 @@ See the [course guide | 课程总览](./2026-01-21_to_02-25_Delighting_in_the_Tr
 ## Big Idea | 核心信息
 
 The study confronts caricatures of God as a cosmic monitor, harsh supervisor, or needy ruler. Holiness is not the cold side of God that limits his love; it is the perfection and beauty of the Father, Son, and Spirit's love. For that reason, God's wrath is not a tantrum. Love rightly opposes what destroys the beloved, and at the cross God's judgment of sin and mercy toward sinners meet.<br>
-这场学习面对人对神的刻板想象：全天候监控者、严苛主管或需要人服侍的统治者。圣洁不是限制神之爱的冷酷一面，而是父、子、圣灵之爱完全而美丽的样式。因此，神的忿怒不是发脾气；爱必然反对毁坏所爱者的邪恶，而在十字架上，神对罪的审判与对罪人的怜悯相遇。
+这场学习面对人对神的刻板想象：全天候监控者、严苛主管或需要人服侍的统治者。圣洁不是限制神之爱的冷酷一面，而是父、子、[圣灵](../Glossary/README.md#holy-spirit)之爱完全而美丽的样式。因此，神的忿怒不是发脾气；爱必然反对毁坏所爱者的邪恶，而在十字架上，神对罪的审判与对罪人的怜悯相遇。
 
 ## Outline | 讲道结构
 
@@ -47,14 +47,14 @@ The study argues that indifference toward evil is not loving. God's righteous op
 ### 3. The cross reveals judgment and mercy | 十字架显明审判与怜悯
 
 At the cross, the Son willingly gives himself; he is not a third party forced to suffer. The Father and Son are united in the costly rescue of sinners, and the Spirit applies this saving work to believers.<br>
-在十字架上，圣子甘心献上自己，并不是被迫受苦的第三方。父与子在代价高昂地拯救罪人这件事上合一，圣灵把这救恩工作施行在信徒身上。
+在十字架上，圣子甘心献上自己，并不是被迫受苦的第三方。父与子在代价高昂地拯救罪人这件事上合一，圣灵把这[救恩](../Glossary/README.md#salvation)工作施行在信徒身上。
 
 ## Notes | 注释
 
 ### Wrath requires careful reading | 理解忿怒需要谨慎读经
 
 Biblical texts about divine judgment must not be used to justify human cruelty, retaliation, or abuse. God's holiness exposes and judges evil while commanding his people to love enemies, seek justice, and leave final vengeance to God.<br>
-圣经中关于神审判的经文，绝不可被用来合理化人的残酷、报复或虐待。神的圣洁揭露并审判邪恶，同时吩咐祂的子民爱仇敌、寻求公义，并把最终的报应交给神。
+[圣经](../Glossary/README.md#bible)中关于神审判的经文，绝不可被用来合理化人的残酷、报复或虐待。神的圣洁揭露并审判邪恶，同时吩咐祂的子民爱仇敌、寻求公义，并把最终的报应交给神。
 
 ## Reflection Questions | 反思问题
 

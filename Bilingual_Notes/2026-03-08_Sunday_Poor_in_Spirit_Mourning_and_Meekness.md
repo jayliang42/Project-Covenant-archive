@@ -5,8 +5,8 @@
 <a id="in-three-sentences"></a>
 > **In Three Sentences | 三句话读懂本篇**
 >
-> Matthew 5 blesses people who recognize need, mourn brokenness, and yield their strength to God. The kingdom, comfort, and inheritance are received as gifts. These notes connect those promises with life in Christ.<br>
-> 马太福音五章称那些承认需要、为破碎哀伤、把力量交给神的人有福。天国、安慰和产业都是领受的礼物。本篇把这些应许与在基督里的生活相连。
+> Matthew 5 blesses people who recognize need, mourn brokenness, and yield their strength to God. The kingdom, comfort, and inheritance are received as gifts. These notes connect those promises with life in [Christ](../Glossary/README.md#christ).<br>
+> 马太[福音](../Glossary/README.md#gospel)五章称那些承认需要、为破碎哀伤、把力量交给神的人有福。[天国](../Glossary/README.md#kingdom)、安慰和产业都是领受的礼物。本篇把这些[应许](../Glossary/README.md#promise)与在[基督](../Glossary/README.md#christ)里的生活相连。
 
 ## Basic Info | 基本信息
 
@@ -21,7 +21,7 @@
 
 ## Big Idea | 核心信息
 
-Jesus begins the Beatitudes by blessing the people a success-driven culture overlooks. Spiritual poverty, mourning, and meekness are not techniques for earning favor or romanticizing pain. They describe the posture of people who know their need, grieve what is broken, and entrust strength to God's kingdom.<br>
+Jesus begins the Beatitudes by [blessing](../Glossary/README.md#blessing) the people a success-driven culture overlooks. Spiritual poverty, mourning, and meekness are not techniques for earning favor or romanticizing pain. They describe the posture of people who know their need, grieve what is broken, and entrust strength to God's kingdom.<br>
 耶稣以八福开始，称那些成功文化容易忽略的人为有福。灵里贫穷、哀恸与温柔不是赚取恩宠的技巧，也不是浪漫化痛苦；它们描述一群人的姿态：知道自己的需要，为破碎而哀伤，并把力量交给神的国。
 
 ## Outline | 讲道结构
@@ -38,8 +38,8 @@ Kingdom mourning includes grief over loss, evil, sin, and a world not yet made n
 
 ### 3. The meek will inherit the earth | 温柔的人必承受地土
 
-Meekness is strength yielded to God, not weakness or silence in the face of injustice. It refuses the world's grasping way of securing an inheritance and trusts God's promise of renewed creation.<br>
-温柔是把力量交给神，不是软弱，也不是面对不公时沉默。它拒绝世界那种抓取产业的方式，信靠神对更新创造的应许。
+Meekness is strength yielded to God, not weakness or silence in the face of injustice. It refuses the world's grasping way of securing an inheritance and trusts God's [promise](../Glossary/README.md#promise) of renewed [creation](../Glossary/README.md#creation).<br>
+温柔是把力量交给神，不是软弱，也不是面对不公时沉默。它拒绝世界那种抓取产业的方式，信靠神对更[新创造](../Glossary/README.md#new-creation)的应许。
 
 ## Notes | 注释
 

@@ -5,8 +5,8 @@
 <a id="in-three-sentences"></a>
 > **In Three Sentences | 三句话读懂本篇**
 >
-> Christmas praise responds to God’s gift of his Son. Singing helps a community remember incarnation, peace, and joy together. Christ’s presence also speaks into loneliness and grief.<br>
-> 圣诞的赞美回应神赐下爱子的礼物。唱诗帮助群体一同记念道成肉身、平安与喜乐。基督的同在也面对人的孤单与哀伤。
+> Christmas praise responds to God’s gift of his Son. Singing helps a community remember [incarnation](../Glossary/README.md#incarnation), peace, and joy together. [Christ](../Glossary/README.md#christ)’s presence also speaks into loneliness and grief.<br>
+> 圣诞的赞美回应神赐下爱子的礼物。唱诗帮助群体一同记念[道成肉身](../Glossary/README.md#incarnation)、平安与喜乐。[基督](../Glossary/README.md#christ)的同在也面对人的孤单与哀伤。
 
 ## Basic Info | 基本信息
 
@@ -34,7 +34,7 @@ Christmas praise begins with God's gift of the Son. Christians do not manufactur
 ### 2. Carols teach the story together | 颂歌让群体一同学习故事
 
 Singing places biblical themes of glory, incarnation, peace, and joy on the lips of the congregation. In this sense, worship is both praise and shared formation.<br>
-唱诗使荣耀、道成肉身、平安与喜乐这些圣经主题进入会众口中。因此敬拜既是赞美，也是群体一同被塑造。
+唱诗使荣耀、道成肉身、平安与喜乐这些[圣经](../Glossary/README.md#bible)主题进入会众口中。因此敬拜既是赞美，也是群体一同被塑造。
 
 ### 3. Christ's presence meets darkness | 基督的同在面对黑暗
 
@@ -45,12 +45,12 @@ The gathering refuses to pretend that every holiday is easy. It prays that Chris
 
 1. What does “praise the Lord” mean in my present circumstances?
    在我现在的处境中，“赞美主”意味着什么？
-2. How can a familiar carol help me remember the gospel story?
-   一首熟悉的圣诞颂歌怎样帮助我记得福音故事？
+2. How can a familiar carol help me remember the [gospel](../Glossary/README.md#gospel) story?
+   一首熟悉的圣诞颂歌怎样帮助我记得[福音](../Glossary/README.md#gospel)故事？
 3. Who may need Christ's comfort and a practical expression of welcome this season?
    这个季节谁需要基督的安慰和实际的接待？
 
 ## Prayer | 祷告
 
-God of joy and light, receive our praise. Be near to those who are lonely or grieving, and let the birth of Jesus bring true hope into our homes and church.<br>
-喜乐与光的神，求你悦纳我们的赞美。求你亲近孤单和哀伤的人，并让耶稣的降生把真实盼望带进我们的家庭和教会。
+God of joy and light, receive our praise. Be near to those who are lonely or grieving, and let the birth of Jesus bring true hope into our homes and [church](../Glossary/README.md#church).<br>
+喜乐与光的神，求你悦纳我们的赞美。求你亲近孤单和哀伤的人，并让耶稣的降生把真实盼望带进我们的家庭和[教会](../Glossary/README.md#church)。

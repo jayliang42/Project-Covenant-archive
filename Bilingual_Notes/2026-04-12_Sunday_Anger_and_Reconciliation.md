@@ -6,7 +6,7 @@
 > **In Three Sentences | 三句话读懂本篇**
 >
 > Matthew 5 brings the command against murder into the heart’s anger and contempt. Jesus calls people to take reconciliation seriously. These notes ground that response in his forgiving love.<br>
-> 马太福音五章把不可杀人的诫命带到内心的愤怒与轻看。耶稣呼召人认真面对和好。本篇把这样的回应建立在祂赦免的爱中。
+> 马太[福音](../Glossary/README.md#gospel)五章把不可杀人的诫命带到内心的愤怒与轻看。耶稣呼召人认真面对和好。本篇把这样的回应建立在祂[赦免](../Glossary/README.md#forgiveness)的爱中。
 
 ## Basic Info | 基本信息
 
@@ -28,7 +28,7 @@
 ## Big Idea | 核心信息
 
 Jesus is not lowering the standard of the law. He is revealing its true depth. Murder is not only an outward act. It begins in the heart through anger, contempt, dismissal, and refusal to reconcile. The kingdom ethic therefore reaches deeper than behavior; it reaches motives, desires, and posture toward others.<br>
-耶稣不是降低律法的要求，也不是推翻旧约；祂是在显明律法真正的深度。杀人不只是外在行为，它往往先从内心开始，表现为愤怒、轻看、贬低别人，以及拒绝和好。所以，天国的伦理不只管“你做了什么”，也管“你心里怎样看人”。
+耶稣不是降低律法的要求，也不是推翻旧约；祂是在显明律法真正的深度。杀人不只是外在行为，它往往先从内心开始，表现为愤怒、轻看、贬低别人，以及拒绝和好。所以，[天国](../Glossary/README.md#kingdom)的伦理不只管“你做了什么”，也管“你心里怎样看人”。
 
 ## Outline | 讲道结构
 
@@ -53,8 +53,8 @@ Jesus gives two practical pictures. First, if worship and broken relationship co
 ### 4. The gospel makes reconciliation possible
 
 
-The sermon's strongest pastoral move is this: we can pursue peace only because Jesus first moved toward us. We were not neutral people who needed minor improvement. We were sinners, debtors, and enemies. Christ absorbed judgment in our place, paid the debt we could not pay, and released us from the prison of guilt. That gospel frees us to stop clinging to anger.<br>
-这篇讲道最重要的牧养性转折在这里：我们之所以能去寻求和平，是因为耶稣先向我们走来。我们不是“稍微需要改善的人”，而是罪人、欠债者、与神为敌的人。基督替我们承受审判，偿还我们无力偿还的债，把我们从罪疚的监牢中释放出来。因此，福音使我们有可能不再死抓着愤怒不放。
+The sermon's strongest pastoral move is this: we can pursue peace only because Jesus first moved toward us. We were not neutral people who needed minor improvement. We were sinners, debtors, and enemies. [Christ](../Glossary/README.md#christ) absorbed judgment in our place, paid the debt we could not pay, and released us from the prison of guilt. That [gospel](../Glossary/README.md#gospel) frees us to stop clinging to anger.<br>
+这篇讲道最重要的牧养性转折在这里：我们之所以能去寻求和平，是因为耶稣先向我们走来。我们不是“稍微需要改善的人”，而是罪人、欠债者、与神为敌的人。[基督](../Glossary/README.md#christ)替我们承受审判，偿还我们无力偿还的债，把我们从罪疚的监牢中释放出来。因此，福音使我们有可能不再死抓着愤怒不放。
 
 ## Key Observations | 关键观察
 
@@ -83,7 +83,7 @@ In many discussions of Matthew 5, “Raca” is explained as an insult expressin
 
 
 The sermon connects murder ethics to Genesis 9:6. That is important because biblical ethics are grounded not merely in social order, but in the dignity of human beings as bearers of God's image.<br>
-讲道把“不可杀人”的伦理基础连到创世记 9:6，这一点很重要。圣经的伦理不只是为了维持社会秩序，更是建立在人是按神形象所造、具有尊严这一事实上。
+讲道把“不可杀人”的伦理基础连到创世记 9:6，这一点很重要。[圣经](../Glossary/README.md#bible)的伦理不只是为了维持社会秩序，更是建立在人是按神形象所造、具有尊严这一事实上。
 
 ### Note 3. Reconciliation is not identical to restored intimacy
 

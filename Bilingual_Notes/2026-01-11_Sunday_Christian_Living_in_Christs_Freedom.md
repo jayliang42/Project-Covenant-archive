@@ -5,8 +5,8 @@
 <a id="in-three-sentences"></a>
 > **In Three Sentences | 三句话读懂本篇**
 >
-> First Peter 4 connects Christ’s suffering with a changed way of life. Prayer, love, hospitality, and serving with gifts make that freedom visible. Grace and coming judgment give these practices their setting.<br>
-> 彼得前书四章把基督的受苦与更新的生活相连。祷告、相爱、接待和使用恩赐，使这份自由变得可见。这些操练以恩典和将来的审判为背景。
+> First Peter 4 connects [Christ](../Glossary/README.md#christ)’s suffering with a changed way of life. Prayer, love, hospitality, and serving with gifts make that freedom visible. [Grace](../Glossary/README.md#grace) and coming judgment give these practices their setting.<br>
+> 彼得前书四章把[基督](../Glossary/README.md#christ)的受苦与更新的生活相连。祷告、相爱、接待和使用恩赐，使这份自由变得可见。这些操练以[恩典](../Glossary/README.md#grace)和将来的审判为背景。
 
 ## Basic Info | 基本信息
 

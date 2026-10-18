@@ -6,7 +6,7 @@
 > **In Three Sentences | 三句话读懂本篇**
 >
 > Matthew 5–7 describes life under Jesus’ reign. His words address the heart and the foundations of daily life. Reading leads toward hearing and doing.<br>
-> 马太福音五至七章描述在耶稣掌权下的生活。祂的话触及人的内心和生活根基。阅读要落实为听见并遵行。
+> 马太[福音](../Glossary/README.md#gospel)五至七章描述在耶稣掌权下的生活。祂的话触及人的内心和生活根基。阅读要落实为听见并遵行。
 
 ## Basic Info | 基本信息
 
@@ -17,7 +17,7 @@
 - Main passage: Matthew 5-7
   主要经文：马太福音 5-7 章
 - Big idea: Jesus' Sermon on the Mount is the authoritative way of kingdom life for people who have come to him, not one more self-improvement system.
-  核心信息：耶稣的登山宝训是已经来到祂面前之人所活出的天国生命权威道路，不是另一套自我提升体系。
+  核心信息：耶稣的登山宝训是已经来到祂面前之人所活出的[天国](../Glossary/README.md#kingdom)生命权威道路，不是另一套自我提升体系。
 
 ## Big Idea | 核心信息
 
@@ -28,8 +28,8 @@ The introduction contrasts Jesus' teaching with modern life systems promising se
 
 ### 1. Competing stories promise the good life | 竞争的故事都在承诺好生活
 
-Financial strategies, career plans, lifestyle brands, and self-help systems may contain useful wisdom, but they become rival gospels when they promise ultimate security or identity. Jesus calls people to repent because God's kingdom has come near in him.<br>
-财务策略、职业计划、生活方式品牌和自助系统可能包含有用智慧，但当它们承诺终极安全或身份时，就会变成竞争性的福音。耶稣呼召人悔改，因为神的国已经在祂里面临近。
+Financial strategies, career plans, lifestyle brands, and self-help systems may contain useful [wisdom](../Glossary/README.md#wisdom), but they become rival gospels when they promise ultimate security or identity. Jesus calls people to repent because God's kingdom has come near in him.<br>
+财务策略、职业计划、生活方式品牌和自助系统可能包含有用[智慧](../Glossary/README.md#wisdom)，但当它们承诺终极安全或身份时，就会变成竞争性的福音。耶稣呼召人[悔改](../Glossary/README.md#repentance)，因为神的国已经在祂里面临近。
 
 ### 2. Jesus speaks with authority | 耶稣带着权柄说话
 
@@ -45,8 +45,8 @@ Matthew 7's builders show that knowledge without obedience is unstable. Doing Je
 
 ### Grace and obedience belong together | 恩典与顺服属于一起
 
-The Sermon on the Mount cannot be reduced either to legalism or to optional ideals. Jesus' commands are impossible apart from grace, yet grace brings people into a real, embodied obedience shaped by the Spirit.<br>
-登山宝训既不能被缩小成律法主义，也不能被当作可选的理想。离开恩典，耶稣的命令不可能被活出；但恩典会把人带进圣灵塑造、真实具身的顺服。
+The Sermon on the Mount cannot be reduced either to legalism or to optional ideals. Jesus' commands are impossible apart from [grace](../Glossary/README.md#grace), yet grace brings people into a real, embodied obedience shaped by the Spirit.<br>
+登山宝训既不能被缩小成律法主义，也不能被当作可选的理想。离开[恩典](../Glossary/README.md#grace)，耶稣的命令不可能被活出；但恩典会把人带进[圣灵](../Glossary/README.md#holy-spirit)塑造、真实具身的顺服。
 
 ## Reflection Questions | 反思问题
 
@@ -59,5 +59,5 @@ The Sermon on the Mount cannot be reduced either to legalism or to optional idea
 
 ## Prayer | 祷告
 
-King Jesus, turn us from false foundations and teach us your way. Give us grace to hear, faith to trust, and courage to obey your words in daily life.<br>
-君王耶稣，求你使我们离开虚假的根基，教我们走你的道路。赐我们聆听的恩典、信靠的信心，以及每天顺服你话语的勇气。
+King Jesus, turn us from false foundations and teach us your way. Give us grace to hear, [faith](../Glossary/README.md#faith) to trust, and courage to obey your words in daily life.<br>
+君王耶稣，求你使我们离开虚假的根基，教我们走你的道路。赐我们聆听的恩典、信靠的[信心](../Glossary/README.md#faith)，以及每天顺服你话语的勇气。

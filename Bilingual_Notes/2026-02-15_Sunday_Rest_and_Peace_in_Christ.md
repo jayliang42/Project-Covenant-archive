@@ -5,8 +5,8 @@
 <a id="in-three-sentences"></a>
 > **In Three Sentences | 三句话读懂本篇**
 >
-> Jesus invites weary people to share his yoke. Rest grows through trust in the Father and Christ’s gentle presence. This learning happens within ordinary responsibilities.<br>
-> 耶稣邀请疲惫的人与祂同负一轭。安息在信靠父并领受基督温柔的同在中展开。人可以在日常责任中学习这份安息。
+> Jesus invites weary people to share his yoke. Rest grows through trust in the Father and [Christ](../Glossary/README.md#christ)’s gentle presence. This learning happens within ordinary responsibilities.<br>
+> 耶稣邀请疲惫的人与祂同负一轭。安息在信靠父并领受[基督](../Glossary/README.md#christ)温柔的同在中展开。人可以在日常责任中学习这份安息。
 
 ## Basic Info | 基本信息
 
@@ -15,7 +15,7 @@
 - Type: Sunday Teaching
   类型：主日讲道
 - Main passages: Matthew 11:28-30; John 14:27; Philippians 4:6-9
-  主要经文：马太福音 11:28-30；约翰福音 14:27；腓立比书 4:6-9
+  主要经文：马太[福音](../Glossary/README.md#gospel) 11:28-30；约翰福音 14:27；腓立比书 4:6-9
 - Big idea: Jesus gives soul-deep rest by bringing weary people into his trusting relationship with the Father and by sharing his yoke with them.
   核心信息：耶稣借着把疲惫的人带进祂与父信靠的关系、并与他们同负一轭，赐下灵魂深处的安息。
 
@@ -33,8 +33,8 @@ Good gifts become heavy yokes when they become masters. The sermon identifies mi
 
 ### 2. Jesus shares his yoke | 耶稣与我们同负一轭
 
-Christ's yoke is not a new achievement system. It is learning from the gentle and humble Lord, trusting the Father as he did, and living in his presence. The gospel promise is companionship: believers are not yoked alone.<br>
-基督的轭不是新的成就系统，而是向温柔谦卑的主学习，如祂一样信靠父，并活在祂的同在中。福音的应许是陪伴：信徒不是独自负轭。
+Christ's yoke is not a new achievement system. It is learning from the gentle and humble Lord, trusting the Father as he did, and living in his presence. The [gospel](../Glossary/README.md#gospel) promise is companionship: believers are not yoked alone.<br>
+基督的轭不是新的成就系统，而是向温柔谦卑的主学习，如祂一样信靠父，并活在祂的同在中。福音的[应许](../Glossary/README.md#promise)是陪伴：信徒不是独自负轭。
 
 ### 3. Peace is practiced dependence | 平安是被操练的倚靠
 
@@ -45,8 +45,8 @@ Philippians 4 supplies a daily pattern: bring requests to God with thanksgiving 
 
 ### Rest is not inactivity | 安息不等于不作为
 
-Jesus calls disciples into his yoke, which includes learning, obedience, and mission. Rest is freedom from proving oneself and carrying life alone, not indifference to work, relationships, or responsibility.<br>
-耶稣呼召门徒进入祂的轭，其中包括学习、顺服和使命。安息是脱离自我证明、脱离独自承担人生的自由，而不是对工作、关系或责任漠不关心。
+Jesus calls [disciples](../Glossary/README.md#disciple) into his yoke, which includes learning, obedience, and mission. Rest is freedom from proving oneself and carrying life alone, not indifference to work, relationships, or responsibility.<br>
+耶稣呼召[门徒](../Glossary/README.md#disciple)进入祂的轭，其中包括学习、顺服和使命。安息是脱离自我证明、脱离独自承担人生的自由，而不是对工作、关系或责任漠不关心。
 
 ## Reflection Questions | 反思问题
 

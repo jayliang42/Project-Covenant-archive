@@ -6,7 +6,7 @@
 > **In Three Sentences | 三句话读懂本篇**
 >
 > A later community can name, quote, explain, publicly read, or translate a biblical book. These are different kinds of evidence about its reception. This audit records what each source actually shows and where deeper research is still needed.<br>
-> 后来的群体可能列出、引用、解释、公开宣读或翻译某卷圣经。这些是不同层次的接收史证据。本审计记录来源实际显示什么，以及哪里仍需深入研究。
+> 后来的群体可能列出、引用、解释、公开宣读或翻译某卷[圣经](../Glossary/README.md#bible)。这些是不同层次的[接收史](../Glossary/README.md#reception-history)证据。本审计记录来源实际显示什么，以及哪里仍需深入研究。
 
 > Language coverage: paired English/Chinese Draft; translation does not constitute new source verification.<br>
 > 语言覆盖：中英逐段对照Draft；补译不代表来源已经重新核实。
@@ -24,16 +24,16 @@
 
 | Subtype / 子型 | Minimum claim / 最小可确认命题 | Typical source / 典型材料 | Not automatically established / 不能自动推出 |
 | --- | --- | --- | --- |
-| **CAT: catalogue** | Author lists a book within a catalogue/collection | Melito, Origen, Muratorian fragment | Commentary, local liturgy, universal canon, traditional author |
-| **CAT**（书目列名） | 某作者把某卷列入一个书目或卷集 | 梅利托、俄利根、穆拉多利残篇 | 已逐句解释、地方礼仪宣读、普世统一正典或传统作者成立 |
+| **CAT: catalogue** | Author lists a book within a catalogue/collection | Melito, Origen, Muratorian fragment | Commentary, local liturgy, universal [canon](../Glossary/README.md#canon), traditional author |
+| **CAT**（书目列名） | 某作者把某卷列入一个书目或卷集 | 梅利托、俄利根、穆拉多利残篇 | 已逐句解释、地方礼仪宣读、普世统一[正典](../Glossary/README.md#canon)或传统作者成立 |
 | **USE: literary use** | Explicit quotation/adaptation or highly recognizable use | Polycarp on 1 Peter/Pauline letters | Author identity, every original detail, universal reception |
 | **USE**（文学使用） | 某作者明确引用、改写或高度可辨地使用一卷 | 坡旅甲对《彼得前书》、保罗书信的使用 | 作者身份、原文每一细节或所有地区都已接纳 |
 | **COM: continuous/named commentary** | Community preserves/explains particular text | 1QpHab, 4Q169, 4Q252 | Sole original meaning or universal Christian interpretation |
-| **COM**（连续／具名注释） | 某群体保存并解释某卷的具体经文 | 1QpHab、4Q169、4Q252 | 该解释就是原作者唯一原意或普世教会解释 |
+| **COM**（连续／具名注释） | 某群体保存并解释某卷的具体经文 | 1QpHab、4Q169、4Q252 | 该解释就是原作者唯一原意或普世[教会](../Glossary/README.md#church)解释 |
 | **LEC: liturgical reading** | Actual selected texts in a dated/local worship/teaching setting | Checkable lectionaries, liturgical books, sermon orders | Unselected books lack authority, local practice global |
 | **LEC**（礼仪选读） | 某地某时的崇拜／教导实际选择读某些经文 | 可核实的读经表、礼仪书或讲道秩序 | 未被选读的书不具权威，或一地习惯就是全球习惯 |
 | **VER: version/bound collection** | Actual inclusion in language version or physical codex | Sinaiticus, Peshitta, Old Latin | Earliest author, initial text, uniform canon boundary |
-| **VER**（版本／合订本范围） | 某语言版本或实体合订本实际收录一卷 | 西奈抄本、别西大、古拉丁传统 | 最早作者、最初文本或统一正典边界 |
+| **VER**（版本／合订本范围） | 某语言版本或实体合订本实际收录一卷 | 西奈[抄本](../Glossary/README.md#manuscript)、别西大、古拉丁传统 | 最早作者、最初文本或统一正典边界 |
 
 One item can serve two types, but record each function separately. A bound collection is first VER; only an explicit reading arrangement adds LEC. Being copied together does not itself upgrade the evidence.<br>
 同一件材料可能跨两类，但必须把它的不同功能分开记录。例如一部合订本首先是 VER；若另有清楚的读经安排，才可额外计入 LEC，不能只因“抄在同一本”就自动升级。
@@ -52,10 +52,10 @@ CAT-only describes **the project’s current numbered anchors**: RX relies on ex
 | 主读 | 士师记、路得记 | 204–205 | 一份分列、一份合卷；都只是书目计数 | 逐项核验古代叙事重述或明确引用，先分开“重述故事”与“引用文本” |
 | Core | 1 Samuel, 1 Kings, 2 Kings | 204–205 | Four Kingdoms/joining not particular use | Check Josephus and other ancient history for scope/text relationship; parallel story not automatically verbatim quote |
 | 主读 | 撒母耳记上、列王纪上、列王纪下 | 204–205 | “王国四卷”与合卷计数不等于具体使用 | 核验约瑟夫斯等古代历史重述的范围与文本关系；不可把平行故事自动称为逐字引用 |
-| Core | Proverbs, Ecclesiastes | 204–205 | Manuscript/comparison present, RX only naming | Locatable Jewish/Christian quotations, commentary, lection traditions, exact verse |
+| Core | Proverbs, Ecclesiastes | 204–205 | [Manuscript](../Glossary/README.md#manuscript)/comparison present, RX only naming | Locatable Jewish/Christian quotations, commentary, lection traditions, exact verse |
 | 主读 | 箴言、传道书 | 204–205 | 已有抄本与比较背景，但接收层只有列名 | 优先寻找可定位的犹太／基督教明确引用、注释或读经传统，并记录是引哪一节 |
 | Core | Amos, Jonah, Zechariah, Malachi, Joel | 204 | Melito names collection | Named pesher, early quote, version scope; another Twelve book’s commentary cannot substitute |
-| 主读 | 阿摩司书、约拿书、撒迦利亚书、玛拉基书、约珥书 | 204 | 梅利托的《十二先知》只证明卷集列名 | 优先找具名 pesher、早期引用或版本范围；不能因同属十二先知就互相借用别卷注释 |
+| 主读 | 阿摩司书、约拿书、撒迦利亚书、玛拉基书、约珥书 | 204 | 梅利托的《十二[先知](../Glossary/README.md#prophet)》只证明卷集列名 | 优先找具名 pesher、早期引用或版本范围；不能因同属十二先知就互相借用别卷注释 |
 | Core | Jeremiah, Ezekiel, Ezra | 204–205 | Naming/joining without independently catalogued use | Check named quotation/commentary/liturgy/version separately; distinguish Ezra from Nehemiah |
 | 主读 | 耶利米书、以西结书、以斯拉记 | 204–205 | 两份书目给列名／合卷，尚未提供本项目收录的独立使用层 | 分别核验具名引文、注释、礼仪或版本；“以斯拉”范围须继续和《尼希米记》分开 |
 | Core | Esther | 205 | Origen explicit, Melito silent | Early Greek/Latin retelling/version use; distinguish Hebrew, Old Greek, additions |
@@ -81,7 +81,7 @@ The queue comprises **16 core + 6 bridge = 22 books**, the remaining depth quest
    **先找可读的一手文本。** 每一项候选材料至少要能定位到作者、作品、章节／叶码或馆藏号；“某教父可能知道”不足以单独新增锚点。
 2. **Add independent layers before quantities.** An early checkable USE/COM is often better than a third late list. Do not recount one catalogue under new wording.
    **先补独立层，再增加数量。** 一个早期、可核实的 USE 或 COM 通常比第三份晚期书目更有价值；同一书目不能换个表述重复计数。
-3. **Collections do not lend evidence across books.** Identify exactly which prophet a commentary, quotation, copy contains; likewise Chronicles and Ezra–Nehemiah.
+3. **Collections do not lend evidence across books.** Identify exactly which [prophet](../Glossary/README.md#prophet) a commentary, quotation, copy contains; likewise Chronicles and Ezra–Nehemiah.
    **同卷集不互借。** 《十二先知》的注释、引用和抄本必须标明到底涉及哪一卷；《历代志》《以斯拉—尼希米》也同样处理。
 4. **Write the limit first.** State what the item does not establish: author, events, original intent, universal scope, theological truth/falsity.
    **先写停止线。** 新条目必须同时写清：它不证明作者、卷内事件、原意、普世范围或神学真伪。
@@ -100,8 +100,8 @@ The route still covers 66 through 52 core/14 bridge. The audit sharpens weekly q
 | --- | --- |
 | Judges–kingdom, weeks 12–17 | Is reception merely catalogue joining, or actual retelling/quotation of relevant text? |
 | 士师—王国故事（第 12–17 周） | 此处的“古代接收”只是书目合卷，还是有人实际重述／引用过相关经文？ |
-| Wisdom, weeks 31–33 | Alongside copies, is there locatable interpretation, liturgy, or explicit catalogue use? |
-| 智慧书（第 31–33 周） | 这卷有古代经卷，是否也有可定位的解释、礼仪或明确书目使用？ |
+| [Wisdom](../Glossary/README.md#wisdom), weeks 31–33 | Alongside copies, is there locatable interpretation, liturgy, or explicit catalogue use? |
+| [智慧](../Glossary/README.md#wisdom)书（第 31–33 周） | 这卷有古代经卷，是否也有可定位的解释、礼仪或明确书目使用？ |
 | Prophets/return, weeks 18–30 | Does material explain this book, or merely inclusion in Twelve/joined Ezra? |
 | 先知与归回（第 18–30 周） | 资料是在解释这一卷，还是只证明它属于《十二先知》或“以斯拉”合卷？ |
 | Bridge insertion | Own RX, or only neighboring book’s joined count? |

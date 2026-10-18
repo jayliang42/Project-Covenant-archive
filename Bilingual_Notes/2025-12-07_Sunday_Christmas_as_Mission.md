@@ -5,8 +5,8 @@
 <a id="in-three-sentences"></a>
 > **In Three Sentences | 三句话读懂本篇**
 >
-> These notes connect Christmas with sharing Jesus’ good news. Invitation grows through prayer, listening, welcome, and friendship. The goal is helping people take an honest step toward Christ.<br>
-> 本篇把圣诞与分享耶稣的福音连在一起。邀请需要祷告、倾听、接待和持续的友谊。目标是帮助人诚实地向基督迈出一步。
+> These notes connect Christmas with sharing Jesus’ good news. Invitation grows through prayer, listening, welcome, and friendship. The goal is helping people take an honest step toward [Christ](../Glossary/README.md#christ).<br>
+> 本篇把圣诞与分享耶稣的[福音](../Glossary/README.md#gospel)连在一起。邀请需要祷告、倾听、接待和持续的友谊。目标是帮助人诚实地向[基督](../Glossary/README.md#christ)迈出一步。
 
 ## Basic Info | 基本信息
 
@@ -19,8 +19,8 @@
 
 ## Big Idea | 核心信息
 
-The message calls believers to be the church rather than merely attend church. Christmas is presented as a season when people may be more open to spiritual conversation, welcome, and invitation. The aim is not attendance for its own sake, but helping people encounter Christ and take an honest next step toward him.<br>
-信息呼召信徒不只是去教会，而是活出教会。圣诞被看作人可能更愿意进行属灵对话、接受接待与邀请的时节。目标不是为了人数本身，而是帮助人遇见基督，并诚实地向祂迈出下一步。
+The message calls believers to be the [church](../Glossary/README.md#church) rather than merely attend church. Christmas is presented as a season when people may be more open to spiritual conversation, welcome, and invitation. The aim is not attendance for its own sake, but helping people encounter Christ and take an honest next step toward him.<br>
+信息呼召信徒不只是去[教会](../Glossary/README.md#church)，而是活出教会。圣诞被看作人可能更愿意进行属灵对话、接受接待与邀请的时节。目标不是为了人数本身，而是帮助人遇见基督，并诚实地向祂迈出下一步。
 
 ## Outline | 讲道结构
 
@@ -31,7 +31,7 @@ To belong to Christ is to participate in a community of worship, care, and witne
 
 ### 2. Christmas gives a natural opening | 圣诞提供自然的切入点
 
-The birth of Jesus is good news of God's nearness and grace. Seasonal gatherings can create a hospitable setting for people who are curious, lonely, grieving, or spiritually searching.<br>
+The birth of Jesus is good news of God's nearness and [grace](../Glossary/README.md#grace). Seasonal gatherings can create a hospitable setting for people who are curious, lonely, grieving, or spiritually searching.<br>
 耶稣的降生是神亲近人、施恩给人的好消息。节期聚会能为好奇、孤独、哀伤或正在寻找的人提供一个有接待感的场景。
 
 ### 3. Invitation needs presence and care | 邀请需要陪伴与关怀

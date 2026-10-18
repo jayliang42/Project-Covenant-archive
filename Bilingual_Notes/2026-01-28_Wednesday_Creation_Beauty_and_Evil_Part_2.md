@@ -5,7 +5,7 @@
 <a id="in-three-sentences"></a>
 > **In Three Sentences | 三句话读懂本篇**
 >
-> This study connects creation’s beauty with God’s generosity. It describes evil as a distortion of goodness. Questions about creaturely freedom are part of that discussion.<br>
+> This study connects [creation](../Glossary/README.md#creation)’s beauty with God’s generosity. It describes evil as a distortion of goodness. Questions about creaturely freedom are part of that discussion.<br>
 > 本篇把受造世界的美与神的慷慨相连。邪恶被描述为对良善的扭曲。受造者的自由也是讨论的一部分。
 
 ## Basic Info | 基本信息
@@ -14,8 +14,8 @@
   日期：2026-01-28（周三）
 - Type: Wednesday Fellowship
   类型：周三团契
-- Topic: Triune God, creation, beauty, and evil
-  主题：三一神、创造、美与邪恶
+- Topic: [Triune](../Glossary/README.md#trinity) God, creation, beauty, and evil
+  主题：[三一](../Glossary/README.md#trinity)神、[创造](../Glossary/README.md#creation)、美与邪恶
 - Big idea: Creation's beauty reflects the generous God, while evil is not a rival creator but a distortion of creaturely freedom and love.
   核心信息：创造的美反映慷慨的神；邪恶不是与神对等的创造力量，而是受造自由和爱的扭曲。
 
@@ -42,7 +42,7 @@ Beauty, abundance, music, and harmony can become occasions for worship because t
 ### 2. Evil distorts rather than creates | 邪恶是扭曲，不是创造
 
 Evil does not have equal status with God's goodness. It twists creaturely love inward and damages relationships, yet it cannot finally undo the harmonious life of Father, Son, and Spirit.<br>
-邪恶并不与神的良善同等。它把受造者的爱扭向自我、破坏关系，却不能最终破坏父、子、圣灵和谐的生命。
+邪恶并不与神的良善同等。它把受造者的爱扭向自我、破坏关系，却不能最终破坏父、子、[圣灵](../Glossary/README.md#holy-spirit)和谐的生命。
 
 ### 3. Love does not control | 爱不控制
 
@@ -53,8 +53,8 @@ The study makes a pastoral application: love gives space and seeks another's goo
 
 ### The problem of evil remains weighty | 邪恶问题仍然沉重
 
-Freedom explains neither every tragedy nor God's full providence. Christian hope ultimately looks to the cross, resurrection, final judgment, and new creation. These truths allow lament as well as trust; they must never be used to give easy answers to sufferers.<br>
-自由并不能解释每一场悲剧，也不能穷尽神的护理。基督徒盼望最终仰望十字架、复活、末后审判和新创造。这些真理容许人哀哭也容许人信靠，绝不可被用来向受苦者给出轻率答案。
+Freedom explains neither every tragedy nor God's full providence. Christian hope ultimately looks to the cross, [resurrection](../Glossary/README.md#resurrection), final judgment, and [new creation](../Glossary/README.md#new-creation). These truths allow lament as well as trust; they must never be used to give easy answers to sufferers.<br>
+自由并不能解释每一场悲剧，也不能穷尽神的护理。基督徒盼望最终仰望十字架、[复活](../Glossary/README.md#resurrection)、末后审判和[新创造](../Glossary/README.md#new-creation)。这些真理容许人哀哭也容许人信靠，绝不可被用来向受苦者给出轻率答案。
 
 ## Reflection Questions | 反思问题
 

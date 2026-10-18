@@ -8,8 +8,8 @@
 > Find a book in the index and see where it belongs in the larger story. Notice its main question and its connection to nearby books. Some entries share a profile instead of having a separate detailed study.<br>
 > 先在索引中找到书卷，再看它属于故事的哪一部分。留意它的主要问题，以及和前后书卷的联系。有些书卷目前共用一份简介，并没有独立的详细研究。
 
-按书卷梳理圣经，并把每卷书挂到整条时间线上。
-This file walks through the Bible book by book and shows how each book fits into the larger timeline.
+按书卷梳理[圣经](../Glossary/README.md#bible)，并把每卷书挂到整条时间线上。
+This file walks through the [Bible](../Glossary/README.md#bible) book by book and shows how each book fits into the larger timeline.
 
 ## Book Jump Table | 书卷跳转表
 
@@ -18,12 +18,12 @@ The table below is the GitHub-friendly entry point. Books with a shared profile 
 
 | Collection | Books / 书卷 | Jump / 跳转 |
 | --- | --- | --- |
-| Pentateuch / 摩西五经 | Genesis 创世记 · Exodus 出埃及记 · Leviticus 利未记 · Numbers 民数记 · Deuteronomy 申命记 | [Genesis](#genesis) · [Exodus](#exodus) · [Leviticus](#leviticus) · [Numbers](#numbers) · [Deuteronomy](#deuteronomy) |
+| Pentateuch / 摩西五经 | Genesis 创世记 · [Exodus](../Glossary/README.md#exodus) 出埃及记 · Leviticus 利未记 · Numbers 民数记 · Deuteronomy 申命记 | [Genesis](#genesis) · [Exodus](#exodus) · [Leviticus](#leviticus) · [Numbers](#numbers) · [Deuteronomy](#deuteronomy) |
 | Historical books / 历史书 | Joshua 约书亚记 · Judges 士师记 · Ruth 路得记 · 1–2 Samuel 撒母耳记上下 · 1–2 Kings 列王纪上下 · 1–2 Chronicles 历代志上下 · Ezra 以斯拉记 · Nehemiah 尼希米记 · Esther 以斯帖记 | [Joshua](#joshua) · [Judges](#judges) · [Ruth](#ruth) · [1 Samuel](#1-samuel) · [2 Samuel](#2-samuel) · [1 Kings](#1-kings) · [2 Kings](#2-kings) · [1 Chronicles](#1-chronicles) · [2 Chronicles](#2-chronicles) · [Ezra](#ezra) · [Nehemiah](#nehemiah) · [Esther](#esther) |
-| Wisdom and poetry / 智慧与诗歌 | Job 约伯记 · Psalms 诗篇 · Proverbs 箴言 · Ecclesiastes 传道书 · Song of Songs 雅歌 | [Job](#job) · [Psalms](#psalms) · [Proverbs](#proverbs) · [Ecclesiastes](#ecclesiastes) · [Song of Songs](#song-of-songs) |
-| Major prophets / 大先知书 | Isaiah 以赛亚书 · Jeremiah 耶利米书 · Lamentations 耶利米哀歌 · Ezekiel 以西结书 · Daniel 但以理书 | [Isaiah](#isaiah) · [Jeremiah](#jeremiah) · [Lamentations](#lamentations) · [Ezekiel](#ezekiel) · [Daniel](#daniel) |
+| [Wisdom](../Glossary/README.md#wisdom) and poetry / [智慧](../Glossary/README.md#wisdom)与诗歌 | Job 约伯记 · [Psalms](../Glossary/README.md#psalm) [诗篇](../Glossary/README.md#psalm) · Proverbs 箴言 · Ecclesiastes 传道书 · Song of Songs 雅歌 | [Job](#job) · [Psalms](#psalms) · [Proverbs](#proverbs) · [Ecclesiastes](#ecclesiastes) · [Song of Songs](#song-of-songs) |
+| Major [prophets](../Glossary/README.md#prophet) / 大[先知](../Glossary/README.md#prophet)书 | Isaiah 以赛亚书 · Jeremiah 耶利米书 · Lamentations 耶利米哀歌 · Ezekiel 以西结书 · Daniel 但以理书 | [Isaiah](#isaiah) · [Jeremiah](#jeremiah) · [Lamentations](#lamentations) · [Ezekiel](#ezekiel) · [Daniel](#daniel) |
 | Minor prophets / 小先知书 | Hosea–Malachi 何西阿书至玛拉基书（合并导读） | [Shared Minor Prophets profile / 小先知合并导读](#hosea-to-malachi) |
-| Gospels and Acts / 福音书与使徒行传 | Matthew 马太福音 · Mark 马可福音 · Luke 路加福音 · John 约翰福音 · Acts 使徒行传 | [Matthew](#matthew) · [Mark](#mark) · [Luke](#luke) · [John](#john) · [Acts](#acts) |
+| Gospels and Acts / [福音](../Glossary/README.md#gospel)书与[使徒](../Glossary/README.md#apostle)行传 | Matthew 马太福音 · Mark 马可福音 · Luke 路加福音 · John 约翰福音 · Acts 使徒行传 | [Matthew](#matthew) · [Mark](#mark) · [Luke](#luke) · [John](#john) · [Acts](#acts) |
 | Paul's letters / 保罗书信 | Romans–Philemon 罗马书至腓利门书（合并导读） | [Shared Paul's Letters profile / 保罗书信合并导读](#pauls-letters) |
 | General letters / 普通书信 | Hebrews–Jude 希伯来书至犹大书（合并导读） | [Shared General Letters profile / 普通书信合并导读](#general-letters) |
 | Revelation / 启示录 | Revelation 启示录 | [Revelation](#revelation) |
@@ -43,34 +43,34 @@ Use this file when your question is not only “what happened next?” but also 
 <a id="genesis"></a>
 ### Genesis | 创世记
 
-- Timeline placement: creation, fall, flood, Babel, patriarchs.
-  时间位置：创造、堕落、洪水、巴别、列祖时期。
-- Main role: establishes the beginning of the world, the entrance of sin, and the covenant promise line through Abraham's family.
-  主要作用：交代世界起头、罪如何进入历史，以及神如何借着亚伯拉罕家族建立应许主线。
+- Timeline placement: [creation](../Glossary/README.md#creation), fall, flood, Babel, patriarchs.
+  时间位置：[创造](../Glossary/README.md#creation)、堕落、洪水、巴别、列祖时期。
+- Main role: establishes the beginning of the world, the entrance of sin, and the [covenant](../Glossary/README.md#covenant) promise line through Abraham's family.
+  主要作用：交代世界起头、罪如何进入历史，以及神如何借着亚伯拉罕家族建立[应许](../Glossary/README.md#promise)主线。
 
 <a id="exodus"></a>
 ### Exodus | 出埃及记
 
 - Timeline placement: Egypt, exodus, Sinai.
-  时间位置：埃及、出埃及、西奈时期。
+  时间位置：埃及、[出埃及](../Glossary/README.md#exodus)、西奈时期。
 - Main role: shows God rescuing his people from slavery and binding them to himself in covenant.
-  主要作用：显明神怎样把祂的百姓从奴役中救出来，并与他们立约。
+  主要作用：显明神怎样把祂的百姓从奴役中救出来，并与他们[立约](../Glossary/README.md#covenant)。
 
 <a id="leviticus"></a>
 ### Leviticus | 利未记
 
 - Timeline placement: Sinai period.
   时间位置：西奈时期。
-- Main role: explains holiness, sacrifice, priesthood, cleanness, and how a holy God dwells among a sinful people.
-  主要作用：解释圣洁、献祭、祭司、洁净，以及圣洁的神如何住在有罪的人中间。
+- Main role: explains holiness, [sacrifice](../Glossary/README.md#sacrifice), priesthood, cleanness, and how a holy God dwells among a sinful people.
+  主要作用：解释圣洁、[献祭](../Glossary/README.md#sacrifice)、[祭司](../Glossary/README.md#priest)、洁净，以及圣洁的神如何住在有罪的人中间。
 
 <a id="numbers"></a>
 ### Numbers | 民数记
 
 - Timeline placement: wilderness wandering.
   时间位置：旷野漂流。
-- Main role: records Israel's rebellion, judgment, preservation, and continued movement toward the land.
-  主要作用：记载以色列的悖逆、审判、蒙保守，以及继续走向应许之地的过程。
+- Main role: records [Israel](../Glossary/README.md#israel)'s rebellion, judgment, preservation, and continued movement toward the land.
+  主要作用：记载[以色列](../Glossary/README.md#israel)的悖逆、审判、蒙保守，以及继续走向应许之地的过程。
 
 <a id="deuteronomy"></a>
 ### Deuteronomy | 申命记
@@ -121,7 +121,7 @@ Use this file when your question is not only “what happened next?” but also 
 
 - Timeline placement: reign of David.
   时间位置：大卫作王时期。
-- Main role: centers on David's kingship, failures, and the covenant promise of an enduring throne.
+- Main role: centers on David's kingship, failures, and the covenant [promise](../Glossary/README.md#promise) of an enduring throne.
   主要作用：集中记载大卫王权、他的失败，以及神对大卫之约的应许。
 
 <a id="1-kings"></a>
@@ -135,9 +135,9 @@ Use this file when your question is not only “what happened next?” but also 
 <a id="2-kings"></a>
 ### 2 Kings | 列王纪下
 
-- Timeline placement: divided kingdom to exile.
-  时间位置：分裂王国直到被掳。
-- Main role: traces the collapse of Israel and Judah into exile.
+- Timeline placement: divided kingdom to [exile](../Glossary/README.md#exile).
+  时间位置：分裂王国直到[被掳](../Glossary/README.md#exile)。
+- Main role: traces the collapse of Israel and [Judah](../Glossary/README.md#judah) into exile.
   主要作用：追踪北国与南国如何一步步走向被掳。
 
 <a id="1-chronicles"></a>
@@ -145,8 +145,8 @@ Use this file when your question is not only “what happened next?” but also 
 
 - Timeline placement: mainly Davidic focus, written later.
   时间位置：内容主要聚焦大卫时期，但写作较晚。
-- Main role: retells history with emphasis on David, worship, temple preparation, and covenant identity.
-  主要作用：从敬拜、圣殿准备和约中身份角度重新讲述历史。
+- Main role: retells history with emphasis on David, worship, [temple](../Glossary/README.md#temple) preparation, and covenant identity.
+  主要作用：从敬拜、[圣殿](../Glossary/README.md#temple)准备和约中身份角度重新讲述历史。
 
 <a id="2-chronicles"></a>
 ### 2 Chronicles | 历代志下
@@ -159,9 +159,9 @@ Use this file when your question is not only “what happened next?” but also 
 <a id="ezra"></a>
 ### Ezra | 以斯拉记
 
-- Timeline placement: after return from exile.
-  时间位置：被掳归回之后。
-- Main role: temple rebuilding and restoration of Torah-centered life.
+- Timeline placement: after [return from exile](../Glossary/README.md#return).
+  时间位置：[被掳归回](../Glossary/README.md#return)之后。
+- Main role: temple rebuilding and restoration of [Torah](../Glossary/README.md#law)-centered life.
   主要作用：记载圣殿重建与以律法为中心的群体恢复。
 
 <a id="nehemiah"></a>
@@ -277,8 +277,8 @@ Use this file when your question is not only “what happened next?” but also 
 
 - Timeline placement: mostly before exile, during exile, or after return.
   时间位置：大多落在被掳前、被掳中或归回后。
-- Main role: each book has its own emphasis, but together they announce covenant lawsuit, judgment, repentance, hope, messianic expectation, and future restoration.
-  主要作用：各卷重点不同，但合起来都在宣告约的控诉、审判、悔改、盼望、弥赛亚期待与未来恢复。
+- Main role: each book has its own emphasis, but together they announce covenant lawsuit, judgment, [repentance](../Glossary/README.md#repentance), hope, messianic expectation, and future restoration.
+  主要作用：各卷重点不同，但合起来都在宣告约的控诉、审判、[悔改](../Glossary/README.md#repentance)、盼望、[弥赛亚](../Glossary/README.md#messiah)期待与未来恢复。
 
 <a id="gospels-and-acts"></a>
 
@@ -289,7 +289,7 @@ Use this file when your question is not only “what happened next?” but also 
 
 - Timeline placement: life of Jesus.
   时间位置：耶稣在世事工时期。
-- Main role: strongly presents Jesus as the promised Messiah and fulfillment of Scripture.
+- Main role: strongly presents Jesus as the promised [Messiah](../Glossary/README.md#messiah) and fulfillment of Scripture.
   主要作用：特别强调耶稣是应许中的弥赛亚，是圣经应验者。
 
 <a id="mark"></a>
@@ -305,8 +305,8 @@ Use this file when your question is not only “what happened next?” but also 
 
 - Timeline placement: life of Jesus.
   时间位置：耶稣在世事工时期。
-- Main role: gives an orderly account with special attention to history, mercy, prayer, outsiders, and salvation.
-  主要作用：更系统地讲述耶稣，并特别关注历史性、怜悯、祷告、边缘人和救恩。
+- Main role: gives an orderly account with special attention to history, mercy, prayer, outsiders, and [salvation](../Glossary/README.md#salvation).
+  主要作用：更系统地讲述耶稣，并特别关注历史性、怜悯、祷告、边缘人和[救恩](../Glossary/README.md#salvation)。
 
 <a id="john"></a>
 ### John | 约翰福音
@@ -319,10 +319,10 @@ Use this file when your question is not only “what happened next?” but also 
 <a id="acts"></a>
 ### Acts | 使徒行传
 
-- Timeline placement: after resurrection and ascension.
-  时间位置：复活、升天之后。
-- Main role: records the Spirit's work in the early church and the spread of the gospel from Jerusalem outward.
-  主要作用：记载圣灵在初代教会中的工作，以及福音从耶路撒冷向外扩展。
+- Timeline placement: after [resurrection](../Glossary/README.md#resurrection) and ascension.
+  时间位置：[复活](../Glossary/README.md#resurrection)、升天之后。
+- Main role: records the Spirit's work in the early [church](../Glossary/README.md#church) and the spread of the [gospel](../Glossary/README.md#gospel) from Jerusalem outward.
+  主要作用：记载[圣灵](../Glossary/README.md#holy-spirit)在初代[教会](../Glossary/README.md#church)中的工作，以及福音从耶路撒冷向外扩展。
 
 <a id="letters"></a>
 
@@ -353,8 +353,8 @@ Use this file when your question is not only “what happened next?” but also 
 
 - Timeline placement: final consummation, though written to real first-century churches.
   时间位置：指向最终成全，但写给真实的一世纪教会。
-- Main role: unveils Christ's victory, final judgment, and the arrival of new creation.
-  主要作用：揭示基督的得胜、最终审判，以及新创造的到来。
+- Main role: unveils [Christ](../Glossary/README.md#christ)'s victory, final judgment, and the arrival of [new creation](../Glossary/README.md#new-creation).
+  主要作用：揭示[基督](../Glossary/README.md#christ)的得胜、最终审判，以及[新创造](../Glossary/README.md#new-creation)的到来。
 
 ## Simple Reading Logic | 简单阅读逻辑
 
@@ -364,7 +364,7 @@ If you feel lost, remember:<br>
 
 - The Bible starts in Genesis.
   圣经从创世记开始。
-- Israel's story fills most of the Old Testament.
+- Israel's story fills most of the [Old Testament](../Glossary/README.md#old-testament).
   旧约大部分都在讲以色列的故事。
 - The prophets speak into Israel's story, not outside it.
   先知是在以色列历史里面说话，不是在历史外面突然出现。

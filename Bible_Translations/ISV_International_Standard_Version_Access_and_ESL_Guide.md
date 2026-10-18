@@ -10,7 +10,7 @@
 
 > **Library status | 图书馆状态：** Access guide only; the full ISV text is not stored in this public repository.
 >
-> **Version | 版本：** *The Holy Bible: International Standard Version* (ISV), a modern English translation published by The ISV Foundation.
+> **Version | 版本：** *The Holy [Bible](../Glossary/README.md#bible): International Standard Version* (ISV), a modern English translation published by The ISV Foundation.
 >
 > **Best use | 适合用途：** An English reading and comparison Bible, especially worth trying for readers who use English as a second language (ESL).
 
@@ -36,7 +36,7 @@ The exact app availability, device support, price, and module format are control
 
 The ISV Foundation says the translation is written in modern conversational English and is readable for people whose English is a second language. Its introductory material gives a target reading level of grades 8–9 and describes its aim as clear, natural English without slang, national colloquialisms, or confusing regionalisms. On that basis, **ISV is a sensible ESL-friendly version to try**—especially for readers who find older or highly formal English difficult.
 
-这不是说 ISV 对每位英语学习者都一定最简单，也不是对所有英文译本作出客观排名。上述“ESL 友好”是基于译者／出版方公开说明的使用定位，而不是本资料库做的可读性实验。圣经仍含有古代文化、神学词汇、诗歌与比喻；初学者可把它和中文译本并读，并记录自己真正读不懂的词句。
+这不是说 ISV 对每位英语学习者都一定最简单，也不是对所有英文译本作出客观排名。上述“ESL 友好”是基于译者／出版方公开说明的使用定位，而不是本资料库做的可读性实验。[圣经](../Glossary/README.md#bible)仍含有古代文化、神学词汇、诗歌与[比喻](../Glossary/README.md#parable)；初学者可把它和中文译本并读，并记录自己真正读不懂的词句。
 
 ### Practical reading pattern | 实际阅读方式
 
@@ -45,7 +45,7 @@ The ISV Foundation says the translation is written in modern conversational Engl
 3. **Check the surrounding paragraph before a dictionary.** Biblical words change nuance according to context.
 4. **Use a second English translation when it matters.** ISV is a study aid, not a shortcut around careful reading or the original-language issues behind every translation.
 
-Useful starting passages: Mark 1, Luke 15, John 1, John 15, Ephesians 2, and Philippians 2. They give narrative, parable, Gospel discourse, letter, and poetic material rather than making a judgment from a single verse.
+Useful starting passages: Mark 1, Luke 15, John 1, John 15, Ephesians 2, and Philippians 2. They give narrative, [parable](../Glossary/README.md#parable), [Gospel](../Glossary/README.md#gospel) discourse, letter, and poetic material rather than making a judgment from a single verse.
 
 ## Translation Profile | 翻译定位
 
