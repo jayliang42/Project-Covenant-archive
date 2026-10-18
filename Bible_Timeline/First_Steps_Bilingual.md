@@ -148,7 +148,7 @@ The [New Testament](../Glossary/README.md#new-testament) presents Jesus as [Mess
 
 At [Pentecost](../Glossary/README.md#pentecost) in Acts 2, the [Holy Spirit](../Glossary/README.md#holy-spirit) equips Jesus’ followers to bear witness. [Apostles](../Glossary/README.md#apostle) are sent with a task, and [church](../Glossary/README.md#church) names the community rather than mainly a building. The good news also reaches [Gentiles](../Glossary/README.md#gentile), people outside the Jewish people.
 
-[使徒](../Glossary/README.md#apostle)行传第二章的[五旬节](../Glossary/README.md#pentecost)，[圣灵](../Glossary/README.md#holy-spirit)帮助耶稣的跟随者作见证。使徒受差遣承担使命；[教会](../Glossary/README.md#church)主要指群体，而非建筑。好消息也传向[外邦人](../Glossary/README.md#gentile)，就是非犹太人。
+使徒行传第二章的[五旬节](../Glossary/README.md#pentecost)，[圣灵](../Glossary/README.md#holy-spirit)帮助耶稣的跟随者作见证。[使徒](../Glossary/README.md#apostle)受差遣承担使命；[教会](../Glossary/README.md#church)主要指群体，而非建筑。好消息也传向[外邦人](../Glossary/README.md#gentile)，就是非犹太人。
 
 **Read | 阅读：** Acts 2; 17:1–9 / 使徒行传2章；17:1–9。
 
@@ -167,7 +167,7 @@ At [Pentecost](../Glossary/README.md#pentecost) in Acts 2, the [Holy Spirit](../
 
 ![An angel points a viewer toward a bright city / 天使引导观看者望向光照中的城](../assets/illustrations/dore-new-creation.jpg)
 
-*Gustave Doré — The New Jerusalem / 新耶路撒冷, 1866 series; file-page copy date 1890. Public-domain art; not historical evidence. / 公有领域画作，不作为历史证据。* [Source and rights | 来源与权利](../CREDITS.md#artworks)
+*Gustave Doré — The New Jerusalem / 新耶路撒冷, 1866 series; file-page copy date 1890. Public-domain art; not historical evidence. / 1866年系列；文件页的复制本日期为1890年。公有领域画作，不作为历史证据。* [Source and rights | 来源与权利](../CREDITS.md#artworks)
 
 <a id="before-you-begin"></a>
 ## Before You Begin | 开始前
