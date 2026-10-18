@@ -920,7 +920,7 @@ ALLOWED_TAG_ATTRIBUTES: dict[str, set[str]] = {
     "summary": set(),
     "footer": {"class"},
     "div": {"class"},
-    "p": set(),
+    "p": {"class"},
     "h1": {"id"},
     "h2": {"id"},
     "h3": {"id"},

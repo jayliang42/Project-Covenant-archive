@@ -1,0 +1,91 @@
+{
+  "status": "Draft",
+  "scope": "Narrative order, not a proportional timescale; disputed dates are teaching ranges, not independently fixed event dates.",
+  "sources": [
+    "Bible_Timeline/Bible_Timeline_Bilingual.md",
+    "Bible_Timeline/Old_Testament_Timeline_Bilingual.md",
+    "Bible_Timeline/New_Testament_Timeline_Bilingual.md"
+  ],
+  "stages": [
+    {
+      "id": "creation",
+      "en": "Creation",
+      "zh": "创造",
+      "date_en": "Primeval narrative; no agreed historical date",
+      "date_zh": "太古叙事；没有公认历史定年",
+      "image": "dore-creation.jpg"
+    },
+    {
+      "id": "fall",
+      "en": "Fall",
+      "zh": "堕落",
+      "date_en": "Primeval narrative; no agreed historical date",
+      "date_zh": "太古叙事；没有公认历史定年",
+      "image": "dore-fall.jpg"
+    },
+    {
+      "id": "covenant",
+      "en": "Covenant with Abraham",
+      "zh": "与亚伯拉罕立约",
+      "date_en": "c.2000–1600 BCE? Traditional narrative setting; disputed",
+      "date_zh": "约前2000–1600年？传统叙事背景，有争议",
+      "image": "dore-abraham.jpg"
+    },
+    {
+      "id": "exodus",
+      "en": "Exodus and law",
+      "zh": "出埃及与律法",
+      "date_en": "15th or 13th century BCE models; event date unresolved",
+      "date_zh": "前十五或十三世纪模型；事件年代未定",
+      "image": "dore-moses.jpg"
+    },
+    {
+      "id": "kingdom",
+      "en": "Kingdom and division",
+      "zh": "王国与分裂",
+      "date_en": "c.1050–586 BCE; early chronology debated",
+      "date_zh": "约前1050–586年；早期年代有争议",
+      "image": "dore-kingdom.jpg"
+    },
+    {
+      "id": "exile",
+      "en": "Exile and return",
+      "zh": "被掳与归回",
+      "date_en": "c.722–400 BCE; several deportations and returns",
+      "date_zh": "约前722–400年；包含多次迁徙与归回",
+      "image": "dore-return.jpg"
+    },
+    {
+      "id": "between",
+      "en": "Between the Testaments",
+      "zh": "两约之间",
+      "date_en": "c.400 BCE–1 CE; period labels overlap",
+      "date_zh": "约前400年至公元1年；分期有重叠",
+      "image": "dore-between-testaments.jpg"
+    },
+    {
+      "id": "jesus",
+      "en": "Jesus",
+      "zh": "耶稣",
+      "date_en": "Birth c.6–4 BCE; death c.30–33 CE; ranges debated",
+      "date_zh": "诞生约前6–4年；受死约公元30–33年，区间有争议",
+      "image": "tissot-magi.jpg"
+    },
+    {
+      "id": "church",
+      "en": "Church",
+      "zh": "教会",
+      "date_en": "c.30 CE onward; early dates approximate",
+      "date_zh": "约公元30年起；早期年代为大致估计",
+      "image": "dore-church.jpg"
+    },
+    {
+      "id": "new-creation",
+      "en": "New creation",
+      "zh": "新创造",
+      "date_en": "Future hope; not assigned a calendar date",
+      "date_zh": "将来的盼望；不设公历日期",
+      "image": "dore-new-creation.jpg"
+    }
+  ]
+}

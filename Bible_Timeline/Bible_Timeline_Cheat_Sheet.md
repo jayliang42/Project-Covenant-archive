@@ -2,6 +2,12 @@
 
 > Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
 
+<a id="in-three-sentences"></a>
+> **In Three Sentences | 三句话读懂本篇**
+>
+> This page is a short reminder of the Bible’s main stages. It groups people, covenants, and books for quick reference. Use the longer guides when you need evidence or explanation.
+> 本页用简短条目提醒圣经的主要阶段。人物、约与书卷按用途整理，便于查找。需要理由或证据时，请回到较长导读。
+
 一页式速查版。
 One-page quick review version.
 

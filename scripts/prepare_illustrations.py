@@ -43,12 +43,15 @@ def compress(source: Path) -> bytes:
         image = ImageOps.exif_transpose(original).convert("RGB")
         image.thumbnail((1200, 1200), Image.Resampling.LANCZOS)
         clean = Image.frombytes("RGB", image.size, image.tobytes())
-    for quality in (88, 82, 76, 70, 64, 58):
-        output = io.BytesIO()
-        clean.save(output, format="JPEG", quality=quality, optimize=True, progressive=False)
-        data = output.getvalue()
-        if len(data) <= MAX_JPEG_BYTES:
-            return data
+    for max_edge in (1200, 1000, 800):
+        resized = clean.copy()
+        resized.thumbnail((max_edge, max_edge), Image.Resampling.LANCZOS)
+        for quality in (88, 82, 76, 70, 64, 58):
+            output = io.BytesIO()
+            resized.save(output, format="JPEG", quality=quality, optimize=True, progressive=False)
+            data = output.getvalue()
+            if len(data) <= MAX_JPEG_BYTES:
+                return data
     raise ValueError("Illustration exceeds the 300,000-byte limit")
 
 

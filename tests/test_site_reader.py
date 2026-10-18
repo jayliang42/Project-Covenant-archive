@@ -84,6 +84,16 @@ class ReaderTests(unittest.TestCase):
     def test_body_is_preserved_byte_for_byte(self):
         self.assertIn('<article class="reading-body">\n' + self.body + '\n</article>', self.render())
 
+    def test_reading_time_counts_one_language_and_omits_short_pages(self):
+        self.assertEqual("", site_reader.reading_time("<p>A short page.</p>"))
+        bilingual = "<p>" + "word " * 600 + "</p><p>" + "字" * 1050 + "</p>"
+        estimate = site_reader.reading_time(bilingual)
+        self.assertIn("3–5 min", estimate)
+        self.assertIn("按一种语言", estimate)
+        rendered = self.render(body=bilingual)
+        self.assertIn('class="reading-time"', rendered)
+        self.assertIn("excludes Bible passages and reflection", rendered)
+
     def test_minimal_allowlist_never_invents_missing_collections(self):
         page = self.render(source="README.md", mapping={"README.md": "index.html"}, titles={"README.md": "Home"})
         parsed = ParsedPage(page)
