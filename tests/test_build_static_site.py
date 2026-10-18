@@ -654,10 +654,10 @@ class CurrentPublicationCorpusTests(unittest.TestCase):
             ]
             # One source heading-shaped line is inside a fenced Markdown example.
             self.assertEqual(
-                2305,
+                2306,
                 sum(len(re.findall(r"<h[1-6](?: |>)", text)) for text in html_texts),
             )
-            self.assertEqual(243, sum(text.count("<table>") for text in html_texts))
+            self.assertEqual(244, sum(text.count("<table>") for text in html_texts))
             self.assertEqual(24, sum(text.count("<pre><code>") for text in html_texts))
             self.assertGreaterEqual(sum(text.count("<a ") for text in html_texts), 1850)
 
@@ -725,6 +725,8 @@ class CurrentPublicationCorpusTests(unittest.TestCase):
             self.assertEqual(9, maps_page.count('class="map-viewport"'))
             first_steps = (output / "Bible_Timeline/First_Steps_Bilingual.html").read_text(encoding="utf-8")
             self.assertEqual(10, first_steps.count('class="study-illustration"'))
+            year_plan = (output / "Bible_Timeline/52周圣经故事线_查经与史料阅读计划.html").read_text(encoding="utf-8")
+            self.assertEqual(10, year_plan.count('class="study-illustration"'))
 
             book_hub_output = "Book_Studies/index.html"
             book_hub = (output / book_hub_output).read_text(encoding="utf-8")

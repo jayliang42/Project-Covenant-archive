@@ -10,7 +10,11 @@
     "year": "1866",
     "license": "Public domain; PD-old-100-expired; faithful 2D reproduction (PD-Art)",
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
-    "checked": "2026-10-17"
+    "checked": "2026-10-17",
+    "rechecked": "2026-10-18",
+    "reading_plan_weeks": [
+      1
+    ]
   },
   {
     "file": "moses.jpg",
@@ -23,7 +27,11 @@
     "year": "1866",
     "license": "Public domain; PD-old-100-expired; faithful 2D reproduction (PD-Art)",
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
-    "checked": "2026-10-17"
+    "checked": "2026-10-17",
+    "rechecked": "2026-10-18",
+    "reading_plan_weeks": [
+      7
+    ]
   },
   {
     "file": "resurrection.jpg",
@@ -50,7 +58,11 @@
     "license": "Public domain; PD-old-100-expired; PD-Art",
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "checked": "2026-10-17",
-    "bytes": 291934
+    "bytes": 291934,
+    "rechecked": "2026-10-18",
+    "reading_plan_weeks": [
+      2
+    ]
   },
   {
     "file": "abraham.jpg",
@@ -64,7 +76,11 @@
     "license": "Public domain; PD-old-100-expired; PD-Art",
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "checked": "2026-10-17",
-    "bytes": 290033
+    "bytes": 290033,
+    "rechecked": "2026-10-18",
+    "reading_plan_weeks": [
+      3
+    ]
   },
   {
     "file": "kingdom.jpg",
@@ -78,7 +94,11 @@
     "license": "Public domain; PD-old-100-expired; PD-Art",
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "checked": "2026-10-17",
-    "bytes": 284557
+    "bytes": 284557,
+    "rechecked": "2026-10-18",
+    "reading_plan_weeks": [
+      15
+    ]
   },
   {
     "file": "return.jpg",
@@ -92,7 +112,11 @@
     "license": "Public domain; PD-old-100-expired; PD-Art",
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "checked": "2026-10-17",
-    "bytes": 283016
+    "bytes": 283016,
+    "rechecked": "2026-10-18",
+    "reading_plan_weeks": [
+      27
+    ]
   },
   {
     "file": "between-testaments.jpg",
@@ -106,7 +130,11 @@
     "license": "Public domain; PD-old-100-expired; PD-Art",
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "checked": "2026-10-17",
-    "bytes": 289495
+    "bytes": 289495,
+    "rechecked": "2026-10-18",
+    "reading_plan_weeks": [
+      34
+    ]
   },
   {
     "file": "jesus.jpg",
@@ -120,7 +148,11 @@
     "license": "Public domain; PD-old-100-expired; PD-Art",
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "checked": "2026-10-17",
-    "bytes": 289152
+    "bytes": 289152,
+    "rechecked": "2026-10-18",
+    "reading_plan_weeks": [
+      35
+    ]
   },
   {
     "file": "church.jpg",
@@ -134,7 +166,11 @@
     "license": "Public domain; PD-old-70-expired",
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "checked": "2026-10-17",
-    "bytes": 169291
+    "bytes": 169291,
+    "rechecked": "2026-10-18",
+    "reading_plan_weeks": [
+      45
+    ]
   },
   {
     "file": "new-creation.jpg",
@@ -148,6 +184,10 @@
     "license": "Public domain; PD-old-70-expired",
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "checked": "2026-10-17",
-    "bytes": 160393
+    "bytes": 160393,
+    "rechecked": "2026-10-18",
+    "reading_plan_weeks": [
+      52
+    ]
   }
 ]

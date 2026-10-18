@@ -7,6 +7,7 @@
 
 - [Map data | 地图数据](#map-data)
 - [Public-domain artworks | 公有领域画作](#artworks)
+- [52-week artwork uses | 52周计划配图](#year-plan-artworks)
 - [Second-batch map data | 第二批地图数据](#batch2-map-data)
 - [Preparation and rights boundary | 处理与权利边界](#preparation)
 
@@ -71,6 +72,28 @@ Second-batch file pages were individually opened on 2026-10-17. Five Doré files
 *The New Jerusalem* belongs to Doré’s Bible illustration series, but its file page dates the reproduction 1890, after the artist’s death; that metadata is not treated as the engraving’s creation date and is flagged for human review. The ten-stop sequence reuses the first pilot’s creation and Moses engravings, adds seven Doré works and one Tissot work, and avoids a frontal portrait of Jesus. / 《新耶路撒冷》属于Doré圣经插图系列，但文件页把复制件记为作者去世后的1890年；此元数据不作为原版画创作日期，并列入人工核查。十站沿用第一批创造与摩西两幅，新增七幅Doré与一幅Tissot，不选择以耶稣正面面容为主体的作品。
 
 All eight additions are baseline JPEGs below 300,000 bytes, at most 1,200 pixels on the long edge; dense engravings may be reduced to 1,000 or 800 pixels to meet the cap. EXIF, ICC, IPTC and comments are removed. No original is cropped, and no AI image is used. / 八张新增图片均为低于300,000字节的基线JPEG，长边不超过1200像素；细密版画可缩至1000或800像素以符合上限。已清除EXIF、ICC、IPTC与注释，未裁剪原图，也未使用AI图片。
+
+<a id="year-plan-artworks"></a>
+## Artwork Uses in the 52-Week Plan | 52周计划配图记录
+
+These ten existing files were individually rechecked on their Wikimedia Commons file pages on 2026-10-18. The author, work, year, source and public-domain tags remain in the artwork tables above; this table records their additional uses. Nine works are by Doré and one by Tissot. No new image binary was added or modified.<br>
+这十个既有文件的Wikimedia Commons文件页已于2026年10月18日逐张重新核对。作者、作品、年份、来源及公有领域标签见上方逐图记录；下表补充新增使用位置。九幅为Doré，一幅为Tissot；没有新增或修改图像文件。
+
+| Week / 周次 | Scene / 场景 | Local file / 本地文件 | Rechecked file page / 复核文件页 |
+| --- | --- | --- | --- |
+| [1](./Bible_Timeline/52周圣经故事线_查经与史料阅读计划.md#week-01) | Creation / 创造 | [dore-creation.jpg](./assets/illustrations/dore-creation.jpg) | [Commons](https://commons.wikimedia.org/wiki/File:001.The_Creation_of_Light.jpg); Public domain; PD-old-100-expired; faithful 2D reproduction (PD-Art) |
+| [2](./Bible_Timeline/52周圣经故事线_查经与史料阅读计划.md#week-02) | Leaving Eden / 离开伊甸 | [dore-fall.jpg](./assets/illustrations/dore-fall.jpg) | [Commons](https://commons.wikimedia.org/wiki/File:003.Adam_and_Eve_Are_Driven_out_of_Eden.jpg); Public domain; PD-old-100-expired; PD-Art |
+| [3](./Bible_Timeline/52周圣经故事线_查经与史料阅读计划.md#week-03) | Abraham’s call and journey / 亚伯拉罕蒙召与迁行 | [dore-abraham.jpg](./assets/illustrations/dore-abraham.jpg) | [Commons](https://commons.wikimedia.org/wiki/File:011.Abraham_Goes_to_the_Land_of_Canaan.jpg); Public domain; PD-old-100-expired; PD-Art |
+| [7](./Bible_Timeline/52周圣经故事线_查经与史料阅读计划.md#week-07) | Sinai and the law / 西奈与律法 | [dore-moses.jpg](./assets/illustrations/dore-moses.jpg) | [Commons](https://commons.wikimedia.org/wiki/File:039.Moses_Comes_Down_from_Mount_Sinai.jpg); Public domain; PD-old-100-expired; faithful 2D reproduction (PD-Art) |
+| [15](./Bible_Timeline/52周圣经故事线_查经与史料阅读计划.md#week-15) | Preparing the temple / 预备建殿 | [dore-kingdom.jpg](./assets/illustrations/dore-kingdom.jpg) | [Commons](https://commons.wikimedia.org/wiki/File:085.Cedars_Are_Cut_Down_for_the_Jerusalem_Temple.jpg); Public domain; PD-old-100-expired; PD-Art |
+| [27](./Bible_Timeline/52周圣经故事线_查经与史料阅读计划.md#week-27) | Return and rebuilding / 归回与重建 | [dore-return.jpg](./assets/illustrations/dore-return.jpg) | [Commons](https://commons.wikimedia.org/wiki/File:105.The_Rebuilding_of_the_Temple_Is_Begun.jpg); Public domain; PD-old-100-expired; PD-Art |
+| [34](./Bible_Timeline/52周圣经故事线_查经与史料阅读计划.md#week-34) | The intertestamental setting / 两约之间的背景 | [dore-between-testaments.jpg](./assets/illustrations/dore-between-testaments.jpg) | [Commons](https://commons.wikimedia.org/wiki/File:142.Matthias_Appealing_to_Jewish_Refugees.jpg); Public domain; PD-old-100-expired; PD-Art |
+| [35](./Bible_Timeline/52周圣经故事线_查经与史料阅读计划.md#week-35) | The Magi’s journey / 博士的旅程 | [tissot-magi.jpg](./assets/illustrations/tissot-magi.jpg) | [Commons](https://commons.wikimedia.org/wiki/File:James_Tissot_-_Journey_of_the_Magi_-_70.21_-_Minneapolis_Institute_of_Arts.jpg); Public domain; PD-old-100-expired; PD-Art |
+| [45](./Bible_Timeline/52周圣经故事线_查经与史料阅读计划.md#week-45) | Witness in Thessalonica / 帖撒罗尼迦的见证 | [dore-church.jpg](./assets/illustrations/dore-church.jpg) | [Commons](https://commons.wikimedia.org/wiki/File:DoreStPaulPreachingtotheThessalonians.jpg); Public domain; PD-old-70-expired |
+| [52](./Bible_Timeline/52周圣经故事线_查经与史料阅读计划.md#week-52) | New Jerusalem / 新耶路撒冷 | [dore-new-creation.jpg](./assets/illustrations/dore-new-creation.jpg) | [Commons](https://commons.wikimedia.org/wiki/File:Dore_nwe_jeruzalem_grt.jpg); Public domain; PD-old-70-expired |
+
+The cedar-cutting file’s English description cites 2 Samuel 5, while its title and this plan’s temple-preparation use are associated here with the assigned 1 Kings 5 reading. That reference-tag difference remains for human review. The New Jerusalem file’s 1890 metadata remains a reproduction date rather than an established creation date. Neither picture is an archaeological reconstruction.<br>
+香柏木文件的英文描述标注撒母耳记下五章；本计划按画题与建殿预备主题，将它配在包含列王纪上五章的指定阅读中。这个经文标签差异保留人工核对。《新耶路撒冷》的1890元数据仍按复制件日期处理，不当作已核定的创作年。两幅都不是考古复原图。
 
 <a id="preparation"></a>
 ## Preparation and Rights Boundary | 处理与权利边界
