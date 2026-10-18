@@ -34,7 +34,7 @@ Every title below is a clickable guide. Choose by the question you are actually 
 - **Best for | 适合读者：** Readers beginning with questions about atheism, science, religion, meaning, and faith in a modern Chinese context. / 想从无神论、科学、宗教、意义与信仰等现代华人语境问题入门的读者。
 - **Why recommended | 推荐理由：** It begins with familiar questions and leads toward Scripture, Jesus, resurrection, sin, grace, and eternal life. Its accessible narrative makes a good first doorway. / 它从熟悉的问题出发，逐步转向圣经、耶稣、复活、罪、恩典与永生；叙述易读，适合作为第一本入口书。
 - **Reading boundary | 阅读提醒：** Some scientific and historical examples reflect an older apologetic context and should be checked against current sources. / 部分科学与历史例证反映较早的护教语境，需要按现行资料复核。
-- **Guide status | 导读状态：** English orientation and bilingual navigation; full study text currently Chinese. / 英文简介与双语导航；完整研读正文目前以中文为主。
+- **Guide status | 导读状态：** English/Chinese study text paired as Draft; edition and source checks remain pending. / 中英正文已配对为Draft；版本与来源仍待核实。
 
 <a id="seek-the-truth"></a>
 ### 2. [Seek the Truth, Find the Way — Study Guide | 《求真寻道：约翰福音研经问答》使用指南](./求真寻道_约翰福音研经问答_使用指南.md)
@@ -42,7 +42,7 @@ Every title below is a clickable guide. Choose by the question you are actually 
 - **Best for | 适合读者：** Individuals and groups who want sustained, text-centered study of the Gospel of John. / 想持续、以经文为中心研读约翰福音的个人与小组。
 - **Why recommended | 推荐理由：** Its question-led form trains observation, interpretation, discussion, and application while keeping attention on Jesus' identity and the life he gives. / 它用问答式结构训练观察、解释、讨论与应用，并把注意力保持在耶稣的身份与祂所赐的生命上。
 - **Reading boundary | 阅读提醒：** Public information confirms 46 lessons but not their complete titles and ranges; this library's map is a canonical study aid, not a reconstruction of the copyrighted contents. / 公开资料确认全书有 46 课，却未提供完整课名与范围；本库地图是按约翰福音结构新增的辅助，不是对受版权保护目录的重建。
-- **Guide status | 导读状态：** English orientation and bilingual navigation; full study text currently Chinese. / 英文简介与双语导航；完整研读正文目前以中文为主。
+- **Guide status | 导读状态：** English/Chinese study text paired as Draft; edition and source checks remain pending. / 中英正文已配对为Draft；版本与来源仍待核实。
 
 <a id="evidence-verdict"></a>
 ### 3. [Evidence That Demands a Verdict — Edition-Aware Whole-Book Guide | 《铁证待判》版本辨析与全书研读指南](./铁证待判_版本辨析与全书研读指南.md)
