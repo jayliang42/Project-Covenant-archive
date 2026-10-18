@@ -25,6 +25,7 @@ OUTPUT = ROOT / "assets/maps"
 ET.register_namespace("", "http://www.w3.org/2000/svg")
 NS = "{http://www.w3.org/2000/svg}"
 Point = tuple[float, float]
+FONT_FAMILY = '"PingFang SC", "Microsoft YaHei", "Noto Sans CJK SC", sans-serif'
 
 
 class Place(TypedDict):
@@ -131,7 +132,7 @@ def compass_and_scale(parent: ET.Element, frame: Frame, x: float, y: float, km: 
 
 
 def root_svg(title: str, description: str, width: int, height: int) -> ET.Element:
-    root = ET.Element(NS + "svg", {"viewBox": f"0 0 {width} {height}", "width": str(width), "height": str(height), "role": "img", "aria-labelledby": "map-title map-description", "font-family": "sans-serif"})
+    root = ET.Element(NS + "svg", {"viewBox": f"0 0 {width} {height}", "width": str(width), "height": str(height), "role": "img", "aria-labelledby": "map-title map-description", "font-family": FONT_FAMILY})
     element(root, "title", id="map-title").text = title
     element(root, "desc", id="map-description").text = description
     element(root, "rect", width=width, height=height, fill="#fbfaf6")
