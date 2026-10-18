@@ -2,9 +2,9 @@
 
 ## Purpose | 目的
 
-Project Covenant is a public reading library. Public pages may explain Scripture, historical research, archaeology, Christian books, and teaching themes, but they must not disclose the maintainer's identity, contact details, private history, or personal participation.
+Project Covenant is a public reading library. Public pages may explain Scripture, historical research, archaeology, Christian books, and teaching themes. Page content does not include the maintainer's personal experiences, testimony, church attendance records, or contact information.
 
-Project Covenant 是一个供公众阅读的资料库。公开页面可以整理圣经、历史研究、考古、基督教书籍和讲道主题，但不得披露维护者的身份、联系方式、私人经历或个人参与情况。
+Project Covenant 是一个供公众阅读的资料库。公开页面可以整理圣经、历史研究、考古、基督教书籍和讲道主题。页面内容不包含维护者的个人经历、见证、聚会出席记录和联系方式。
 
 ## What May Be Published | 可以发布什么
 
@@ -18,12 +18,12 @@ Project Covenant 是一个供公众阅读的资料库。公开页面可以整理
 
 ## What Must Stay Private | 不得公开什么
 
-- The maintainer's or a private participant's real name, personal username, email address, phone number, social-media profile, street address, school, employer, family details, or contact route.
+- Private participants' real names, and anyone's personal username, email address, phone number, social-media profile, street address, school, employer, family details, or contact route.
 - Personal immigration or asylum information, legal case information, document numbers, medical or mental-health history, conversion or baptism story, testimony, discipleship history, attendance history, or other autobiographical experience.
 - Raw transcripts, recordings, private downloads, meeting invitations, access codes, credentials, private keys, environment files, and unreviewed attachments.
 - A private anecdote must be removed or generalized into a non-identifying teaching point. Changing only the person's name is not sufficient when the remaining details can still identify the person.
 
-- 维护者或私人参与者的真实姓名、个人用户名、电子邮箱、电话号码、社交媒体主页、街道地址、学校、雇主、家庭信息或联系入口。
+- 私人参与者的真实姓名，以及任何人的个人用户名、电子邮箱、电话号码、社交媒体主页、街道地址、学校、雇主、家庭信息或联系入口。
 - 个人移民或庇护信息、法律案件信息、证件号码、医疗或心理健康经历、信主或受洗经历、个人见证、门徒训练经历、聚会出席记录，以及其他自传性经历。
 - 原始逐字稿、录音录像、私人下载文件、会议邀请、访问码、凭证、私钥、环境文件及未经审核的附件。
 - 私人轶事必须删除，或改写成无法识别个人的一般教学要点。若其余细节仍能识别人，仅删除姓名并不够。
@@ -157,6 +157,6 @@ The initial website should avoid analytics, comments, forms, remote fonts, remot
 
 ## Git Hosting Metadata | Git 托管元数据
 
-Content review does not hide repository ownership, commit author names, commit email addresses, forks, pull requests, or other hosting metadata. A repository that must not identify its maintainer also needs neutral account ownership and sanitized Git history; a clean Markdown tree alone cannot provide that guarantee.
+Content review does not hide repository ownership, commit author names, commit email addresses, forks, pull requests, or other hosting metadata. The page-content rule does not promise anonymity for the repository or its hosting account; optional identity-minimized mirrors follow the separate guidance above.
 
-内容审核不会隐藏仓库所有权、提交作者姓名、提交邮箱、fork、pull request 或其他托管平台元数据。如果仓库本身也不能识别维护者，还需要中性的账号归属和已脱敏的 Git 历史；仅有干净的 Markdown 当前树并不能提供这一保证。
+内容审核不会隐藏仓库所有权、提交作者姓名、提交邮箱、fork、pull request 或其他托管平台元数据。页面内容规则不承诺仓库或托管账号匿名；可选的身份关联最小化镜像遵循上文的单独说明。
