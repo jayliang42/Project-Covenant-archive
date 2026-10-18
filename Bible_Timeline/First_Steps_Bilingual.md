@@ -13,8 +13,7 @@
 >
 > **语言状态 | Language status：** 全文按段落提供中英双语。
 
-New to the [Bible](../Glossary/README.md#bible)? Start here. The ten stops below show how its books connect. You can read in Chinese, English, or both. You do not need to know every name or idea before you begin.
-
+New to the [Bible](../Glossary/README.md#bible)? Start here. The ten stops below show how its books connect. You can read in Chinese, English, or both. You do not need to know every name or idea before you begin.<br>
 第一次读[圣经](../Glossary/README.md#bible)，可以从这里开始。下面十站帮助你看清各卷怎样相连。可以只读中文、只读英文，或两种一起读。开始前不必先弄懂所有人名和概念。
 
 ![Ten-stage Bible storyline with approximate and disputed dates / 十站圣经故事线，标注大致年代与争议](../assets/maps/bible-storyline.svg)
@@ -42,8 +41,7 @@ Read this section as a picture guide. The 30-minute and four-week routes below s
 <a id="stop-creation"></a>
 ### Creation | 创造
 
-Begin with Genesis 1–2. [Creation](../Glossary/README.md#creation) means that the world is God’s gift, with a purpose and a place for human responsibility. These opening chapters belong to the [Old Testament](../Glossary/README.md#old-testament).
-
+Begin with Genesis 1–2. [Creation](../Glossary/README.md#creation) means that the world is God’s gift, with a purpose and a place for human responsibility. These opening chapters belong to the [Old Testament](../Glossary/README.md#old-testament).<br>
 先读创世记一至二章。[创造](../Glossary/README.md#creation)表达世界是神的礼物，具有目的，人也承担责任。这些开篇故事属于[旧约](../Glossary/README.md#old-testament)。
 
 **Read | 阅读：** Genesis 1–2 / 创世记1–2章。
@@ -55,8 +53,7 @@ Begin with Genesis 1–2. [Creation](../Glossary/README.md#creation) means that 
 <a id="stop-fall"></a>
 ### Fall | 堕落
 
-Genesis 3–4 tells of distrust, harm, and broken relationships. [Fall](../Glossary/README.md#fall) is a short name for this turn; [sin](../Glossary/README.md#sin) names the wrong and its spreading effects. The story does not end with failure.
-
+Genesis 3–4 tells of distrust, harm, and broken relationships. [Fall](../Glossary/README.md#fall) is a short name for this turn; [sin](../Glossary/README.md#sin) names the wrong and its spreading effects. The story does not end with failure.<br>
 创世记三至四章叙述不信任、伤害和关系破裂。“[堕落](../Glossary/README.md#fall)”概括这个转折，“[罪](../Glossary/README.md#sin)”说明过错及其扩散。故事并没有停在失败。
 
 **Read | 阅读：** Genesis 3–4 / 创世记3–4章。
@@ -68,8 +65,7 @@ Genesis 3–4 tells of distrust, harm, and broken relationships. [Fall](../Gloss
 <a id="stop-covenant"></a>
 ### Covenant with Abraham | 与亚伯拉罕立约
 
-God makes a [covenant](../Glossary/README.md#covenant) with Abraham: a [promise](../Glossary/README.md#promise) with a calling and responsibility. [Blessing](../Glossary/README.md#blessing) is meant to reach other families too. [Faith](../Glossary/README.md#faith) means trusting God and responding, not knowing every answer.
-
+God makes a [covenant](../Glossary/README.md#covenant) with Abraham: a [promise](../Glossary/README.md#promise) with a calling and responsibility. [Blessing](../Glossary/README.md#blessing) is meant to reach other families too. [Faith](../Glossary/README.md#faith) means trusting God and responding, not knowing every answer.<br>
 神与亚伯拉罕立[约](../Glossary/README.md#covenant)：有[应许](../Glossary/README.md#promise)，也有呼召和责任。[祝福](../Glossary/README.md#blessing)还要传向别的家庭。[信心](../Glossary/README.md#faith)是信任神并回应，不必先知道所有答案。
 
 **Read | 阅读：** Genesis 12:1–9; 15:1–6 / 创世记12:1–9；15:1–6。
@@ -81,8 +77,7 @@ God makes a [covenant](../Glossary/README.md#covenant) with Abraham: a [promise]
 <a id="stop-exodus"></a>
 ### Exodus and law | 出埃及与律法
 
-[Exodus](../Glossary/README.md#exodus) tells of [Israel](../Glossary/README.md#israel) leaving slavery in Egypt. [Passover](../Glossary/README.md#passover) remembers this rescue, also described with the words [salvation](../Glossary/README.md#salvation) and [redemption](../Glossary/README.md#redemption). [Law](../Glossary/README.md#law) guides the rescued community; [priests](../Glossary/README.md#priest), [sacrifices](../Glossary/README.md#sacrifice), and the [tabernacle](../Glossary/README.md#tabernacle) belong to its worship.
-
+[Exodus](../Glossary/README.md#exodus) tells of [Israel](../Glossary/README.md#israel) leaving slavery in Egypt. [Passover](../Glossary/README.md#passover) remembers this rescue, also described with the words [salvation](../Glossary/README.md#salvation) and [redemption](../Glossary/README.md#redemption). [Law](../Glossary/README.md#law) guides the rescued community; [priests](../Glossary/README.md#priest), [sacrifices](../Glossary/README.md#sacrifice), and the [tabernacle](../Glossary/README.md#tabernacle) belong to its worship.<br>
 [出埃及](../Glossary/README.md#exodus)叙述[以色列](../Glossary/README.md#israel)离开埃及的奴役。[逾越节](../Glossary/README.md#passover)记念拯救，“[救恩](../Glossary/README.md#salvation)”和“[救赎](../Glossary/README.md#redemption)”也用来表达拯救。[律法](../Glossary/README.md#law)引导获救的群体；[祭司](../Glossary/README.md#priest)、[献祭](../Glossary/README.md#sacrifice)和[会幕](../Glossary/README.md#tabernacle)属于其敬拜生活。
 
 **Read | 阅读：** Exodus 12–14; 19–20 / 出埃及记12–14；19–20章。
@@ -94,8 +89,7 @@ God makes a [covenant](../Glossary/README.md#covenant) with Abraham: a [promise]
 <a id="stop-kingdom"></a>
 ### Kingdom and Division | 王国与分裂
 
-Human kings can fail. The [kingdom of God](../Glossary/README.md#kingdom) means God’s rule. The [temple](../Glossary/README.md#temple) becomes a center of worship. [Prophets](../Glossary/README.md#prophet) call people back to faithfulness; a [psalm](../Glossary/README.md#psalm) can voice praise or grief, and [wisdom](../Glossary/README.md#wisdom) writing explores how to live. After the division, Israel often means the northern kingdom and [Judah](../Glossary/README.md#judah) the southern kingdom.
-
+Human kings can fail. The [kingdom of God](../Glossary/README.md#kingdom) means God’s rule. The [temple](../Glossary/README.md#temple) becomes a center of worship. [Prophets](../Glossary/README.md#prophet) call people back to faithfulness; a [psalm](../Glossary/README.md#psalm) can voice praise or grief, and [wisdom](../Glossary/README.md#wisdom) writing explores how to live. After the division, Israel often means the northern kingdom and [Judah](../Glossary/README.md#judah) the southern kingdom.<br>
 人间君王仍会失败。[国度（神的国）](../Glossary/README.md#kingdom)指神掌权。[圣殿](../Glossary/README.md#temple)成为敬拜中心。[先知](../Glossary/README.md#prophet)呼吁人回到忠信；[诗篇](../Glossary/README.md#psalm)可以表达赞美或悲伤，[智慧](../Glossary/README.md#wisdom)文学则探索怎样生活。王国分裂后，以色列常指北国，[犹大](../Glossary/README.md#judah)常指南国。
 
 **Read | 阅读：** 1 Kings 8; 12 / 列王纪上8；12章。
@@ -107,8 +101,7 @@ Human kings can fail. The [kingdom of God](../Glossary/README.md#kingdom) means 
 <a id="stop-exile"></a>
 ### Exile and return | 被掳与归回
 
-[Exile](../Glossary/README.md#exile) means people are forced away from home. [Return](../Glossary/README.md#return) describes some of them coming back and rebuilding worship and community. Neither word means that every person had the same experience.
-
+[Exile](../Glossary/README.md#exile) means people are forced away from home. [Return](../Glossary/README.md#return) describes some of them coming back and rebuilding worship and community. Neither word means that every person had the same experience.<br>
 [被掳](../Glossary/README.md#exile)指人被迫离开故土。[归回](../Glossary/README.md#return)指部分人回来，重建敬拜和群体。这两个词不表示每个人的经历都相同。
 
 **Read | 阅读：** 2 Kings 24–25; Ezra 1–3 / 列王纪下24–25；以斯拉记1–3章。
@@ -120,8 +113,7 @@ Human kings can fail. The [kingdom of God](../Glossary/README.md#kingdom) means 
 <a id="stop-between"></a>
 ### Between the Testaments | 两约之间
 
-The world changes between the return stories and the Gospels. The picture recalls the Maccabean crisis, described in 1 Maccabees; Christian traditions differ over that book’s place in the [canon](../Glossary/README.md#canon). Here it supplies historical reading context, not a new requirement for the reading route.
-
+The world changes between the return stories and the Gospels. The picture recalls the Maccabean crisis, described in 1 Maccabees; Christian traditions differ over that book’s place in the [canon](../Glossary/README.md#canon). Here it supplies historical reading context, not a new requirement for the reading route.<br>
 从归回故事走向[福音](../Glossary/README.md#gospel)书，时代背景发生变化。画作回顾马加比危机，相关叙述见马加比一书；不同基督教传统对它是否属于[正典](../Glossary/README.md#canon)的认定不同。这里把它用作历史阅读背景，不增加本路线的必读书目。
 
 **Read | 阅读：** Background / 背景：1 Maccabees 2:42–70 / 马加比一书2:42–70。
@@ -133,8 +125,7 @@ The world changes between the return stories and the Gospels. The picture recall
 <a id="stop-jesus"></a>
 ### Jesus | 耶稣
 
-The [New Testament](../Glossary/README.md#new-testament) presents Jesus as [Messiah](../Glossary/README.md#messiah), also called [Christ](../Glossary/README.md#christ). [Gospel](../Glossary/README.md#gospel) means the good news about him; [grace](../Glossary/README.md#grace), [repentance](../Glossary/README.md#repentance), and [forgiveness](../Glossary/README.md#forgiveness) describe God’s gift and people’s response. A [disciple](../Glossary/README.md#disciple) learns to follow Jesus. A [parable](../Glossary/README.md#parable) helps people see. [Resurrection](../Glossary/README.md#resurrection) means being raised from death.
-
+The [New Testament](../Glossary/README.md#new-testament) presents Jesus as [Messiah](../Glossary/README.md#messiah), also called [Christ](../Glossary/README.md#christ). [Gospel](../Glossary/README.md#gospel) means the good news about him; [grace](../Glossary/README.md#grace), [repentance](../Glossary/README.md#repentance), and [forgiveness](../Glossary/README.md#forgiveness) describe God’s gift and people’s response. A [disciple](../Glossary/README.md#disciple) learns to follow Jesus. A [parable](../Glossary/README.md#parable) helps people see. [Resurrection](../Glossary/README.md#resurrection) means being raised from death.<br>
 [新约](../Glossary/README.md#new-testament)称耶稣为[弥赛亚](../Glossary/README.md#messiah)，也称[基督](../Glossary/README.md#christ)。福音是关于祂的好消息；[恩典](../Glossary/README.md#grace)、[悔改](../Glossary/README.md#repentance)和[赦免](../Glossary/README.md#forgiveness)，说明神的赐予与人的回应。[门徒](../Glossary/README.md#disciple)学习跟随耶稣。[比喻](../Glossary/README.md#parable)帮助人理解。[复活](../Glossary/README.md#resurrection)指从死亡中被兴起。
 
 **Read | 阅读：** Mark 1:14–20; 15:33–39; 16:1–8 / 马可福音1:14–20；15:33–39；16:1–8。
@@ -146,8 +137,7 @@ The [New Testament](../Glossary/README.md#new-testament) presents Jesus as [Mess
 <a id="stop-church"></a>
 ### Church | 教会
 
-At [Pentecost](../Glossary/README.md#pentecost) in Acts 2, the [Holy Spirit](../Glossary/README.md#holy-spirit) equips Jesus’ followers to bear witness. [Apostles](../Glossary/README.md#apostle) are sent with a task, and [church](../Glossary/README.md#church) names the community rather than mainly a building. The good news also reaches [Gentiles](../Glossary/README.md#gentile), people outside the Jewish people.
-
+At [Pentecost](../Glossary/README.md#pentecost) in Acts 2, the [Holy Spirit](../Glossary/README.md#holy-spirit) equips Jesus’ followers to bear witness. [Apostles](../Glossary/README.md#apostle) are sent with a task, and [church](../Glossary/README.md#church) names the community rather than mainly a building. The good news also reaches [Gentiles](../Glossary/README.md#gentile), people outside the Jewish people.<br>
 使徒行传第二章的[五旬节](../Glossary/README.md#pentecost)，[圣灵](../Glossary/README.md#holy-spirit)帮助耶稣的跟随者作见证。[使徒](../Glossary/README.md#apostle)受差遣承担使命；[教会](../Glossary/README.md#church)主要指群体，而非建筑。好消息也传向[外邦人](../Glossary/README.md#gentile)，就是非犹太人。
 
 **Read | 阅读：** Acts 2; 17:1–9 / 使徒行传2章；17:1–9。
@@ -159,8 +149,7 @@ At [Pentecost](../Glossary/README.md#pentecost) in Acts 2, the [Holy Spirit](../
 <a id="stop-new-creation"></a>
 ### New creation | 新创造
 
-[New creation](../Glossary/README.md#new-creation) is the final hope of God renewing the world and living with his people. Revelation uses a vision of a renewed city to express that hope. The passage does not give a calendar date.
-
+[New creation](../Glossary/README.md#new-creation) is the final hope of God renewing the world and living with his people. Revelation uses a vision of a renewed city to express that hope. The passage does not give a calendar date.<br>
 [新创造](../Glossary/README.md#new-creation)表达最终的盼望：神更新世界，与子民同住。启示录用更新城邑的异象表达这份盼望。经文并没有提供公历日期。
 
 **Read | 阅读：** Revelation 21:1–5 / 启示录21:1–5。
@@ -172,23 +161,19 @@ At [Pentecost](../Glossary/README.md#pentecost) in Acts 2, the [Holy Spirit](../
 <a id="before-you-begin"></a>
 ## Before You Begin | 开始前
 
-Use a Bible you can legally access and understand. If you are learning English, try the Chinese text first, then one English paragraph. Reading in one language is also enough. If you want to try the International Standard Version, use the [ISV Access and ESL Guide](../Bible_Translations/ISV_International_Standard_Version_Access_and_ESL_Guide.md) to reach an authorized copy.
-
+Use a Bible you can legally access and understand. If you are learning English, try the Chinese text first, then one English paragraph. Reading in one language is also enough. If you want to try the International Standard Version, use the [ISV Access and ESL Guide](../Bible_Translations/ISV_International_Standard_Version_Access_and_ESL_Guide.md) to reach an authorized copy.<br>
 请使用可以合法取得、自己也读得懂的圣经。学习英语时，可以先读中文，再读一段对应英文。只读一种语言也可以。若想尝试 International Standard Version，可通过 [ISV 获取与 ESL 指南](../Bible_Translations/ISV_International_Standard_Version_Access_and_ESL_Guide.md)进入正版授权渠道。
 
-Read the passage before reading a study note. For each reading session, answer only the one core question provided. Mark unfamiliar words and continue; you can investigate them later.
-
+Read the passage before reading a study note. For each reading session, answer only the one core question provided. Mark unfamiliar words and continue; you can investigate them later.<br>
 每次先读经文，再读辅助说明。每个阅读时段只回答所列的一个核心问题。遇到不懂的词，先作记号并继续读，以后再查也可以。
 
-This page does not ask you to sign in, submit answers, identify your church, or share personal experiences. Keep any notes privately unless you freely choose to discuss them with someone you trust.
-
+This page does not ask you to sign in, submit answers, identify your church, or share personal experiences. Keep any notes privately unless you freely choose to discuss them with someone you trust.<br>
 本页不会要求你登录、提交答案、说明所属教会或分享个人经历。笔记可以只保存在自己手中；只有在你自愿并信任对方时，才需要与别人讨论。
 
 <a id="thirty-minute-route"></a>
 ## 30-Minute First Reading | 30 分钟第一次阅读
 
-This route samples the Bible's beginning, crisis, center, and ending. The times are suggestions, not deadlines. Read slowly enough to notice what the passage actually says.
-
+This route samples the Bible's beginning, crisis, center, and ending. The times are suggestions, not deadlines. Read slowly enough to notice what the passage actually says.<br>
 这条路线用几段短经文看圣经的开端、危机、中心与结局。所列时间只是建议，不是限时任务；请放慢速度，留意经文本身说了什么。
 
 ### Stop One Creation and Human Calling | 第一站 创造与人的受托
@@ -215,15 +200,13 @@ This route samples the Bible's beginning, crisis, center, and ending. The times 
 
 **One core question | 一个核心问题：** What is healed or restored at the end of the Bible's story? | 在圣经故事的结尾，哪些破裂得到医治或恢复？
 
-God creates a good world, but human distrust brings sin and death. God keeps his promise through a people and through Jesus. Jesus announces God’s kingdom, dies, and rises. The story looks toward God renewing creation and living with humanity.
-
+God creates a good world, but human distrust brings sin and death. God keeps his promise through a people and through Jesus. Jesus announces God’s kingdom, dies, and rises. The story looks toward God renewing creation and living with humanity.<br>
 神创造美好世界，人的不信却带来罪与死亡。神通过一个群体，并通过耶稣，继续成就应许。耶稣宣告神的国，受死并复活。故事最后指向神更新世界、与人同住。
 
 <a id="four-week-route"></a>
 ## Four-Week First Steps | 前四周
 
-Use two short sessions each week. Each session has one question. The handoff sentence shows how that week leads to the next one; it is a summary to remember, not another assignment.
-
+Use two short sessions each week. Each session has one question. The handoff sentence shows how that week leads to the next one; it is a summary to remember, not another assignment.<br>
 每周安排两个短时段，每次只回答一个问题。“接力句”说明这一周怎样通向下一周；它只是帮助记忆的总结，不是额外作业。
 
 ### Week One A Good World Becomes Broken | 第一周 美好世界走向破裂
