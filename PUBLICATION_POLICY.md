@@ -61,13 +61,17 @@ Use `python3 scripts/audit_publication.py --history` for the stricter audit that
 
 ## Clean Publication Snapshot | 干净发布快照
 
-The publication exporter resolves the checked-out Git commit, reads the allowlist and every approved Markdown file from that same commit, and writes an outside-repository directory with deterministic content, paths, modes, and checked modification times. It does not copy `.git`, commit metadata, the remote URL, working-tree changes, untracked files, or files outside the allowlist. UID/GID ownership, ctime, ACLs, and extended attributes are not part of the content-set digest and must not be treated as verified identity metadata.
+Local media are limited to allowlisted, validated SVG maps and baseline JPEG illustrations with source-specific notices in `CREDITS.md`. SVG must have accessible titles and descriptions and contain no active or remote content. JPEG must be under 300,000 bytes with EXIF, ICC, IPTC, and comments removed. Other binary formats remain prohibited.
 
-发布导出器会锁定当前 checkout 对应的 Git 提交，从同一提交中读取白名单及全部获准 Markdown 文件，再在仓库外写出内容、路径、模式和受检修改时间均确定的目录。它不会复制 `.git`、提交元数据、远端地址、工作区修改、未跟踪文件或白名单外文件。UID/GID 所有权、ctime、ACL 和扩展属性不属于内容集摘要的保护范围，不能被视为已经验证的身份元数据。
+本地素材仅限白名单内、经过验证的 SVG 地图和基线 JPEG 插画，并须在 `CREDITS.md` 保留各来源授权。SVG 必须有可访问的标题与说明，不得包含活动或远程内容；JPEG 必须小于 300,000 字节，清除 EXIF、ICC、IPTC 和注释。其他二进制格式仍被禁止。
 
-Commit every intended public change before exporting, and run the release only from a fresh, reviewed, clean checkout or equivalent trusted CI checkout. Content blobs come from the selected commit, but the exporter and imported audit code come from the checkout that executes them. The exporter is POSIX-only and fails closed on symlinks, gitlinks, Git LFS pointers, binary or non-UTF-8 input, unsafe or out-of-scope links, Markdown images, unapproved raw HTML, GitHub-hosted URLs, and privacy-audit findings. It prints a content-set SHA-256 digest; preserve that digest through a trusted channel and supply it during independent verification.
+The publication exporter resolves the checked-out Git commit, reads the allowlist and every approved Markdown file and local asset from that same commit, and writes an outside-repository directory with deterministic content, paths, modes, and checked modification times. It does not copy `.git`, commit metadata, the remote URL, working-tree changes, untracked files, or files outside the allowlist. UID/GID ownership, ctime, ACLs, and extended attributes are not part of the content-set digest and must not be treated as verified identity metadata.
 
-导出前必须先提交全部预定公开修改，并且只能从全新、经过复核且干净的 checkout 或同等可信的 CI checkout 执行正式发布。内容 blob 来自所选提交，但实际执行的导出器及其导入的审计代码来自当前 checkout。导出器仅支持 POSIX 系统；遇到符号链接、gitlink、Git LFS 指针、二进制或非 UTF-8 内容、不安全或超出白名单的链接、Markdown 图片、未批准原始 HTML、GitHub 托管地址或隐私审计问题时，都会拒绝导出。它会输出内容集 SHA-256 摘要；应通过可信渠道另行保存该摘要，并在独立复核时传入。
+发布导出器会锁定当前 checkout 对应的 Git 提交，从同一提交中读取白名单及全部获准 Markdown 文件与本地素材，再在仓库外写出内容、路径、模式和受检修改时间均确定的目录。它不会复制 `.git`、提交元数据、远端地址、工作区修改、未跟踪文件或白名单外文件。UID/GID 所有权、ctime、ACL 和扩展属性不属于内容集摘要的保护范围，不能被视为已经验证的身份元数据。
+
+Commit every intended public change before exporting, and run the release only from a fresh, reviewed, clean checkout or equivalent trusted CI checkout. Content blobs come from the selected commit, but the exporter and imported audit code come from the checkout that executes them. The exporter is POSIX-only and fails closed on symlinks, gitlinks, Git LFS pointers, unapproved binary or non-UTF-8 input, unsafe or out-of-scope links, remote or unapproved Markdown images, unapproved raw HTML, GitHub-hosted URLs, and privacy-audit findings. It prints a content-set SHA-256 digest; preserve that digest through a trusted channel and supply it during independent verification.
+
+导出前必须先提交全部预定公开修改，并且只能从全新、经过复核且干净的 checkout 或同等可信的 CI checkout 执行正式发布。内容 blob 来自所选提交，但实际执行的导出器及其导入的审计代码来自当前 checkout。导出器仅支持 POSIX 系统；遇到符号链接、gitlink、Git LFS 指针、未经批准的二进制或非 UTF-8 内容、不安全或超出白名单的链接、远程或未经批准的 Markdown 图片、未批准原始 HTML、GitHub 托管地址或隐私审计问题时，都会拒绝导出。它会输出内容集 SHA-256 摘要；应通过可信渠道另行保存该摘要，并在独立复核时传入。
 
 ```bash
 python3 scripts/export_publication.py export \
@@ -79,9 +83,9 @@ python3 scripts/export_publication.py verify \
   --expected-content-set-sha256 DIGEST_FROM_EXPORT
 ```
 
-The static-site builder consumes the immutable bytes returned by snapshot verification; it does not reread Markdown paths after validation. It produces exactly one HTML page per approved Markdown page plus one local stylesheet, then compares the complete output against a deterministic reconstruction. The site omits the source allowlist, integrity manifests, checksums, scripts, tests, workflows, Git data, and source digest.
+The static-site builder consumes the immutable bytes returned by snapshot verification; it does not reread Markdown paths after validation. It produces exactly one HTML page per approved Markdown page plus one local stylesheet and approved local assets, then compares the complete output against a deterministic reconstruction. The site omits the source allowlist, integrity manifests, checksums, scripts, tests, workflows, Git data, and source digest.
 
-静态站点构建器只使用快照验证返回的不可变字节，不会在验证后重新读取 Markdown 路径。它为每份获准 Markdown 生成一个 HTML 页面及一份本地样式表，再把完整输出与确定性重建结果逐字节比较。站点不会包含源白名单、完整性清单、校验和、脚本、测试、workflow、Git 数据或源摘要。
+静态站点构建器只使用快照验证返回的不可变字节，不会在验证后重新读取 Markdown 路径。它为每份获准 Markdown 生成一个 HTML 页面及一份本地样式表与获准本地素材，再把完整输出与确定性重建结果逐字节比较。站点不会包含源白名单、完整性清单、校验和、脚本、测试、workflow、Git 数据或源摘要。
 
 Snapshot and site directories, the ZIP output parent, and the final archive path must be under the exclusive control of the trusted build job while they are checked. Do not verify in a shared writable directory or publish by recursively copying a directory that may have changed afterward. Upload the just-built, just-verified site files, or create the offline ZIP directly from the same verified snapshot and retained digest, in the same trusted job. A filesystem verifier cannot prevent another process from changing a mutable path after verification returns.
 

@@ -25,6 +25,11 @@ jobs:
       - name: Run publication guard tests
         run: python3 -m unittest discover -s tests -v
 
+      - name: Check reproducible local media
+        run: |
+          python3 scripts/generate_maps.py --check
+          python3 scripts/prepare_illustrations.py --check
+
       - name: Audit Markdown structure
         run: python3 scripts/audit_markdown.py
 

@@ -10,9 +10,9 @@ The home page offers a short starting route and collection entrances. Reading pa
 
 首页提供简短入门路线和分类入口。阅读页包括栏目导航、根据正文真实标题锚点生成的页内目录、上一篇与下一篇，以及返回页首链接。小屏幕使用浏览器原生折叠菜单替代桌面侧栏。
 
-The design includes system-following dark mode, keyboard focus indicators, a skip-to-content link, reduced-motion support, horizontally scrollable tables, and print styles. No third-party fonts, images, or runtime dependencies are added.
+The design includes system-following dark mode, keyboard focus indicators, a skip-to-content link, reduced-motion support, horizontally scrollable tables, and print styles. Credited maps and public-domain illustrations are local files; no remote fonts, images, or runtime dependencies are added.
 
-界面提供跟随系统的深色模式、键盘焦点标识、跳到正文链接、减少动态效果支持、可横向滚动的表格，以及打印样式。不增加第三方字体、图片或运行时依赖。
+界面提供跟随系统的深色模式、键盘焦点标识、跳到正文链接、减少动态效果支持、可横向滚动的表格，以及打印样式。地图与公有领域插画以本地文件加载并保留署名；不增加远程字体、图片或运行时依赖。
 
 The number above a document is its position in the current collection, not a record of what the reader has finished. The site does not store progress or bookmarks. Browser bookmarks can retain a document or heading URL.
 
@@ -24,9 +24,9 @@ Original Markdown, body text, citations, language-status notes, filenames, and p
 
 原有 Markdown、正文、引文、语言状态说明、文件名及发布权限均不改变。导航只能指向已验证白名单中存在的页面。长文目录优先显示二级标题；没有二级标题时使用三级标题。
 
-The output still contains exactly one HTML file per approved Markdown page and one local stylesheet. Scripts, tracking, forms, comments, remote assets, and source-repository links remain prohibited. The layout does not imply that untranslated source material is fully bilingual.
+The output still contains exactly one HTML file per approved Markdown page and one local stylesheet plus approved local maps and illustrations. Scripts, tracking, forms, comments, remote assets, and source-repository links remain prohibited. The layout does not imply that untranslated source material is fully bilingual.
 
-输出仍然严格对应为每份获准 Markdown 一个 HTML 文件，以及一份本地样式表。继续禁止脚本、追踪、表单、评论、远程资源及源仓库链接。界面不会把尚未翻译的来源材料标成完整双语。
+输出仍然严格对应为每份获准 Markdown 一个 HTML 文件，以及一份本地样式表及获准本地地图与插画。继续禁止脚本、追踪、表单、评论、远程资源及源仓库链接。界面不会把尚未翻译的来源材料标成完整双语。
 
 ## Verification and Preview | 验证与预览
 

@@ -631,14 +631,14 @@ class CurrentPublicationCorpusTests(unittest.TestCase):
 
             report = build_site(snapshot, digest, output)
 
-            self.assertEqual(79, report.page_count)
-            self.assertEqual(80, report.file_count)
+            self.assertEqual(81, report.page_count)
+            self.assertEqual(87, report.file_count)
             file_paths = {
                 path.relative_to(output).as_posix()
                 for path in output.rglob("*")
                 if path.is_file()
             }
-            self.assertEqual(79, sum(path.endswith(".html") for path in file_paths))
+            self.assertEqual(81, sum(path.endswith(".html") for path in file_paths))
             self.assertEqual(
                 {build_static_site.SITE_CSS_PATH},
                 {path for path in file_paths if path.endswith(".css")},
@@ -654,10 +654,10 @@ class CurrentPublicationCorpusTests(unittest.TestCase):
             ]
             # One source heading-shaped line is inside a fenced Markdown example.
             self.assertEqual(
-                2333,
+                2346,
                 sum(len(re.findall(r"<h[1-6](?: |>)", text)) for text in html_texts),
             )
-            self.assertEqual(237, sum(text.count("<table>") for text in html_texts))
+            self.assertEqual(241, sum(text.count("<table>") for text in html_texts))
             self.assertEqual(24, sum(text.count("<pre><code>") for text in html_texts))
             self.assertGreaterEqual(sum(text.count("<a ") for text in html_texts), 1850)
 
@@ -686,9 +686,9 @@ class CurrentPublicationCorpusTests(unittest.TestCase):
             self.assertIn("How This Library Is Made | 资料库如何编写", home)
             self.assertNotIn("reviewed study notes", home)
             for source_path in manifest_paths:
-                if source_path == "README.md" or source_path.startswith((
+                if source_path in {"README.md", "CREDITS.md"} or source_path.startswith((
                     "Bible_Timeline/", "Bible_Translations/", "Bilingual_Notes/",
-                    "Book_Studies/", "Christian_Traditions/",
+                    "Book_Studies/", "Christian_Traditions/", "Maps/",
                 )):
                     source = (REPO_ROOT / source_path).read_text(encoding="utf-8")
                     self.assertIn("Status: Draft (AI draft; not human reviewed)",
@@ -697,6 +697,16 @@ class CurrentPublicationCorpusTests(unittest.TestCase):
                         encoding="utf-8"
                     )
                     self.assertIn("Status: Draft (AI draft; not human reviewed)", rendered_page)
+
+            media_paths = {path for path in file_paths if path.endswith((".jpg", ".svg"))}
+            self.assertEqual(5, len(media_paths))
+            for media_path in media_paths:
+                self.assertEqual((REPO_ROOT / media_path).read_bytes(), (output / media_path).read_bytes())
+            self.assertIn('href="Maps/index.html"', home)
+            maps_page = (output / "Maps/index.html").read_text(encoding="utf-8")
+            self.assertEqual(2, maps_page.count('class="map-viewport"'))
+            first_steps = (output / "Bible_Timeline/First_Steps_Bilingual.html").read_text(encoding="utf-8")
+            self.assertEqual(3, first_steps.count('class="study-illustration"'))
 
             book_hub_output = "Book_Studies/index.html"
             book_hub = (output / book_hub_output).read_text(encoding="utf-8")

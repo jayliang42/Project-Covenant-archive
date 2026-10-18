@@ -24,14 +24,17 @@ if TYPE_CHECKING:
     from scripts import audit_publication as publication_audit
     from scripts import export_publication as publication_export
     from scripts import site_reader
+    from scripts import publication_assets
 elif __package__:
     from . import audit_publication as publication_audit
     from . import export_publication as publication_export
     from . import site_reader
+    from . import publication_assets
 else:
     import audit_publication as publication_audit
     import export_publication as publication_export
     import site_reader
+    import publication_assets
 
 
 SITE_FORMAT = "project-covenant-static-site/v1"
@@ -351,6 +354,34 @@ def _render_inline(
                 output.append(f"<code>{html.escape(code)}</code>")
                 cursor = closing + run
                 continue
+
+        if text.startswith("![", cursor) and not _is_escaped(text, cursor):
+            bracket_end = _matching_bracket(text, cursor + 1)
+            if bracket_end is None or text[bracket_end + 1:bracket_end + 2] != "(":
+                raise SiteBuildError("SITE_IMAGE_MALFORMED")
+            destination_end = _matching_parenthesis(text, bracket_end + 1)
+            if destination_end is None:
+                raise SiteBuildError("SITE_IMAGE_MALFORMED")
+            raw_target = text[bracket_end + 2:destination_end]
+            try:
+                target = publication_export.resolved_local_target(current_source, raw_target)
+            except publication_export.PublicationExportError as error:
+                raise SiteBuildError("SITE_IMAGE_TARGET_FORBIDDEN") from error
+            parsed_image = urlsplit(_destination_token(raw_target))
+            if target is None or not publication_assets.is_asset_path(target) or target not in page_map or parsed_image.query or parsed_image.fragment:
+                raise SiteBuildError("SITE_IMAGE_TARGET_FORBIDDEN")
+            alt = text[cursor + 2:bracket_end].strip()
+            if not alt:
+                raise SiteBuildError("SITE_IMAGE_ALT_REQUIRED")
+            source = html.escape(_relative_href(current_output, page_map[target]), quote=True)
+            image_class = "study-map" if target.endswith(".svg") else "study-illustration"
+            rendered_image = f'<img class="{image_class}" src="{source}" alt="{html.escape(alt, quote=True)}">'
+            if image_class == "study-map":
+                rendered_image = '<span class="map-viewport" role="region" tabindex="0" aria-label="Map, scroll horizontally | 地图，可横向滚动">' + rendered_image + '</span>'
+            flush_literal()
+            output.append(rendered_image)
+            cursor = destination_end + 1
+            continue
 
         if text[cursor] == "[" and not _is_escaped(text, cursor):
             bracket_end = _matching_bracket(text, cursor)
@@ -828,6 +859,7 @@ def _load_expected_site(
         for file in verified.files
         if not file.path.endswith(".md")
         and file.path != publication_export.MANIFEST_PATH
+        and not publication_assets.is_asset_path(file.path)
     ]
     if other_content:
         raise SiteBuildError("SITE_NON_MARKDOWN_CONTENT_FORBIDDEN")
@@ -835,6 +867,8 @@ def _load_expected_site(
     if "README.md" not in page_map:
         raise SiteBuildError("SITE_ROOT_PAGE_MISSING")
 
+    asset_files = {file.path: file.data for file in verified.files if publication_assets.is_asset_path(file.path)}
+    render_map = {**page_map, **{path: path for path in asset_files}}
     pages: list[_Page] = []
     for file in markdown_files:
         try:
@@ -851,12 +885,12 @@ def _load_expected_site(
                 source_path=file.path,
                 output_path=page_map[file.path],
                 title=_first_h1(text),
-                body=render_markdown_body(file.path, text, page_map),
+                body=render_markdown_body(file.path, text, render_map),
             )
         )
 
     page_titles = {page.source_path: page.title for page in pages}
-    expected: dict[str, bytes] = {SITE_CSS_PATH: SITE_CSS}
+    expected: dict[str, bytes] = {SITE_CSS_PATH: SITE_CSS, **asset_files}
     for page in pages:
         expected[page.output_path] = _page_html(page, page_map, page_titles)
     if len(expected) > MAX_SITE_FILES:
@@ -909,7 +943,8 @@ ALLOWED_TAG_ATTRIBUTES: dict[str, set[str]] = {
     "td": {"class"},
     "hr": set(),
     "br": set(),
-    "span": {"class", "aria-hidden"},
+    "span": {"class", "aria-hidden", "role", "tabindex", "aria-label"},
+    "img": {"src", "alt", "class"},
 }
 
 
@@ -920,6 +955,7 @@ class _HTMLPolicyParser(HTMLParser):
         self.ids: set[str] = set()
         self.links: list[tuple[str, dict[str, str]]] = []
         self.stylesheets: list[str] = []
+        self.images: list[dict[str, str]] = []
         self.declarations = 0
         self.csp_values: list[str] = []
         self.referrer_values: list[str] = []
@@ -975,6 +1011,10 @@ class _HTMLPolicyParser(HTMLParser):
 
         if tag == "a" and "href" in values:
             self.links.append((values["href"], values))
+        if tag == "img":
+            if not values.get("src") or not values.get("alt", "").strip():
+                raise SiteBuildError("SITE_IMAGE_ALT_OR_SOURCE_REQUIRED")
+            self.images.append(values)
         if tag == "link":
             if values.get("rel") != "stylesheet" or "href" not in values:
                 raise SiteBuildError("SITE_STYLESHEET_LINK_INVALID")
@@ -1024,12 +1064,19 @@ def _validate_generated_site(files: dict[str, bytes]) -> None:
     expected_csp_parts = (
         "default-src 'none'",
         "style-src 'self'",
+        "img-src 'self'",
         "script-src 'none'",
         "connect-src 'none'",
         "object-src 'none'",
         "form-action 'none'",
         "base-uri 'none'",
     )
+    for asset_path, data in files.items():
+        if publication_assets.is_asset_path(asset_path):
+            try:
+                publication_assets.validate_asset(asset_path, data)
+            except publication_assets.AssetError as error:
+                raise SiteBuildError(str(error)) from error
     for path in sorted(html_paths):
         try:
             text = files[path].decode("utf-8")
@@ -1068,6 +1115,13 @@ def _validate_generated_site(files: dict[str, bytes]) -> None:
         stylesheet = _normalize_site_path(path, parser.stylesheets[0])
         if stylesheet != SITE_CSS_PATH:
             raise SiteBuildError("SITE_STYLESHEET_LINK_INVALID")
+        for image in parser.images:
+            parsed_image = urlsplit(image["src"])
+            if parsed_image.scheme or parsed_image.netloc or parsed_image.query or parsed_image.fragment:
+                raise SiteBuildError("SITE_REMOTE_IMAGE_FORBIDDEN")
+            target_image = _normalize_site_path(path, parsed_image.path)
+            if not publication_assets.is_asset_path(target_image) or target_image not in files:
+                raise SiteBuildError("SITE_IMAGE_MISSING")
         page_ids[path] = parser.ids
         page_links[path] = parser.links
 
@@ -1099,6 +1153,8 @@ def _validate_generated_site(files: dict[str, bytes]) -> None:
                 else _normalize_site_path(current, parsed.path)
             )
             if target not in html_paths:
+                if publication_assets.is_asset_path(target) and target in files and not parsed.fragment:
+                    continue
                 raise SiteBuildError("SITE_LOCAL_LINK_MISSING")
             fragment = unquote(parsed.fragment)
             if fragment and fragment not in page_ids[target]:

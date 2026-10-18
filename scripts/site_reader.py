@@ -14,7 +14,7 @@ from urllib.parse import quote
 
 
 CSP = (
-    "default-src 'none'; style-src 'self'; img-src 'none'; font-src 'none'; "
+    "default-src 'none'; style-src 'self'; img-src 'self'; font-src 'none'; "
     "script-src 'none'; connect-src 'none'; object-src 'none'; frame-src 'none'; "
     "form-action 'none'; base-uri 'none'"
 )
@@ -36,6 +36,7 @@ COLLECTIONS = (
     ("Book_Studies", "Book studies | 书籍研读", "Read with guides and source boundaries. | 带着导读和来源边界阅读。"),
     ("Christian_Traditions", "Traditions | 基督教传统", "Explore historical traditions and their differences. | 了解历史传统及其差异。"),
     ("Bible_Translations", "Translations | 圣经译本", "Find access guides and reading notes. | 查找获取指南与阅读说明。"),
+    ("Maps", "Maps | 地图", "Read offline maps with bilingual labels. | 阅读带双语地名的离线地图。"),
 )
 
 
@@ -384,3 +385,12 @@ summary { cursor: pointer; padding: .75rem .9rem; font-size: .8rem; color: var(-
   a { color: black; }
 }
 """.encode("utf-8")
+
+
+SITE_CSS += b"""
+.study-illustration { display: block; max-width: 100%; width: auto; max-height: 36rem; height: auto; margin: 1.25rem auto; }
+.map-viewport { display: block; width: 100%; max-width: 100%; overflow-x: auto; border: 1px solid var(--line); background: #fff; margin: 1.25rem 0; }
+.map-viewport:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+.study-map { display: block; min-width: 1100px; width: 100%; height: auto; max-width: none; }
+@media print { .study-map { min-width: 0; width: 100%; } .map-viewport { overflow: visible; } }
+"""

@@ -1,0 +1,41 @@
+[
+  {
+    "file": "creation.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:001.The_Creation_of_Light.jpg",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/d/d2/001.The_Creation_of_Light.jpg",
+    "output": "assets/illustrations/dore-creation.jpg",
+    "artist": "Gustave Doré",
+    "title": "The Creation of Light",
+    "title_zh": "创造之光",
+    "year": "1866",
+    "license": "Public domain; PD-old-100-expired; faithful 2D reproduction (PD-Art)",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "checked": "2026-10-17"
+  },
+  {
+    "file": "moses.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:039.Moses_Comes_Down_from_Mount_Sinai.jpg",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/0/06/039.Moses_Comes_Down_from_Mount_Sinai.jpg",
+    "output": "assets/illustrations/dore-moses.jpg",
+    "artist": "Gustave Doré",
+    "title": "Moses Comes Down from Mount Sinai",
+    "title_zh": "摩西从西乃山下来",
+    "year": "1866",
+    "license": "Public domain; PD-old-100-expired; faithful 2D reproduction (PD-Art)",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "checked": "2026-10-17"
+  },
+  {
+    "file": "resurrection.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Brooklyn_Museum_-_The_Resurrection_(La_R%C3%A9surrection)_-_James_Tissot.jpg",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/3/37/Brooklyn_Museum_-_The_Resurrection_%28La_R%C3%A9surrection%29_-_James_Tissot.jpg",
+    "output": "assets/illustrations/tissot-resurrection.jpg",
+    "artist": "James Tissot",
+    "title": "The Resurrection",
+    "title_zh": "复活",
+    "year": "1886–1894",
+    "license": "Public domain; PD-old-100-expired; faithful 2D reproduction (PD-Art)",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "checked": "2026-10-17"
+  }
+]
