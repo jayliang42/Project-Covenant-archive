@@ -126,7 +126,7 @@ class ReaderTests(unittest.TestCase):
         page = self.render(source="README.md")
         self.assertIn('href="Bible_Timeline/First_Steps_Bilingual.html" class="start-reading"', page)
         self.assertEqual(2, page.count('class="collection-card"'))
-        self.assertIn('English coverage varies by page', page)
+        self.assertIn('Read in English or Chinese', page)
 
     def test_markup_escapes_titles_and_encodes_unicode_paths(self):
         titles = dict(self.sources)

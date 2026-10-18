@@ -362,8 +362,8 @@ def audit_corpus_integrity(root: Path) -> list[str]:
         return errors
 
     selected_text = texts[SELECTED_BOOKS_PATH]
-    main_section = extract_h2_section(selected_text, "二、52 卷逐卷接力")
-    bridge_section = extract_h2_section(selected_text, "三、14 卷怎样挂回主线")
+    main_section = extract_h2_section(selected_text, "Book-by-Book Handoffs for the 52-Book Core | 二、52 卷逐卷接力")
+    bridge_section = extract_h2_section(selected_text, "Reconnecting the 14 Companion Books | 三、14 卷怎样挂回主线")
     if main_section is None:
         errors.append("main_books_section_missing")
     if bridge_section is None:
@@ -379,7 +379,7 @@ def audit_corpus_integrity(root: Path) -> list[str]:
     evidence_rows = extract_numbered_entry_headings(texts[EVIDENCE_INDEX_PATH])
     errors.extend(validate_numbered_entries(evidence_rows, 205))
     crosswalk_section = extract_h2_section(
-        texts[EVIDENCE_CROSSWALK_PATH], "三、按 205 个锚点反查周次与书卷"
+        texts[EVIDENCE_CROSSWALK_PATH], "Reverse Lookup: 205 Evidence Anchors, Weeks, and Books | 三、按 205 个锚点反查周次与书卷"
     )
     if crosswalk_section is None:
         errors.append("evidence_crosswalk_section_missing")

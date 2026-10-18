@@ -55,10 +55,10 @@ All major content pages in this cleanup remain Draft. Language coverage and tech
 | Main entry points and core timeline guides / 主要入口与核心时间线导读 | English/Chinese body text paired as Draft; reading aids continue to improve | 中英正文已配对为Draft；阅读辅助仍在完善 |
 | Sermon and fellowship notes / 讲道与团契笔记 | Existing English/Chinese note text paired as Draft; source verification remains separate | 现有笔记中英正文已配对为Draft；来源核实另行记录 |
 | Book-study guides / 书籍导读 | Paired English/Chinese Draft text; edition questions remain flagged | 中英草稿正文已配对；版本问题继续保留标注 |
-| Historical, archaeological, and manuscript research dossiers / 历史、考古与抄本研究专题 | English navigation and summaries; most full research texts are currently Chinese | 英文导航与摘要；多数完整研究正文目前为中文 |
+| Historical, archaeological, and manuscript research dossiers / 历史、考古与抄本研究专题 | Paired English/Chinese Draft text; human review pending | 中英逐段配对Draft正文；待人工审阅 |
 
-The goal is not to label an untranslated document as bilingual. New English summaries and full translations will be added progressively, beginning with the most-used study routes.<br>
-目标不是把未翻译的资料误标为“双语”。英文摘要和完整翻译会逐步补齐，并优先覆盖最常使用的研读路线。
+The current approved pages have paired Draft text. Human review is still needed for translation, interpretation, and sources; paragraph pairing does not establish accuracy.<br>
+当前获准页面已配对为Draft正文。翻译、解释与来源仍需人工审阅；逐段配对并不证明内容准确。
 
 ## Library Map | 资料结构
 

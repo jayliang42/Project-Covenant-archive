@@ -190,8 +190,8 @@ def _home_intro(output: str, page_map: dict[str, str]) -> str:
         cards.append(f'<a class="collection-card" href="{href}"><span class="collection-number">{index:02d}</span><strong>{html.escape(label)}</strong><span class="collection-description">{html.escape(description)}</span></a>')
     return ('<div class="book-intro"><div class="eyebrow">A READING LIBRARY · 阅读资料库</div>'
             '<div class="book-tagline">One story. Many ways to explore.<br>一条故事线，多种研读路径。</div>'
-            '<p>Begin with a short guide, follow a reading plan, or return to a topic. English coverage varies by page; each guide retains its language and source notes.</p>'
-            '<p>从短篇导读开始，跟随阅读计划，或回到感兴趣的专题。各页英文覆盖程度不同，原有语言状态与来源说明均予保留。</p>'
+            '<p>Begin with a short guide, follow a reading plan, or return to a topic. Read in English or Chinese, and keep each guide’s Draft status and source notes in view.</p>'
+            '<p>从短篇导读开始，跟随阅读计划，或回到感兴趣的专题。可用中文或英文阅读；请同时查看各页的 Draft 状态与来源说明。</p>'
             + start + '</div><nav class="collection-grid" aria-label="Choose a collection | 选择栏目">' + "\n".join(cards) + '</nav>')
 
 

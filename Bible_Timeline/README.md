@@ -46,8 +46,8 @@ These files use a consistent distinction between historical events (EV), backgro
 
 ## Chinese Research Dossiers | 中文研究专题
 
-The table states each dossier’s current language coverage. The English descriptions help readers choose a topic while translation continues; paired text remains Draft and still needs human review.<br>
-下表逐项标明当前语言覆盖。英文简介方便读者在翻译继续进行时选择专题；已经配对的正文仍为Draft，仍需人工审阅。
+The table states each dossier’s language coverage. The English descriptions help readers choose a topic. Paired text remains Draft and still needs human review.<br>
+下表逐项标明语言覆盖。英文简介帮助读者选择专题；已经配对的正文仍为Draft，仍需人工审阅。
 
 | Chinese research dossier | English guide | Language coverage / 语言覆盖 |
 | --- | --- | --- |
