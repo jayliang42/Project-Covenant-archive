@@ -46,8 +46,8 @@ These files use a consistent distinction between historical events (EV), backgro
 
 ## Chinese Research Dossiers | 中文研究专题
 
-Most of the following long-form dossiers remain Chinese research texts; the Pentateuch, Wisdom/Poetry, and Resurrection/Early Witnesses dossiers, together with the five-book Psalms guide and 66-book handoff table, now have paired English/Chinese Draft text. Their titles are translated here so English readers can choose the right topic before using a browser translation tool or a future full translation.<br>
-以下长篇专题大多仍以中文研究正文为主；五经、智慧／诗歌及复活／早期见证专题，还有诗篇五卷导读与66卷承上启下总表，现已配对为中英Draft正文；此处提供英文说明，方便英文读者先定位主题，再使用浏览器翻译或等待完整英译。
+Most of the following long-form dossiers remain Chinese research texts; the Pentateuch, Wisdom/Poetry, and Resurrection/Early Witnesses dossiers, together with the five-book Psalms guide, 150-Psalm index, and 66-book handoff table, now have paired English/Chinese Draft text. Their titles are translated here so English readers can choose the right topic before using a browser translation tool or a future full translation.<br>
+以下长篇专题大多仍以中文研究正文为主；五经、智慧／诗歌及复活／早期见证专题，还有诗篇五卷导读、150篇索引与66卷承上启下总表，现已配对为中英Draft正文；此处提供英文说明，方便英文读者先定位主题，再使用浏览器翻译或等待完整英译。
 
 | Chinese research dossier | English guide |
 | --- | --- |
