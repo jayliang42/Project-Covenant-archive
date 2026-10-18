@@ -684,6 +684,7 @@ class CurrentPublicationCorpusTests(unittest.TestCase):
             self.assertIn('href="index.html#column-index"', terms_page)
             self.assertIn("Evangelical | 福音派", terms_page)
             self.assertIn("How This Library Is Made | 资料库如何编写", home)
+            self.assertNotIn("reviewed study notes", home)
             for source_path in manifest_paths:
                 if source_path == "README.md" or source_path.startswith((
                     "Bible_Timeline/", "Bible_Translations/", "Bilingual_Notes/",
