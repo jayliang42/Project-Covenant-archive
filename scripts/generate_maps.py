@@ -349,6 +349,100 @@ def batch2_maps() -> dict[str, bytes]:
     results["bible-storyline.svg"]=ET.tostring(root,encoding="utf-8")+b"\n"
     return results
 
+def ministry_maps(data: Basemap, geography: Geography) -> dict[str, bytes]:
+    """Two original reading diagrams reusing only the pilot's licensed points."""
+    results: dict[str, bytes] = {}
+
+    def panel(parent: ET.Element, extent: list[float], x: float, y: float,
+              width: float, height: float) -> Frame:
+        frame = Frame(extent, x, y, width, height)
+        left, top = frame.point(frame.west, frame.north)
+        element(parent, "rect", x=left, y=top,
+                width=(frame.east-frame.west)*frame.cosine*frame.scale,
+                height=(frame.north-frame.south)*frame.scale,
+                fill="#dfedf0", stroke="#b9c5be")
+        draw_base(parent, frame, data)
+        return frame
+
+    root = root_svg(
+        "Jesus’ Ministry in Galilee | 耶稣在加利利的事工",
+        "Selected Gospel places: Nazareth, disputed Cana, and Capernaum. "
+        "Points are approximate; this is not a chronological itinerary. "
+        "Cana has competing identifications. / 选定拿撒勒、迦拿与迦百农；"
+        "地点为示意，不表示按时间排列的行程。迦拿的位置有争议。", 1100, 1170)
+    label(root, 40, 118, "Selected places, not a reconstructed itinerary / 选定地点，不重建完整行程", 22)
+    frame = panel(root, [34.8, 32.4, 35.9, 33.2], 45, 155, 1010, 520)
+    sea_x, sea_y = frame.point(35.70, 32.72)
+    sea_box = (sea_x-10, sea_y-25, sea_x+175, sea_y+30)
+    draw_places(root, frame, geography["places"], ["Nazareth", "Cana", "Capernaum"],
+                24, [sea_box])
+    label(root, sea_x, sea_y, "Sea of Galilee", 19)
+    label(root, sea_x, sea_y+25, "加利利海", 19)
+    compass_and_scale(root, frame, 70, 725, 20)
+    rows = [
+        ("Nazareth: Luke 4:16–30", "拿撒勒：路加福音4:16–30"),
+        ("Cana?: John 2:1–11; 4:46–54", "迦拿？：约翰福音2:1–11；4:46–54"),
+        ("Capernaum: Mark 1:21–39", "迦百农：马可福音1:21–39"),
+    ]
+    for index, (english, chinese) in enumerate(rows):
+        label(root, 40, 800+index*61, english, 22)
+        label(root, 40, 827+index*61, chinese, 22)
+    label(root, 40, 1000, "Cana is disputed: the legacy point is near Kefr Kenna.", 21)
+    label(root, 40, 1028, "Other candidates include Horbat Qana and Ain Qana; see the source notes.", 21)
+    label(root, 40, 1056, "迦拿有争议：旧数据代表点在Kefr Kenna附近；其他候选包括Horbat Qana与Ain Qana。", 20)
+    label(root, 40, 1108, "Made with Natural Earth · OpenBible.info legacy points (CC BY 4.0)", 18)
+    label(root, 40, 1138, "Modern physical outlines; original labels and layout / 现代自然轮廓；原创双语标注与版面", 18)
+    results["galilee-ministry.svg"] = ET.tostring(root, encoding="utf-8") + b"\n"
+
+    root = root_svg(
+        "From Jerusalem to the Ends of the Earth | 从耶路撒冷到地极",
+        "Acts 1:8 reading overview in two panels. The Samaria marker uses the legacy "
+        "Sebaste point for the region, not an identification of Philip’s city. "
+        "Dashed links join selected narrative stages, not one journey or ancient roads. "
+        "Rome is Acts’ final city, not the literal ends of the earth. / 使徒行传1:8阅读概览。"
+        "撒玛利亚以塞巴斯特代表点提示区域，不认定腓利传道之城。虚线连接选定叙事阶段，"
+        "不表示单次旅程或古道；罗马是书中最后一城，不等于地理上的地极。", 1100, 1210)
+    label(root, 620, 77, "Acts 1:8 / 使徒行传1:8", 18)
+    label(root, 40, 125, "Jerusalem, Judea and Samaria", 22, font_weight="bold")
+    label(root, 40, 155, "耶路撒冷、犹太与撒玛利亚", 22)
+    label(root, 570, 125, "Selected Mediterranean cities", 22, font_weight="bold")
+    label(root, 570, 155, "地中海沿岸选定城市", 22)
+    local = panel(root, [34.7, 31.3, 35.9, 32.8], 40, 195, 450, 450)
+    overview = panel(root, [11.5, 30.8, 37.5, 43.2], 570, 195, 490, 450)
+    regional_places = dict(geography["places"])
+    regional_places["Samaria"] = {
+        **geography["places"]["Samaria"], "en": "Samaria*", "zh": "撒玛利亚区域*"}
+    draw_places(root, local, regional_places, ["Jerusalem", "Samaria"], 22)
+    judea_x, judea_y = local.point(35.08, 31.50)
+    label(root, judea_x, judea_y, "Judea / 犹太", 20, text_anchor="middle")
+    names = ["Jerusalem", "Antioch 1", "Ephesus", "Corinth", "Rome"]
+    points = [overview.point(geography["places"][name]["lon"],
+                             geography["places"][name]["lat"]) for name in names]
+    element(root, "polyline", points=" ".join(f"{x:.2f},{y:.2f}" for x,y in points),
+            fill="none", stroke="#245d7a", stroke_width=3, stroke_dasharray="10 7",
+            stroke_linecap="round", stroke_linejoin="round")
+    draw_places(root, overview, geography["places"], names, 22)
+    compass_and_scale(root, local, 60, 720, 40)
+    compass_and_scale(root, overview, 590, 720, 500)
+    rows = [
+        ("Acts 1–8: Jerusalem, Judea and Samaria", "使徒行传1–8章：耶路撒冷、犹太与撒玛利亚"),
+        ("Acts 11–19: Antioch, Asia Minor and Greek cities", "使徒行传11–19章：安提阿、小亚细亚与希腊城市"),
+        ("Acts 28: Rome is the final city, not the literal ‘ends of the earth’.",
+         "使徒行传28章：罗马是叙事最后一城，不等于地理上的“地极”。"),
+        ("Dashed links: selected stages, not one journey or reconstructed roads.",
+         "虚线连接选定阶段，不表示单次旅程，也不重建古道。"),
+        ("*Samaria: a regional marker at Sebaste, not an identification of Philip’s city.",
+         "*撒玛利亚：采用塞巴斯特代表点提示区域，不认定腓利传道之城。"),
+    ]
+    for index, (english, chinese) in enumerate(rows):
+        label(root, 40, 800+index*64, english, 21)
+        label(root, 40, 828+index*64, chinese, 21)
+    label(root, 40, 1150, "Made with Natural Earth · OpenBible.info legacy points (CC BY 4.0)", 18)
+    label(root, 40, 1178, "Original teaching layout; all locations approximate / 原创教学版面；所有地点均为示意", 18)
+    results["acts-gospel-expansion.svg"] = ET.tostring(root, encoding="utf-8") + b"\n"
+    return results
+
+
 def generated_maps() -> dict[str, bytes]:
     basemap = cast(Basemap, json.loads((DATA / "natural-earth-subset.json").read_text(encoding="utf-8")))
     geography = cast(Geography, json.loads((DATA / "places-and-routes.json").read_text(encoding="utf-8")))
@@ -358,7 +452,7 @@ def generated_maps() -> dict[str, bytes]:
     for route in geography["routes"]:
         if len(route["stops"]) < 2 or any(name not in geography["places"] for name in route["stops"]):
             raise ValueError("Invalid route input")
-    result = {"palestine-jesus.svg": palestine(basemap, geography), "paul-journeys.svg": paul(basemap, geography), **batch2_maps()}
+    result = {"palestine-jesus.svg": palestine(basemap, geography), "paul-journeys.svg": paul(basemap, geography), **batch2_maps(), **ministry_maps(basemap, geography)}
     for data in result.values():
         validate_svg(data)
     return result

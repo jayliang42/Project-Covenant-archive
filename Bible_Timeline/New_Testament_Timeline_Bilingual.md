@@ -26,6 +26,7 @@ Bilingual New Testament timeline.
 | Section / 章节 | Link / 跳转 |
 | --- | --- |
 | [Gospel](../Glossary/README.md#gospel) map / 福音书地图 | [Open / 打开](#gospel-map) |
+| Jesus’ ministry in Galilee / 耶稣在加利利的事工 | [Open / 打开](#galilee-ministry) |
 | Big picture / 总览 | [Jump](#big-picture) |
 | Main flow / 主线流程 | [Jump](#main-flow) |
 | Timeline / 时间线 | [Jump](#timeline) |
@@ -43,6 +44,16 @@ Bilingual New Testament timeline.
 **Approximate / 示意:** Region envelopes are not surveyed borders; the Decapolis was a city network, and Cana has competing identifications. Modern physical outlines do not establish ancient shorelines. On a phone, scroll inside the map or [open the full SVG](../assets/maps/palestine-jesus.svg). / 区域范围不是测绘边界；低加波利是城邦网络，迦拿有不同候选位置；现代自然轮廓不能确定古代岸线。手机可在图内横向滚动或[打开完整 SVG](../assets/maps/palestine-jesus.svg)。
 
 [Map notes and disputed locations | 地图说明与争议地点](../Maps/README.md#gospel-geography) · [Data credits | 数据署名](../CREDITS.md#map-data)
+
+<a id="galilee-ministry"></a>
+### Jesus’ Ministry in Galilee | 耶稣在加利利的事工
+
+![Selected Gospel places in Galilee: Nazareth, disputed Cana and Capernaum / 加利利选定福音书地点：拿撒勒、有争议的迦拿与迦百农](../assets/maps/galilee-ministry.svg)
+
+Read Luke 4:16–30, John 2:1–11 and 4:46–54, and Mark 1:21–39 alongside the three locations. This is a place overview, not a combined itinerary. Cana has competing identifications; the point follows the pilot’s legacy dataset. Modern physical outlines do not establish ancient shorelines.<br>
+配合三个地点阅读路加福音4:16–30、约翰福音2:1–11和4:46–54、马可福音1:21–39。这是地点概览，不是拼接行程。迦拿有不同候选位置，图中沿用第一批旧数据代表点；现代自然轮廓不能确定古代岸线。
+
+[Notes and disputed locations | 说明与争议地点](../Maps/README.md#map-galilee-ministry) · [Open full SVG | 打开完整SVG](../assets/maps/galilee-ministry.svg) · [Credits | 署名](../CREDITS.md#ministry-map-data)
 
 <a id="big-picture"></a>
 

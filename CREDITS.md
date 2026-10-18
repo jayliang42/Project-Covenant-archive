@@ -9,6 +9,7 @@
 - [Public-domain artworks | 公有领域画作](#artworks)
 - [52-week artwork uses | 52周计划配图](#year-plan-artworks)
 - [Second-batch map data | 第二批地图数据](#batch2-map-data)
+- [Ministry and Acts map data | 加利利事工与使徒行传地图数据](#ministry-map-data)
 - [Preparation and rights boundary | 处理与权利边界](#preparation)
 
 <a id="map-data"></a>
@@ -43,6 +44,20 @@ The complete modified modern-point extract is provided in this table, freely ava
 | Har Karkom? / 哈尔卡尔科姆山？（另一假说） | 30.283333 | 34.750000 | [OpenBible KML](https://a.openbible.info/geo/kmls/exod.kml) — Mount Sinai / Har Karkom |
 
 Empire and kingdom envelopes, the Kidron course, the Temple Mount sketch and journey connections are original editorial approximations, not licensed claims of precise ancient borders or roads. Historical explanations are linked from the map index. The storyline graphic uses the library’s draft timelines and marks unresolved or undated stages; it is not a proportional timescale. / 帝国与王国色块、汲沦溪谷、圣殿山范围和行程连接是原创教学示意，不表示掌握精确古代边界或道路；历史说明见地图索引。故事线图依据本库草稿时间线，标出未定年及争议阶段，不按时间比例。
+
+<a id="ministry-map-data"></a>
+## Ministry and Acts Map Data | 加利利事工与使徒行传地图数据
+
+On 2026-10-18, the [Natural Earth official terms](https://www.naturalearthdata.com/about/terms-of-use/), [OpenBible official permission section](https://www.openbible.info/geo/), and [CC BY 4.0 terms](https://creativecommons.org/licenses/by/4.0/) were reopened before reuse. The two maps below use only the first pilot’s committed Natural Earth physical subset and OpenBible legacy point extract. Natural Earth is public domain with no mandatory attribution; “Made with Natural Earth” is voluntarily retained. OpenBible.info requires attribution, a license link and identification of modifications under CC BY 4.0.<br>
+2026-10-18使用前已重新打开[Natural Earth官方条款](https://www.naturalearthdata.com/about/terms-of-use/)、[OpenBible官方授权说明](https://www.openbible.info/geo/)及[CC BY 4.0条款](https://creativecommons.org/licenses/by/4.0/)。以下两图只复用第一批已提交的Natural Earth自然地理子集与OpenBible旧版点提取。Natural Earth为公有领域，无强制署名要求，仍自愿保留“Made with Natural Earth”；OpenBible.info按CC BY 4.0要求署名、链接许可证并说明修改。
+
+| Map / 地图 | Reused legacy source keys / 复用旧版来源键 | Modifications and limits / 修改与限制 |
+| --- | --- | --- |
+| [Galilee ministry / 加利利事工](./assets/maps/galilee-ministry.svg) | Nazareth; Cana; Capernaum | Original bilingual labels, layout and Scripture references; no itinerary. Cana remains disputed. / 原创双语标注、版面与经文出处，不合并行程；迦拿仍有争议。 |
+| [Acts overview / 使徒行传概览](./assets/maps/acts-gospel-expansion.svg) | Jerusalem; Samaria; Antioch 1; Ephesus; Corinth; Rome | Original two-panel layout and dashed narrative connections; Samaria is relabeled as a regional marker using the Sebaste point. / 原创双分图与叙事虚线；撒玛利亚以塞巴斯特点改标为区域提示。 |
+
+All reused coordinates are unchanged. No additional modern KML points, OSM data, photographs, hillshading or map tiles are incorporated. The [Cana candidate page](https://www.openbible.info/geo/ancient/a031bda/cana) was opened to check the competing identifications of Kefr Kenna, Horbat Qana and Ain Qana; only the already committed legacy point is plotted. Neither diagram reconstructs ancient shorelines, province boundaries or roads. Their original compositions are CC BY 4.0; Natural Earth remains public domain, and the generator remains MIT-licensed repository software. No published map was copied or traced.<br>
+复用坐标未改；不引入额外现代KML点、OSM数据、照片、晕渲或地图瓦片。已打开[迦拿候选页](https://www.openbible.info/geo/ancient/a031bda/cana)，核对Kefr Kenna、Horbat Qana及Ain Qana等不同认定；图中只画已提交的旧版代表点。两图均不重建古代岸线、行省边界或道路。原创版面采用CC BY 4.0，Natural Earth保留公有领域状态，生成脚本仍属于MIT授权的仓库软件。没有复制或描摹出版地图。
 
 <a id="artworks"></a>
 ## Public-Domain Artworks | 公有领域画作

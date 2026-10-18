@@ -98,10 +98,12 @@ assets/illustrations/dore-return.jpg
 assets/illustrations/tissot-magi.jpg
 assets/illustrations/tissot-resurrection.jpg
 assets/maps/abraham-journey.svg
+assets/maps/acts-gospel-expansion.svg
 assets/maps/bible-storyline.svg
 assets/maps/divided-kingdoms.svg
 assets/maps/exile-empires.svg
 assets/maps/exodus-models.svg
+assets/maps/galilee-ministry.svg
 assets/maps/jerusalem-jesus.svg
 assets/maps/palestine-jesus.svg
 assets/maps/paul-journeys.svg

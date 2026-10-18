@@ -632,7 +632,7 @@ class CurrentPublicationCorpusTests(unittest.TestCase):
             report = build_site(snapshot, digest, output)
 
             self.assertEqual(82, report.page_count)
-            self.assertEqual(103, report.file_count)
+            self.assertEqual(105, report.file_count)
             file_paths = {
                 path.relative_to(output).as_posix()
                 for path in output.rglob("*")
@@ -654,10 +654,10 @@ class CurrentPublicationCorpusTests(unittest.TestCase):
             ]
             # One source heading-shaped line is inside a fenced Markdown example.
             self.assertEqual(
-                2306,
+                2311,
                 sum(len(re.findall(r"<h[1-6](?: |>)", text)) for text in html_texts),
             )
-            self.assertEqual(244, sum(text.count("<table>") for text in html_texts))
+            self.assertEqual(245, sum(text.count("<table>") for text in html_texts))
             self.assertEqual(24, sum(text.count("<pre><code>") for text in html_texts))
             self.assertGreaterEqual(sum(text.count("<a ") for text in html_texts), 1850)
 
@@ -717,12 +717,12 @@ class CurrentPublicationCorpusTests(unittest.TestCase):
                     self.assertIn('class="reading-time"', page)
 
             media_paths = {path for path in file_paths if path.endswith((".jpg", ".svg"))}
-            self.assertEqual(20, len(media_paths))
+            self.assertEqual(22, len(media_paths))
             for media_path in media_paths:
                 self.assertEqual((REPO_ROOT / media_path).read_bytes(), (output / media_path).read_bytes())
             self.assertIn('href="Maps/index.html"', home)
             maps_page = (output / "Maps/index.html").read_text(encoding="utf-8")
-            self.assertEqual(9, maps_page.count('class="map-viewport"'))
+            self.assertEqual(11, maps_page.count('class="map-viewport"'))
             first_steps = (output / "Bible_Timeline/First_Steps_Bilingual.html").read_text(encoding="utf-8")
             self.assertEqual(10, first_steps.count('class="study-illustration"'))
             year_plan = (output / "Bible_Timeline/52周圣经故事线_查经与史料阅读计划.html").read_text(encoding="utf-8")
