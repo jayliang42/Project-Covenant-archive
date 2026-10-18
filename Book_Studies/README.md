@@ -2,29 +2,24 @@
 
 > Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
 
-> Reading guides for influential Christian books. Each guide identifies the book's own argument, distinguishes historical and scientific evidence from theological conviction, and avoids treating a secondary study guide as a replacement for the book.
->
+> Reading guides for influential Christian books. Each guide identifies the book's own argument, distinguishes historical and scientific evidence from theological conviction, and avoids treating a secondary study guide as a replacement for the book.<br>
 > 本区收录有影响力的基督教书籍研读指南。每份指南都会辨明原书论证，区分历史／科学材料与神学信念，也不会把二手导读当成原书的替代品。
 
 > **Copyright and Authorized-Edition Notice | 版权与正版说明**
 >
-> Please support authorized editions by purchasing the book, borrowing it from a library, or using a copy made available by the author or publisher. This library does not provide original book text, scans, unauthorized PDFs, or material intended to replace the book.
->
+> Please support authorized editions by purchasing the book, borrowing it from a library, or using a copy made available by the author or publisher. This library does not provide original book text, scans, unauthorized PDFs, or material intended to replace the book.<br>
 > 因版权原因，请支持正版书籍：购买正版、借阅图书馆藏书，或使用作者及出版社正式授权的版本。本资料库不提供原书正文、扫描件、未授权 PDF，也不制作足以替代原书的内容。
 >
-> This library provides original reading guides, distilled core ideas, edition notes, and critical-reading indexes so that readers can understand each book and then return to the authorized original.
->
+> This library provides original reading guides, distilled core ideas, edition notes, and critical-reading indexes so that readers can understand each book and then return to the authorized original.<br>
 > 本资料库提供原创书籍导读、核心思想提炼、版本说明与批判性阅读索引，帮助读者理解各书，并回到正版原著继续阅读。
 >
-> Unless otherwise marked, the library's original commentary is shared under `CC BY-NC-SA 4.0`; this license never extends to the books, quotations, cover art, or other third-party material discussed here. See [Licensing | 授权说明](../LICENSE.md).
->
+> Unless otherwise marked, the library's original commentary is shared under `CC BY-NC-SA 4.0`; this license never extends to the books, quotations, cover art, or other third-party material discussed here. See [Licensing | 授权说明](../LICENSE.md).<br>
 > 除非另有标注，本资料库的原创导读采用 `CC BY-NC-SA 4.0`；该许可证绝不延伸到所讨论的原书、引文、封面或其他第三方材料。详情见[授权说明](../LICENSE.md)。
 
 <a id="library-index"></a>
 ## Library Index and Recommendations | 图书馆总索引与推荐理由
 
-Every title below is a clickable guide. Choose by the question you are actually asking; no single secondary book should replace reading Scripture or checking the sources it cites.
-
+Every title below is a clickable guide. Choose by the question you are actually asking; no single secondary book should replace reading Scripture or checking the sources it cites.<br>
 下面每个书名都可直接进入导读。请按自己真正的问题选书；任何二手书籍都不应替代直接阅读圣经或核查其引用来源。
 
 | If you want to… | Start with… |
@@ -60,10 +55,8 @@ Every title below is a clickable guide. Choose by the question you are actually 
 <a id="reading-rule"></a>
 ## Reading Rule | 阅读原则
 
-Read the original chapter first. Then use the guide to identify its claim type, check citations that matter, and state where a conclusion is theological rather than something archaeology, manuscripts, or laboratory science can establish by itself.
-
+Read the original chapter first. Then use the guide to identify its claim type, check citations that matter, and state where a conclusion is theological rather than something archaeology, manuscripts, or laboratory science can establish by itself.<br>
 先读原书章节，再使用导读辨认论证类型、核查关键引用，并清楚说明哪些结论属于神学判断，而不是考古、抄本或实验科学本身可以单独证明的结论。
 
-For a natural progression, begin with *Song of a Wanderer* for the broad invitation, continue with *Seek the Truth, Find the Way* to read John closely, and use *Evidence That Demands a Verdict* as a reference when a specific evidence question arises. This is a suggested route, not a required order.
-
+For a natural progression, begin with *Song of a Wanderer* for the broad invitation, continue with *Seek the Truth, Find the Way* to read John closely, and use *Evidence That Demands a Verdict* as a reference when a specific evidence question arises. This is a suggested route, not a required order.<br>
 若想循序渐进，可以先用《游子吟》进入整体问题，再用《求真寻道》细读约翰福音，遇到具体证据问题时再把《铁证待判》作为参考书。这只是建议路线，不是必须顺序。
