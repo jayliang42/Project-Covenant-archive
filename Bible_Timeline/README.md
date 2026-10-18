@@ -34,8 +34,7 @@
 
 ## Evidence and Research | 史料与研究
 
-These files use a consistent distinction between historical events (EV), background (BG), manuscripts (MS), reception history (RX), and theological limits (UT). Type does not equal proof strength; each item also carries an A–D strength assessment.
-
+These files use a consistent distinction between historical events (EV), background (BG), manuscripts (MS), reception history (RX), and theological limits (UT). Type does not equal proof strength; each item also carries an A–D strength assessment.<br>
 以下资料统一区分事件旁证（EV）、背景（BG）、抄本（MS）、接收史（RX）与神学边界（UT）。材料类型不等于强度，每项还另有 A–D 强度判断。
 
 - [Evidence Index | 史料与考古旁证索引](./史料与考古旁证索引.md)
@@ -47,8 +46,7 @@ These files use a consistent distinction between historical events (EV), backgro
 
 ## Chinese Research Dossiers | 中文研究专题
 
-The following long-form dossiers are currently Chinese research texts. Their titles are translated here so English readers can choose the right topic before using a browser translation tool or a future full translation.
-
+The following long-form dossiers are currently Chinese research texts. Their titles are translated here so English readers can choose the right topic before using a browser translation tool or a future full translation.<br>
 以下长篇专题目前以中文研究正文为主；此处提供英文说明，方便英文读者先定位主题，再使用浏览器翻译或等待完整英译。
 
 | Chinese research dossier | English guide |
