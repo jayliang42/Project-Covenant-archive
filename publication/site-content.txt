@@ -78,11 +78,6 @@ Book_Studies/游子吟_永恒在召唤_全书解读与阅读指南.md
 Book_Studies/铁证待判_版本辨析与全书研读指南.md
 CONTRIBUTING.md
 Christian_Traditions/01_How_to_Name_the_Groups.md
-Christian_Traditions/02_Where_Christians_Disagree.md
-Christian_Traditions/03_US_Race_Ethnicity_and_Tradition.md
-Christian_Traditions/04_Chinese_and_Chinese_American_Churches.md
-Christian_Traditions/05_James_Talarico_as_a_Case_Study.md
-Christian_Traditions/06_Why_Christian_Traditions_Emerged.md
 Christian_Traditions/README.md
 LICENSE.md
 PUBLICATION_POLICY.md

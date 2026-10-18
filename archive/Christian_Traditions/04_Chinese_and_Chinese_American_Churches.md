@@ -1,5 +1,7 @@
 # Chinese and Chinese American Churches: What the Evidence Can Show | 中国境内、美国华裔与全球华语教会：证据能说明什么
 
+> Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
+
 > This guide separates four populations that are often collapsed into the word “Chinese” and distinguishes measured religious identity from denomination, theology, language, and politics.
 > 本导读把常被“华人”一词混合在一起的四类人群分开，并区分调查中的宗教身份、宗派、神学、语言与政治立场。
 
@@ -199,4 +201,4 @@
 **English:** Sources and policy-sensitive institutional descriptions were reviewed on 2026-09-04. Survey dates and denominators should remain attached to every quoted percentage, and later data should replace rather than silently blend with these estimates.<br>
 **中文：** 来源与涉及政策的机构描述已于 2026 年 9 月 4 日复核。引用任何比例时都应保留调查年份与分母；如出现新数据，应明确替换旧估计，不要静默混合。
 
-[Back to the column index | 返回专栏索引](./README.md#column-index)
+[Back to the column index | 返回专栏索引](../README.md#archive-index)

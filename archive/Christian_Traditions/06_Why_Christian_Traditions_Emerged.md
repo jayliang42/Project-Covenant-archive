@@ -1,5 +1,7 @@
 # Why Christian Traditions Emerged: A Historical Family Tree | 基督教传统为何出现：历史谱系
 
+> Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
+
 > **Research date / 研究日期：2026-09-04.** This guide explains how communions, denominations, movements, and theological approaches emerged. It is a map of historical relationships, not a claim that every separation was necessary, that one date created an entire church, or that every member of a tradition thinks alike.
 > **本页解释教会共融体、宗派、运动与神学取向如何形成。它是一张历史关系地图，不是说每次分裂都必不可少、某一天就创造了整间教会，也不是说同一传统中的每个人都想法相同。**
 
@@ -285,4 +287,4 @@
 **English:** Institutional sources are best for official self-description and dates but can present history from their own tradition's viewpoint. Ecumenical agreements establish what their signatories jointly said, not universal scholarly consensus. Survey categories describe populations under stated coding rules, not the inner faith of individuals. This guide therefore pairs sources from more than one tradition and marks where interpretation must stop.<br>
 **中文：** 机构来源最适合核实官方自述与日期，却可能从本传统视角讲述历史；普世对话协议能够证明签署方共同说了什么，却不等于所有学者都同意；调查分类按既定编码规则描述人口，也不能进入个人内心。因此，本导读搭配多个传统的来源，并标明解释必须停在哪里。
 
-[Back to the column index | 返回专栏索引](./README.md#column-index)
+[Back to the column index | 返回专栏索引](../README.md#archive-index)

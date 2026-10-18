@@ -1,5 +1,7 @@
 # Christian Book Studies | 基督教书籍研读
 
+> Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
+
 > Reading guides for influential Christian books. Each guide identifies the book's own argument, distinguishes historical and scientific evidence from theological conviction, and avoids treating a secondary study guide as a replacement for the book.
 >
 > 本区收录有影响力的基督教书籍研读指南。每份指南都会辨明原书论证，区分历史／科学材料与神学信念，也不会把二手导读当成原书的替代品。

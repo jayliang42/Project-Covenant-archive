@@ -1,5 +1,7 @@
 # New Testament Timeline | 新约时间线
 
+> Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
+
 新约时间线双语版。
 Bilingual New Testament timeline.
 

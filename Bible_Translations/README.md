@@ -1,5 +1,7 @@
 # Bible Translations | 圣经译本
 
+> Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
+
 > Access guides and reading profiles for Bible translations used alongside this study library.
 >
 > 本区收录与本资料库配合使用的圣经译本获取指南与阅读定位。

@@ -1,5 +1,7 @@
 # Worship and Sacrifice | 敬拜与献祭
 
+> Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
+
 ## Basic Info | 基本信息
 
 - Title: Worship and Sacrifice Sermon

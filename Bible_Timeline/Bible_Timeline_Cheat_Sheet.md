@@ -1,5 +1,7 @@
 # Bible Timeline Cheat Sheet | 圣经时间线一页式速查
 
+> Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
+
 一页式速查版。
 One-page quick review version.
 

@@ -1,5 +1,7 @@
 # Creation, Beauty, and Evil, Part 2 | 创造、美与邪恶（二）
 
+> Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
+
 ## Basic Info | 基本信息
 
 - Date: 2026-01-28 (Wednesday)

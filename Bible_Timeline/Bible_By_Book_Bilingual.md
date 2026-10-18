@@ -1,5 +1,7 @@
 # Bible By Book | 按书卷梳理圣经
 
+> Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
+
 按书卷梳理圣经，并把每卷书挂到整条时间线上。
 This file walks through the Bible book by book and shows how each book fits into the larger timeline.
 

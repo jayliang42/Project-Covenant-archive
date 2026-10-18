@@ -1,5 +1,7 @@
 # Bilingual Notes Index | 双语笔记索引
 
+> Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
+
 ## Chronological Order | 时间顺序
 
 ### Teaching Notes Completed | 已完成

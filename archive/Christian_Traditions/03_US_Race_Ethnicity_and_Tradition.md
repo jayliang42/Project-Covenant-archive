@@ -1,5 +1,7 @@
 # Race, Ethnicity, and U.S. Christian Traditions | 美国族裔与基督教传统
 
+> Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
+
 > These tables describe population patterns in the United States. They do not assign a theology, denomination, politics, character, or spiritual condition to an individual on the basis of race or ethnicity.
 > 这些表格描述的是美国人口层面的分布，不能根据一个人的种族或族裔，替他判定神学、宗派、政治立场、品格或属灵状况。
 
@@ -129,4 +131,4 @@
 **English:** Accessed September 4, 2026. Future revisions should retain the survey dates and denominators rather than silently replacing these values with numbers from a differently designed poll.<br>
 **中文：** 访问日期为 2026 年 9 月 4 日。未来更新时应保留调查日期与分母说明，不应悄悄用另一项设计不同的民调数字替换本页数据。
 
-[Back to the column index | 返回专栏索引](./README.md#column-index)
+[Back to the column index | 返回专栏索引](../README.md#archive-index)

@@ -1,5 +1,7 @@
 # James Talarico as a Case Study | James Talarico 个案研究
 
+> Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
+
 > **Evidence date / 证据日期：2026-09-04.** This page separates verified institutional facts, a congregation's self-description, media labels, Talarico's own words, and this guide's limited interpretation.
 > **本页把经过核实的制度性事实、堂会自述、媒体标签、Talarico 本人的表达，以及本导读的有限解读分别处理。**
 
@@ -169,4 +171,4 @@
 **English:** Time-sensitive institutional, campaign, and policy pages were reviewed on 2026-09-04. Recheck them before future publication because offices, affiliations, site wording, and policies can change.<br>
 **中文：** 涉及时间变化的机构、竞选与政策页面已于 2026-09-04 复核。公职、隶属关系、网页措辞与政策都可能改变，因此以后发布前应再次核查。
 
-[Back to the column index | 返回专栏索引](./README.md#column-index)
+[Back to the column index | 返回专栏索引](../README.md#archive-index)

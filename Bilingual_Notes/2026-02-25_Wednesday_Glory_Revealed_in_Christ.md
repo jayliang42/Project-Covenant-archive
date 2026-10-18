@@ -1,5 +1,7 @@
 # Glory Revealed in Christ | 在基督里显明的荣耀
 
+> Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
+
 ## Basic Info | 基本信息
 
 - Date: 2026-02-25 (Wednesday)
