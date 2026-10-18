@@ -71,12 +71,12 @@ Only the human reviewer changes a page to Reviewed after examining it. Leave unr
 - [ ] 点击全部66卷及合并简介的链接；检查每卷在故事中的位置；核对人名与经文例子；确认简述没有暗示研究已经穷尽。
 
 <a id="review-09"></a>
-## 9. Cheat Sheet | 一页式速查
+## 9. Year-Long Storyline Plan | 全年故事线计划
 
-[Open page | 打开页面](../../Bible_Timeline/Bible_Timeline_Cheat_Sheet.md)
+[Open page | 打开页面](../../Bible_Timeline/52周圣经故事线_查经与史料阅读计划.md)
 
-- [ ] Compare compact dates and covenant labels with longer guides; verify Scripture references; ensure shortened wording does not erase an important qualification or resemble an unattributed quote.
-- [ ] 把简短年代及立约用词与长篇导读对照；核查经文编号；确认简化没有丢掉重要限制，也没有形成无出处引语。
+- [ ] Compare the summary and weekly handoffs with the assigned passages; check all 66-book coverage and the difference between 52 weeks and 52 core books; review each illustration’s scene, caption, source and fit with its week.
+- [ ] 用指定经文核对概述和逐周承接；确认覆盖66卷，并分清52周与52卷主读；逐图检查场景、图注、来源及与周次的关系。
 
 <a id="review-10"></a>
 ## 10. Pentateuch and Exodus Models | 摩西五经与出埃及模型
@@ -103,12 +103,12 @@ Only the human reviewer changes a page to Reviewed after examining it. Leave unr
 - [ ] 核对圣殿山、汲沦溪、西罗亚池与客西马尼；比较圣墓教堂、花园墓附近与Taylor提议，但不把证据支持视为相等；区分传统地点与已证明墓穴；检查福音书出处。
 
 <a id="review-13"></a>
-## 13. Seven Churches | 七教会背景
+## 13. Evidence Index | 史料与考古旁证索引
 
-[Open page | 打开页面](../../Bible_Timeline/希伯来书至启示录_晚期新约与七教会背景.md)
+[Open page | 打开页面](../../Bible_Timeline/史料与考古旁证索引.md)
 
-- [ ] Compare city order with Revelation 1:11 and chapters 2–3; distinguish the schematic connection from an ancient road; check city-history quotations and avoid treating archaeology as proof of a vision’s interpretation.
-- [ ] 用启示录1:11及二至三章核对七城次序；区分示意连线与古道；检查城市史引文，不把考古当作异象解释的证明。
+- [ ] Prioritize entries 1, 2 and 163: distinguish approximate year conversions, past loans from current display, and legible fragment text from restoration; compare Hebrew and KJV Micah numbering, author names, source links and confidence limits.
+- [ ] 优先核对第1、2、163项：分清大致纪年换算、过去借展与当前展陈、残片实存与编辑复原；对照希伯来文和KJV的弥迦编号、作者名、来源及判断限制。
 
 <a id="review-14"></a>
 ## 14. John Reading Guide | 约翰福音导读
@@ -117,6 +117,8 @@ Only the human reviewer changes a page to Reviewed after examining it. Leave unr
 
 - [ ] Read the opening summary and twelve-week route against John’s text; verify passage references and attributed quotations; confirm the guide does not reproduce or replace the copyrighted workbook.
 - [ ] 用约翰福音正文核对三句概述与十二周路线；检查经文编号和有出处引语；确认导读没有复制或替代受版权保护的教材。
+- [ ] A8: compare the title/copyright page with the 2019 catalogue and 2020 listing, then verify the 46-lesson contents in an authorized copy.
+- [ ] A8：把实物版权页与2019年书目、2020年书介对照，再用正版核对46课目录。
 
 <a id="review-15"></a>
 ## 15. Sources and Rights | 来源与授权
