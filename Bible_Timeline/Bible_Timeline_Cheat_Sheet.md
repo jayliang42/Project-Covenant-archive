@@ -67,11 +67,11 @@ For the one-year study sequence, see the [52-Week Bible Storyline Plan](./52周�
 7. Ezra-Nehemiah-Esther: return and rebuilding
    以斯拉记-尼希米记-以斯帖记：归回与重建
 8. Intertestamental / Second Temple period: Hellenistic kingdoms, Maccabees, Hasmoneans, Rome, Herod
-   两约之间／第二[圣殿](../Glossary/README.md#temple)时期：希腊化王国、马加比、哈斯摩尼、罗马与希律
+   两约之间／第二圣殿时期：希腊化王国、马加比、哈斯摩尼、罗马与希律
 9. Gospels: Jesus
    四福音：耶稣
 10. Acts-Letters: church and mission
-    [使徒](../Glossary/README.md#apostle)行传-书信：教会与宣教
+    使徒行传-书信：教会与宣教
 11. Revelation: final judgment and new creation
     启示录：最终审判与新创造
 

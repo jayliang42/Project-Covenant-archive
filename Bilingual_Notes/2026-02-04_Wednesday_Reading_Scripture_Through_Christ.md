@@ -21,8 +21,8 @@
 
 ## Training Context | 训练脉络
 
-This is the second preserved unit for **Module 3**, paired in this library with chapter 3, “Salvation: The Son Shares What Is His,” in *Delighting in the [Trinity](../Glossary/README.md#trinity)*. The pairing records the training's Christ-centered application to Scripture; it does not claim that this note reproduces a book subheading.<br>
-本篇是**第三单元**的第二份留存记录，在本资料库中与《喜乐于[三一](../Glossary/README.md#trinity)神》第三章“救恩：子分享祂所有的”配对。这个配对记录的是课程以基督为中心的读经应用，并不宣称本篇复述了书中的某个小标题。
+This is the second preserved unit for **Module 3**, paired in this library with chapter 3, “Salvation: The Son Shares What Is His,” in *Delighting in the Trinity*. The pairing records the training's Christ-centered application to Scripture; it does not claim that this note reproduces a book subheading.<br>
+本篇是**第三单元**的第二份留存记录，在本资料库中与《喜乐于三一神》第三章“救恩：子分享祂所有的”配对。这个配对记录的是课程以基督为中心的读经应用，并不宣称本篇复述了书中的某个小标题。
 
 See the [course guide | 课程总览](./2026-01-21_to_02-25_Delighting_in_the_Trinity_Discipleship_Guide.md) and [the High-Priest note | 大祭司笔记](./2026-02-04_Wednesday_Christ_Our_Great_High_Priest.md).<br>
 请结合[课程总览](./2026-01-21_to_02-25_Delighting_in_the_Trinity_Discipleship_Guide.md)和[大祭司笔记](./2026-02-04_Wednesday_Christ_Our_Great_High_Priest.md)阅读。

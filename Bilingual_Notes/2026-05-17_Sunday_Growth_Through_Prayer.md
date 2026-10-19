@@ -17,7 +17,7 @@
 - Series: The Way of Jesus
   系列：The Way of Jesus
 - Main passage: Matthew 6:9-13
-  主要经文：马太[福音](../Glossary/README.md#gospel) 6:9-13
+  主要经文：马太福音 6:9-13
 - Big idea: Because Jesus reconciles us to our heavenly Father, we can grow in relationship with him through prayer.
   核心信息：因耶稣使我们与天父和好，我们能借着祷告，在与祂的关系中成长。
 

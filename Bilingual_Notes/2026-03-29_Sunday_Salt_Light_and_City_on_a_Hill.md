@@ -6,7 +6,7 @@
 > **In Three Sentences | 三句话读懂本篇**
 >
 > Jesus calls his people salt and light in Matthew 5. Their identity and mission come from him. Good works make the Father’s goodness visible.<br>
-> 耶稣在马太[福音](../Glossary/README.md#gospel)五章称祂的子民为盐和光。他们的身份与使命从祂而来。善行使父的美善被人看见。
+> 耶稣在马太福音五章称祂的子民为盐和光。他们的身份与使命从祂而来。善行使父的美善被人看见。
 
 ## Basic Info | 基本信息
 
@@ -38,7 +38,7 @@ Salt could preserve food and appears in [Old Testament](../Glossary/README.md#ol
 
 ### 3. Jesus is the true light | 耶稣是真光
 
-Isaiah's servant and John’s [Gospel](../Glossary/README.md#gospel) show that the light for the nations is ultimately Christ. [Disciples](../Glossary/README.md#disciple) shine only as a reflected light, so that people glorify the Father rather than the disciples themselves.<br>
+Isaiah's servant and John’s Gospel show that the light for the nations is ultimately Christ. [Disciples](../Glossary/README.md#disciple) shine only as a reflected light, so that people glorify the Father rather than the disciples themselves.<br>
 以赛亚书的仆人和约翰福音表明，照亮万邦的光最终是基督。[门徒](../Glossary/README.md#disciple)只是反射的光，因此人当荣耀父，而不是荣耀门徒自己。
 
 ### 4. Good works make God visible | 善行使神被看见

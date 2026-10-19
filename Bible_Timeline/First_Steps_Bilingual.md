@@ -29,7 +29,7 @@ The order is narrative, not a proportional timescale. Early date ranges are deba
 | [Before you begin](#before-you-begin) | [开始前](#before-you-begin) |
 | [30-minute first reading](#thirty-minute-route) | [30 分钟第一次阅读](#thirty-minute-route) |
 | [Four-week first steps](#four-week-route) | [前四周](#four-week-route) |
-| [Glossary: 50 words](../Glossary/README.md) | [50词词汇表](../Glossary/README.md) |
+| [Glossary: 51 words](../Glossary/README.md) | [51词词汇表](../Glossary/README.md) |
 | [Small glossary](#glossary) | [术语小表](#glossary) |
 | [What to read next](#next-steps) | [下一步读什么](#next-steps) |
 
@@ -114,7 +114,7 @@ Human kings can fail. The [kingdom of God](../Glossary/README.md#kingdom) means 
 ### Between the Testaments | 两约之间
 
 The world changes between the return stories and the Gospels. The picture recalls the Maccabean crisis, described in 1 Maccabees; Christian traditions differ over that book’s place in the [canon](../Glossary/README.md#canon). Here it supplies historical reading context, not a new requirement for the reading route.<br>
-从归回故事走向[福音](../Glossary/README.md#gospel)书，时代背景发生变化。画作回顾马加比危机，相关叙述见马加比一书；不同基督教传统对它是否属于[正典](../Glossary/README.md#canon)的认定不同。这里把它用作历史阅读背景，不增加本路线的必读书目。
+从归回故事走向[福音书](../Glossary/README.md#gospels)，时代背景发生变化。画作回顾马加比危机，相关叙述见马加比一书；不同基督教传统对它是否属于[正典](../Glossary/README.md#canon)的认定不同。这里把它用作历史阅读背景，不增加本路线的必读书目。
 
 **Read | 阅读：** Background / 背景：1 Maccabees 2:42–70 / 马加比一书2:42–70。
 

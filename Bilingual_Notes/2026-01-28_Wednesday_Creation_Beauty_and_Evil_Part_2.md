@@ -15,7 +15,7 @@
 - Type: Wednesday Fellowship
   类型：周三团契
 - Topic: [Triune](../Glossary/README.md#trinity) God, creation, beauty, and evil
-  主题：[三一](../Glossary/README.md#trinity)神、[创造](../Glossary/README.md#creation)、美与邪恶
+  主题：三一神、[创造](../Glossary/README.md#creation)、美与邪恶
 - Big idea: Creation's beauty reflects the generous God, while evil is not a rival creator but a distortion of creaturely freedom and love.
   核心信息：创造的美反映慷慨的神；邪恶不是与神对等的创造力量，而是受造自由和爱的扭曲。
 

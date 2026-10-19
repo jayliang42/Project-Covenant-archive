@@ -60,10 +60,108 @@ CANONICAL_BOOKS_PATH = "Bible_Timeline/66卷承上启下总表.md"
 SELECTED_BOOKS_PATH = "Bible_Timeline/52卷圣经故事主线_精选与14卷桥接版.md"
 EVIDENCE_INDEX_PATH = "Bible_Timeline/史料与考古旁证索引.md"
 EVIDENCE_CROSSWALK_PATH = "Bible_Timeline/旁证锚点_52周与66卷对应表.md"
+PROTECTED_GLOSSARY_NAMES = {
+    "福音书", "四福音", "四福音书", "喜乐于三一神", "十二先知", "约书亚诗篇", "大诗篇卷",
+    "北美基督之家", "赎罪日", "五旬节运动", "圣殿山", "第一圣殿",
+    "第二圣殿", "大先知", "小先知", "智慧书", "大祭司", "祭司长",
+    "基督论", "圣灵洗", "新出埃及", "救赎主", "三一神",
+    "Gospels", "Delighting in the Trinity", "Psalms of Joshua",
+    "Great Psalms Scroll", "Home of Christ", "Day of Atonement",
+    "Pentecostal movement", "Temple Mount", "First Temple", "Second Temple",
+    "Major Prophets", "Minor Prophets", "Wisdom Books", "High Priest",
+    "High Priests", "Chief Priest", "Chief Priests", "Christology",
+    "Baptism in the Holy Spirit", "New Exodus",
+}
+PROTECTED_GLOSSARY_NAMES.update(
+    f"{name}{possessive} Gospel"
+    for name in ("Matthew", "Mark", "Luke", "John") for possessive in ("'s", "’s")
+)
+PROTECTED_GLOSSARY_NAMES.update(
+    f"Gospel of {name}" for name in ("Matthew", "Mark", "Luke", "John")
+)
 
 
 class MarkdownAuditError(ValueError):
     """Invalid audit input or configuration."""
+
+
+def canonical_book_names(text: str) -> set[str]:
+    """Reuse the numbered 66-book table's Chinese and English names."""
+    rows = extract_numbered_table_rows(text)
+    english: list[str] = []
+    for line in text.splitlines():
+        if NUMBERED_TABLE_ROW.match(line):
+            heading = re.match(r"\s*\*\*([^*]+)\*\*", line.split("|")[-2])
+            if heading is None:
+                raise MarkdownAuditError("canonical_english_book_name_missing")
+            english.append(LINK.sub(lambda match: match[1], heading[1]).strip())
+    chinese = [name for _, name in rows]
+    if (len(rows) != 66 or len(set(chinese)) != 66 or len(set(english)) != 66
+            or any(not name for name in chinese + english)):
+        raise MarkdownAuditError("canonical_book_names_invalid")
+    return set(chinese + english)
+
+
+def partial_glossary_links(
+    text: str, names: set[str], *, glossary_page: bool = False,
+) -> list[tuple[int, int, str, str]]:
+    """Reject links covering only part of a book title, name, or English word.
+
+    Project Markdown links to their visible labels before comparing spans, so
+    a preceding link or emphasis does not move the protected-name boundary.
+    Whole-name glossary links and links to study pages remain valid.
+    """
+    findings: list[tuple[int, int, str, str]] = []
+    patterns: list[tuple[str, re.Pattern[str]]] = []
+    for name in sorted(names, key=lambda value: (-len(value), value)):
+        before = r"(?<![A-Za-z0-9])" if name[0].isascii() else ""
+        after = r"(?![A-Za-z0-9])" if name[-1].isascii() else ""
+        patterns.append((name, re.compile(before + re.escape(name) + after, re.I)))
+
+    def visible(value: str) -> str:
+        return re.sub(r"[*_`]", "", value)
+
+    for number, line in enumerate(text.splitlines(), 1):
+        plain = ""
+        cursor = 0
+        spans: list[tuple[int, int, str, int]] = []
+        for match in LINK.finditer(line):
+            plain += visible(line[cursor:match.start()])
+            label = visible(match[1])
+            start = len(plain)
+            plain += label
+            target = urlsplit(match[2].strip())
+            if unquote(target.path).endswith("Glossary/README.md") or (
+                glossary_page and not target.path and target.fragment
+            ):
+                spans.append((start, len(plain), label, match.start()))
+            cursor = match.end()
+        if not spans:
+            continue
+        plain += visible(line[cursor:])
+        protected = [
+            (match.start(), match.end(), name)
+            for name, pattern in patterns for match in pattern.finditer(plain)
+        ]
+        protected.extend(
+            (match.start(1), match.end(1), match[1])
+            for match in re.finditer(r"《([^》\n]+)》", plain)
+        )
+        for start, end, label, column in spans:
+            split = next((
+                name for left, right, name in protected
+                if start < right and left < end and not (start <= left and end >= right)
+            ), None)
+            if split is None and label and (
+                (start > 0 and re.fullmatch(r"[A-Za-z]", plain[start-1])
+                 and re.match(r"[A-Za-z]", label))
+                or (end < len(plain) and re.fullmatch(r"[A-Za-z]", plain[end])
+                    and re.search(r"[A-Za-z]$", label))
+            ):
+                split = "English word"
+            if split is not None:
+                findings.append((number, column + 1, label, split))
+    return findings
 
 
 def adjacent_latin_v1(text: str) -> tuple[int, list[tuple[int, str]]]:
@@ -436,10 +534,24 @@ def main() -> int:
     paired_bilingual_lines = 0
     bilingual_body = 0
     h1_total = 0
+    glossary_errors: list[str] = []
+    protected_names = set(PROTECTED_GLOSSARY_NAMES)
+    try:
+        protected_names.update(canonical_book_names(
+            (ROOT / CANONICAL_BOOKS_PATH).read_text(encoding="utf-8")
+        ))
+    except (OSError, MarkdownAuditError) as error:
+        glossary_errors.append(f"canonical_glossary_names_invalid:{error}")
 
     for path in files:
         text = path.read_text(encoding="utf-8")
         relative = path.relative_to(ROOT).as_posix()
+        glossary_errors.extend(
+            f"{relative}:{number}:{column}: [{label}] splits {name}"
+            for number, column, label, name in partial_glossary_links(
+                text, protected_names, glossary_page=relative == "Glossary/README.md",
+            )
+        )
         if CHINESE.search(text) and LATIN.search(text):
             bilingual_body += 1
 
@@ -532,6 +644,7 @@ def main() -> int:
     print(f"bilingual_baseline_regressions={len(baseline_regressions)}")
     print(f"bilingual_baseline_improvements={baseline_improvements}")
     print(f"corpus_integrity_errors={len(corpus_errors)}")
+    print(f"partial_glossary_links={len(glossary_errors)}")
 
     for heading, entries in (
         ("missing_h1", missing_h1),
@@ -542,6 +655,7 @@ def main() -> int:
         ("unpaired_chinese_lines_sample", unpaired_chinese_lines[:80]),
         ("bilingual_baseline_regressions", baseline_regressions),
         ("corpus_integrity_errors", corpus_errors),
+        ("partial_glossary_links", glossary_errors),
     ):
         if entries:
             print(f"\n[{heading}]")
@@ -553,6 +667,7 @@ def main() -> int:
         or duplicate_anchors
         or baseline_regressions
         or corpus_errors
+        or glossary_errors
     ) else 0
 
 

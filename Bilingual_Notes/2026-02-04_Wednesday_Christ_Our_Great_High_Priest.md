@@ -6,7 +6,7 @@
 > **In Three Sentences | 三句话读懂本篇**
 >
 > Jesus shares human life and weakness. He offers himself and intercedes for his people. Hebrews and John 17 help explain how he brings them before the Father.<br>
-> 耶稣与人同有人性的生活与软弱。祂献上自己，并为祂的子民代求。希伯来书和约翰[福音](../Glossary/README.md#gospel)十七章帮助理解祂怎样把人带到父面前。
+> 耶稣与人同有人性的生活与软弱。祂献上自己，并为祂的子民代求。希伯来书和约翰福音十七章帮助理解祂怎样把人带到父面前。
 
 ## Basic Info | 基本信息
 
@@ -15,14 +15,14 @@
 - Type: Wednesday Fellowship
   类型：周三团契
 - Main biblical horizons: Hebrews; John 17; [Old Testament](../Glossary/README.md#old-testament) high-priest imagery
-  主要经文脉络：希伯来书、约翰福音 17 章、旧约大[祭司](../Glossary/README.md#priest)图像
-- Big idea: Jesus, our true High [Priest](../Glossary/README.md#priest), shares our humanity, offers himself for sin, continually intercedes, and brings us before the Father.
+  主要经文脉络：希伯来书、约翰福音 17 章、旧约大祭司图像
+- Big idea: Jesus, our true High Priest, shares our humanity, offers himself for sin, continually intercedes, and brings us before the Father.
   核心信息：耶稣是真正的大祭司；祂与我们同有人性、为罪献上自己、持续代求，并把我们带到父面前。
 
 ## Training Context | 训练脉络
 
-This is the first preserved unit for **Module 3**, closely aligned with chapter 3, “Salvation: The Son Shares What Is His,” in *Delighting in the [Trinity](../Glossary/README.md#trinity)*. The High-Priest theme gives this chapter a biblical center: the incarnate Son brings his people to the Father and intercedes for them.<br>
-本篇是**第三单元**的第一份留存记录，与《喜乐于[三一](../Glossary/README.md#trinity)神》第三章“救恩：子分享祂所有的”高度对应。大祭司的主题为这一章提供了[圣经](../Glossary/README.md#bible)中心：[道成肉身](../Glossary/README.md#incarnation)的圣子把祂的子民带到父面前，并为他们代求。
+This is the first preserved unit for **Module 3**, closely aligned with chapter 3, “Salvation: The Son Shares What Is His,” in *Delighting in the Trinity*. The High-Priest theme gives this chapter a biblical center: the incarnate Son brings his people to the Father and intercedes for them.<br>
+本篇是**第三单元**的第一份留存记录，与《喜乐于三一神》第三章“救恩：子分享祂所有的”高度对应。大祭司的主题为这一章提供了[圣经](../Glossary/README.md#bible)中心：[道成肉身](../Glossary/README.md#incarnation)的圣子把祂的子民带到父面前，并为他们代求。
 
 See the [course guide | 课程总览](./2026-01-21_to_02-25_Delighting_in_the_Trinity_Discipleship_Guide.md) and [the companion Scripture-reading note | 配套读经笔记](./2026-02-04_Wednesday_Reading_Scripture_Through_Christ.md).<br>
 请结合[课程总览](./2026-01-21_to_02-25_Delighting_in_the_Trinity_Discipleship_Guide.md)和[配套读经笔记](./2026-02-04_Wednesday_Reading_Scripture_Through_Christ.md)阅读。

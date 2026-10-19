@@ -15,7 +15,7 @@
 - Type: Sunday Teaching
   类型：主日讲道
 - Main passage: Matthew 5:6-8
-  主要经文：马太[福音](../Glossary/README.md#gospel) 5:6-8
+  主要经文：马太福音 5:6-8
 - Big idea: Because Jesus makes his people righteous by his life and merciful death, they can hunger for righteousness, show mercy, and pursue purity by the Spirit.
   核心信息：因耶稣借着祂完全的生命和怜悯的死亡使祂的子民[称义](../Glossary/README.md#justification)，他们能借着[圣灵](../Glossary/README.md#holy-spirit)饥渴慕义、施怜悯、追求清心。
 

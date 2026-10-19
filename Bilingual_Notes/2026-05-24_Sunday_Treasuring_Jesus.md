@@ -6,7 +6,7 @@
 > **In Three Sentences | 三句话读懂本篇**
 >
 > Matthew 6 asks what holds the heart’s deepest loyalty. These notes connect treasure, vision, and serving God with love for Jesus. Generosity and other good works flow from that love.<br>
-> 马太[福音](../Glossary/README.md#gospel)六章追问人内心最深的归属。本篇把财宝、眼光和事奉神与爱耶稣相连。慷慨和其他善行从这份爱中流出。
+> 马太福音六章追问人内心最深的归属。本篇把财宝、眼光和事奉神与爱耶稣相连。慷慨和其他善行从这份爱中流出。
 
 ## Basic Info | 基本信息
 

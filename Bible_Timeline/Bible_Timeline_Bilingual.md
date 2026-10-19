@@ -51,9 +51,9 @@ If you feel that “the Bible is made of many books but I cannot see how they fi
 5. Isaiah to Malachi: [prophets](../Glossary/README.md#prophet) interpret Israel's history and announce judgment plus future hope.
    以赛亚书到玛拉基书：[先知](../Glossary/README.md#prophet)解释以色列的历史，并宣告审判与将来的盼望。
 6. Gospels: Jesus is the promised Messiah and the center of the whole story.
-   四[福音](../Glossary/README.md#gospel)：耶稣就是应许中的弥赛亚，也是整本故事的中心。
+   [四福音](../Glossary/README.md#gospels)：耶稣就是应许中的弥赛亚，也是整本故事的中心。
 7. Acts to Jude: the risen [Christ](../Glossary/README.md#christ) forms and sends the church.
-   [使徒](../Glossary/README.md#apostle)行传到犹大书：[复活](../Glossary/README.md#resurrection)的[基督](../Glossary/README.md#christ)建立并差遣教会。
+   使徒行传到犹大书：[复活](../Glossary/README.md#resurrection)的[基督](../Glossary/README.md#christ)建立并差遣教会。
 8. Revelation: God completes judgment, redemption, and new creation.
    启示录：神完成最终的审判、救赎与新创造。
 

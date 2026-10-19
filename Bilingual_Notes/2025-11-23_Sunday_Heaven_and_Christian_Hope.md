@@ -17,7 +17,7 @@
 - Series: Heaven Help Us
   系列：Heaven Help Us
 - Main passages: John 14:1-3; Revelation 7; Revelation 21-22
-  主要经文：约翰[福音](../Glossary/README.md#gospel) 14:1-3；启示录 7、21-22 章
+  主要经文：约翰福音 14:1-3；启示录 7、21-22 章
 - Big idea: Christian hope is not vague escape, but life with the risen Christ in God's renewed creation.
   核心信息：基督徒的盼望不是模糊的逃离，而是在神所更新的创造中与复活的基督同住。
 

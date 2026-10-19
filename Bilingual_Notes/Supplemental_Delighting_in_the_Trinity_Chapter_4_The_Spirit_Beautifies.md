@@ -10,7 +10,7 @@
 
 > **Type | 类型：** Supplemental discipleship study {补充[门徒](../Glossary/README.md#disciple)训练材料}
 >
-> **Book connection | 对应教材：** Michael Reeves, *Delighting in the [Trinity](../Glossary/README.md#trinity)*, ch. 4, “The Christian Life: The Spirit Beautifies”
+> **Book connection | 对应教材：** Michael Reeves, *Delighting in the Trinity*, ch. 4, “The Christian Life: The Spirit Beautifies”
 >
 > **Status | 状态：** This is a new study note, not a transcript or reconstruction of a 2026-02-11 / 2026-02-18 class.<br>
 > 本篇是新补充的学习笔记，不是 2026-02-11 或 2026-02-18 聚会的逐字记录，也不重建未留存的讲道内容。

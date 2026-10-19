@@ -46,7 +46,7 @@ The move and expansion are framed as a stewardship question: how can present mem
 ### Jesus builds his church | 耶稣建立祂的教会
 
 The language echoes Matthew 16:18. Human planning, generosity, and service matter, but they cannot replace [Christ](../Glossary/README.md#christ) as the church's foundation and Lord. This keeps gratitude from becoming institutional self-congratulation.<br>
-这里呼应马太[福音](../Glossary/README.md#gospel) 16:18。人的规划、奉献和服事都重要，但不能取代[基督](../Glossary/README.md#christ)作为教会的根基与主；这也使感恩不至于变成对机构的自我夸耀。
+这里呼应马太福音 16:18。人的规划、奉献和服事都重要，但不能取代[基督](../Glossary/README.md#christ)作为教会的根基与主；这也使感恩不至于变成对机构的自我夸耀。
 
 ### Buildings are gifts, not the church itself | 建筑是礼物，不是教会本身
 

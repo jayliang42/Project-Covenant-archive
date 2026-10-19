@@ -27,8 +27,8 @@ Only the human reviewer changes a page to Reviewed after examining it. Leave unr
 
 [Open page | 打开页面](../../Glossary/README.md)
 
-- [ ] Review all 50 definitions for plain language and theological nuance; compare examples with the linked first-use page and Scripture; check words with several meanings such as Israel, law and testament.
-- [ ] 逐条审阅50词的白话解释与神学分寸；用对应入口及经文核对例子；特别检查以色列、律法、新约／旧约等多义词。
+- [ ] Review all 51 definitions for plain language and theological nuance; compare examples with the linked first-use page and Scripture; check words with several meanings such as Israel, law and testament.
+- [ ] 逐条审阅51词的白话解释与神学分寸；用对应入口及经文核对例子；特别检查以色列、律法、新约／旧约等多义词。
 
 <a id="review-04"></a>
 ## 4. Map Index | 地图索引

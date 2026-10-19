@@ -10,7 +10,7 @@ First-use links follow the recommended beginner route and point to the page that
 ## Find a Word | 查找词语
 
 - Bible and the story | 圣经与故事: [Bible / 圣经](#bible) · [Old Testament / 旧约](#old-testament) · [New Testament / 新约](#new-testament) · [Creation / 创造](#creation) · [Fall / 堕落](#fall) · [Sin / 罪](#sin) · [Covenant / 约（圣约）](#covenant) · [Promise / 应许](#promise) · [Blessing / 祝福](#blessing) · [Faith / 信心](#faith)
-- Jesus and response | 耶稣与回应: [Grace / 恩典](#grace) · [Repentance / 悔改](#repentance) · [Forgiveness / 赦免](#forgiveness) · [Salvation / 救恩](#salvation) · [Redemption / 救赎](#redemption) · [Messiah / 弥赛亚](#messiah) · [Christ / 基督](#christ) · [Gospel / 福音](#gospel) · [Kingdom of God / 国度（神的国）](#kingdom) · [Holy Spirit / 圣灵](#holy-spirit)
+- Jesus and response | 耶稣与回应: [Grace / 恩典](#grace) · [Repentance / 悔改](#repentance) · [Forgiveness / 赦免](#forgiveness) · [Salvation / 救恩](#salvation) · [Redemption / 救赎](#redemption) · [Messiah / 弥赛亚](#messiah) · [Christ / 基督](#christ) · [Gospel / 福音](#gospel) · [Gospels / 福音书](#gospels) · [Kingdom of God / 国度（神的国）](#kingdom) · [Holy Spirit / 圣灵](#holy-spirit)
 - People and worship | 群体与敬拜: [Disciple / 门徒](#disciple) · [Apostle / 使徒](#apostle) · [Church / 教会](#church) · [Gentile / 外邦人](#gentile) · [Israel / 以色列](#israel) · [Judah / 犹大](#judah) · [Prophet / 先知](#prophet) · [Priest / 祭司](#priest) · [Law or Torah / 律法](#law) · [Tabernacle / 会幕](#tabernacle) · [Temple / 圣殿](#temple) · [Sacrifice / 献祭](#sacrifice) · [Passover / 逾越节](#passover)
 - Journey and hope | 旅程与盼望: [Exodus / 出埃及](#exodus) · [Exile / 被掳](#exile) · [Return / 归回](#return) · [Resurrection / 复活](#resurrection) · [Parable / 比喻](#parable) · [Psalm / 诗篇](#psalm) · [Wisdom / 智慧](#wisdom) · [Canon / 正典](#canon) · [Pentecost / 五旬节](#pentecost) · [New creation / 新创造](#new-creation)
 
@@ -165,6 +165,14 @@ The good news about Jesus and what God does through him. It can also name one of
 关于耶稣及神借祂所作之事的好消息；也可指四卷福音书中的一卷。
 
 [First use in First Steps | 入门路线首次使用](../Bible_Timeline/First_Steps_Bilingual.md#stop-jesus)
+
+<a id="gospels"></a>
+### Gospels | 福音书
+
+The four New Testament books Matthew, Mark, Luke, and John. They tell of Jesus’ life, teaching, death, and resurrection from different perspectives.
+指《马太福音》《马可福音》《路加福音》《约翰福音》四卷书；从不同侧面记述耶稣的生活、教导、受死与复活。
+
+[First use in First Steps | 入门路线首次使用](../Bible_Timeline/First_Steps_Bilingual.md#stop-between)
 
 <a id="kingdom"></a>
 ### Kingdom of God | 国度（神的国）

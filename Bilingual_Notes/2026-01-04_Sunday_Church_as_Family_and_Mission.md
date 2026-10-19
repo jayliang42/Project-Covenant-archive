@@ -6,7 +6,7 @@
 > **In Three Sentences | 三句话读懂本篇**
 >
 > The [church](../Glossary/README.md#church) is a community gathered around Jesus for worship, care, and mission. Matthew 28 and Acts 2 connect discipleship with shared daily practices. Commitment means taking responsibility for this common life.<br>
-> [教会](../Glossary/README.md#church)是围绕耶稣敬拜、关怀并承担使命的群体。马太[福音](../Glossary/README.md#gospel)二十八章和[使徒](../Glossary/README.md#apostle)行传二章把[门徒](../Glossary/README.md#disciple)训练与共同生活相连。委身意味着为这份生活承担责任。
+> [教会](../Glossary/README.md#church)是围绕耶稣敬拜、关怀并承担使命的群体。马太福音二十八章和使徒行传二章把[门徒](../Glossary/README.md#disciple)训练与共同生活相连。委身意味着为这份生活承担责任。
 
 ## Basic Info | 基本信息
 

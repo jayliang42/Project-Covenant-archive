@@ -67,7 +67,7 @@ This is one of the clearer and stronger transcripts in the collection, based on 
 ## 2026-01-21 Wednesday | Understanding God's Fatherhood | Wednesday Fellowship
 
 This study appears to be part of a theological reading group reflecting on how God's identity as Father precedes and shapes his works as creator and ruler. A recurring claim is that God is not fundamentally defined by impersonal power but by the Father-Son relation. The discussion draws from both Old and [New Testament](../Glossary/README.md#new-testament) images of fatherhood and seems to connect human relationships, especially male-female distinction and one-flesh union, to the [triune](../Glossary/README.md#trinity) life of God in an analogical way. The takeaway is that divine fatherhood is not harsh distance but life-giving love.<br>
-这场学习似乎属于一系列神学读书讨论，重点是在理解“神作为父”这个身份，如何先于并塑造祂作为创造主和统治者的作为。一个不断出现的核心论断是：神最根本的身份不是抽象权能，而是父与子的关系。讨论既用了旧约和新约里关于父亲身份的图像，也把男女有别、二人成为一体这些人类关系，类比性地连接到[三一](../Glossary/README.md#trinity)神生命的某些侧面。整场给人的主要感受是：神的父性不是冷酷距离，而是生命涌流式的爱。
+这场学习似乎属于一系列神学读书讨论，重点是在理解“神作为父”这个身份，如何先于并塑造祂作为创造主和统治者的作为。一个不断出现的核心论断是：神最根本的身份不是抽象权能，而是父与子的关系。讨论既用了旧约和新约里关于父亲身份的图像，也把男女有别、二人成为一体这些人类关系，类比性地连接到三一神生命的某些侧面。整场给人的主要感受是：神的父性不是冷酷距离，而是生命涌流式的爱。
 
 ## 2026-01-25 Sunday | Servant Leadership Sermon | Sunday Teaching
 
@@ -86,8 +86,8 @@ Part 2 continues by exploring creation, beauty, and the distinction between good
 
 ## 2026-02-04 Wednesday | Trinity Study Session Part 1 | Wednesday Fellowship
 
-This session seems to focus heavily on Christ as the true High [Priest](../Glossary/README.md#priest), likely drawing on Hebrews and John 17. The participants discuss how Old Testament high priest imagery is fulfilled in Jesus, who shares our flesh, offers himself as sacrifice, and continually intercedes for his people. A key emotional center of the study is that Christ carries his people on his heart before the Father. The trinitarian angle remains present because [salvation](../Glossary/README.md#salvation) is portrayed as the Son bringing us into the Father's love through the Spirit.<br>
-这一场很明显把重点放在基督作为 true High Priest {真正大[祭司](../Glossary/README.md#priest)} 的身份上，很可能主要取材于希伯来书和约翰福音 17 章。讨论不断回到旧约大祭司图像如何在耶稣里被成全：祂取了我们的 flesh {血肉真实人性}，献上自己作祭，并持续为祂的子民代求。整场一个很强的情感中心是：基督把祂的百姓放在心上，带到父面前。三一主题也仍然贯穿其中，因为[救恩](../Glossary/README.md#salvation)被描述为圣子借着[圣灵](../Glossary/README.md#holy-spirit)把我们带入父的爱。
+This session seems to focus heavily on Christ as the true High Priest, likely drawing on Hebrews and John 17. The participants discuss how Old Testament high priest imagery is fulfilled in Jesus, who shares our flesh, offers himself as sacrifice, and continually intercedes for his people. A key emotional center of the study is that Christ carries his people on his heart before the Father. The trinitarian angle remains present because [salvation](../Glossary/README.md#salvation) is portrayed as the Son bringing us into the Father's love through the Spirit.<br>
+这一场很明显把重点放在基督作为 true High Priest {真正大祭司} 的身份上，很可能主要取材于希伯来书和约翰福音 17 章。讨论不断回到旧约大祭司图像如何在耶稣里被成全：祂取了我们的 flesh {血肉真实人性}，献上自己作祭，并持续为祂的子民代求。整场一个很强的情感中心是：基督把祂的百姓放在心上，带到父面前。三一主题也仍然贯穿其中，因为[救恩](../Glossary/README.md#salvation)被描述为圣子借着[圣灵](../Glossary/README.md#holy-spirit)把我们带入父的爱。
 
 ## 2026-02-04 Wednesday | Trinity Study Session Part 2 | Wednesday Fellowship
 

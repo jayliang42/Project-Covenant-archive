@@ -55,7 +55,7 @@ CAT-only describes **the project’s current numbered anchors**: RX relies on ex
 | Core | Proverbs, Ecclesiastes | 204–205 | [Manuscript](../Glossary/README.md#manuscript)/comparison present, RX only naming | Locatable Jewish/Christian quotations, commentary, lection traditions, exact verse |
 | 主读 | 箴言、传道书 | 204–205 | 已有抄本与比较背景，但接收层只有列名 | 优先寻找可定位的犹太／基督教明确引用、注释或读经传统，并记录是引哪一节 |
 | Core | Amos, Jonah, Zechariah, Malachi, Joel | 204 | Melito names collection | Named pesher, early quote, version scope; another Twelve book’s commentary cannot substitute |
-| 主读 | 阿摩司书、约拿书、撒迦利亚书、玛拉基书、约珥书 | 204 | 梅利托的《十二[先知](../Glossary/README.md#prophet)》只证明卷集列名 | 优先找具名 pesher、早期引用或版本范围；不能因同属十二先知就互相借用别卷注释 |
+| 主读 | 阿摩司书、约拿书、撒迦利亚书、玛拉基书、约珥书 | 204 | 梅利托的《十二先知》只证明卷集列名 | 优先找具名 pesher、早期引用或版本范围；不能因同属十二先知就互相借用别卷注释 |
 | Core | Jeremiah, Ezekiel, Ezra | 204–205 | Naming/joining without independently catalogued use | Check named quotation/commentary/liturgy/version separately; distinguish Ezra from Nehemiah |
 | 主读 | 耶利米书、以西结书、以斯拉记 | 204–205 | 两份书目给列名／合卷，尚未提供本项目收录的独立使用层 | 分别核验具名引文、注释、礼仪或版本；“以斯拉”范围须继续和《尼希米记》分开 |
 | Core | Esther | 205 | Origen explicit, Melito silent | Early Greek/Latin retelling/version use; distinguish Hebrew, Old Greek, additions |
@@ -101,7 +101,7 @@ The route still covers 66 through 52 core/14 bridge. The audit sharpens weekly q
 | Judges–kingdom, weeks 12–17 | Is reception merely catalogue joining, or actual retelling/quotation of relevant text? |
 | 士师—王国故事（第 12–17 周） | 此处的“古代接收”只是书目合卷，还是有人实际重述／引用过相关经文？ |
 | [Wisdom](../Glossary/README.md#wisdom), weeks 31–33 | Alongside copies, is there locatable interpretation, liturgy, or explicit catalogue use? |
-| [智慧](../Glossary/README.md#wisdom)书（第 31–33 周） | 这卷有古代经卷，是否也有可定位的解释、礼仪或明确书目使用？ |
+| 智慧书（第 31–33 周） | 这卷有古代经卷，是否也有可定位的解释、礼仪或明确书目使用？ |
 | Prophets/return, weeks 18–30 | Does material explain this book, or merely inclusion in Twelve/joined Ezra? |
 | 先知与归回（第 18–30 周） | 资料是在解释这一卷，还是只证明它属于《十二先知》或“以斯拉”合卷？ |
 | Bridge insertion | Own RX, or only neighboring book’s joined count? |

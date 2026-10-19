@@ -15,7 +15,7 @@
 - Type: Sunday Teaching
   类型：主日讲道
 - Main passages: Matthew 11:28-30; John 14:27; Philippians 4:6-9
-  主要经文：马太[福音](../Glossary/README.md#gospel) 11:28-30；约翰福音 14:27；腓立比书 4:6-9
+  主要经文：马太福音 11:28-30；约翰福音 14:27；腓立比书 4:6-9
 - Big idea: Jesus gives soul-deep rest by bringing weary people into his trusting relationship with the Father and by sharing his yoke with them.
   核心信息：耶稣借着把疲惫的人带进祂与父信靠的关系、并与他们同负一轭，赐下灵魂深处的安息。
 

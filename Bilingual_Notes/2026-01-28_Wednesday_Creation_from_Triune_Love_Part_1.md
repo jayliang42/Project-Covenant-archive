@@ -15,7 +15,7 @@
 - Type: Wednesday Fellowship
   类型：周三团契
 - Topic: [Triune](../Glossary/README.md#trinity) God and creation
-  主题：[三一](../Glossary/README.md#trinity)神与创造
+  主题：三一神与创造
 - Big idea: The Father, Son, and Spirit eternally live in self-giving love; creation is a free overflow of that love, not something God needed in order to become loving.
   核心信息：父、子、圣灵在永恒中活在舍己的爱里；创造是这爱自由的涌流，不是神为了成为有爱而必须拥有的对象。
 
@@ -54,7 +54,7 @@ Being made in God's image includes a call away from self-enclosed consumption to
 ### A theological inference, not a proof | 神学推论，不是形式证明
 
 The claim that triune love illuminates creation is a classic Christian theological inference. It should be held together with Scripture's direct witness to God as Creator and Redeemer, not used as a philosophical shortcut that settles every question about other religions or every problem of evil.<br>
-“三一之爱照亮创造意义”是经典的基督教神学推论。它应与[圣经](../Glossary/README.md#bible)对神作为创造主、[救赎](../Glossary/README.md#redemption)主的直接见证一同持守，而不能被当作哲学捷径，去解决所有其他宗教问题或所有邪恶问题。
+“三一之爱照亮创造意义”是经典的基督教神学推论。它应与[圣经](../Glossary/README.md#bible)对神作为创造主、救赎主的直接见证一同持守，而不能被当作哲学捷径，去解决所有其他宗教问题或所有邪恶问题。
 
 ## Reflection Questions | 反思问题
 
