@@ -1,5 +1,7 @@
 # Reading Interface | 阅读界面
 
+> Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
+
 The static site now presents the approved study library as a book-style reading interface. The existing export, build, verification, and offline-package commands remain unchanged.
 
 静态站点现在以读书式界面呈现经过审核的研读资料库。现有导出、构建、验证和离线打包命令保持不变。
@@ -17,6 +19,12 @@ The design includes system-following dark mode, keyboard focus indicators, a ski
 The number above a document is its position in the current collection, not a record of what the reader has finished. The site does not store progress or bookmarks. Browser bookmarks can retain a document or heading URL.
 
 文章上方的数字表示它在当前栏目中的位置，不是读者已经完成的进度。站点不保存阅读进度或书签；浏览器书签可以保存文章或小节网址。
+
+## Reading Estimates and Print Layout | 阅读时间与打印版式
+
+Long articles receive a bilingual reading-time estimate at the start of the generated page. The static builder uses 200 English words or 350 Chinese characters per minute, takes the longer language estimate, and adds a 35% upper allowance. It omits estimates below three minutes. These are rough reading aids, excluding linked Bible passages, study, and reflection; they do not measure an individual reader. / 长文在生成页面开头显示双语阅读时间。静态构建按每分钟200个英文词或350个汉字，取两种语言较长的估计，并增加35%的上限余量；不足三分钟不显示。这只是粗略提示，不包含另开的经文、研读和思考，也不衡量个别读者。
+
+The reading column is capped at 44rem; phone text is 17px with a 1.95 line height. Tables and large maps scroll within their own regions, and illustrations shrink to the available width. Print styles hide navigation and introductory controls and constrain images to fit the page. All of this is CSS; no reading script or remote font is added. / 正文最大宽度为44rem；手机字号17px、行高1.95。表格和大地图在各自区域内滚动，插画适应可用宽度。打印时隐藏导航与入口控件，并限制图片高度以适合纸张。这些效果由CSS实现，不增加阅读脚本或远程字体。
 
 ## Content and Safety | 内容与安全
 

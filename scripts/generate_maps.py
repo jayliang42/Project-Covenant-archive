@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate the two offline SVG pilots from committed open-data subsets.
+"""Generate offline Bible maps and a storyline SVG from committed open-data subsets.
 
 No network, image, font, or mapping-library dependency is needed. Use --check
 to reject drift between the reviewed inputs and the committed SVG files.
@@ -115,10 +115,10 @@ def draw_base(parent: ET.Element, frame: Frame, data: Basemap) -> None:
                 if len(points) >= 3:
                     paths.append("M" + " L".join(f"{x:.2f},{y:.2f}" for x, y in points) + " Z")
             if paths:
-                element(parent, "path", d=" ".join(paths), fill=fill, stroke="#a9b4ac", stroke_width="0.7", fill_rule="evenodd")
+                element(parent, "path", d=" ".join(paths), fill=fill, stroke="#718077", stroke_width="0.7", fill_rule="evenodd")
 
 
-def compass_and_scale(parent: ET.Element, frame: Frame, x: float, y: float, km: int) -> None:
+def compass_and_scale(parent: ET.Element, frame: Frame, x: float, y: float, km: float) -> None:
     length = km / 111.195 * frame.scale
     element(parent, "line", x1=x, y1=y, x2=x + length, y2=y, stroke="#263b38", stroke_width=3)
     for endpoint in (x, x + length):
@@ -188,7 +188,7 @@ def palestine(data: Basemap, geography: Geography) -> bytes:
     reserved: list[tuple[float, float, float, float]] = []
     for en, zh, fill, polygon, location in regions:
         points = [frame.point(*point) for point in polygon]
-        element(root, "polygon", points=" ".join(f"{px:.2f},{py:.2f}" for px,py in points), fill=fill, fill_opacity=0.55, stroke="#7a7568", stroke_width=1.5, stroke_dasharray="7 5")
+        element(root, "polygon", points=" ".join(f"{px:.2f},{py:.2f}" for px,py in points), fill=fill, fill_opacity=0.55, stroke="#5c5b50", stroke_width=1.5, stroke_dasharray="7 5")
         px, py = frame.point(*location)
         label(root, px, py, en, 23, text_anchor="middle", font_weight="bold")
         label(root, px, py+28, zh, 23, text_anchor="middle")
@@ -229,6 +229,126 @@ def paul(data: Basemap, geography: Geography) -> bytes:
     return ET.tostring(root, encoding="utf-8") + b"\n"
 
 
+
+def batch2_maps() -> dict[str, bytes]:
+    """Original teaching diagrams from the separately credited point extract."""
+    record = json.loads((DATA / "batch2-places.json").read_text(encoding="utf-8"))
+    places = cast(dict[str, Place], record["places"])
+    base = cast(Basemap, json.loads((DATA / "natural-earth-batch2.json").read_text(encoding="utf-8")))
+    for place in places.values():
+        if not (-180 <= place["lon"] <= 180 and -90 <= place["lat"] <= 90):
+            raise ValueError("Invalid batch-two coordinate")
+    results: dict[str, bytes] = {}
+
+    def line(parent: ET.Element, frame: Frame, coords: list[Point], color: str, dash: str = "none") -> None:
+        projected = [frame.point(*p) for p in coords]
+        element(parent, "polyline", points=" ".join(f"{x:.2f},{y:.2f}" for x, y in projected), fill="none", stroke=color, stroke_width=4, stroke_dasharray=dash, stroke_linecap="round", stroke_linejoin="round")
+
+    def coords(names: list[str]) -> list[Point]:
+        return [(places[n]["lon"], places[n]["lat"]) for n in names]
+
+    def panel(root: ET.Element, extent: list[float], x: float, y: float, width: float, height: float) -> Frame:
+        frame = Frame(extent, x, y, width, height)
+        fx, fy = frame.point(frame.west, frame.north)
+        element(root, "rect", x=fx, y=fy, width=(frame.east-frame.west)*frame.cosine*frame.scale, height=(frame.north-frame.south)*frame.scale, fill="#dfedf0", stroke="#718077")
+        draw_base(root, frame, base)
+        return frame
+
+    def finish(root: ET.Element, name: str, y: int, notes: list[str], modern: bool = False) -> None:
+        for i, note in enumerate(notes):
+            label(root, 40, y+i*30, note, 18)
+        label(root, 40, y+len(notes)*30+4, "Made with Natural Earth · OpenBible.info (CC BY 4.0) · Draft / 草稿", 16)
+        if modern:
+            label(root, 40, y+len(notes)*30+30, "© OpenStreetMap contributors · ODbL 1.0 · https://www.openstreetmap.org/copyright", 16)
+        results[name] = ET.tostring(root, encoding="utf-8") + b"\n"
+
+    root = root_svg("Jerusalem in the Time of Jesus | 耶稣时代的耶路撒冷", "Schematic city locations, Kidron valley, and disputed crucifixion/burial proposals A, B and C. No first-century wall reconstruction. / 城内地点与受难、墓葬候选点示意，不重建一世纪城墙。", 1400, 1210)
+    frame = panel(root, [35.222,31.767,35.253,31.789], 80,140,1240,760)
+    temple = [frame.point(*p) for p in [(35.2337,31.7757),(35.2375,31.7757),(35.2375,31.7803),(35.2337,31.7803)]]
+    element(root,"polygon",points=" ".join(f"{x:.2f},{y:.2f}" for x,y in temple),fill="#c9d5aa",fill_opacity=.6,stroke="#536b30",stroke_dasharray="8 5")
+    line(root,frame,[(35.238,31.787),(35.2382,31.782),(35.2374,31.777),(35.236596,31.772134),(35.2373,31.768)],"#245d7a","7 5")
+    draw_places(root, frame, places, ["Moriah","Mount of Olives","Gethsemane","Kidron","Siloam","Sepulchre","Garden","Taylor"], 22)
+    compass_and_scale(root,frame,90,950,.2)
+    finish(root,"jerusalem-jesus.svg",1030,["A: Holy Sepulchre tradition; B: Garden Tomb vicinity; C: Taylor proposal. / 三种提议。","Traditional locations / disputed · 传统位置／有争议；溪谷与圣殿范围仅示意。","A plotted point is not proof of a crucifixion site or tomb. / 坐标不能证明受难点或墓穴。"],True)
+
+    root=root_svg("Abraham's Journey | 亚伯拉罕的旅程", "Genesis 11–13: southern Ur, Haran, Canaan and Egypt, with a Canaan detail panel. Routes and patriarchal chronology uncertain. / 创世记十一至十三章地点示意；道路、吾珥认定与族长年代未定。",1600,1160)
+    label(root,40,115,"Regional connections | 区域联系",24,font_weight="bold")
+    label(root,850,115,"Canaan detail | 迦南局部",24,font_weight="bold")
+    frame=panel(root,[29,29,48,38],50,155,720,640)
+    line(root,frame,[(46.103742,30.962052),(44.4,32.5),(42,35),(39.032197,36.863864),(35.281799,32.213691),(35.221033,31.930539),(31.338220,30.108086),(35.221033,31.930539),(35.094100,31.535774)],"#8a3324")
+    draw_places(root,frame,places,["Ur","Haran","Egypt"],23)
+    compass_and_scale(root,frame,70,855,300)
+    frame=panel(root,[34.7,31.25,35.65,32.55],850,155,670,640)
+    line(root,frame,coords(["Shechem","Bethel 1","Hebron"]),"#8a3324","10 6")
+    draw_places(root,frame,places,["Shechem","Bethel 1","Hebron"],23)
+    compass_and_scale(root,frame,870,855,25)
+    finish(root,"abraham-journey.svg",955,["Genesis 11:31–13:18 / 创世记 11:31–13:18 · Connections approximate / 连线示意。","Southern Ur is one identification; Egypt is a regional marker, not a known campsite. / 吾珥认定、埃及停留点未定。","Lines are reading aids, not excavated roads. / 连线辅助阅读，不代表已发掘的道路。"])
+
+    root=root_svg("Exodus: Two Route Models | 出埃及：两种路线模型", "Southern Sinai/Jebel Musa tradition alongside Anati's Har Karkom proposal. Both routes and locations disputed; not equal claims of archaeological proof. / 南部西奈传统与 Anati 的 Har Karkom 提议并列；路线和地点均有争议。",1600,1220)
+    label(root,40,115,"A · Southern tradition / 南部传统",24,font_weight="bold",fill="#8a3324")
+    label(root,840,115,"B · Har Karkom proposal / 另一提议",24,font_weight="bold",fill="#6c3c78")
+    for i in range(2):
+        x=50+i*790
+        frame=panel(root,[31.3,27.9,35.5,31.2],x,165,710,640)
+        if i==0:
+            line(root,frame,[(31.834217,30.799370),(32.5,30.0),(32.8,29.6),(33.973333,28.539722),(34.494796,30.687713)],"#8a3324")
+            names=["Rameses","Musa","Kadesh-barnea"]
+        else:
+            line(root,frame,[(31.834217,30.799370),(32.8,30.6),(33.8,30.4),(34.75,30.283333),(34.494796,30.687713)],"#6c3c78","12 7")
+            names=["Rameses","Karkom","Kadesh-barnea"]
+        draw_places(root,frame,places,names,22)
+        compass_and_scale(root,frame,x+25,865,100)
+    finish(root,"exodus-models.svg",970,["Routes AND locations disputed / 路线和地点均有争议 · Sea crossing location unresolved / 渡海地点未定。","A: southern Sinai tradition; B: Anati's published site hypothesis, not an established identification. / 两者均非定论。","Har Karkom's proposed chronology differs from 15th/13th-century models. / 该提议的年代与前十五／十三世纪模型不同。","Connections are original teaching sketches, not copied published itineraries. / 连线为自绘示意，不描摹出版路线。"],True)
+
+    root=root_svg("The Divided Kingdoms | 王国分裂：北国与南国", "Illustrative Israel and Judah areas around the ninth century BCE, with major cities. Borders changed; no precise frontier claimed. / 前九世纪北国、南国与主要城市示意；边界会变动。",1400,1180)
+    frame=panel(root,[34.3,30.9,36.1,33.55],70,140,1260,730)
+    areas=[("#c9d5aa",[(34.85,31.9),(35.12,31.83),(35.55,31.87),(35.8,32.7),(35.6,33.4),(35.03,33.1),(34.85,32.3)]),("#d6b5aa",[(34.45,31.0),(35.55,31.0),(35.55,31.85),(35.15,31.83),(34.9,31.9),(34.5,31.5)])]
+    for fill,polygon in areas:
+        points=[frame.point(*p) for p in polygon]
+        element(root,"polygon",points=" ".join(f"{x:.2f},{y:.2f}" for x,y in points),fill=fill,fill_opacity=.55,stroke="#5c5b50",stroke_width=2,stroke_dasharray="8 5")
+    draw_places(root,frame,places,["Dan","Samaria","Tirzah","Megiddo","Shechem","Bethel 1","Jerusalem","Hebron","Beersheba","Lachish"],22)
+    label(root,60,920,"Green: Israel / 绿色：北国以色列 · Rose: Judah / 玫色：南国犹大",23,font_weight="bold")
+    compass_and_scale(root,frame,80,970,50)
+    finish(root,"divided-kingdoms.svg",1050,["Ninth-century teaching areas; not the borders at the moment of division. / 前九世纪示意，不是分裂当刻的边界。","Samaria became a capital later; Tirzah marks an earlier center. / 撒玛利亚为后期都城，得撒为较早中心。"])
+
+    root=root_svg("Empires in the Exile Story | 被掳时期的帝国", "Three separate period panels: Neo-Assyrian, Neo-Babylonian and Achaemenid Persian illustrative extents. Not simultaneous borders or exact frontiers. / 亚述、巴比伦、波斯分时段示意，不是同时存在的精确国界。",1400,1990)
+    empires=[("Neo-Assyrian · c.650 BCE / 新亚述 · 约前650年","#c9d5aa",[(34,31),(36,30.5),(47,30),(48,35),(43,39),(37,38),(34,36)]), ("Neo-Babylonian · c.600 BCE / 新巴比伦 · 约前600年","#e5c58d",[(34,30),(36,29),(46,29),(48,33),(43,37),(36,36),(34,34)]), ("Achaemenid Persian · c.500 BCE / 波斯 · 约前500年","#bfc1df",[(24,24),(34,24),(36,29),(47,30),(49,24),(58,24),(69,25),(73,32),(68,39),(50,42),(37,42),(26,39),(28,33),(32,31),(24,31)])]
+    for i,(title,color,polygon) in enumerate(empires):
+        y=125+i*565
+        label(root,45,y,title,26,font_weight="bold")
+        frame=panel(root,[23,21.5,74,43.7],70,y+40,1260,380)
+        points=[frame.point(*p) for p in polygon]
+        element(root,"polygon",points=" ".join(f"{x:.2f},{y:.2f}" for x,y in points),fill=color,fill_opacity=.48,stroke="#5c5b50",stroke_width=2,stroke_dasharray="8 6")
+        draw_places(root,frame,places,["Nineveh","Babylon","Susa","Jerusalem"],21)
+        compass_and_scale(root,frame,90,y+435,500)
+    finish(root,"exile-empires.svg",1850,["Shading shows broad teaching extents, not surveyed boundaries or continuous control. / 色块为大致范围，不表示精确边界或持续控制。","Periods are separate; modern coastlines are only a reference. / 各图时段不同；现代岸线仅供定位。"])
+
+    root=root_svg("The Seven Churches of Revelation | 启示录七教会", "The seven cities named in Revelation 1:11, with a dashed reading-order connection. No claim about an exact ancient road. / 启示录一章十一节七城，虚线按书信次序连接，不表示精确古道。",1400,1170)
+    frame=panel(root,[25.8,37.2,29.8,39.8],70,140,1260,720)
+    names=["Ephesus","Smyrna","Pergamum","Thyatira","Sardis","Philadelphia","Laodicea"]
+    line(root,frame,coords(names),"#245d7a","10 7")
+    draw_places(root,frame,places,names,23)
+    compass_and_scale(root,frame,90,930,50)
+    finish(root,"seven-churches.svg",1020,["Revelation 1:11; 2–3 / 启示录 1:11；2–3章 · Locations approximate / 地点示意。","The line follows letter order, not an excavated mail route. / 虚线按书信次序，不是已发掘的邮路。"])
+
+    stages = cast(list[dict[str, str]], json.loads((DATA / "storyline.json").read_text(encoding="utf-8"))["stages"])
+    root=root_svg("The Bible Story in One Page | 一页圣经故事线", "Ten bilingual story stages with approximate narrative periods, disputed ranges and undated beginning/future hope. Vertical order is narrative, not a proportional timescale. / 十站双语故事线；区分叙事年代、争议区间与不可定年的开端和盼望。",1100,1600)
+    label(root,40,110,"Narrative order, not a proportional timescale / 叙事顺序，不按时间比例",20)
+    element(root,"line",x1=77,y1=170,x2=77,y2=1420,stroke="#456346",stroke_width=4)
+    for i,stage in enumerate(stages):
+        y=150+i*128
+        element(root,"circle",cx=77,cy=y+40,r=24,fill="#456346")
+        label(root,77,y+48,str(i+1),22,text_anchor="middle",fill="#ffffff",font_weight="bold")
+        element(root,"rect",x=125,y=y,width=925,height=111,rx=10,fill="#eaf0e5",stroke="#c4cebd")
+        label(root,145,y+31,stage["en"]+" | "+stage["zh"],24,font_weight="bold")
+        label(root,145,y+62,stage["date_en"],18)
+        label(root,145,y+91,stage["date_zh"],18)
+    label(root,40,1490,"Dates summarize this library's draft guides; early periods are not independently fixed. / 年代为草稿导读概览，早期无法独立定年。",17)
+    label(root,40,1522,"Creation/fall and new creation are not assigned calendar dates. / 创造、堕落与新创造不设公历日期。",18)
+    label(root,40,1554,"Read passages before summaries; see First Steps and the source notes. / 先读经文，再读概览与来源说明。",18)
+    results["bible-storyline.svg"]=ET.tostring(root,encoding="utf-8")+b"\n"
+    return results
+
 def generated_maps() -> dict[str, bytes]:
     basemap = cast(Basemap, json.loads((DATA / "natural-earth-subset.json").read_text(encoding="utf-8")))
     geography = cast(Geography, json.loads((DATA / "places-and-routes.json").read_text(encoding="utf-8")))
@@ -238,7 +358,7 @@ def generated_maps() -> dict[str, bytes]:
     for route in geography["routes"]:
         if len(route["stops"]) < 2 or any(name not in geography["places"] for name in route["stops"]):
             raise ValueError("Invalid route input")
-    result = {"palestine-jesus.svg": palestine(basemap, geography), "paul-journeys.svg": paul(basemap, geography)}
+    result = {"palestine-jesus.svg": palestine(basemap, geography), "paul-journeys.svg": paul(basemap, geography), **batch2_maps()}
     for data in result.values():
         validate_svg(data)
     return result

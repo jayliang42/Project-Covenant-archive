@@ -6,7 +6,9 @@ is selected from the verified page map supplied by the static-site builder.
 from __future__ import annotations
 
 import html
+import math
 import posixpath
+import re
 from dataclasses import dataclass
 from html.parser import HTMLParser
 from pathlib import PurePosixPath
@@ -37,6 +39,7 @@ COLLECTIONS = (
     ("Christian_Traditions", "Traditions | 基督教传统", "Explore historical traditions and their differences. | 了解历史传统及其差异。"),
     ("Bible_Translations", "Translations | 圣经译本", "Find access guides and reading notes. | 查找获取指南与阅读说明。"),
     ("Maps", "Maps | 地图", "Read offline maps with bilingual labels. | 阅读带双语地名的离线地图。"),
+    ("Glossary", "Glossary | 词汇表", "Look up common words in plain language. | 用白话查找常见词语。"),
 )
 
 
@@ -192,6 +195,19 @@ def _home_intro(output: str, page_map: dict[str, str]) -> str:
             + start + '</div><nav class="collection-grid" aria-label="Choose a collection | 选择栏目">' + "\n".join(cards) + '</nav>')
 
 
+def reading_time(body: str) -> str:
+    """A declared reading aid, estimating one language rather than adding both."""
+    text = html.unescape(re.sub(r"<[^>]*>", " ", body))
+    english_words = len(re.findall(r"[A-Za-z]+(?:['’][A-Za-z]+)*", text))
+    chinese_characters = len(re.findall(r"[\u3400-\u9fff]", text))
+    minutes = max(english_words / 200, chinese_characters / 350)
+    if minutes < 3:
+        return ""
+    low, high = math.ceil(minutes), math.ceil(minutes * 1.35)
+    return (f"Reading: about {low}–{high} min in one language; excludes Bible passages and reflection. "
+            f"| 阅读约 {low}–{high} 分钟（按一种语言，不含经文与思考）。")
+
+
 def render_page(source: str, output: str, title: str, body: str,
                 page_map: dict[str, str], titles: dict[str, str], css_path: str) -> bytes:
     """Compose reading navigation around untouched, trusted renderer output."""
@@ -205,6 +221,9 @@ def render_page(source: str, output: str, title: str, body: str,
     position = f'{ordered.index(source) + 1:02d} / {len(ordered):02d}' if source in ordered else ""
     collection_label = next((label for folder, label, _ in COLLECTIONS if PurePosixPath(source).parent.as_posix() == folder), "Reading library | 阅读资料库")
     metadata = f'<div class="reading-meta"><span class="reading-collection">{html.escape(collection_label)}</span><span class="reading-position">{position}</span></div>'
+    estimate = reading_time(body)
+    if estimate:
+        metadata += '<p class="reading-time">' + html.escape(estimate) + '</p>'
     intro = _home_intro(output, page_map) if source == "README.md" else ""
     mobile_toc = '<details class="mobile-toc"><summary>On this page | 本页目录</summary>' + toc + '</details>' if toc else ""
     right_toc = '<aside class="outline-sidebar"><div class="sidebar-label">On this page | 本页目录</div>' + toc + '</aside>' if toc else '<div class="outline-sidebar"></div>'
@@ -279,7 +298,7 @@ a:focus-visible, summary:focus-visible { outline: 2px solid var(--accent); outli
 .site-mark { display: inline-grid; place-items: center; width: 2.1rem; height: 2.4rem; border: 1px solid var(--accent); border-radius: 2px 6px 6px 2px; color: var(--accent); font: 1.5rem var(--serif); }
 .site-subtitle { padding-left: .7rem; border-left: 1px solid var(--line); color: var(--muted); font-weight: 400; font-size: .9rem; }
 .header-note { color: var(--muted); font-size: .75rem; }
-.reading-layout { display: grid; grid-template-columns: 14rem minmax(0, 48rem) minmax(10rem, 14rem); gap: 2.25rem; max-width: var(--max); margin: 0 auto; padding: 2.25rem 1.5rem 4rem; align-items: start; }
+.reading-layout { display: grid; grid-template-columns: 14rem minmax(0, 44rem) minmax(10rem, 14rem); gap: 2.25rem; max-width: var(--max); margin: 0 auto; padding: 2.25rem 1.5rem 4rem; align-items: start; }
 .library-sidebar, .outline-sidebar { position: sticky; top: 6.25rem; max-height: calc(100dvh - 8rem); overflow-y: auto; scrollbar-width: thin; padding: 0 .65rem .8rem 0; }
 .sidebar-label { color: var(--muted); font-size: .7rem; letter-spacing: .06em; margin: .3rem 0 .85rem; font-weight: 650; }
 .library-nav ul, .chapter-nav ol, .reader-toc ul { padding: 0; list-style: none; margin: 0; }
@@ -297,6 +316,7 @@ a:focus-visible, summary:focus-visible { outline: 2px solid var(--accent); outli
 .content { min-width: 0; padding: 0 0 2rem; outline: none; overflow-wrap: anywhere; }
 .reading-meta { display: flex; gap: 1rem; justify-content: space-between; align-items: center; color: var(--muted); font-size: .72rem; padding: .3rem 0 1.3rem; border-bottom: 1px solid var(--line); margin-bottom: 2rem; }
 .reading-position { font-variant-numeric: tabular-nums; white-space: nowrap; letter-spacing: .1em; }
+.reading-time { color: var(--muted); font-size: .82rem; line-height: 1.7; margin: -.7rem 0 1.5rem; }
 .reading-body { font-size: 1.0625rem; line-height: 1.95; }
 .reading-body h1 { font-family: var(--serif); font-size: clamp(1.8rem, 3.2vw, 2.65rem); line-height: 1.35; font-weight: 600; margin: 0 0 1.7rem; letter-spacing: -.035em; }
 h2, h3, h4, h5, h6 { line-height: 1.45; scroll-margin-top: 5.5rem; }
@@ -311,7 +331,7 @@ code { background: var(--code); padding: .12em .32em; border-radius: .2rem; font
 pre { padding: 1.15rem; overflow-x: auto; background: var(--code); border: 1px solid var(--line); border-radius: .35rem; line-height: 1.65; }
 pre code { padding: 0; background: transparent; }
 .table-scroll { max-width: 100%; overflow-x: auto; margin: 1.5rem 0; border: 1px solid var(--line); border-radius: .3rem; }
-table { border-collapse: collapse; width: 100%; min-width: 34rem; font-size: .875rem; line-height: 1.75; }
+table { border-collapse: collapse; width: 100%; min-width: 34rem; font-size: .9375rem; line-height: 1.8; }
 th, td { border-bottom: 1px solid var(--line); padding: .75rem .8rem; vertical-align: top; }
 th { text-align: left; font-weight: 650; background: var(--accent-soft); }
 tr:last-child td { border-bottom: 0; }
@@ -344,7 +364,7 @@ hr { border: 0; border-top: 1px solid var(--line); margin: 2.5rem 0; }
 .mobile-navigation, .mobile-toc { display: none; }
 summary { cursor: pointer; padding: .75rem .9rem; font-size: .8rem; color: var(--accent); font-weight: 550; }
 @media (max-width: 76rem) {
-  .reading-layout { grid-template-columns: 13rem minmax(0, 48rem); gap: 2rem; max-width: 67rem; }
+  .reading-layout { grid-template-columns: 13rem minmax(0, 44rem); gap: 2rem; max-width: 67rem; }
   .outline-sidebar { display: none; }
   .mobile-toc { display: block; margin-bottom: 1.6rem; border: 1px solid var(--line); border-radius: .3rem; background: var(--surface); }
   .mobile-toc .reader-toc { padding: 0 .9rem .9rem; max-height: 20rem; overflow-y: auto; }
@@ -363,7 +383,7 @@ summary { cursor: pointer; padding: .75rem .9rem; font-size: .8rem; color: var(-
   .mobile-navigation .chapter-nav { max-height: 45vh; overflow-y: auto; }
   .mobile-navigation .sidebar-label { padding-left: 1rem; }
   .reading-meta { margin-bottom: 1.4rem; padding-bottom: .85rem; }
-  .reading-body { font-size: 1rem; line-height: 1.9; }
+  .reading-body { font-size: 1.0625rem; line-height: 1.95; }
   .reading-body h1 { font-size: 1.85rem; }
   .reading-body h2 { font-size: 1.3rem; }
   .reading-pager { gap: .6rem; }
@@ -381,6 +401,8 @@ summary { cursor: pointer; padding: .75rem .9rem; font-size: .8rem; color: var(-
   .content { max-width: none; }
   .reading-body { font-size: 10.5pt; }
   .table-scroll, pre { overflow: visible; }
+  blockquote, .study-illustration { break-inside: avoid; }
+  .reading-meta, .book-intro, .collection-grid { display: none; }
   table { min-width: 0; font-size: 8.5pt; }
   a { color: black; }
 }
@@ -392,5 +414,5 @@ SITE_CSS += b"""
 .map-viewport { display: block; width: 100%; max-width: 100%; overflow-x: auto; border: 1px solid var(--line); background: #fff; margin: 1.25rem 0; }
 .map-viewport:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
 .study-map { display: block; min-width: 1100px; width: 100%; height: auto; max-width: none; }
-@media print { .study-map { min-width: 0; width: 100%; } .map-viewport { overflow: visible; } }
+@media print { .study-map { min-width: 0; width: 100%; max-height: 240mm; object-fit: contain; } .map-viewport { overflow: visible; border: 0; break-inside: avoid; } .study-illustration { max-height: 100mm; } }
 """

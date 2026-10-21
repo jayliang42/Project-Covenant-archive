@@ -2,6 +2,12 @@
 
 > Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
 
+<a id="in-three-sentences"></a>
+> **In Three Sentences | 三句话读懂本篇**
+>
+> This guide connects the Bible’s main story stages. It separates the story’s order from uncertain historical dates. Use it as a map before reading a whole book.
+> 本篇连接圣经故事的主要阶段。故事顺序与仍有争议的历史定年要分开看。读整卷书前，可以先用它找方向。
+
 ## Purpose | 目的
 
 This timeline is meant to help connect the whole Bible as one story: creation, covenant, kingdom, exile, redemption, church, and new creation.

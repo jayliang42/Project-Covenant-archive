@@ -1,0 +1,408 @@
+{
+  "status": "Draft",
+  "license": "CC BY 4.0 attribution to OpenBible.info; underlying OSM database rights and this modern-point extract under ODbL 1.0",
+  "license_urls": [
+    "https://creativecommons.org/licenses/by/4.0/",
+    "https://opendatacommons.org/licenses/odbl/1-0/"
+  ],
+  "attribution": "OpenBible.info; © OpenStreetMap contributors",
+  "note": "Only named Point records copied from official KML; no scripture, photos, tiles, polygons or hillshading. Coordinates rounded to six decimals. Complete modern extract is also tabulated in CREDITS.md.",
+  "places": {
+    "Ur": {
+      "en": "Ur (southern ID)",
+      "zh": "吾珥（南部认定）",
+      "lon": 46.103742,
+      "lat": 30.962052,
+      "source_key": "Ur",
+      "source": "https://www.openbible.info/geo/data/merged.txt",
+      "source_precision": "30.9620520474569, 46.10374195774169"
+    },
+    "Haran": {
+      "en": "Haran",
+      "zh": "哈兰",
+      "lon": 39.032197,
+      "lat": 36.863864,
+      "source_key": "Haran",
+      "source": "https://www.openbible.info/geo/data/merged.txt",
+      "source_precision": "36.86386407659651, 39.03219672227345"
+    },
+    "Shechem": {
+      "en": "Shechem",
+      "zh": "示剑",
+      "lon": 35.281799,
+      "lat": 32.213691,
+      "source_key": "Shechem",
+      "source": "https://www.openbible.info/geo/data/merged.txt",
+      "source_precision": "32.21369123124062, 35.2817986718367"
+    },
+    "Bethel 1": {
+      "en": "Bethel",
+      "zh": "伯特利",
+      "lon": 35.221033,
+      "lat": 31.930539,
+      "source_key": "Bethel 1",
+      "source": "https://www.openbible.info/geo/data/merged.txt",
+      "source_precision": "31.93053920580005, 35.22103274923676"
+    },
+    "Hebron": {
+      "en": "Hebron",
+      "zh": "希伯仑",
+      "lon": 35.0941,
+      "lat": 31.535774,
+      "source_key": "Hebron",
+      "source": "https://www.openbible.info/geo/data/merged.txt",
+      "source_precision": "31.53577362133176, 35.09409986578734"
+    },
+    "Egypt": {
+      "en": "Egypt (region)",
+      "zh": "埃及（区域）",
+      "lon": 31.33822,
+      "lat": 30.108086,
+      "source_key": "Egypt",
+      "source": "https://www.openbible.info/geo/data/merged.txt",
+      "source_precision": ">30.108086, >31.338220"
+    },
+    "Jerusalem": {
+      "en": "Jerusalem",
+      "zh": "耶路撒冷",
+      "lon": 35.234935,
+      "lat": 31.777444,
+      "source_key": "Jerusalem",
+      "source": "https://www.openbible.info/geo/data/merged.txt",
+      "source_precision": "31.777444, 35.234935"
+    },
+    "Moriah": {
+      "en": "Temple Mount",
+      "zh": "圣殿山",
+      "lon": 35.235251,
+      "lat": 31.777594,
+      "source_key": "Moriah",
+      "source": "https://www.openbible.info/geo/data/merged.txt",
+      "source_precision": "31.77759385009378, 35.23525140955081"
+    },
+    "Mount of Olives": {
+      "en": "Mount of Olives",
+      "zh": "橄榄山",
+      "lon": 35.247198,
+      "lat": 31.778095,
+      "source_key": "Mount of Olives",
+      "source": "https://www.openbible.info/geo/data/merged.txt",
+      "source_precision": "31.77809503341373, 35.2471976093501"
+    },
+    "Kidron": {
+      "en": "Kidron",
+      "zh": "汲沦溪谷",
+      "lon": 35.236596,
+      "lat": 31.772134,
+      "source_key": "Kidron",
+      "source": "https://www.openbible.info/geo/data/merged.txt",
+      "source_precision": "31.772134, 35.236596"
+    },
+    "Rameses": {
+      "en": "Rameses",
+      "zh": "兰塞（认定有争议）",
+      "lon": 31.834217,
+      "lat": 30.79937,
+      "source_key": "Rameses",
+      "source": "https://www.openbible.info/geo/data/merged.txt",
+      "source_precision": "30.799370210096, 31.834216685474"
+    },
+    "Kadesh-barnea": {
+      "en": "Kadesh-barnea",
+      "zh": "加低斯巴尼亚",
+      "lon": 34.494796,
+      "lat": 30.687713,
+      "source_key": "Kadesh-barnea",
+      "source": "https://www.openbible.info/geo/data/merged.txt",
+      "source_precision": "30.68771281376111, 34.49479554246946"
+    },
+    "Elim": {
+      "en": "Elim",
+      "zh": "以琳（认定有争议）",
+      "lon": 32.980924,
+      "lat": 29.306194,
+      "source_key": "Elim",
+      "source": "https://www.openbible.info/geo/data/merged.txt",
+      "source_precision": "29.306194, 32.980924"
+    },
+    "Dan": {
+      "en": "Dan",
+      "zh": "但",
+      "lon": 35.652483,
+      "lat": 33.24866,
+      "source_key": "Dan",
+      "source": "https://www.openbible.info/geo/data/merged.txt",
+      "source_precision": "33.24865997897308, 35.65248345039043"
+    },
+    "Samaria": {
+      "en": "Samaria",
+      "zh": "撒玛利亚",
+      "lon": 35.197929,
+      "lat": 32.280231,
+      "source_key": "Samaria",
+      "source": "https://www.openbible.info/geo/data/merged.txt",
+      "source_precision": "32.28023100000001, 35.19792900000002"
+    },
+    "Tirzah": {
+      "en": "Tirzah",
+      "zh": "得撒",
+      "lon": 35.294304,
+      "lat": 32.271369,
+      "source_key": "Tirzah",
+      "source": "https://www.openbible.info/geo/data/merged.txt",
+      "source_precision": "32.27136869937776, 35.29430386845415"
+    },
+    "Megiddo": {
+      "en": "Megiddo",
+      "zh": "米吉多",
+      "lon": 35.182292,
+      "lat": 32.584183,
+      "source_key": "Megiddo",
+      "source": "https://www.openbible.info/geo/data/merged.txt",
+      "source_precision": "32.58418313614938, 35.18229165870594"
+    },
+    "Beersheba": {
+      "en": "Beersheba",
+      "zh": "别是巴",
+      "lon": 34.840889,
+      "lat": 31.244952,
+      "source_key": "Beersheba",
+      "source": "https://www.openbible.info/geo/data/merged.txt",
+      "source_precision": "31.24495217357714, 34.8408885849849"
+    },
+    "Lachish": {
+      "en": "Lachish",
+      "zh": "拉吉",
+      "lon": 34.846726,
+      "lat": 31.564851,
+      "source_key": "Lachish",
+      "source": "https://www.openbible.info/geo/data/merged.txt",
+      "source_precision": "31.56485056116292, 34.8467256730566"
+    },
+    "Nineveh": {
+      "en": "Nineveh",
+      "zh": "尼尼微",
+      "lon": 43.152887,
+      "lat": 36.35941,
+      "source_key": "Nineveh",
+      "source": "https://www.openbible.info/geo/data/merged.txt",
+      "source_precision": "36.359410, 43.152887"
+    },
+    "Babylon": {
+      "en": "Babylon",
+      "zh": "巴比伦",
+      "lon": 44.420883,
+      "lat": 32.536504,
+      "source_key": "Babylon",
+      "source": "https://www.openbible.info/geo/data/merged.txt",
+      "source_precision": "32.53650368616845, 44.42088287373876"
+    },
+    "Susa": {
+      "en": "Susa",
+      "zh": "苏萨",
+      "lon": 48.257886,
+      "lat": 32.189191,
+      "source_key": "Susa",
+      "source": "https://www.openbible.info/geo/data/merged.txt",
+      "source_precision": "32.18919123705116, 48.25788647687722"
+    },
+    "Ephesus": {
+      "en": "Ephesus",
+      "zh": "以弗所",
+      "lon": 27.367825,
+      "lat": 37.953314,
+      "source_key": "Ephesus",
+      "source": "https://www.openbible.info/geo/data/merged.txt",
+      "source_precision": "37.95331433666365, 27.36782511573013"
+    },
+    "Smyrna": {
+      "en": "Smyrna",
+      "zh": "士每拿",
+      "lon": 27.161921,
+      "lat": 38.45196,
+      "source_key": "Smyrna",
+      "source": "https://www.openbible.info/geo/data/merged.txt",
+      "source_precision": "38.45196037886051, 27.16192104844777"
+    },
+    "Pergamum": {
+      "en": "Pergamum",
+      "zh": "别迦摩",
+      "lon": 27.165126,
+      "lat": 39.118946,
+      "source_key": "Pergamum",
+      "source": "https://www.openbible.info/geo/data/merged.txt",
+      "source_precision": "39.11894592031751, 27.16512610475739"
+    },
+    "Thyatira": {
+      "en": "Thyatira",
+      "zh": "推雅推喇",
+      "lon": 27.856556,
+      "lat": 38.925791,
+      "source_key": "Thyatira",
+      "source": "https://www.openbible.info/geo/data/merged.txt",
+      "source_precision": "38.92579128786831, 27.85655574592795"
+    },
+    "Sardis": {
+      "en": "Sardis",
+      "zh": "撒狄",
+      "lon": 28.114131,
+      "lat": 38.476827,
+      "source_key": "Sardis",
+      "source": "https://www.openbible.info/geo/data/merged.txt",
+      "source_precision": "38.47682690345803, 28.11413118732089"
+    },
+    "Philadelphia": {
+      "en": "Philadelphia",
+      "zh": "非拉铁非",
+      "lon": 28.519462,
+      "lat": 38.349048,
+      "source_key": "Philadelphia",
+      "source": "https://www.openbible.info/geo/data/merged.txt",
+      "source_precision": "38.34904803135629, 28.51946209047604"
+    },
+    "Laodicea": {
+      "en": "Laodicea",
+      "zh": "老底嘉",
+      "lon": 29.064501,
+      "lat": 37.769867,
+      "source_key": "Laodicea",
+      "source": "https://www.openbible.info/geo/data/merged.txt",
+      "source_precision": "37.76986723761415, 29.06450110237073"
+    },
+    "Gethsemane": {
+      "en": "Gethsemane",
+      "zh": "客西马尼（传统地点）",
+      "lon": 35.239425,
+      "lat": 31.779419,
+      "source_key": "Gethsemane",
+      "source": "https://a.openbible.info/geo/kmls/matt.kml",
+      "source_precision": "Selected candidate point; no polygon or imagery"
+    },
+    "Siloam": {
+      "en": "Pool of Siloam",
+      "zh": "西罗亚池",
+      "lon": 35.235,
+      "lat": 31.770556,
+      "source_key": "Siloam / Pool of Siloam",
+      "source": "https://a.openbible.info/geo/kmls/john.kml",
+      "source_precision": "Selected candidate point; no polygon or imagery"
+    },
+    "Sepulchre": {
+      "en": "Holy Sepulchre (A)",
+      "zh": "圣墓教堂 A（传统／有争议）",
+      "lon": 35.22975,
+      "lat": 31.778444,
+      "source_key": "Golgotha / Church of the Holy Sepulchre",
+      "source": "https://a.openbible.info/geo/kmls/john.kml",
+      "source_precision": "Selected candidate point; no polygon or imagery"
+    },
+    "Garden": {
+      "en": "Skull Hill / Garden Tomb (B)",
+      "zh": "髑髅山／花园墓附近 B（有争议）",
+      "lon": 35.230147,
+      "lat": 31.783957,
+      "source_key": "Golgotha / Gordon’s Calvary",
+      "source": "https://a.openbible.info/geo/kmls/john.kml",
+      "source_precision": "Selected candidate point; no polygon or imagery"
+    },
+    "Taylor": {
+      "en": "Taylor proposal (C)",
+      "zh": "Taylor 提议 C（有争议）",
+      "lon": 35.230688,
+      "lat": 31.776629,
+      "source_key": "Golgotha / Taylor Golgotha",
+      "source": "https://a.openbible.info/geo/kmls/john.kml",
+      "source_precision": "Selected candidate point; no polygon or imagery"
+    },
+    "Musa": {
+      "en": "Jebel Musa?",
+      "zh": "穆萨山？（传统认定）",
+      "lon": 33.973333,
+      "lat": 28.539722,
+      "source_key": "Mount Sinai / Jebel Musa",
+      "source": "https://a.openbible.info/geo/kmls/exod.kml",
+      "source_precision": "Selected candidate point; no polygon or imagery"
+    },
+    "Karkom": {
+      "en": "Har Karkom?",
+      "zh": "哈尔卡尔科姆山？（另一假说）",
+      "lon": 34.75,
+      "lat": 30.283333,
+      "source_key": "Mount Sinai / Har Karkom",
+      "source": "https://a.openbible.info/geo/kmls/exod.kml",
+      "source_precision": "Selected candidate point; no polygon or imagery"
+    }
+  },
+  "modern_points": [
+    {
+      "key": "Gethsemane",
+      "en": "Gethsemane",
+      "zh": "客西马尼（传统地点）",
+      "lon": 35.239425,
+      "lat": 31.779419,
+      "source_key": "Gethsemane",
+      "source": "https://a.openbible.info/geo/kmls/matt.kml",
+      "source_precision": "Selected candidate point; no polygon or imagery"
+    },
+    {
+      "key": "Siloam",
+      "en": "Pool of Siloam",
+      "zh": "西罗亚池",
+      "lon": 35.235,
+      "lat": 31.770556,
+      "source_key": "Siloam / Pool of Siloam",
+      "source": "https://a.openbible.info/geo/kmls/john.kml",
+      "source_precision": "Selected candidate point; no polygon or imagery"
+    },
+    {
+      "key": "Sepulchre",
+      "en": "Holy Sepulchre (A)",
+      "zh": "圣墓教堂 A（传统／有争议）",
+      "lon": 35.22975,
+      "lat": 31.778444,
+      "source_key": "Golgotha / Church of the Holy Sepulchre",
+      "source": "https://a.openbible.info/geo/kmls/john.kml",
+      "source_precision": "Selected candidate point; no polygon or imagery"
+    },
+    {
+      "key": "Garden",
+      "en": "Skull Hill / Garden Tomb (B)",
+      "zh": "髑髅山／花园墓附近 B（有争议）",
+      "lon": 35.230147,
+      "lat": 31.783957,
+      "source_key": "Golgotha / Gordon’s Calvary",
+      "source": "https://a.openbible.info/geo/kmls/john.kml",
+      "source_precision": "Selected candidate point; no polygon or imagery"
+    },
+    {
+      "key": "Taylor",
+      "en": "Taylor proposal (C)",
+      "zh": "Taylor 提议 C（有争议）",
+      "lon": 35.230688,
+      "lat": 31.776629,
+      "source_key": "Golgotha / Taylor Golgotha",
+      "source": "https://a.openbible.info/geo/kmls/john.kml",
+      "source_precision": "Selected candidate point; no polygon or imagery"
+    },
+    {
+      "key": "Musa",
+      "en": "Jebel Musa?",
+      "zh": "穆萨山？（传统认定）",
+      "lon": 33.973333,
+      "lat": 28.539722,
+      "source_key": "Mount Sinai / Jebel Musa",
+      "source": "https://a.openbible.info/geo/kmls/exod.kml",
+      "source_precision": "Selected candidate point; no polygon or imagery"
+    },
+    {
+      "key": "Karkom",
+      "en": "Har Karkom?",
+      "zh": "Har Karkom？（另一假说）",
+      "lon": 34.75,
+      "lat": 30.283333,
+      "source_key": "Mount Sinai / Har Karkom",
+      "source": "https://a.openbible.info/geo/kmls/exod.kml",
+      "source_precision": "Selected candidate point; no polygon or imagery"
+    }
+  ]
+}

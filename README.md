@@ -2,6 +2,10 @@
 
 > Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
 
+![Ten-stage Bible storyline with approximate and disputed dates / 十站圣经故事线，标注大致年代与争议](./assets/maps/bible-storyline.svg)
+
+The order is narrative, not a proportional timescale. Early date ranges are debated; creation, fall, and new creation are not assigned calendar dates. / 图按叙事顺序排列，不按时间比例；早期年代区间有争议，创造、堕落与新创造不设公历日期。 [Open full SVG | 打开完整图](./assets/maps/bible-storyline.svg)
+
 > A bilingual study library for spiritual growth, sermon learning, and the Bible’s unified storyline.
 > 一个用于灵命成长、讲道学习与整本圣经故事线研读的中英双语资料库。
 
@@ -17,6 +21,7 @@
 | Find sermon and fellowship notes | 查找讲道与团契笔记 | [Notes Hub / 笔记中心](./Bilingual_Notes/README.md) |
 | Study Christian books carefully | 系统研读基督教书籍 | [Christian Book Studies / 基督教书籍研读](./Book_Studies/README.md) |
 | Understand denominations and theological terms | 了解宗派与神学术语 | [Christian Traditions / 基督教传统](./Christian_Traditions/README.md) |
+| Look up common Bible words | 用白话查常见圣经词语 | [Glossary / 词汇表](./Glossary/README.md) |
 | Read offline maps with bilingual place names | 阅读带双语地名的离线地图 | [Maps / 地图](./Maps/README.md) |
 | Explore history and archaeology carefully | 查看史料、考古与证据边界 | [Bible Timeline Research Hub / 时间线研究中心](./Bible_Timeline/README.md) |
 | Understand the public-content boundary | 了解公开内容边界 | [Privacy and Publication Policy / 隐私与发布政策](./PUBLICATION_POLICY.md) |

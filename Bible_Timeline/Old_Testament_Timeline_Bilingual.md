@@ -2,6 +2,12 @@
 
 > Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
 
+<a id="in-three-sentences"></a>
+> **In Three Sentences | 三句话读懂本篇**
+>
+> The Old Testament moves from creation through promise, rescue, kingdom, and exile. Return brings a new beginning but does not resolve every problem. The dates here are approximate, and several early periods remain disputed.
+> 旧约从创造走向应许、拯救、王国与被掳。归回带来新开始，但并非所有问题都已解决。这里的年代是大致估计，部分早期阶段仍有争议。
+
 旧约时间线双语版。
 Bilingual Old Testament timeline.
 

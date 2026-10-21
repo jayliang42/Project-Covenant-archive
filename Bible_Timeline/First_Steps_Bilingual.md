@@ -3,31 +3,178 @@
 > Status: Draft (AI draft; not human reviewed) | 状态：Draft（AI 草稿，未人工审阅）
 # First Steps in the Bible Story | 圣经故事线第一步
 
+<a id="in-three-sentences"></a>
+> **In Three Sentences | 三句话读懂本篇**
+>
+> Start with ten short stops that connect the Bible’s story. Read a few passages before trying to solve every question. Use the glossary when a word is new.
+> 先用十个短站点连起圣经故事。先读几段经文，不必一次解决所有问题。遇到陌生词，可以点开词汇表。
+
 > **Language status | 语言状态:** Fully bilingual, paragraph by paragraph.
 >
 > **语言状态 | Language status：** 全文按段落提供中英双语。
 
-This page is a low-pressure starting point for readers who are new to the Bible, unsure where its many books connect, or reading biblical English as a second language. You do not need to understand every name or doctrine before you begin.
+New to the [Bible](../Glossary/README.md#bible)? Start here. The ten stops below show how its books connect. You can read in Chinese, English, or both. You do not need to know every name or idea before you begin.
 
-本页为圣经初读者、还看不出各卷怎样相连的读者，以及把英语作为第二语言读经的人，提供一个低门槛入口。开始之前，不需要先弄懂所有人名或教义。
+第一次读[圣经](../Glossary/README.md#bible)，可以从这里开始。下面十站帮助你看清各卷怎样相连。可以只读中文、只读英文，或两种一起读。开始前不必先弄懂所有人名和概念。
+
+![Ten-stage Bible storyline with approximate and disputed dates / 十站圣经故事线，标注大致年代与争议](../assets/maps/bible-storyline.svg)
+
+The order is narrative, not a proportional timescale. Early date ranges are debated; creation, fall, and new creation are not assigned calendar dates. / 图按叙事顺序排列，不按时间比例；早期年代区间有争议，创造、堕落与新创造不设公历日期。 [Open full SVG | 打开完整图](../assets/maps/bible-storyline.svg)
 
 <a id="route-guide"></a>
 ## Route Guide | 路线导航
 
 | Route | 跳转 |
 | --- | --- |
+| [Ten story stops](#ten-stops) | [十站故事线](#ten-stops) |
 | [Before you begin](#before-you-begin) | [开始前](#before-you-begin) |
 | [30-minute first reading](#thirty-minute-route) | [30 分钟第一次阅读](#thirty-minute-route) |
 | [Four-week first steps](#four-week-route) | [前四周](#four-week-route) |
+| [Glossary: 43 words](../Glossary/README.md) | [43词词汇表](../Glossary/README.md) |
 | [Small glossary](#glossary) | [术语小表](#glossary) |
 | [What to read next](#next-steps) | [下一步读什么](#next-steps) |
+
+<a id="ten-stops"></a>
+## Ten Story Stops | 十站故事线
+
+Read this section as a picture guide. The 30-minute and four-week routes below select passages from the same story. Art is a later interpretation, not a historical photograph. / 本节是一份图像导读；后面的30分钟和四周路线从同一故事选取经文。画作是后来的诠释，不是历史照片。
+
+<a id="stop-creation"></a>
+### Creation | 创造
+
+Begin with Genesis 1–2. [Creation](../Glossary/README.md#creation) means that the world is God’s gift, with a purpose and a place for human responsibility. These opening chapters belong to the [Old Testament](../Glossary/README.md#old-testament).
+
+先读创世记一至二章。[创造](../Glossary/README.md#creation)表达世界是神的礼物，具有目的，人也承担责任。这些开篇故事属于[旧约](../Glossary/README.md#old-testament)。
+
+**Read | 阅读：** Genesis 1–2 / 创世记1–2章。
+
+![Light breaks through clouds over a dark sea / 光穿过云层，照在暗海上](../assets/illustrations/dore-creation.jpg)
+
+*Gustave Doré — The Creation of Light / 创造之光, 1866. Public-domain art; not historical evidence. / 公有领域画作，不作为历史证据。* [Source and rights | 来源与权利](../CREDITS.md#artworks)
+
+<a id="stop-fall"></a>
+### Fall | 堕落
+
+Genesis 3–4 tells of distrust, harm, and broken relationships. [Fall](../Glossary/README.md#fall) is a short name for this turn; [sin](../Glossary/README.md#sin) names the wrong and its spreading effects. The story does not end with failure.
+
+创世记三至四章叙述不信任、伤害和关系破裂。“[堕落](../Glossary/README.md#fall)”概括这个转折，“[罪](../Glossary/README.md#sin)”说明过错及其扩散。故事并没有停在失败。
+
+**Read | 阅读：** Genesis 3–4 / 创世记3–4章。
+
+![Two figures leave a garden beneath an angel / 两人在天使下方离开园子](../assets/illustrations/dore-fall.jpg)
+
+*Gustave Doré — Adam and Eve Are Driven out of Eden / 亚当和夏娃离开伊甸园, 1866. Public-domain art; not historical evidence. / 公有领域画作，不作为历史证据。* [Source and rights | 来源与权利](../CREDITS.md#artworks)
+
+<a id="stop-covenant"></a>
+### Covenant with Abraham | 与亚伯拉罕立约
+
+God makes a [covenant](../Glossary/README.md#covenant) with Abraham: a [promise](../Glossary/README.md#promise) with a calling and responsibility. [Blessing](../Glossary/README.md#blessing) is meant to reach other families too. [Faith](../Glossary/README.md#faith) means trusting God and responding, not knowing every answer.
+
+神与亚伯拉罕立[约](../Glossary/README.md#covenant)：有[应许](../Glossary/README.md#promise)，也有呼召和责任。[祝福](../Glossary/README.md#blessing)还要传向别的家庭。[信心](../Glossary/README.md#faith)是信任神并回应，不必先知道所有答案。
+
+**Read | 阅读：** Genesis 12:1–9; 15:1–6 / 创世记12:1–9；15:1–6。
+
+![Travelers and sheep cross a ridge / 行旅与羊群越过山岭](../assets/illustrations/dore-abraham.jpg)
+
+*Gustave Doré — Abraham Goes to the Land of Canaan / 亚伯拉罕前往迦南, 1866. Public-domain art; not historical evidence. / 公有领域画作，不作为历史证据。* [Source and rights | 来源与权利](../CREDITS.md#artworks)
+
+<a id="stop-exodus"></a>
+### Exodus and law | 出埃及与律法
+
+[Exodus](../Glossary/README.md#exodus) tells of [Israel](../Glossary/README.md#israel) leaving slavery in Egypt. [Passover](../Glossary/README.md#passover) remembers this rescue, also described with the words [salvation](../Glossary/README.md#salvation) and [redemption](../Glossary/README.md#redemption). [Law](../Glossary/README.md#law) guides the rescued community; [priests](../Glossary/README.md#priest), [sacrifices](../Glossary/README.md#sacrifice), and the [tabernacle](../Glossary/README.md#tabernacle) belong to its worship.
+
+[出埃及](../Glossary/README.md#exodus)叙述[以色列](../Glossary/README.md#israel)离开埃及的奴役。[逾越节](../Glossary/README.md#passover)记念拯救，“[救恩](../Glossary/README.md#salvation)”和“[救赎](../Glossary/README.md#redemption)”也用来表达拯救。[律法](../Glossary/README.md#law)引导获救的群体；[祭司](../Glossary/README.md#priest)、[献祭](../Glossary/README.md#sacrifice)和[会幕](../Glossary/README.md#tabernacle)属于其敬拜生活。
+
+**Read | 阅读：** Exodus 12–14; 19–20 / 出埃及记12–14；19–20章。
+
+![Moses descends rocky slopes carrying tablets / 摩西带着石版走下山坡](../assets/illustrations/dore-moses.jpg)
+
+*Gustave Doré — Moses Comes Down from Mount Sinai / 摩西从西乃山下来, 1866. Public-domain art; not historical evidence. / 公有领域画作，不作为历史证据。* [Source and rights | 来源与权利](../CREDITS.md#artworks)
+
+<a id="stop-kingdom"></a>
+### Kingdom and Division | 王国与分裂
+
+Human kings can fail. The [kingdom of God](../Glossary/README.md#kingdom) means God’s rule. The [temple](../Glossary/README.md#temple) becomes a center of worship. [Prophets](../Glossary/README.md#prophet) call people back to faithfulness; a [psalm](../Glossary/README.md#psalm) can voice praise or grief, and [wisdom](../Glossary/README.md#wisdom) writing explores how to live. After the division, Israel often means the northern kingdom and [Judah](../Glossary/README.md#judah) the southern kingdom.
+
+人间君王仍会失败。[国度（神的国）](../Glossary/README.md#kingdom)指神掌权。[圣殿](../Glossary/README.md#temple)成为敬拜中心。[先知](../Glossary/README.md#prophet)呼吁人回到忠信；[诗篇](../Glossary/README.md#psalm)可以表达赞美或悲伤，[智慧](../Glossary/README.md#wisdom)文学则探索怎样生活。王国分裂后，以色列常指北国，[犹大](../Glossary/README.md#judah)常指南国。
+
+**Read | 阅读：** 1 Kings 8; 12 / 列王纪上8；12章。
+
+![Workers move large cut tree trunks / 工人搬运砍下的大树干](../assets/illustrations/dore-kingdom.jpg)
+
+*Gustave Doré — Cedars Are Cut Down for the Jerusalem Temple / 为耶路撒冷圣殿砍伐香柏木, 1866. Public-domain art; not historical evidence. / 公有领域画作，不作为历史证据。* [Source and rights | 来源与权利](../CREDITS.md#artworks)
+
+<a id="stop-exile"></a>
+### Exile and return | 被掳与归回
+
+[Exile](../Glossary/README.md#exile) means people are forced away from home. [Return](../Glossary/README.md#return) describes some of them coming back and rebuilding worship and community. Neither word means that every person had the same experience.
+
+[被掳](../Glossary/README.md#exile)指人被迫离开故土。[归回](../Glossary/README.md#return)指部分人回来，重建敬拜和群体。这两个词不表示每个人的经历都相同。
+
+**Read | 阅读：** 2 Kings 24–25; Ezra 1–3 / 列王纪下24–25；以斯拉记1–3章。
+
+![Workers and a crowd gather at temple foundations / 工人与群众聚集在圣殿地基旁](../assets/illustrations/dore-return.jpg)
+
+*Gustave Doré — The Rebuilding of the Temple Is Begun / 开始重建圣殿, 1866. Public-domain art; not historical evidence. / 公有领域画作，不作为历史证据。* [Source and rights | 来源与权利](../CREDITS.md#artworks)
+
+<a id="stop-between"></a>
+### Between the Testaments | 两约之间
+
+The world changes between the return stories and the Gospels. The picture recalls the Maccabean crisis, described in 1 Maccabees; Christian traditions differ over that book’s place in the [canon](../Glossary/README.md#canon). Here it supplies historical reading context, not a new requirement for the reading route.
+
+从归回故事走向[福音](../Glossary/README.md#gospel)书，时代背景发生变化。画作回顾马加比危机，相关叙述见马加比一书；不同基督教传统对它是否属于[正典](../Glossary/README.md#canon)的认定不同。这里把它用作历史阅读背景，不增加本路线的必读书目。
+
+**Read | 阅读：** Background / 背景：1 Maccabees 2:42–70 / 马加比一书2:42–70。
+
+![An elder addresses a gathered group / 长者向聚集的人群讲话](../assets/illustrations/dore-between-testaments.jpg)
+
+*Gustave Doré — Mattathias Appeals to the Jewish Refugees / 玛他提亚向犹太避难者讲话, 1866. Public-domain art; not historical evidence. / 公有领域画作，不作为历史证据。* [Source and rights | 来源与权利](../CREDITS.md#artworks)
+
+<a id="stop-jesus"></a>
+### Jesus | 耶稣
+
+The [New Testament](../Glossary/README.md#new-testament) presents Jesus as [Messiah](../Glossary/README.md#messiah), also called [Christ](../Glossary/README.md#christ). [Gospel](../Glossary/README.md#gospel) means the good news about him; [grace](../Glossary/README.md#grace), [repentance](../Glossary/README.md#repentance), and [forgiveness](../Glossary/README.md#forgiveness) describe God’s gift and people’s response. A [disciple](../Glossary/README.md#disciple) learns to follow Jesus. A [parable](../Glossary/README.md#parable) helps people see. [Resurrection](../Glossary/README.md#resurrection) means being raised from death.
+
+[新约](../Glossary/README.md#new-testament)称耶稣为[弥赛亚](../Glossary/README.md#messiah)，也称[基督](../Glossary/README.md#christ)。福音是关于祂的好消息；[恩典](../Glossary/README.md#grace)、[悔改](../Glossary/README.md#repentance)和[赦免](../Glossary/README.md#forgiveness)，说明神的赐予与人的回应。[门徒](../Glossary/README.md#disciple)学习跟随耶稣。[比喻](../Glossary/README.md#parable)帮助人理解。[复活](../Glossary/README.md#resurrection)指从死亡中被兴起。
+
+**Read | 阅读：** Mark 1:14–20; 15:33–39; 16:1–8 / 马可福音1:14–20；15:33–39；16:1–8。
+
+![Three travelers ride camels along a mountain path / 三位行旅骑骆驼走在山路上](../assets/illustrations/tissot-magi.jpg)
+
+*James Tissot — Journey of the Magi / 博士的旅程, c. 1894. Public-domain art; not historical evidence. / 公有领域画作，不作为历史证据。* [Source and rights | 来源与权利](../CREDITS.md#artworks)
+
+<a id="stop-church"></a>
+### Church | 教会
+
+At [Pentecost](../Glossary/README.md#pentecost) in Acts 2, the [Holy Spirit](../Glossary/README.md#holy-spirit) equips Jesus’ followers to bear witness. [Apostles](../Glossary/README.md#apostle) are sent with a task, and [church](../Glossary/README.md#church) names the community rather than mainly a building. The good news also reaches [Gentiles](../Glossary/README.md#gentile), people outside the Jewish people.
+
+使徒行传第二章的[五旬节](../Glossary/README.md#pentecost)，[圣灵](../Glossary/README.md#holy-spirit)帮助耶稣的跟随者作见证。[使徒](../Glossary/README.md#apostle)受差遣承担使命；[教会](../Glossary/README.md#church)主要指群体，而非建筑。好消息也传向[外邦人](../Glossary/README.md#gentile)，就是非犹太人。
+
+**Read | 阅读：** Acts 2; 17:1–9 / 使徒行传2章；17:1–9。
+
+![Paul speaks to seated listeners / 保罗向坐着的听众讲话](../assets/illustrations/dore-church.jpg)
+
+*Gustave Doré — Paul Preaching to the Thessalonians / 保罗向帖撒罗尼迦人传讲, 1866. Public-domain art; not historical evidence. / 公有领域画作，不作为历史证据。* [Source and rights | 来源与权利](../CREDITS.md#artworks)
+
+<a id="stop-new-creation"></a>
+### New creation | 新创造
+
+[New creation](../Glossary/README.md#new-creation) is the final hope of God renewing the world and living with his people. Revelation uses a vision of a renewed city to express that hope. The passage does not give a calendar date.
+
+[新创造](../Glossary/README.md#new-creation)表达最终的盼望：神更新世界，与子民同住。启示录用更新城邑的异象表达这份盼望。经文并没有提供公历日期。
+
+**Read | 阅读：** Revelation 21:1–5 / 启示录21:1–5。
+
+![An angel points a viewer toward a bright city / 天使引导观看者望向光照中的城](../assets/illustrations/dore-new-creation.jpg)
+
+*Gustave Doré — The New Jerusalem / 新耶路撒冷, 1866 series; file-page copy date 1890. Public-domain art; not historical evidence. / 1866年系列；文件页的复制本日期为1890年。公有领域画作，不作为历史证据。* [Source and rights | 来源与权利](../CREDITS.md#artworks)
 
 <a id="before-you-begin"></a>
 ## Before You Begin | 开始前
 
-Use a Bible you can legally access and understand. Reading the Chinese text first and then one English paragraph is a useful ESL pattern, but reading in one language is enough for this route. If you want to try the International Standard Version, use the [ISV Access and ESL Guide](../Bible_Translations/ISV_International_Standard_Version_Access_and_ESL_Guide.md) to reach an authorized copy.
+Use a Bible you can legally access and understand. If you are learning English, try the Chinese text first, then one English paragraph. Reading in one language is also enough. If you want to try the International Standard Version, use the [ISV Access and ESL Guide](../Bible_Translations/ISV_International_Standard_Version_Access_and_ESL_Guide.md) to reach an authorized copy.
 
-请使用自己可以合法取得并且读得懂的圣经。对 ESL 读者，先读中文、再读同一段英文，是一种实用方法；但完成本路线并不要求同时读两种语言。若想尝试 International Standard Version，可通过 [ISV 获取与 ESL 指南](../Bible_Translations/ISV_International_Standard_Version_Access_and_ESL_Guide.md)进入正版授权渠道。
+请使用可以合法取得、自己也读得懂的圣经。学习英语时，可以先读中文，再读一段对应英文。只读一种语言也可以。若想尝试 International Standard Version，可通过 [ISV 获取与 ESL 指南](../Bible_Translations/ISV_International_Standard_Version_Access_and_ESL_Guide.md)进入正版授权渠道。
 
 Read the passage before reading a study note. For each reading session, answer only the one core question provided. Mark unfamiliar words and continue; you can investigate them later.
 
@@ -68,9 +215,9 @@ This route samples the Bible's beginning, crisis, center, and ending. The times 
 
 **One core question | 一个核心问题：** What is healed or restored at the end of the Bible's story? | 在圣经故事的结尾，哪些破裂得到医治或恢复？
 
-The simplest storyline is: God creates a good world; human distrust brings sin and death; God carries forward a promise; Jesus announces God's kingdom, dies, and rises; the story ends with God renewing creation and dwelling with humanity.
+God creates a good world, but human distrust brings sin and death. God keeps his promise through a people and through Jesus. Jesus announces God’s kingdom, dies, and rises. The story looks toward God renewing creation and living with humanity.
 
-最简故事线是：神创造美好世界；人的不信带来罪与死亡；神继续推动应许；耶稣宣告神国、受死并复活；故事以神更新受造界、与人同住结束。
+神创造美好世界，人的不信却带来罪与死亡。神通过一个群体，并通过耶稣，继续成就应许。耶稣宣告神的国，受死并复活。故事最后指向神更新世界、与人同住。
 
 <a id="four-week-route"></a>
 ## Four-Week First Steps | 前四周
@@ -80,10 +227,6 @@ Use two short sessions each week. Each session has one question. The handoff sen
 每周安排两个短时段，每次只回答一个问题。“接力句”说明这一周怎样通向下一周；它只是帮助记忆的总结，不是额外作业。
 
 ### Week One A Good World Becomes Broken | 第一周 美好世界走向破裂
-
-![The Creation of Light / 创造之光](../assets/illustrations/dore-creation.jpg)
-
-*Gustave Doré, 1866 — The Creation of Light / 创造之光. Public domain; artistic interpretation, not historical evidence. / 公有领域画作，属于艺术诠释，不是历史证据。* [Source and rights | 来源与权利](../CREDITS.md#artworks)
 
 **Session 1 | 第一次：** Read Genesis 1–2 | 阅读创世记 1–2 章。
 
@@ -109,10 +252,6 @@ Use two short sessions each week. Each session has one question. The handoff sen
 
 ### Week Three Rescue and Covenant | 第三周 拯救与立约
 
-![Moses Comes Down from Mount Sinai / 摩西从西乃山下来](../assets/illustrations/dore-moses.jpg)
-
-*Gustave Doré, 1866 — Moses Comes Down from Mount Sinai / 摩西从西乃山下来. Public domain; artistic interpretation, not historical evidence. / 公有领域画作，属于艺术诠释，不是历史证据。* [Source and rights | 来源与权利](../CREDITS.md#artworks)
-
 **Session 1 | 第一次：** Read Exodus 1:8–2:10 and 3:1–15 | 阅读出埃及记 1:8–2:10、3:1–15。
 
 **One core question | 一个核心问题：** What does God see, hear, remember, and decide to do for an oppressed people? | 面对受压迫的百姓，神看见、听见、记念并决定做什么？
@@ -125,10 +264,6 @@ Use two short sessions each week. Each session has one question. The handoff sen
 
 ### Week Four Jesus and New Creation | 第四周 耶稣与新创造
 
-![The Resurrection / 复活](../assets/illustrations/tissot-resurrection.jpg)
-
-*James Tissot, 1886–1894 — The Resurrection / 复活. Public domain; artistic interpretation, not historical evidence. / 公有领域画作，属于艺术诠释，不是历史证据。* [Source and rights | 来源与权利](../CREDITS.md#artworks)
-
 **Session 1 | 第一次：** Read Luke 4:14–21 and Mark 1:14–20 | 阅读路加福音 4:14–21、马可福音 1:14–20。
 
 **One core question | 一个核心问题：** What does Jesus say God's kingdom brings, and how does he call people to respond? | 耶稣说神的国带来什么，又呼召人怎样回应？
@@ -137,7 +272,7 @@ Use two short sessions each week. Each session has one question. The handoff sen
 
 **One core question | 一个核心问题：** How do Jesus' death and resurrection point toward the renewal promised at the Bible's end? | 耶稣的受死与复活，怎样指向圣经结尾所应许的更新？
 
-**Handoff | 接力句：** The rest of the New Testament explains how the risen Jesus forms a Spirit-filled people who live toward God's completed new creation. | 新约其余部分继续说明，复活的耶稣怎样借圣灵建立一群子民，使他们朝向神最终完成的新创造而活。
+**Handoff | 接力句：** The New Testament goes on to describe a people formed around the risen Jesus. The Holy Spirit helps them live toward new creation. | 新约接着描写围绕复活耶稣形成的群体。圣灵帮助他们朝向新创造而活。
 
 <a id="glossary"></a>
 ## Small Glossary | 术语小表

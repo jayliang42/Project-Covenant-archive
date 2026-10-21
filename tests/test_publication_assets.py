@@ -19,7 +19,7 @@ SAFE_SVG = (
 class AssetBoundaryTests(unittest.TestCase):
     def test_accepts_committed_media_and_exact_map_regeneration(self) -> None:
         maps = generate_maps.generated_maps()
-        self.assertEqual(2, len(maps))
+        self.assertEqual(9, len(maps))
         self.assertEqual(maps, generate_maps.generated_maps())
         for name, data in maps.items():
             self.assertEqual(data, (ROOT / "assets/maps" / name).read_bytes())
