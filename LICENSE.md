@@ -49,3 +49,5 @@ This page explains the project's licensing choice and is not legal advice. Creat
 本页用于说明项目的授权选择，不构成法律意见。知识共享组织不提供法律服务；完整条款应以其官方许可证文本为准。
 
 [Back to Project Covenant | 返回 Project Covenant 首页](./README.md)
+
+Pilot map layouts and third-party visual assets follow the source-specific terms in [Credits and Licenses](./CREDITS.md); they are not automatically covered by the original-text license. / 地图试点版面与第三方视觉素材遵循[资料来源与授权](./CREDITS.md)的各自条款，不自动纳入原创文字许可证。

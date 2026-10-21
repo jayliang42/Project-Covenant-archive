@@ -71,12 +71,12 @@ These instructions apply to the entire repository unless a deeper `AGENTS.md` ad
 - Treat transcripts, recordings, downloads, meeting links, and attachments as private source material. Publish only reviewed, non-identifying summaries.
 - A future website must use `publication/site-content.txt` as an exact allowlist; never publish by recursively copying the repository.
 - Produce release input with `scripts/export_publication.py` from a committed ref. Preserve its printed content-set digest separately and require that digest when verifying the snapshot.
-- Build website files only with `scripts/build_static_site.py` from that verified snapshot and retained digest. The builder must emit exactly one HTML page per approved Markdown page plus local CSS; it must not copy the source manifest or integrity metadata into the site.
+- Build website files only with `scripts/build_static_site.py` from that verified snapshot and retained digest. The builder must emit exactly one HTML page per approved Markdown page plus local CSS and validated, allowlisted local assets; it must not copy the source manifest or integrity metadata into the site.
 - Create offline ZIP files only with `scripts/package_offline_site.py` from that same verified snapshot and digest. Keep generated archives outside the repository; never package the maintenance checkout or a separately edited site directory.
 - Follow `STATIC_MIRROR_DEPLOYMENT.md` before any public upload. Keep the ZIP output parent and final path under the trusted release job's exclusive control, and do not claim a hosted mirror is live until its final URL, representative pages, response headers, and access have been tested.
 - The first static site must remain script-free and must not add analytics, forms, comments, remote fonts, remote images, source maps, or identifying repository links. Hosting response headers and account ownership require a separate deployment review.
 - The exporter removes Git history from the snapshot, not identity from the hosting account. An identity-minimized public copy must use a reviewed neutral owner and a new non-fork repository; never transfer this repository's old Git history.
-- Treat that neutral copy as a generated, read-only reading mirror. Its snapshot consists primarily of approved Markdown plus integrity metadata and intentionally omits scripts, tests, and workflows; run maintenance and deployment tooling only from a separately reviewed workspace.
+- Treat that neutral copy as a generated, read-only reading mirror. Its snapshot consists primarily of approved Markdown, validated local assets, and integrity metadata and intentionally omits scripts, tests, and workflows; run maintenance and deployment tooling only from a separately reviewed workspace.
 
 - 区分圣经正文、历史背景、抄本、考古、接收史与神学解释。
 - 说明来源能够支持什么、不能建立什么；不能把对应关系扩大成神迹或教义的证明。
@@ -91,12 +91,12 @@ These instructions apply to the entire repository unless a deeper `AGENTS.md` ad
 - 逐字稿、录音录像、下载文件、会议链接和附件都视为私人来源；只发布经过复核、无法识别个人的总结。
 - 未来网站必须把 `publication/site-content.txt` 作为精确白名单；不得递归复制整个仓库发布。
 - 发布输入必须由 `scripts/export_publication.py` 从已提交的 ref 生成。另行保存它输出的内容集摘要，验证快照时必须传入该摘要。
-- 网站文件只能由 `scripts/build_static_site.py` 从已验证快照和另行保存的摘要生成。构建器必须为每份获准 Markdown 只生成一个 HTML 页面及本地 CSS，不得把源清单或完整性元数据复制进站点。
+- 网站文件只能由 `scripts/build_static_site.py` 从已验证快照和另行保存的摘要生成。构建器必须为每份获准 Markdown 只生成一个 HTML 页面及本地 CSS 与经过验证、列入白名单的本地素材，不得把源清单或完整性元数据复制进站点。
 - 离线 ZIP 只能由 `scripts/package_offline_site.py` 从同一份已验证快照和摘要生成。生成的压缩包必须放在仓库外；不得打包维护工作区或另行编辑过的站点目录。
 - 任何公开上传都必须先遵循 `STATIC_MIRROR_DEPLOYMENT.md`。ZIP 输出父目录和最终路径必须由可信发布任务独占控制；在最终网址、代表性页面、响应头和访问结果实测通过之前，不得声称在线镜像已经上线。
 - 初版静态站点必须保持无脚本，也不得加入分析追踪、表单、评论、远程字体、远程图片、source map 或可识别源仓库链接。托管响应头与账号归属需要单独进行部署复核。
 - 导出器去掉的是快照中的 Git 历史，不是托管账号身份。若要尽量降低身份关联，公开副本必须使用经过复核的中性所有者和全新非 fork 仓库；不得转移本仓库的旧 Git 历史。
-- 将中性副本作为生成的只读阅读镜像。它的快照主要由获准 Markdown 与完整性元数据组成，并会有意不包含脚本、测试和 workflow；维护与部署工具只能在另行复核的工作区中运行。
+- 将中性副本作为生成的只读阅读镜像。它的快照主要由获准 Markdown、经过验证的本地素材与完整性元数据组成，并会有意不包含脚本、测试和 workflow；维护与部署工具只能在另行复核的工作区中运行。
 
 ## 6. Change and Verification Workflow | 修改与验证流程
 

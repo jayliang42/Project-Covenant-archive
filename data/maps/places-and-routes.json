@@ -1,0 +1,425 @@
+{
+  "source": "OpenBible.info, legacy merged Bible geocoding dataset (2007 export)",
+  "source_url": "https://www.openbible.info/geo/data/merged.txt",
+  "license": "CC BY 4.0",
+  "license_page": "https://www.openbible.info/geo/",
+  "coordinates": "Representative WGS84 longitude/latitude; rounded to six decimals; uncertainty is not removed by numeric precision.",
+  "places": {
+    "Nazareth": {
+      "en": "Nazareth",
+      "zh": "拿撒勒",
+      "lon": 35.301528,
+      "lat": 32.706745,
+      "source_key": "Nazareth"
+    },
+    "Bethlehem 1": {
+      "en": "Bethlehem",
+      "zh": "伯利恒",
+      "lon": 35.210266,
+      "lat": 31.705361,
+      "source_key": "Bethlehem 1"
+    },
+    "Capernaum": {
+      "en": "Capernaum",
+      "zh": "迦百农",
+      "lon": 35.575158,
+      "lat": 32.880594,
+      "source_key": "Capernaum"
+    },
+    "Jerusalem": {
+      "en": "Jerusalem",
+      "zh": "耶路撒冷",
+      "lon": 35.234935,
+      "lat": 31.777444,
+      "source_key": "Jerusalem"
+    },
+    "Jericho": {
+      "en": "Jericho",
+      "zh": "耶利哥",
+      "lon": 35.443864,
+      "lat": 31.870601,
+      "source_key": "Jericho"
+    },
+    "Cana": {
+      "en": "Cana?",
+      "zh": "迦拿？",
+      "lon": 35.338772,
+      "lat": 32.747015,
+      "source_key": "Cana"
+    },
+    "Samaria": {
+      "en": "Samaria / Sebaste",
+      "zh": "撒玛利亚城",
+      "lon": 35.197929,
+      "lat": 32.280231,
+      "source_key": "Samaria"
+    },
+    "Beth-shan": {
+      "en": "Scythopolis",
+      "zh": "斯基泰城",
+      "lon": 35.503077,
+      "lat": 32.504238,
+      "source_key": "Beth-shan"
+    },
+    "Caesarea": {
+      "en": "Caesarea",
+      "zh": "凯撒利亚",
+      "lon": 34.892185,
+      "lat": 32.499545,
+      "source_key": "Caesarea"
+    },
+    "Antioch 1": {
+      "en": "Syrian Antioch",
+      "zh": "叙利亚安提阿",
+      "lon": 36.162388,
+      "lat": 36.202331,
+      "source_key": "Antioch 1"
+    },
+    "Antioch 2": {
+      "en": "Pisidian Antioch",
+      "zh": "彼西底安提阿",
+      "lon": 31.179487,
+      "lat": 38.316431,
+      "source_key": "Antioch 2"
+    },
+    "Seleucia": {
+      "en": "Seleucia",
+      "zh": "西流基",
+      "lon": 35.926808,
+      "lat": 36.111018,
+      "source_key": "Seleucia"
+    },
+    "Salamis": {
+      "en": "Salamis",
+      "zh": "撒拉米",
+      "lon": 33.907552,
+      "lat": 35.177246,
+      "source_key": "Salamis"
+    },
+    "Paphos": {
+      "en": "Paphos",
+      "zh": "帕弗",
+      "lon": 32.400162,
+      "lat": 34.754106,
+      "source_key": "Paphos"
+    },
+    "Perga": {
+      "en": "Perga",
+      "zh": "别加",
+      "lon": 30.904946,
+      "lat": 37.005208,
+      "source_key": "Perga"
+    },
+    "Attalia": {
+      "en": "Attalia",
+      "zh": "亚大利",
+      "lon": 30.694566,
+      "lat": 36.880826,
+      "source_key": "Attalia"
+    },
+    "Iconium": {
+      "en": "Iconium",
+      "zh": "以哥念",
+      "lon": 32.494263,
+      "lat": 37.88353,
+      "source_key": "Iconium"
+    },
+    "Lystra": {
+      "en": "Lystra",
+      "zh": "路司得",
+      "lon": 32.453183,
+      "lat": 37.578135,
+      "source_key": "Lystra"
+    },
+    "Derbe": {
+      "en": "Derbe?",
+      "zh": "特庇？",
+      "lon": 33.271418,
+      "lat": 37.35092,
+      "source_key": "Derbe"
+    },
+    "Troas": {
+      "en": "Troas",
+      "zh": "特罗亚",
+      "lon": 26.080593,
+      "lat": 39.506643,
+      "source_key": "Troas"
+    },
+    "Neapolis": {
+      "en": "Neapolis",
+      "zh": "尼亚波利",
+      "lon": 24.41768,
+      "lat": 40.944132,
+      "source_key": "Neapolis"
+    },
+    "Philippi": {
+      "en": "Philippi",
+      "zh": "腓立比",
+      "lon": 24.286191,
+      "lat": 41.011959,
+      "source_key": "Philippi"
+    },
+    "Thessalonica": {
+      "en": "Thessalonica",
+      "zh": "帖撒罗尼迦",
+      "lon": 22.932087,
+      "lat": 40.632156,
+      "source_key": "Thessalonica"
+    },
+    "Berea": {
+      "en": "Berea",
+      "zh": "庇哩亚",
+      "lon": 22.2,
+      "lat": 40.5167,
+      "source_key": "Berea"
+    },
+    "Athens": {
+      "en": "Athens",
+      "zh": "雅典",
+      "lon": 23.733333,
+      "lat": 37.983333,
+      "source_key": "Athens"
+    },
+    "Corinth": {
+      "en": "Corinth",
+      "zh": "哥林多",
+      "lon": 22.877882,
+      "lat": 37.905957,
+      "source_key": "Corinth"
+    },
+    "Ephesus": {
+      "en": "Ephesus",
+      "zh": "以弗所",
+      "lon": 27.367825,
+      "lat": 37.953314,
+      "source_key": "Ephesus"
+    },
+    "Miletus": {
+      "en": "Miletus",
+      "zh": "米利都",
+      "lon": 27.3,
+      "lat": 37.5,
+      "source_key": "Miletus"
+    },
+    "Tyre": {
+      "en": "Tyre",
+      "zh": "推罗",
+      "lon": 35.192575,
+      "lat": 33.275828,
+      "source_key": "Tyre"
+    },
+    "Sidon": {
+      "en": "Sidon",
+      "zh": "西顿",
+      "lon": 35.366346,
+      "lat": 33.563167,
+      "source_key": "Sidon"
+    },
+    "Myra": {
+      "en": "Myra",
+      "zh": "每拉",
+      "lon": 30.011459,
+      "lat": 36.230772,
+      "source_key": "Myra"
+    },
+    "Cnidus": {
+      "en": "Cnidus",
+      "zh": "革尼土",
+      "lon": 27.374394,
+      "lat": 36.685023,
+      "source_key": "Cnidus"
+    },
+    "Fair Havens": {
+      "en": "Fair Havens",
+      "zh": "佳澳",
+      "lon": 24.731141,
+      "lat": 34.921384,
+      "source_key": "Fair Havens"
+    },
+    "Cauda": {
+      "en": "Cauda",
+      "zh": "高大",
+      "lon": 24.091671,
+      "lat": 34.84351,
+      "source_key": "Cauda"
+    },
+    "Malta": {
+      "en": "Malta?",
+      "zh": "马耳他？",
+      "lon": 14.532436,
+      "lat": 35.852827,
+      "source_key": "Malta"
+    },
+    "Syracuse": {
+      "en": "Syracuse",
+      "zh": "叙拉古",
+      "lon": 15.294824,
+      "lat": 37.068232,
+      "source_key": "Syracuse"
+    },
+    "Rhegium": {
+      "en": "Rhegium",
+      "zh": "利基翁",
+      "lon": 15.643279,
+      "lat": 38.11158,
+      "source_key": "Rhegium"
+    },
+    "Puteoli": {
+      "en": "Puteoli",
+      "zh": "部丢利",
+      "lon": 14.267744,
+      "lat": 40.835631,
+      "source_key": "Puteoli"
+    },
+    "Rome": {
+      "en": "Rome",
+      "zh": "罗马",
+      "lon": 12.483333,
+      "lat": 41.9,
+      "source_key": "Rome"
+    },
+    "Patara": {
+      "en": "Patara",
+      "zh": "帕大喇",
+      "lon": 29.318638,
+      "lat": 36.274718,
+      "source_key": "Patara"
+    },
+    "Rhodes": {
+      "en": "Rhodes",
+      "zh": "罗底",
+      "lon": 28.226722,
+      "lat": 36.441926,
+      "source_key": "Rhodes"
+    },
+    "Cos": {
+      "en": "Cos",
+      "zh": "哥士",
+      "lon": 27.08994,
+      "lat": 36.80467,
+      "source_key": "Cos"
+    }
+  },
+  "routes": [
+    {
+      "id": "journey-1",
+      "en": "First journey",
+      "zh": "第一次宣教旅程",
+      "references": "Acts 13–14 / 使徒行传 13–14",
+      "color": "#8a3324",
+      "dash": "none",
+      "extent": [
+        29.6,
+        33.5,
+        37.6,
+        39.0
+      ],
+      "stops": [
+        "Antioch 1",
+        "Seleucia",
+        "Salamis",
+        "Paphos",
+        "Perga",
+        "Antioch 2",
+        "Iconium",
+        "Lystra",
+        "Derbe",
+        "Lystra",
+        "Iconium",
+        "Antioch 2",
+        "Perga",
+        "Attalia",
+        "Seleucia",
+        "Antioch 1"
+      ]
+    },
+    {
+      "id": "journey-2",
+      "en": "Second journey",
+      "zh": "第二次宣教旅程",
+      "references": "Acts 15:36–18:22 / 徒 15:36–18:22",
+      "color": "#245d7a",
+      "dash": "12 6",
+      "extent": [
+        21.5,
+        30.8,
+        37.2,
+        42.0
+      ],
+      "stops": [
+        "Antioch 1",
+        "Derbe",
+        "Lystra",
+        "Troas",
+        "Neapolis",
+        "Philippi",
+        "Thessalonica",
+        "Berea",
+        "Athens",
+        "Corinth",
+        "Ephesus",
+        "Caesarea",
+        "Jerusalem",
+        "Antioch 1"
+      ]
+    },
+    {
+      "id": "journey-3",
+      "en": "Third journey",
+      "zh": "第三次宣教旅程",
+      "references": "Acts 18:23–21:16 / 徒 18:23–21:16",
+      "color": "#536b30",
+      "dash": "3 6",
+      "extent": [
+        21.5,
+        30.8,
+        37.2,
+        42.0
+      ],
+      "stops": [
+        "Antioch 1",
+        "Ephesus",
+        "Philippi",
+        "Thessalonica",
+        "Corinth",
+        "Philippi",
+        "Troas",
+        "Miletus",
+        "Cos",
+        "Rhodes",
+        "Patara",
+        "Tyre",
+        "Caesarea",
+        "Jerusalem"
+      ]
+    },
+    {
+      "id": "rome",
+      "en": "Voyage to Rome",
+      "zh": "前往罗马的旅程",
+      "references": "Acts 27–28 / 使徒行传 27–28",
+      "color": "#6c3c78",
+      "dash": "15 5 3 5",
+      "extent": [
+        11.4,
+        30.8,
+        37.2,
+        43.0
+      ],
+      "stops": [
+        "Jerusalem",
+        "Caesarea",
+        "Sidon",
+        "Myra",
+        "Cnidus",
+        "Fair Havens",
+        "Cauda",
+        "Malta",
+        "Syracuse",
+        "Rhegium",
+        "Puteoli",
+        "Rome"
+      ]
+    }
+  ]
+}

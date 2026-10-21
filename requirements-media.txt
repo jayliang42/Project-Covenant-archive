@@ -1,0 +1,2 @@
+# Optional preparation only; site build and map regeneration use the standard library.
+Pillow==12.0.0

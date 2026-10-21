@@ -77,10 +77,17 @@ Book_Studies/求真寻道_约翰福音研经问答_使用指南.md
 Book_Studies/游子吟_永恒在召唤_全书解读与阅读指南.md
 Book_Studies/铁证待判_版本辨析与全书研读指南.md
 CONTRIBUTING.md
+CREDITS.md
 Christian_Traditions/01_How_to_Name_the_Groups.md
 Christian_Traditions/README.md
 LICENSE.md
+Maps/README.md
 PUBLICATION_POLICY.md
 README.md
 STATIC_MIRROR_DEPLOYMENT.md
+assets/illustrations/dore-creation.jpg
+assets/illustrations/dore-moses.jpg
+assets/illustrations/tissot-resurrection.jpg
+assets/maps/palestine-jesus.svg
+assets/maps/paul-journeys.svg
 publication/site-content.txt

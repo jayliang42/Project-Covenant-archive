@@ -81,6 +81,10 @@ Use two short sessions each week. Each session has one question. The handoff sen
 
 ### Week One A Good World Becomes Broken | 第一周 美好世界走向破裂
 
+![The Creation of Light / 创造之光](../assets/illustrations/dore-creation.jpg)
+
+*Gustave Doré, 1866 — The Creation of Light / 创造之光. Public domain; artistic interpretation, not historical evidence. / 公有领域画作，属于艺术诠释，不是历史证据。* [Source and rights | 来源与权利](../CREDITS.md#artworks)
+
 **Session 1 | 第一次：** Read Genesis 1–2 | 阅读创世记 1–2 章。
 
 **One core question | 一个核心问题：** What does God call good, and what responsibility does he give human beings? | 神称什么为美好，又把什么责任交给人？
@@ -105,6 +109,10 @@ Use two short sessions each week. Each session has one question. The handoff sen
 
 ### Week Three Rescue and Covenant | 第三周 拯救与立约
 
+![Moses Comes Down from Mount Sinai / 摩西从西乃山下来](../assets/illustrations/dore-moses.jpg)
+
+*Gustave Doré, 1866 — Moses Comes Down from Mount Sinai / 摩西从西乃山下来. Public domain; artistic interpretation, not historical evidence. / 公有领域画作，属于艺术诠释，不是历史证据。* [Source and rights | 来源与权利](../CREDITS.md#artworks)
+
 **Session 1 | 第一次：** Read Exodus 1:8–2:10 and 3:1–15 | 阅读出埃及记 1:8–2:10、3:1–15。
 
 **One core question | 一个核心问题：** What does God see, hear, remember, and decide to do for an oppressed people? | 面对受压迫的百姓，神看见、听见、记念并决定做什么？
@@ -116,6 +124,10 @@ Use two short sessions each week. Each session has one question. The handoff sen
 **Handoff | 接力句：** The rescued people repeatedly fail, so the story still needs a faithful representative, a deeper rescue, and renewed hearts. | 蒙拯救的百姓仍不断失败，因此故事还需要一位忠信的代表、更深的拯救和被更新的心。
 
 ### Week Four Jesus and New Creation | 第四周 耶稣与新创造
+
+![The Resurrection / 复活](../assets/illustrations/tissot-resurrection.jpg)
+
+*James Tissot, 1886–1894 — The Resurrection / 复活. Public domain; artistic interpretation, not historical evidence. / 公有领域画作，属于艺术诠释，不是历史证据。* [Source and rights | 来源与权利](../CREDITS.md#artworks)
 
 **Session 1 | 第一次：** Read Luke 4:14–21 and Mark 1:14–20 | 阅读路加福音 4:14–21、马可福音 1:14–20。
 

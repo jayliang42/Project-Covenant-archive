@@ -13,6 +13,11 @@ from datetime import date
 from pathlib import Path, PurePosixPath
 from urllib.parse import unquote, urlsplit
 
+if __package__:
+    from . import publication_assets
+else:
+    import publication_assets
+
 
 ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_MANIFEST = ROOT / "publication" / "site-content.txt"
@@ -362,6 +367,17 @@ def scan_worktree(paths: list[Path]) -> tuple[int, list[Finding]]:
                 )
             )
             continue
+        if publication_assets.is_asset_path(relative_text):
+            try:
+                data = absolute.read_bytes()
+                publication_assets.validate_asset(relative_text, data)
+            except (OSError, publication_assets.AssetError):
+                findings.append(Finding("WORKTREE_ASSET_INVALID", relative_text, 0))
+                continue
+            scanned += 1
+            if relative_text.endswith(".svg"):
+                findings.extend(scan_text(relative_text, data.decode("utf-8")))
+            continue
         text = read_text(absolute)
         if text is None:
             findings.append(
@@ -452,7 +468,7 @@ def audit_manifest(
         ):
             findings.append(Finding("SITE_FORBIDDEN_PATH", manifest_label, 0))
             continue
-        if Path(entry).suffix.lower() != ".md" and entry != manifest_label:
+        if Path(entry).suffix.lower() != ".md" and entry != manifest_label and not publication_assets.is_asset_path(entry):
             findings.append(Finding("SITE_NON_MARKDOWN_INPUT", manifest_label, 0))
         if entry not in available_paths or not path.is_file():
             findings.append(Finding("SITE_FILE_MISSING", entry, 0))
@@ -466,6 +482,14 @@ def audit_manifest(
             findings.append(Finding("SITE_PATH_ESCAPES_REPOSITORY", entry, 0))
             continue
 
+        if publication_assets.is_asset_path(entry):
+            try:
+                publication_assets.validate_asset(entry, path.read_bytes())
+            except (OSError, publication_assets.AssetError):
+                findings.append(Finding("SITE_ASSET_INVALID", entry, 0))
+            if "CREDITS.md" not in allowed:
+                findings.append(Finding("SITE_ASSET_CREDITS_REQUIRED", entry, 0))
+            continue
         text = read_text(path)
         if text is None:
             findings.append(Finding("SITE_INPUT_NOT_UTF8_TEXT", entry, 0))
@@ -536,6 +560,18 @@ def history_findings(
             check=True,
             capture_output=True,
         ).stdout
+        asset_paths = [path for path in paths if publication_assets.is_asset_path(path)]
+        if len(asset_paths) == len(paths):
+            try:
+                for path in asset_paths:
+                    publication_assets.validate_asset(path, raw)
+            except publication_assets.AssetError:
+                content_findings.append(Finding("HISTORICAL_ASSET_INVALID", f"history-blob:{object_id[:12]}", 0))
+                continue
+            scanned_blobs += 1
+            if asset_paths[0].endswith(".svg"):
+                content_findings.extend(scan_text(f"history-blob:{object_id[:12]}", raw.decode("utf-8")))
+            continue
         if b"\0" in raw:
             content_findings.append(
                 Finding(

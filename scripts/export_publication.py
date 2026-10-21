@@ -22,10 +22,13 @@ from urllib.parse import unquote, urlsplit
 
 if TYPE_CHECKING:
     from scripts import audit_publication as publication_audit
+    from scripts import publication_assets
 elif __package__:
     from . import audit_publication as publication_audit
+    from . import publication_assets
 else:
     import audit_publication as publication_audit
+    import publication_assets
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -266,7 +269,7 @@ def normalize_public_path(raw_entry: str) -> str:
         for prefix in publication_audit.FORBIDDEN_SITE_PREFIXES
     ):
         raise PublicationExportError("MANIFEST_PATH_FORBIDDEN")
-    if pure.suffix.casefold() != ".md" and raw_entry != MANIFEST_PATH:
+    if pure.suffix.casefold() != ".md" and raw_entry != MANIFEST_PATH and not publication_assets.is_asset_path(raw_entry):
         raise PublicationExportError("MANIFEST_NON_MARKDOWN_INPUT")
     return raw_entry
 
@@ -301,7 +304,7 @@ def parse_manifest(data: bytes) -> list[str]:
     return entries
 
 
-def read_blob(repo_root: Path, entry: GitTreeEntry) -> bytes:
+def read_blob(repo_root: Path, entry: GitTreeEntry, path: str) -> bytes:
     if entry.mode != "100644" or entry.object_type != "blob":
         raise PublicationExportError("SNAPSHOT_SPECIAL_FILE_FORBIDDEN")
     raw_size = git_output(repo_root, ["cat-file", "-s", entry.object_id])
@@ -316,6 +319,12 @@ def read_blob(repo_root: Path, entry: GitTreeEntry) -> bytes:
         raise PublicationExportError("SNAPSHOT_BLOB_SIZE_INVALID")
     if data.startswith(LFS_POINTER_PREFIX):
         raise PublicationExportError("SNAPSHOT_LFS_POINTER_FORBIDDEN")
+    if publication_assets.is_asset_path(path):
+        try:
+            publication_assets.validate_asset(path, data)
+        except publication_assets.AssetError as error:
+            raise PublicationExportError(str(error)) from error
+        return data
     if b"\0" in data:
         raise PublicationExportError("SNAPSHOT_BINARY_FORBIDDEN")
     try:
@@ -732,11 +741,23 @@ def resolved_local_target(current_path: str, raw_target: str) -> str | None:
 
 def validate_snapshot(files: list[SnapshotFile]) -> None:
     allowed = {file.path for file in files}
+    if any(publication_assets.is_asset_path(path) for path in allowed) and "CREDITS.md" not in allowed:
+        raise PublicationExportError("SNAPSHOT_ASSET_CREDITS_REQUIRED")
     for file in files:
         label = f"snapshot-file-sha256:{publication_audit.short_hash(file.path)}"
         path_findings = publication_audit.scan_text(label, file.path)
         if path_findings:
             raise PublicationExportError(f"SNAPSHOT_{path_findings[0].rule_id}")
+        if publication_assets.is_asset_path(file.path):
+            try:
+                publication_assets.validate_asset(file.path, file.data)
+            except publication_assets.AssetError as error:
+                raise PublicationExportError(str(error)) from error
+            if file.path.endswith(".svg"):
+                findings = publication_audit.scan_text(label, file.data.decode("utf-8"))
+                if findings:
+                    raise PublicationExportError(f"SNAPSHOT_{findings[0].rule_id}")
+            continue
         if b"\0" in file.data:
             raise PublicationExportError("SNAPSHOT_BINARY_FORBIDDEN")
         if file.data.startswith(LFS_POINTER_PREFIX):
@@ -770,9 +791,13 @@ def validate_snapshot(files: list[SnapshotFile]) -> None:
         if any(GIT_HOST_TEXT.search(candidate) for candidate in privacy_candidates):
             raise PublicationExportError("SNAPSHOT_GIT_HOST_LINK_FORBIDDEN")
         for link in markdown_links(text):
-            if link.is_image:
+            if link.is_image and not link.target.strip():
                 raise PublicationExportError("SNAPSHOT_MARKDOWN_IMAGE_FORBIDDEN")
             target = resolved_local_target(file.path, link.target)
+            if link.is_image:
+                parsed = urlsplit(link.target)
+                if target is None or not publication_assets.is_asset_path(target) or parsed.query or parsed.fragment:
+                    raise PublicationExportError("SNAPSHOT_MARKDOWN_IMAGE_FORBIDDEN")
             if target is not None and target not in allowed:
                 raise PublicationExportError("SNAPSHOT_LINK_OUTSIDE_ALLOWLIST")
 
@@ -798,7 +823,7 @@ def snapshot_from_commit(
     manifest_entry = manifest_tree.get(MANIFEST_PATH)
     if manifest_entry is None:
         raise PublicationExportError("MANIFEST_MISSING_FROM_COMMIT")
-    manifest_data = read_blob(repo_root, manifest_entry)
+    manifest_data = read_blob(repo_root, manifest_entry, MANIFEST_PATH)
     entries = parse_manifest(manifest_data)
     tree = read_git_tree(repo_root, commit, entries)
 
@@ -808,7 +833,7 @@ def snapshot_from_commit(
         tree_entry = tree.get(path)
         if tree_entry is None:
             raise PublicationExportError("SNAPSHOT_FILE_MISSING")
-        data = read_blob(repo_root, tree_entry)
+        data = read_blob(repo_root, tree_entry, path)
         total_bytes += len(data)
         if total_bytes > MAX_TOTAL_BYTES:
             raise PublicationExportError("SNAPSHOT_TOTAL_TOO_LARGE")

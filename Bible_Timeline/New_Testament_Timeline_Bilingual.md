@@ -19,6 +19,7 @@ Bilingual New Testament timeline.
 
 | Section / 章节 | Link / 跳转 |
 | --- | --- |
+| Gospel map / 福音书地图 | [Open / 打开](#gospel-map) |
 | Big picture / 总览 | [Jump](#big-picture) |
 | Main flow / 主线流程 | [Jump](#main-flow) |
 | Timeline / 时间线 | [Jump](#timeline) |
@@ -27,6 +28,15 @@ Bilingual New Testament timeline.
 | What the New Testament is doing / 新约到底在做什么 | [Jump](#what-the-new-testament-is-doing) |
 | Relationship to the Old Testament / 与旧约的关系 | [Jump](#relationship-to-the-old-testament) |
 | Simple reading logic / 简单阅读逻辑 | [Jump](#simple-reading-logic) |
+
+<a id="gospel-map"></a>
+## Palestine in the Time of Jesus | 耶稣时代的巴勒斯坦
+
+![Palestine in the Time of Jesus, bilingual schematic of regions and Gospel places / 耶稣时代的巴勒斯坦，双语区域与福音书地点示意](../assets/maps/palestine-jesus.svg)
+
+**Approximate / 示意:** Region envelopes are not surveyed borders; the Decapolis was a city network, and Cana has competing identifications. Modern physical outlines do not establish ancient shorelines. On a phone, scroll inside the map or [open the full SVG](../assets/maps/palestine-jesus.svg). / 区域范围不是测绘边界；低加波利是城邦网络，迦拿有不同候选位置；现代自然轮廓不能确定古代岸线。手机可在图内横向滚动或[打开完整 SVG](../assets/maps/palestine-jesus.svg)。
+
+[Map notes and disputed locations | 地图说明与争议地点](../Maps/README.md#gospel-geography) · [Data credits | 数据署名](../CREDITS.md#map-data)
 
 <a id="big-picture"></a>
 

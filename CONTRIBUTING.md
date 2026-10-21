@@ -33,6 +33,7 @@
 - A church name may remain when relevant, but never pair it with a private person's role, address, contact details, care information, or participation history.
 - Treat transcripts, recordings, downloads, meeting links, and attachments as private source material. Publish only a reviewed, non-identifying summary.
 - A future website may publish only files explicitly listed in `publication/site-content.txt`.
+- Local media require source-specific credits in `CREDITS.md`: only validated SVG maps without active or remote content and baseline JPEG illustrations below 300,000 bytes without EXIF, ICC, IPTC, or comments are allowed. Run `python3 scripts/generate_maps.py --check` and `python3 scripts/prepare_illustrations.py --check` before release.
 - Commit all intended public changes, then export only from a fresh, reviewed, clean checkout. Content selection uses the committed ref, but the running exporter and audit code still come from that checkout.
 - Create a Git-history-free snapshot with `python3 scripts/export_publication.py export --ref HEAD --output /tmp/project-covenant-public`. Keep the printed digest separately, then verify with `python3 scripts/export_publication.py verify --input /tmp/project-covenant-public --expected-content-set-sha256 DIGEST_FROM_EXPORT`.
 - Build the static reading site only from that verified snapshot with `python3 scripts/build_static_site.py build --snapshot /tmp/project-covenant-public --expected-content-set-sha256 DIGEST_FROM_EXPORT --output /tmp/project-covenant-site`, then repeat the `verify` subcommand against the same snapshot and retained digest.
@@ -82,6 +83,7 @@
 - 教会名称与资料有关时可以保留，但不得与私人个人的职分、地址、联系方式、关怀信息或参与经历组合出现。
 - 逐字稿、录音录像、下载文件、会议链接和附件都视为私人来源；公开内容只能是经过复核、无法识别个人的总结。
 - 未来网站只能发布 `publication/site-content.txt` 明确列出的文件。
+- 本地素材须在 `CREDITS.md` 保留各来源授权：仅允许经过验证、无活动或远程内容的 SVG 地图，以及小于 300,000 字节、无 EXIF、ICC、IPTC 或注释的基线 JPEG 插画。发布前运行 `python3 scripts/generate_maps.py --check` 与 `python3 scripts/prepare_illustrations.py --check`。
 - 先提交全部预定公开修改，再从全新、经过复核且干净的 checkout 生成快照。内容选择使用已提交 ref，但实际运行的导出器和审计代码仍来自该 checkout。
 - 用 `python3 scripts/export_publication.py export --ref HEAD --output /tmp/project-covenant-public` 生成不带 Git 历史的快照。另行保存输出的摘要，再用 `python3 scripts/export_publication.py verify --input /tmp/project-covenant-public --expected-content-set-sha256 DIGEST_FROM_EXPORT` 复核。
 - 只能从该已验证快照构建静态阅读站点：运行 `python3 scripts/build_static_site.py build --snapshot /tmp/project-covenant-public --expected-content-set-sha256 DIGEST_FROM_EXPORT --output /tmp/project-covenant-site`，再用同一快照与另行保存的摘要重复运行 `verify` 子命令。

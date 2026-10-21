@@ -17,6 +17,7 @@
 | Find sermon and fellowship notes | 查找讲道与团契笔记 | [Notes Hub / 笔记中心](./Bilingual_Notes/README.md) |
 | Study Christian books carefully | 系统研读基督教书籍 | [Christian Book Studies / 基督教书籍研读](./Book_Studies/README.md) |
 | Understand denominations and theological terms | 了解宗派与神学术语 | [Christian Traditions / 基督教传统](./Christian_Traditions/README.md) |
+| Read offline maps with bilingual place names | 阅读带双语地名的离线地图 | [Maps / 地图](./Maps/README.md) |
 | Explore history and archaeology carefully | 查看史料、考古与证据边界 | [Bible Timeline Research Hub / 时间线研究中心](./Bible_Timeline/README.md) |
 | Understand the public-content boundary | 了解公开内容边界 | [Privacy and Publication Policy / 隐私与发布政策](./PUBLICATION_POLICY.md) |
 | Prepare a GitHub-independent mirror | 准备可脱离 GitHub 的阅读镜像 | [Static Mirror Deployment / 静态镜像部署](./STATIC_MIRROR_DEPLOYMENT.md) |
@@ -129,6 +130,12 @@ Project-Covenant/
 - [Column Hub | 专栏导航](./Christian_Traditions/README.md)
 - [How to Name Christian Groups | 怎样给基督教群体命名](./Christian_Traditions/01_How_to_Name_the_Groups.md)
 
+<a id="maps"></a>
+### Maps | 地图
+
+- [Offline Bible Maps | 离线圣经地图](./Maps/README.md)
+- [Credits and Licenses | 资料来源与授权](./CREDITS.md)
+
 ## Research Boundaries | 研究边界
 
 Historical and archaeological materials can illuminate people, places, institutions, texts, and historical settings. They do not automatically prove every narrative detail, authorial claim, miracle, or theological conclusion. Each research file therefore records both **what a source can support** and **where interpretation must stop**.
@@ -149,9 +156,9 @@ A deterministic, Git-history-free content snapshot can be generated for a future
 
 项目可为未来网站或干净仓库导入生成可重现、不带 Git 历史的内容快照。这会去掉待转移文件中的仓库历史，但不会匿名化发布它们的 GitHub 账号。
 
-The reviewed snapshot can also be rendered as a deterministic static reading site: one HTML page for every approved Markdown page and one local stylesheet. The generated site contains no JavaScript, analytics, forms, comments, remote images, remote fonts, source maps, Git history, or publication manifests. Building the files does not deploy them or make the hosting account anonymous.
+The reviewed snapshot can also be rendered as a deterministic static reading site: one HTML page for every approved Markdown page and one local stylesheet plus approved local maps and illustrations. The generated site contains no JavaScript, analytics, forms, comments, remote images, remote fonts, source maps, Git history, or publication manifests. Building the files does not deploy them or make the hosting account anonymous.
 
-经过复核的快照还可以生成可重现的静态阅读网站：每份获准 Markdown 对应一个 HTML 页面，另加一份本地样式表。生成站点不包含 JavaScript、分析追踪、表单、评论、远程图片、远程字体、source map、Git 历史或发布清单。生成文件不等于已经部署，也不会自动匿名化托管账号。
+经过复核的快照还可以生成可重现的静态阅读网站：每份获准 Markdown 对应一个 HTML 页面，另加一份本地样式表及获准的本地地图与插画。生成站点不包含 JavaScript、分析追踪、表单、评论、远程图片、远程字体、source map、Git 历史或发布清单。生成文件不等于已经部署，也不会自动匿名化托管账号。
 
 ## Build and Offline Reading | 构建与离线阅读
 
@@ -181,9 +188,9 @@ python3 scripts/package_offline_site.py verify \
   --input /tmp/project-covenant-offline.zip
 ```
 
-To read without GitHub or a web server, extract the ZIP and open `project-covenant-offline/index.html` in a browser. The package contains only the approved HTML pages and local CSS; it contains no Git history, scripts, analytics, forms, remote assets, source manifest, or build metadata.
+To read without GitHub or a web server, extract the ZIP and open `project-covenant-offline/index.html` in a browser. The package contains only the approved HTML pages, local CSS, maps, and illustrations; it contains no Git history, scripts, analytics, forms, remote assets, source manifest, or build metadata.
 
-若要脱离 GitHub 和网页服务器阅读，请解压 ZIP，然后在浏览器中打开 `project-covenant-offline/index.html`。离线包只包含获准的 HTML 页面和本地 CSS，不包含 Git 历史、脚本、分析追踪、表单、远程资源、源白名单或构建元数据。
+若要脱离 GitHub 和网页服务器阅读，请解压 ZIP，然后在浏览器中打开 `project-covenant-offline/index.html`。离线包只包含获准的 HTML 页面、本地 CSS、地图和插画，不包含 Git 历史、脚本、分析追踪、表单、远程资源、源白名单或构建元数据。
 
 The current release tools require a POSIX system. Before placing the files on any public host, follow [Static Mirror Deployment | 静态镜像部署](./STATIC_MIRROR_DEPLOYMENT.md); the repository is deployment-ready but does not claim that an external mirror is already live.
 
