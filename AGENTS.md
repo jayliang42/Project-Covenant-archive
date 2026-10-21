@@ -21,12 +21,14 @@ These instructions apply to the entire repository unless a deeper `AGENTS.md` ad
 - A file may be labeled “navigation bilingual; full text pending” only when its hub supplies an accurate English summary and the file clearly states which language contains the full research text.
 - Never label a source-language transcript or research dossier as fully bilingual when it is not.
 - Preserve quoted source language, but add a bilingual explanation around it.
+- Glossary links must cover whole terms. Never split a Bible book name, title, or proper name to link a shorter word; distinguish Gospel (good news) from Gospels (the four books).
 
 - 每个新的入口页、索引、研读指南和实质章节都必须使用 `English | 中文` 双语标题。
 - 每个实质论点都要同时给出英文和中文含义，不能只翻译标题。
 - 只有在所属导航页提供准确英文摘要、并且文件明确说明哪种语言承载完整研究正文时，才可以标注“导航双语；全文待补”。
 - 不能把只有原文语言的逐字稿或研究专题标成“完整双语”。
 - 可以保留来源原文，但必须在周围补充双语解释。
+- 词汇表链接必须覆盖完整词语；不得拆开圣经书卷名、作品名或专名来链接较短的词，并区分福音（好消息）与福音书（四卷书）。
 
 ## 3. GitHub-Friendly Markdown | GitHub 友好 Markdown
 

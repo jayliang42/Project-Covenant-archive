@@ -17,6 +17,8 @@ These locally generated maps support reading the Bible’s story, the Gospels, A
 | [The Divided Kingdoms / 王国分裂：北国与南国](#map-divided-kingdoms) | [Related study / 配套研究](../Bible_Timeline/分裂王国至归回_帝国史料与逐事件对照.md#map-divided-kingdoms) |
 | [Empires in the Exile Story / 被掳时期的帝国](#map-exile-empires) | [Related study / 配套研究](../Bible_Timeline/分裂王国至归回_帝国史料与逐事件对照.md#map-exile-empires) |
 | [The Seven Churches of Revelation / 启示录七教会](#map-seven-churches) | [Related study / 配套研究](../Bible_Timeline/希伯来书至启示录_晚期新约与七教会背景.md#map-seven-churches) |
+| [Jesus’ Ministry in Galilee / 耶稣在加利利的事工](#map-galilee-ministry) | [New Testament Timeline / 新约时间线](../Bible_Timeline/New_Testament_Timeline_Bilingual.md#galilee-ministry) |
+| [From Jerusalem to the Ends of the Earth / 从耶路撒冷到地极](#map-gospel-expansion) | [Acts and Paul / 使徒行传与保罗书信](../Bible_Timeline/使徒行传与保罗书信_旅程年代与城市史料对照.md#gospel-expansion-map) |
 
 <a id="gospel-geography"></a>
 ## Gospel Geography | 福音书地理
@@ -112,6 +114,30 @@ Revelation 1:11 and chapters 2–3 provide the seven names and order. The dashed
 **Sources | 来源：** [Coordinate sources and limits / 坐标来源与限制](../CREDITS.md#batch2-map-data) · [Credits | 署名](../CREDITS.md#batch2-map-data)
 
 [Open full SVG | 打开完整SVG](../assets/maps/seven-churches.svg)
+
+<a id="map-galilee-ministry"></a>
+## Jesus’ Ministry in Galilee | 耶稣在加利利的事工
+
+![Nazareth, disputed Cana and Capernaum, with Gospel references and a scale / 拿撒勒、有争议的迦拿与迦百农，附福音书出处和比例尺](../assets/maps/galilee-ministry.svg)
+
+Luke 4:16–30, John 2:1–11 and 4:46–54, and Mark 1:21–39 supply reading references for these selected places. No line or chronology is used to combine them into one journey. The Cana point comes from the pilot’s legacy dataset near Kefr Kenna; OpenBible also lists Horbat Qana and Ain Qana as competing identifications. The diagram does not rank these proposals or reconstruct first-century shorelines.<br>
+路加福音4:16–30、约翰福音2:1–11和4:46–54、马可福音1:21–39提供这些选定地点的阅读出处；本图不用连线或年代把它们拼成一次旅程。迦拿代表点沿用第一批旧数据，在Kefr Kenna附近；OpenBible也列出Horbat Qana与Ain Qana等候选。本图不为这些提议排序，也不重建一世纪岸线。
+
+**Sources | 来源：** [Cana candidates / 迦拿候选点](https://www.openbible.info/geo/ancient/a031bda/cana) · [Data and licenses / 数据与授权](../CREDITS.md#ministry-map-data)
+
+[Open full SVG | 打开完整SVG](../assets/maps/galilee-ministry.svg)
+
+<a id="map-gospel-expansion"></a>
+## From Jerusalem to the Ends of the Earth | 从耶路撒冷到地极
+
+![Acts 1:8 overview with Jerusalem, Judea, a Samaria regional marker and selected Mediterranean cities / 使徒行传1:8概览：耶路撒冷、犹太、撒玛利亚区域代表点与地中海选定城市](../assets/maps/acts-gospel-expansion.svg)
+
+The two panels distinguish the nearby regions of Acts 1:8 from selected cities in the later narrative. The Samaria marker uses the legacy Sebaste point to indicate the region; it does not identify the city where Philip preached in Acts 8:5. Dashed links connect selected narrative stages, not one journey, ancient roads or exact sea tracks. Rome is the last city in Acts 28, rather than a literal geographical definition of “the ends of the earth.”<br>
+两个分图区分使徒行传1:8的邻近区域和后续叙事选定城市。撒玛利亚采用旧数据的塞巴斯特代表点提示区域，不认定使徒行传8:5中腓利传道之城。虚线连接选定叙事阶段，不表示单次旅程、古道或精确航迹。罗马是使徒行传28章最后一城，不是“地极”的字面地理定义。
+
+**Sources | 来源：** Acts 1:8; 8:5; 11–19; 28 / 使徒行传1:8；8:5；11–19；28章 · [Data and licenses / 数据与授权](../CREDITS.md#ministry-map-data)
+
+[Open full SVG | 打开完整SVG](../assets/maps/acts-gospel-expansion.svg)
 
 <a id="storyline-graphic"></a>
 ## One-Page Storyline | 一页故事线

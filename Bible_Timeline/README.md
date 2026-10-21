@@ -13,8 +13,8 @@
 | Understand the whole story in one sitting<br>一次看懂大故事 | [Bible Timeline Overview / 圣经时间线总览](./Bible_Timeline_Bilingual.md) | Full bilingual<br>完整双语 |
 | See every book’s role<br>逐卷看承上启下 | [Bible by Book / 按书卷梳理圣经](./Bible_By_Book_Bilingual.md) | Full bilingual<br>完整双语 |
 | Study through a year<br>一年串读 | [52-Week Storyline Plan / 52 周故事线计划](./52周圣经故事线_查经与史料阅读计划.md) | Full bilingual<br>完整双语 |
-| Read 52 core books without losing the other 14<br>52 卷主读而不遗漏其余 14 卷 | [52-Book Core + 14-Book Bridge / 52 卷主读＋14 卷桥接](./52卷圣经故事主线_精选与14卷桥接版.md) | Chinese full text; English route labels<br>中文全文；英文路线标识 |
-| Check evidence and its limits<br>核对史料及边界 | [Evidence Index / 史料与考古旁证索引](./史料与考古旁证索引.md) | Chinese research text; English labels in project navigation<br>中文研究正文；项目导航含英文说明 |
+| Read 52 core books without losing the other 14<br>52 卷主读而不遗漏其余 14 卷 | [52-Book Core + 14-Book Bridge / 52 卷主读＋14 卷桥接](./52卷圣经故事主线_精选与14卷桥接版.md) | Paired English/Chinese Draft<br>中英逐段对照Draft |
+| Check evidence and its limits<br>核对史料及边界 | [Evidence Index / 史料与考古旁证索引](./史料与考古旁证索引.md) | Paired English/Chinese Draft<br>中英逐段对照Draft |
 
 ## Core Bilingual Guides | 核心双语导读
 
@@ -34,8 +34,7 @@
 
 ## Evidence and Research | 史料与研究
 
-These files use a consistent distinction between historical events (EV), background (BG), manuscripts (MS), reception history (RX), and theological limits (UT). Type does not equal proof strength; each item also carries an A–D strength assessment.
-
+These files use a consistent distinction between historical events (EV), background (BG), manuscripts (MS), reception history (RX), and theological limits (UT). Type does not equal proof strength; each item also carries an A–D strength assessment.<br>
 以下资料统一区分事件旁证（EV）、背景（BG）、抄本（MS）、接收史（RX）与神学边界（UT）。材料类型不等于强度，每项还另有 A–D 强度判断。
 
 - [Evidence Index | 史料与考古旁证索引](./史料与考古旁证索引.md)
@@ -47,20 +46,19 @@ These files use a consistent distinction between historical events (EV), backgro
 
 ## Chinese Research Dossiers | 中文研究专题
 
-The following long-form dossiers are currently Chinese research texts. Their titles are translated here so English readers can choose the right topic before using a browser translation tool or a future full translation.
+The table states each dossier’s language coverage. The English descriptions help readers choose a topic. Paired text remains Draft and still needs human review.<br>
+下表逐项标明语言覆盖。英文简介帮助读者选择专题；已经配对的正文仍为Draft，仍需人工审阅。
 
-以下长篇专题目前以中文研究正文为主；此处提供英文说明，方便英文读者先定位主题，再使用浏览器翻译或等待完整英译。
-
-| Chinese research dossier | English guide |
-| --- | --- |
-| [摩西五经：历史背景与证据边界](./摩西五经_历史背景与证据边界.md) | Pentateuch: historical background, comparative texts, Exodus debates, manuscripts, and evidence boundaries |
-| [约书亚至王国形成：考古模型与证据边界](./约书亚至王国形成_考古模型与证据边界.md) | Joshua to kingdom formation: conquest models, settlements, Philistines, Davidic evidence, and archaeology |
-| [智慧与诗歌书：古代文本与敬拜背景](./智慧与诗歌书_古代文本与敬拜背景.md) | Wisdom and poetry: Job, Psalms, Proverbs, Ecclesiastes, Song of Songs, and comparative literature |
-| [分裂王国至归回：帝国史料与逐事件对照](./分裂王国至归回_帝国史料与逐事件对照.md) | Divided kingdom to return: Assyrian, Babylonian, Persian records, prophets, and textual history |
-| [两约之间至四福音：第二圣殿与罗马背景](./两约之间至四福音_第二圣殿与罗马背景.md) | Second Temple and Roman context for the Gospels |
-| [复活与早期见证：文本史与历史研究边界](./复活与早期见证_文本史与历史研究边界.md) | Resurrection and early witnesses: textual history, burial context, and historical-method boundaries |
-| [使徒行传与保罗书信：旅程年代与城市史料对照](./使徒行传与保罗书信_旅程年代与城市史料对照.md) | Acts and Paul: journeys, chronology, cities, inscriptions, and manuscript evidence |
-| [希伯来书至启示录：晚期新约与七教会背景](./希伯来书至启示录_晚期新约与七教会背景.md) | Hebrews to Revelation: later NT, general letters, and the seven churches |
+| Chinese research dossier | English guide | Language coverage / 语言覆盖 |
+| --- | --- | --- |
+| [摩西五经：历史背景与证据边界](./摩西五经_历史背景与证据边界.md) | Pentateuch: historical background, comparative texts, Exodus debates, manuscripts, and evidence boundaries | Paired English/Chinese Draft / 中英对照Draft |
+| [约书亚至王国形成：考古模型与证据边界](./约书亚至王国形成_考古模型与证据边界.md) | Joshua to kingdom formation: conquest models, settlements, Philistines, Davidic evidence, and archaeology | Paired English/Chinese Draft / 中英对照Draft |
+| [智慧与诗歌书：古代文本与敬拜背景](./智慧与诗歌书_古代文本与敬拜背景.md) | Wisdom and poetry: Job, Psalms, Proverbs, Ecclesiastes, Song of Songs, and comparative literature | Paired English/Chinese Draft / 中英对照Draft |
+| [分裂王国至归回：帝国史料与逐事件对照](./分裂王国至归回_帝国史料与逐事件对照.md) | Divided kingdom to return: Assyrian, Babylonian, Persian records, prophets, and textual history | Paired English/Chinese Draft / 中英对照Draft |
+| [两约之间至四福音：第二圣殿与罗马背景](./两约之间至四福音_第二圣殿与罗马背景.md) | Second Temple and Roman context for the Gospels | Paired English/Chinese Draft / 中英对照Draft |
+| [复活与早期见证：文本史与历史研究边界](./复活与早期见证_文本史与历史研究边界.md) | Resurrection and early witnesses: textual history, burial context, and historical-method boundaries | Paired English/Chinese Draft / 中英对照Draft |
+| [使徒行传与保罗书信：旅程年代与城市史料对照](./使徒行传与保罗书信_旅程年代与城市史料对照.md) | Acts and Paul: journeys, chronology, cities, inscriptions, and manuscript evidence | Paired English/Chinese Draft / 中英对照Draft |
+| [希伯来书至启示录：晚期新约与七教会背景](./希伯来书至启示录_晚期新约与七教会背景.md) | Hebrews to Revelation: later NT, general letters, and the seven churches | Paired English/Chinese Draft / 中英对照Draft |
 
 ## How to Read Responsibly | 怎样负责任地使用资料
 

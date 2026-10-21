@@ -7,9 +7,12 @@ from pathlib import Path
 
 from scripts.audit_markdown import (
     BILINGUAL_ALGORITHM,
+    CANONICAL_BOOKS_PATH,
+    PROTECTED_GLOSSARY_NAMES,
     MarkdownAuditError,
     adjacent_latin_v1,
     audit_corpus_integrity,
+    canonical_book_names,
     compare_bilingual_baseline,
     extract_evidence_anchors,
     extract_evidence_crosswalk_links,
@@ -17,7 +20,9 @@ from scripts.audit_markdown import (
     extract_numbered_entry_headings,
     extract_numbered_table_rows,
     parse_bilingual_baseline,
+    partial_glossary_links,
     public_markdown_counts,
+    tracked_markdown,
     validate_book_selection,
     validate_evidence_navigation,
     validate_numbered_entries,
@@ -26,6 +31,64 @@ from scripts.export_publication import MANIFEST_PATH
 
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
+
+
+class GlossaryBoundaryTests(unittest.TestCase):
+    def test_all_66_bilingual_book_names_reject_partial_links(self) -> None:
+        names = canonical_book_names((REPO_ROOT / CANONICAL_BOOKS_PATH).read_text())
+        self.assertEqual(132, len(names))
+        for name in names:
+            for cut in range(1, len(name)):
+                with self.subTest(book=name, cut=cut):
+                    text = f"[{name[:cut]}](../Glossary/README.md#term){name[cut:]}"
+                    self.assertTrue(partial_glossary_links(text, names))
+
+    def test_whole_terms_and_study_navigation_remain_valid(self) -> None:
+        names = {"使徒行传", "福音书", "Matthew"}
+        text = (
+            "[使徒](../Glossary/README.md#apostle)受差遣；"
+            "[福音书](../Glossary/README.md#gospels)；"
+            "[马太福音](../Bible_Timeline/Bible_By_Book_Bilingual.md#matthew)；"
+            "[Gospel / 福音](../Glossary/README.md#gospel)"
+        )
+        self.assertEqual([], partial_glossary_links(text, names))
+        self.assertEqual([], partial_glossary_links(
+            "[福音书 / Gospels](#gospels)", names, glossary_page=True,
+        ))
+
+    def test_names_titles_emphasis_and_english_words_are_protected(self) -> None:
+        samples = (
+            "[普通链接](guide.md) **[使徒](../Glossary/README.md#apostle)**行传",
+            "《喜乐于[三一](../Glossary/README.md#trinity)神》",
+            "《优西比乌[教会](../Glossary/README.md#church)史》",
+            "北美[基督](../Glossary/README.md#christ)之家",
+            "Day of [Atonement](../Glossary/README.md#atonement)",
+            "[Christ](../Glossary/README.md#christ)ology",
+            "John’s [Gospel](../Glossary/README.md#gospel)",
+            "四[福音](../Glossary/README.md#gospel)",
+        )
+        names = PROTECTED_GLOSSARY_NAMES | {"使徒行传"}
+        for sample in samples:
+            with self.subTest(sample=sample):
+                self.assertTrue(partial_glossary_links(sample, names))
+
+    def test_current_tracked_markdown_has_no_partial_glossary_links(self) -> None:
+        names = PROTECTED_GLOSSARY_NAMES | canonical_book_names(
+            (REPO_ROOT / CANONICAL_BOOKS_PATH).read_text()
+        )
+        for path in tracked_markdown():
+            with self.subTest(page=path.relative_to(REPO_ROOT).as_posix()):
+                self.assertEqual([], partial_glossary_links(
+                    path.read_text(), names,
+                    glossary_page=path == REPO_ROOT / "Glossary/README.md",
+                ))
+
+    def test_gospels_entry_distinguishes_the_four_books(self) -> None:
+        glossary = (REPO_ROOT / "Glossary/README.md").read_text()
+        section = glossary.split('<a id="gospels"></a>', 1)[1].split('<a id=', 1)[0]
+        for name in ("Matthew", "Mark", "Luke", "John", "马太福音", "马可福音", "路加福音", "约翰福音"):
+            self.assertIn(name, section)
+        self.assertIn("First_Steps_Bilingual.md#stop-between", section)
 
 
 class AdjacentLatinTests(unittest.TestCase):
